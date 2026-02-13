@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8">
+	
+	<link rel = "stylesheet" href = "calendar.css">
+	<link rel = "stylesheet" href = "logout.css">
+	<link rel = "stylesheet" href = "general.css">
+</head>
+
+<body data-page = "calendar">
+	<div class = "general">
+		<button id = "mainPage"> </button>
+		<button id = "logout"> </button>
+	</div>
+
+	<div class = "calendar">
+		<div class = "head">
+			<button id = "prevYear"> </button>
+			<div id = "year"> </div>
+			<button id = "nextYear"> </button>
+		</div>
+
+		<div class = "month">
+			<button id = "prevMonth"> </button>
+			<div id = "month"> </div>
+			<button id = "nextMonth"> </button>
+		</div>
+
+		<div class = "main">
+			<div class = "week"> </div>
+			<div class = "days"> </div>
+		</div>
+	</div>
+
+	<div class = "day">
+		<button id = "prevDay"> </button>
+		<div id = "dayName"> </div>
+		<button id = "nextDay"> </button>
+
+		<div class = "dayPlan"> 
+			<div class = "dDayPlanList"> </div>
+			<button id = "addDayPlan"> </button>
+			<div id = "timeSelector">
+				<time-selector id = "from"> </timeSelector>
+				<time-selector id = "to"> </timeSelector>
+			</div>
+			<input id = "newPlan" type = "text">
+		</div>
+	</div>
+
+	<script src = "/templates/calendar.js"> </script>
+	<script src = "/templates/general.js"> </script>
+	<script src = "/templates/i18n.js"> </script>
+</body>
+</html>

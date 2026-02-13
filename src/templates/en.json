@@ -1,0 +1,34 @@
+{
+	"logout": "Logout",
+	"mainPage": "Main",
+
+	"home": {
+		"optionsTitle": "Tools",
+    	"optionsCalendar": "Calendar"
+  	},
+  	"login": {
+    	"loginFormTitle": "Login",
+    	"loginFormUsernamePlaceholder": "Username",
+    	"loginFormPasswordPlaceholder": "Password",
+    	"loginFormSubmit": "Enter"
+  	},
+	"calendar": {
+		"calendarPrevYear": "<-Y",
+		"calendarNextYear": "Y->",
+		"calendarPrevMonth": "<-M",
+		"calendarNextMonth": "M->",
+		"calendarPrevDay": "<-D",
+		"calendarNextDay": "D->",	
+
+		"calendarWeek1": "Monday",
+		"calendarWeek2": "Tuesday",
+		"calendarWeek3": "Wensday",
+		"calendarWeek4": "Thursday",
+		"calendarWeek5": "Friday",
+		"calendarWeek6": "Saturday",
+		"calendarWeek7": "Sunday",
+
+		"calendarAddDayPlan": "Add plan",
+		"calendarRemoveDayPlan": "X"
+	}
+}
