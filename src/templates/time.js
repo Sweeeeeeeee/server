@@ -41,7 +41,6 @@ class timeSelector extends HTMLElement {
 				this.minute= (this.minute + 59) % 60
 				
 				this.updateDisplay()
-
 			}
 		)
 		this.querySelector("#nextMinute").addEventListener("click", () => {

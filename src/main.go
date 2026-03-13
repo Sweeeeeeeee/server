@@ -7,9 +7,6 @@ import (
 	"net/http"
 	"sync"
 	"time"
-	"strconv"
-
-	"fmt"
 
 	"database/sql"
 	_ "github.com/mattn/go-sqlite3"
@@ -106,10 +103,10 @@ func newServer() *server {
 		{path: "/", handler: nil, html: "templates/home.html"},
 		{path: "/home", handler: nil, html: "templates/home.html"},
 		{path: "/calendar", handler: nil, html: "templates/calendar.html"},
-		
-		{path: "/api/plans", handler: (*s).getPlans, html: ""},
-		{path: "/api/plans/add", handler: (*s).addPlan, html: ""},
-		{path: "/api/plans/delete", handler: (*s).deletePlan, html: ""},
+
+		{path: "/api/plans", handler: (*s).GetPlans, html: ""},
+		{path: "/api/plans/add", handler: (*s).AddPlan, html: ""},
+		{path: "/api/plans/delete", handler: (*s).DeletePlan, html: ""},
 	}
 
 	return s
@@ -152,86 +149,4 @@ func (s *server) Run() {
 func main() {
 	server := newServer()
 	server.Run()
-}
-
-func (s *server) getPlans(w http.ResponseWriter, r *http.Request) {
-	c, err := r.Cookie("auth")
-	if err != nil {
-		w.WriteHeader(http.StatusUnauthorized)
-
-		return
-	}
-
-	ck, ok := s.confirm(c)
-	if !ok {
-		w.WriteHeader(http.StatusUnauthorized)
-
-		return
-	}
-
-	date := r.URL.Query().Get("date")
-	plans, err := s.db.Query("SELECT id, text FROM calendarPlans WHERE username=? AND date=? ORDERED BY id ASC", ck.user, date)
-	if err != nil {
-		return
-	}
-	defer plans.Close()
-
-	var res []map[string]string
-	for plans.Next() {
-		var id int
-		var text string
-
-		plans.Scan(&id, &text)
-		res = append(res, map[string]string{"id": strconv.Itoa(id), "text": text})
-	}
-
-	json.NewEncoder(w).Encode(res)
-}
-
-func (s *server) addPlan(w http.ResponseWriter, r *http.Request) {
-	c, err := r.Cookie("auth")
-	if err != nil {
-		w.WriteHeader(http.StatusUnauthorized)
-
-		return
-	}
-
-	ck, ok := s.confirm(c)
-	if !ok {
-		w.WriteHeader(http.StatusUnauthorized)
-
-		return
-	}
-
-	var data struct {
-		Date string `json:"date"`
-		Text string `json:"text"`
-	}
-	json.NewDecoder(r.Body).Decode(&data)
-
-	fmt.Println(data.Date, data.Text)
-	s.db.Exec("INSERT INTO calendarPlans(username, date, text) VALUES(?, ?, ?)", ck.user, data.Date, data.Text)
-}
-
-func (s *server) deletePlan(w http.ResponseWriter, r *http.Request) {
-	c, err := r.Cookie("auth")
-	if err != nil {
-		w.WriteHeader(http.StatusUnauthorized)
-
-		return
-	}
-
-	ck, ok := s.confirm(c)
-	if !ok {
-		w.WriteHeader(http.StatusUnauthorized)
-
-		return
-	}
-
-	id := r.URL.Query().Get("id")
-	_, err = s.db.Exec("DELETE FROM calendarPlans WHERE id=? AND username=?", id, ck.user)
-	if err != nil {
-		http.Error(w, "Database error", http.StatusInternalServerError)
-		return
-	}
 }

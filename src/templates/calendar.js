@@ -2,8 +2,8 @@ function numberDays(date) {
 	return new Date(date.year, date.month, 0).getDate()
 }
 
-async function loadPlans(date) {
-	const dateString = `${date.year}-${String(date.month).padStart(2, '0')}-${String(date.day).padStart(2, '0')}`
+async function loadPlans(dateYM) {
+	const dateString = `${date.year}-${String(date.month).padStart(2, '0')}`
 	const res = await fetch(`/api/plans?date=${dateString}`)
 
 	return await res.json()
@@ -68,6 +68,8 @@ async function renderDays(html, date) {
 		html.week.appendChild(weekDay)
 	}
 
+	const plans = await loadPlans({year: date.year, month: date.month})
+
 	const num = numberDays(date)
 	for (let i = 1; i <= num; ) {
 		for (let j = 0; j < 7 && i <= num; j++) {
@@ -78,12 +80,10 @@ async function renderDays(html, date) {
 				day.setAttribute("special", "calendarSelectedDay")
 			}
 
-			const plans = await loadPlans({year: date.year, month: date.month, day: i})
-
 			let planCount = 0
 
-			if (plans) {
-				planCount = plans.length
+			if (plans[i]) {
+				planCount = plans[i].length
 			}
 
 			day.innerHTML = `<div class = "calendarDay"> ${i} </div>\n<div class = "calendarPlanCount"> ${planCount} </div>`
@@ -94,10 +94,8 @@ async function renderDays(html, date) {
 		}
 	}
 
-	const plansSelectedDay = await loadPlans(date)
-	
-	if (plansSelectedDay) {
-		plansSelectedDay.forEach((p, index) => {
+	if (plans[date.day]) {
+		plans[date.day].forEach((p, index) => {
 				const item = document.createElement("div")
 				item.innerHTML = `${p.text} <button id = "removePlan${index}"> </button>`
 				html.dayPlan.appendChild(item)
@@ -123,8 +121,11 @@ async function renderCalendar() {
 		dayNext: document.getElementById("nextDay"),
 		dayName: document.getElementById("dayName"),
 		dayPlan: document.querySelector(".planList"),
+
 		dayAddPlan: document.getElementById("addDayPlan"),
-		newPlan: document.getElementById("newPlan")
+		newPlan: document.getElementById("newPlan"),
+		timeFrom: document.getElementById("timeFrom"),
+		timeTo: document.getElementById("timeTo")
 	}
 
 	const today = new Date()
@@ -175,12 +176,18 @@ async function renderCalendar() {
 				return
 			}
 
-    		const dateStr = `${date.year}-${String(date.month).padStart(2,'0')}-${String(date.day).padStart(2,'0')}`
+    		const dateStr = `${date.year}-${String(date.month).padStart(2, '0')}-${String(date.day).padStart(2, '0')}`
 
     		await fetch("/api/plans/add", {
         			method: "POST",
         			headers: {"Content-Type": "application/json"},
-        			body: JSON.stringify({date: dateStr, text: newPlanText})
+        			body: JSON.stringify({
+							date: dateStr, 
+							text: newPlanText,
+							timeFrom: html.timeFrom.getValue(),
+							timeTo: html.timeTo.getValue()
+						}
+					)
     			}
 			)
 
