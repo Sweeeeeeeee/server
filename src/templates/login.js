@@ -1,6 +1,6 @@
 function login() {
-	const username = document.getElementById("loginFormUsername").value
-	const password = document.getElementById("loginFormPassword").value
+	const username = document.getElementById("username").value
+	const password = document.getElementById("password").value
 
 	fetch("/api/login", {
     		method: "POST",

@@ -7,28 +7,28 @@
     	"optionsCalendar": "Calendar"
   	},
   	"login": {
-    	"loginFormTitle": "Login",
-    	"loginFormUsernamePlaceholder": "Username",
-    	"loginFormPasswordPlaceholder": "Password",
-    	"loginFormSubmit": "Enter"
+    	"title": "Login",
+    	"usernamePlaceholder": "Username",
+    	"passwordPlaceholder": "Password",
+    	"submit": "Enter"
   	},
 	"calendar": {
-		"calendarPrevYear": "<-Y",
-		"calendarNextYear": "Y->",
-		"calendarPrevMonth": "<-M",
-		"calendarNextMonth": "M->",
-		"calendarPrevDay": "<-D",
-		"calendarNextDay": "D->",	
+		"prevYear": "<-Y",
+		"nextYear": "Y->",
+		"prevMonth": "<-M",
+		"nextMonth": "M->",
+		"prevDay": "<-D",
+		"nextDay": "D->",	
 
-		"calendarWeek1": "Monday",
-		"calendarWeek2": "Tuesday",
-		"calendarWeek3": "Wensday",
-		"calendarWeek4": "Thursday",
-		"calendarWeek5": "Friday",
-		"calendarWeek6": "Saturday",
-		"calendarWeek7": "Sunday",
+		"week1": "Monday",
+		"week2": "Tuesday",
+		"week3": "Wensday",
+		"week4": "Thursday",
+		"week5": "Friday",
+		"week6": "Saturday",
+		"week7": "Sunday",
 
-		"calendarAddDayPlan": "Add plan",
-		"calendarRemoveDayPlan": "X"
+		"addDayPlan": "Add plan",
+		"removeDayPlan": "X"
 	}
 }

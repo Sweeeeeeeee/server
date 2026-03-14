@@ -3,8 +3,13 @@ function numberDays(date) {
 }
 
 async function loadPlans(dateYM) {
-	const dateString = `${date.year}-${String(date.month).padStart(2, '0')}`
-	const res = await fetch(`/api/plans?date=${dateString}`)
+	const date = `${dateYM.year}-${String(dateYM.month).padStart(2, '0')}`
+	const res = await fetch(`/api/plans?date=${date}`)
+
+	if (!res.ok) {
+		console.log(1)
+		throw new Error(await res.text())
+	}
 
 	return await res.json()
 }
@@ -55,42 +60,56 @@ async function renderDays(html, date) {
 		return
 	}
 
-	html.dayName.textContent = date.day
-
-	html.week.innerHTML = ""
-	html.days.innerHTML = ""
-	html.dayPlan.innerHTML = ""
+	const fragmentWeek = document.createDocumentFragment()
+	const fragmentDays = document.createDocumentFragment()
+	const fragmentDayPlan = document.createDocumentFragment()
 
 	for (let i = 0; i < 7; i++) {
 		const weekDay = document.createElement("div")
 		weekDay.id = "calendarWeek" + i
 		
-		html.week.appendChild(weekDay)
+		fragmentWeek.appendChild(weekDay)
 	}
 
 	const plans = await loadPlans({year: date.year, month: date.month})
+
+	const todayFull = new Date()
+	let today = todayFull.getDate()
+	if ((todayFull.getFullYear() != date.year) || (todayFull.getMonth() - 1 != date.month)) {
+		today = -1
+	}
 
 	const num = numberDays(date)
 	for (let i = 1; i <= num; ) {
 		for (let j = 0; j < 7 && i <= num; j++) {
 			const day = document.createElement("div")
-			day.className = "calendarDayCell"
+			day.className = "dayCell"
+
+			const dayNumber = i
+			day.addEventListener("click", () => {
+					date.day = dayNumber
+					
+					renderDays(html, date)
+				}
+			)
 
 			if (date.day == i) {
-				day.setAttribute("special", "calendarSelectedDay")
+				day.classList.add("selectedDay")
+			}
+			if (today == i) {
+				day.classList.add("today")
 			}
 
 			let planCount = 0
-
 			if (plans[i]) {
 				planCount = plans[i].length
 			}
 
-			day.innerHTML = `<div class = "calendarDay"> ${i} </div>\n<div class = "calendarPlanCount"> ${planCount} </div>`
+			day.innerHTML = `<div class = "calendarDay"> ${i} </div>\n<div class = "planCount"> ${planCount} </div>`
 
-			html.days.appendChild(day)
+			fragmentDays.appendChild(day)
 
-			++i
+			i++
 		}
 	}
 
@@ -98,10 +117,29 @@ async function renderDays(html, date) {
 		plans[date.day].forEach((p, index) => {
 				const item = document.createElement("div")
 				item.innerHTML = `${p.text} <button id = "removePlan${index}"> </button>`
-				html.dayPlan.appendChild(item)
+				
+				const del = item.querySelector(`#removePlan${index}`)
+				del.addEventListener("click", async () => {
+						await fetch(`/api/plans/delete?id=${p.id}`, {method: "DELETE"})
+
+						await renderDays(html, date)
+					}
+				)
+
+				fragmentDayPlan.appendChild(item)
 			}
 		)
 	}
+
+	html.week.innerHTML = ""
+	html.days.innerHTML = ""
+	html.dayPlan.innerHTML = ""
+
+	html.dayName.textContent = date.day
+
+	html.week.appendChild(fragmentWeek)
+	html.days.appendChild(fragmentDays)
+	html.dayPlan.appendChild(fragmentDayPlan)
 }
 
 async function renderCalendar() {
@@ -120,7 +158,7 @@ async function renderCalendar() {
 		dayPrev: document.getElementById("prevDay"),
 		dayNext: document.getElementById("nextDay"),
 		dayName: document.getElementById("dayName"),
-		dayPlan: document.querySelector(".planList"),
+		dayPlan: document.querySelector(".dayPlans"),
 
 		dayAddPlan: document.getElementById("addDayPlan"),
 		newPlan: document.getElementById("newPlan"),

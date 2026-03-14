@@ -9,6 +9,9 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 )
 
+const LayoutYM = "2006-01"
+const LayoutYMD = "2006-01-02"
+
 func (s *server) GetPlans(w http.ResponseWriter, r *http.Request) {
 	c, err := r.Cookie("auth")
 	if err != nil {
@@ -23,66 +26,67 @@ func (s *server) GetPlans(w http.ResponseWriter, r *http.Request) {
 
 		return
 	}
-
-	month, err := time.Parse(time.Layout, r.URL.Query().Get("month"))
+	
+	month, err := time.Parse(LayoutYM, r.URL.Query().Get("date"))
 	if err != nil {
 		http.Error(w, DefaultError, StatusDefaultError)
+
+		return
 	}
 
 	day1 := month
 	dayN := month.AddDate(0, 1, -1)
 
-	plans, err := s.db.Query(
-		`
-			SELECT id, date, timeFrom, timeTo, text 
-			FROM calendarPlans 
-			WHERE username=? AND date=? BETWEEN ? AND ?
-			ORDER BY date ASC, timeFrom ASC
-		`,
-		ck.user,
-		day1.Format(time.Layout),
-		dayN.Format(time.Layout),
-	)
-	if err != nil {
-		http.Error(w, DefaultError, StatusDefaultError)
-		return
-	}
-	defer plans.Close()
-
 	type Plan struct {
 		ID string 		`json:"id"`
 		TimeFrom string `json:"timeFrom"`
 		TimeTo string 	`json:"timeTo"`
-		Text string 	`jsno:"text"`
+		Text string 	`json:"text"`
 	}
 
-	plansDate := make(map[string][]Plan)
+	plans, err := s.db.Query(
+		`
+			SELECT id, date, timeFrom, timeTo, text 
+			FROM calendarPlans 
+			WHERE username = ? AND date BETWEEN ? AND ?
+			ORDER BY date ASC, timeFrom ASC
+		`,
+		ck.user,
+		day1.Format(LayoutYMD),
+		dayN.Format(LayoutYMD),
+	)
+	if err != nil {
+		http.Error(w, DefaultError, StatusDefaultError)
+
+		return
+	}
+	defer plans.Close()
+
+	res := make(map[int][]Plan)
 
 	for plans.Next() {
 		var id int
-		var date, timeFrom, timeTo, text string
+		var dateStr, timeFrom, timeTo, text string
 
-		if err := plans.Scan(&id, &date, &timeFrom, &timeTo, &text); err != nil {
+		if plans.Scan(&id, &dateStr, &timeFrom, &timeTo, &text) != nil {
 			continue
 		}
 
-		plansDate[date] = append(plansDate[date], Plan{
-			ID: 		strconv.Itoa(id),
-			TimeFrom: 	timeFrom,
-			TimeTo:		timeTo,
-			Text:		text,
-		})
-	}
+		date, err := time.Parse(LayoutYMD, dateStr)
+		if err != nil {
+			http.Error(w, DefaultError, StatusDefaultError)
 
-	var res []map[string]interface{}
+			return
+		}
+		day := date.Day()
 
-	for d := day1; !d.After(dayN); d = d.AddDate(0, 0, 1) {
-		dateStr := d.Format(time.Layout)
-
-		res = append(res, map[string]interface{} {
-			"date": 	dateStr,
-			"plans":	plansDate[dateStr],
-		})
+		res[day] = append(res[day], Plan{
+				ID: 		strconv.Itoa(id),
+				TimeFrom: 	timeFrom,
+				TimeTo:		timeTo,
+				Text:		text,
+			},
+		)
 	}
 
 	w.Header().Set("Content-Type", "application/json")
@@ -105,19 +109,20 @@ func (s *server) AddPlan(w http.ResponseWriter, r *http.Request) {
 	}
 
 	var data struct {
-		Date string `json:"date"`
+		Date string 	`json:"date"`
 		TimeFrom string `json:"timeFrom"`
-		TimeTo string `json:"timeTo"`
-		Text string `json:"text"`
+		TimeTo string 	`json:"timeTo"`
+		Text string 	`json:"text"`
 	}
 	
 	if err := json.NewDecoder(r.Body).Decode(&data); err != nil {
 		http.Error(w, DefaultError, StatusDefaultError)
+		
 		return
 	}
 
 	if _, err := s.db.Exec(
-		"INSERT INTO calendarPlans(username, date, text) VALUES(?, ?, ?)",
+		"INSERT INTO calendarPlans(username, date, timeFrom, timeTo, text) VALUES(?, ?, ?, ?, ?)",
 		ck.user,
 		data.Date,
 		data.TimeFrom,
@@ -125,6 +130,7 @@ func (s *server) AddPlan(w http.ResponseWriter, r *http.Request) {
 		data.Text,
 	); err != nil {
 		http.Error(w, DefaultError, StatusDefaultError)
+		
 		return
 	}
 }
@@ -148,6 +154,7 @@ func (s *server) DeletePlan(w http.ResponseWriter, r *http.Request) {
 	_, err = s.db.Exec("DELETE FROM calendarPlans WHERE id = ? AND username = ?", id, ck.user)
 	if err != nil {
 		http.Error(w, DefaultError, StatusDefaultError)
+		
 		return
 	}
 }
