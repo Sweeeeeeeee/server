@@ -40,7 +40,11 @@ async function renderMonth(html, date) {
 		date.day = num
 	}
 
-	html.monthDisplay.textContent = date.month
+	html.monthDisplay.innerHTML = date.month
+
+	// const monthDiv = document.createElement("div")
+	// monthDiv.id = `month${date.month}`
+	// html.monthDisplay.appendChild(monthDiv)
 
 	await renderDays(html, date)
 }

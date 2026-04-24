@@ -1,3 +1,5 @@
+console.log(1)
+
 function loadLanguage() {
   	const lang = document.documentElement.lang
 
