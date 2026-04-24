@@ -64,23 +64,27 @@ async function renderDays(html, date) {
 	const fragmentDays = document.createDocumentFragment()
 	const fragmentDayPlan = document.createDocumentFragment()
 
+	const weekRow = document.createElement("div")
+
 	for (let i = 0; i < 7; i++) {
 		const weekDay = document.createElement("div")
-		weekDay.id = "calendarWeek" + i
+		weekDay.id = "week" + i
 		
-		fragmentWeek.appendChild(weekDay)
+		weekRow.appendChild(weekDay)
 	}
+	fragmentWeek.appendChild(weekRow)
 
 	const plans = await loadPlans({year: date.year, month: date.month})
 
 	const todayFull = new Date()
 	let today = todayFull.getDate()
-	if ((todayFull.getFullYear() != date.year) || (todayFull.getMonth() - 1 != date.month)) {
+	if ((todayFull.getFullYear() != date.year) || (todayFull.getMonth() != date.month - 1)) {
 		today = -1
 	}
 
 	const num = numberDays(date)
 	for (let i = 1; i <= num; ) {
+		const daysRow = document.createElement("div")
 		for (let j = 0; j < 7 && i <= num; j++) {
 			const day = document.createElement("div")
 			day.className = "dayCell"
@@ -107,10 +111,12 @@ async function renderDays(html, date) {
 
 			day.innerHTML = `<div class = "calendarDay"> ${i} </div>\n<div class = "planCount"> ${planCount} </div>`
 
-			fragmentDays.appendChild(day)
+			daysRow.appendChild(day)
 
 			i++
 		}
+
+		fragmentDays.appendChild(daysRow)
 	}
 
 	if (plans[date.day]) {

@@ -1,0 +1,35 @@
+time-selector {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 12vh;
+}
+
+time-selector {
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-template-rows: auto auto auto;
+	gap: 4px;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#nextHour { grid-column: 1; grid-row: 1; }
+#nextMinute { grid-column: 2; grid-row: 1; }
+
+#hour { grid-column: 1; grid-row: 2; }
+#minute { grid-column: 2; grid-row: 2; }
+
+#prevHour { grid-column: 1; grid-row: 3; }
+#prevMinute { grid-column: 2; grid-row: 3; }
+
+button, #hour, #minute {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 28px;
+	height: 28px;
+	font-size: 12px;
+	padding: 0;
+}

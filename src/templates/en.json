@@ -2,6 +2,11 @@
 	"logout": "Logout",
 	"mainPage": "Main",
 
+	"prevHour": "-",
+	"nextHour": "+",
+	"prevMinute": "-",
+	"nextMinute": "+",
+
 	"home": {
 		"optionsTitle": "Tools",
     	"optionsCalendar": "Calendar"
@@ -13,20 +18,20 @@
     	"submit": "Enter"
   	},
 	"calendar": {
-		"prevYear": "<-Y",
-		"nextYear": "Y->",
-		"prevMonth": "<-M",
-		"nextMonth": "M->",
-		"prevDay": "<-D",
-		"nextDay": "D->",	
+		"prevYear": "Previous Year",
+		"nextYear": "Next Year",
+		"prevMonth": "Previous Month",
+		"nextMonth": "Next Month",
+		"prevDay": "Previous day",
+		"nextDay": "Next day",	
 
-		"week1": "Monday",
-		"week2": "Tuesday",
-		"week3": "Wensday",
-		"week4": "Thursday",
-		"week5": "Friday",
-		"week6": "Saturday",
-		"week7": "Sunday",
+		"week0": "Monday",
+		"week1": "Tuesday",
+		"week2": "Wensday",
+		"week3": "Thursday",
+		"week4": "Friday",
+		"week5": "Saturday",
+		"week6": "Sunday",
 
 		"addDayPlan": "Add plan",
 		"removeDayPlan": "X"

@@ -1,0 +1,161 @@
+.calendar {
+    max-width: 850px;
+    margin: 30px auto;
+    background: var(--panel2);
+    padding: 15px;
+	border-radius: 8px;
+}
+
+.head, .month {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    font-weight: bold;
+	gap: 60px;
+}
+
+.head div, .month div {
+    font-size: 18px;
+}
+
+.week {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    margin-bottom: 5px;
+}
+
+.week > div {
+    display: table-row;
+}
+
+.week div div {
+    display: table-cell;
+    text-align: center;
+    padding: 6px;
+    font-size: 13px;
+    color: var(--muted);
+    font-weight: bold;
+}
+
+.days {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 4px;
+}
+
+.days > div {
+    display: table-row;
+}
+
+.dayCell {
+    display: table-cell;
+    background: var(--panel);
+    border-radius: 8px;
+    height: 80px;
+    padding: 6px;
+    vertical-align: top;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.dayCell:hover {
+    background: var(--panel-hover);
+    transform: scale(1.03);
+}
+
+.calendarDay {
+    font-weight: bold;
+    font-size: 14px;
+
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.planCount {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 4px;
+
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.selectedDay {
+    background: var(--accent) !important;
+    color: white;
+}
+
+.today {
+    outline: 2px solid var(--outline);
+}
+
+/* ===== DAY VIEW ===== */
+.day {
+    max-width: 850px;
+    margin: 20px auto;
+    background: var(--bg);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+    position: relative;
+}
+
+/* navigation buttons */
+#prevDay {
+    position: absolute;
+    left: 25px;
+    top: 15px;
+}
+
+#nextDay {
+    position: absolute;
+    right: 25px;
+    top: 15px;
+}
+
+/* title */
+#dayName {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0;
+}
+
+/* ===== PLANS ===== */
+.dayPlans div {
+    background: var(--panel);
+    padding: 8px;
+    border-radius: 3px;
+    margin-bottom: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#newPlan {
+    width: 100%;
+    margin-top: 8px;
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    background: var(--panel);
+    color: var(--text);
+}
+
+/* ===== TIME SELECTOR ===== */
+#timeSelector {
+    display: flex;
+    gap: 10px;
+    margin-top: 8px;
+}
+
+time-selector {
+    flex: 1;
+}
