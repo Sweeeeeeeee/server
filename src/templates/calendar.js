@@ -126,7 +126,8 @@ async function renderDays(html, date) {
 	if (plans[date.day]) {
 		plans[date.day].forEach((p, index) => {
 				const item = document.createElement("div")
-				item.innerHTML = `${p.text} <button id = "removePlan${index}"> </button>`
+				console.log(p.timeFrom, p.timeTo)
+				item.innerHTML = `${p.text} <button id = "removePlan${index}"> </button> ${p.timeFrom} - ${p.timeTo}`
 				
 				const del = item.querySelector(`#removePlan${index}`)
 				del.addEventListener("click", async () => {

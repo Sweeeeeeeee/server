@@ -3,7 +3,7 @@
     margin: 30px auto;
     background: var(--panel2);
     padding: 15px;
-	border-radius: 8px;
+    border-radius: 8px;
 }
 
 .head, .month {
@@ -12,7 +12,7 @@
     align-items: center;
     margin-bottom: 15px;
     font-weight: bold;
-	gap: 60px;
+    gap: 60px;
 }
 
 .head div, .month div {
@@ -70,10 +70,10 @@
 .calendarDay {
     font-weight: bold;
     font-size: 14px;
-
-	display: flex;
-  	justify-content: center;
-  	align-items: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .planCount {
@@ -81,9 +81,9 @@
     color: var(--muted);
     margin-top: 4px;
 
-	display: flex;
-  	justify-content: center;
-  	align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .selectedDay {
