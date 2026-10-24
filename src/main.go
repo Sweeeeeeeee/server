@@ -12,6 +12,20 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 )
 
+var pathRoutes = map[string]string{
+	"/login":       "src/templates/login.html",
+	"/":        	"src/templates/home.html",
+	"/home":        "src/templates/home.html",
+
+	"/calendar": 	"src/templates/calendar.html",
+	"/todo":		"src/templates/todo.html",
+	"/ke":			"src/templates/ke.html",
+
+	"/templates":	"src/templates/",
+
+	"/keData":		"db/keData/",
+}
+
 type cookie struct {
 	user string
 
@@ -67,10 +81,6 @@ func (s *server) authenticate(username string, password string) bool {
 	return err == nil && password == validPassword
 }
 
-func (s *server) loginPage(w http.ResponseWriter, r *http.Request) {
-	http.ServeFile(w, r, "templates/login.html")
-}
-
 func (s *server) loginAPI(w http.ResponseWriter, r *http.Request) {
 	var data map[string]string
 	json.NewDecoder(r.Body).Decode(&data)
@@ -85,6 +95,10 @@ func (s *server) loginAPI(w http.ResponseWriter, r *http.Request) {
 	http.SetCookie(w, &http.Cookie{Name: "auth", Value: token, Path: "/"})
 }
 
+func (s *server) loginPage(w http.ResponseWriter, r *http.Request) {
+	http.ServeFile(w, r, pathRoutes["/login"])
+}
+
 func (s *server) logoutAPI(w http.ResponseWriter, r *http.Request) {
 	http.SetCookie(w, &http.Cookie{Name: "auth", Value: "false", Path: "/"})
 }
@@ -97,16 +111,24 @@ func newServer() *server {
 	s := &server{mutex: sync.Mutex{}, db: db, routes: make([]route, 0), cookies: make(map[string]cookie)}
 
 	s.routes = []route{
-		{path: "/login", handler: (*s).loginPage, html: "templates/login.html"},
+		{path: "/login", handler: (*s).loginPage, html: ""},
 		{path: "/api/login", handler: (*s).loginAPI, html: ""},
 		{path: "/api/logout", handler: (*s).logoutAPI, html: ""},
-		{path: "/", handler: nil, html: "templates/home.html"},
-		{path: "/home", handler: nil, html: "templates/home.html"},
-		{path: "/calendar", handler: nil, html: "templates/calendar.html"},
+		{path: "/", handler: nil, html: pathRoutes["/"]},
+		{path: "/home", handler: nil, html: pathRoutes["/home"]},
+
+		{path: "/calendar", handler: nil, html: pathRoutes["/calendar"]},
+		{path: "/todo", handler: nil, html: pathRoutes["/todo"]},
+		{path: "/ke", handler: nil, html: pathRoutes["/ke"]},
 
 		{path: "/api/plans", handler: (*s).GetPlans, html: ""},
 		{path: "/api/plans/add", handler: (*s).AddPlan, html: ""},
 		{path: "/api/plans/delete", handler: (*s).DeletePlan, html: ""},
+		
+		{path: "/api/todo", handler: (*s).GetTodos, html: ""},
+		{path: "/api/todo/update", handler: (*s).UpdateTodo, html: ""},
+		{path: "/api/todo/add", handler: (*s).AddTodo, html: ""},
+		{path: "/api/todo/delete", handler: (*s).DeleteTodo, html: ""},
 	}
 
 	return s
@@ -138,7 +160,9 @@ func (s *server) Run() {
 		}
 	}
 
-	http.Handle("/templates/", http.StripPrefix("/templates/", http.FileServer(http.Dir("templates"))))
+	http.Handle("/templates/", http.StripPrefix("/templates/", http.FileServer(http.Dir(pathRoutes["/templates"]))))
+	
+	http.Handle("/keData/", http.StripPrefix("/keData/", http.FileServer(http.Dir(pathRoutes["/keData"]))))
 
 	err := http.ListenAndServe(":80", nil)
 	if err != nil {

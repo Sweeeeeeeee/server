@@ -25,6 +25,7 @@ body {
         #1b2d44 58%,
         #121f30 100%
     );
+	font-size: 16px;
     color: var(--text);
     border: 2px solid rgba(56, 189, 248, 0.35);
     box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
@@ -38,6 +39,8 @@ button {
     padding: 6px 10px;
     cursor: pointer;
     transition: 0.2s;
+
+	font-size: inherit;
 }
 
 button:hover {
@@ -59,4 +62,6 @@ input, select {
     border-radius: 6px;
     padding: 8px;
     outline: none;
+
+	font-size: inherit;
 }

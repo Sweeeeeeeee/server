@@ -1,0 +1,36 @@
+body[data-page="login"] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#loginForm {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+    max-width: 320px;
+    
+    background: var(--panel);
+    padding: 32px;
+    border-radius: 12px;
+    
+    box-shadow: 0 10px 25px rgba(0,0,0,0.45);
+}
+
+#loginForm h1 {
+    margin: 0 0 8px 0;
+    text-align: center;
+}
+
+#loginForm input, 
+#loginForm button {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#loginForm button {
+    margin-top: 8px;
+    padding: 10px;
+    font-weight: 600;
+}

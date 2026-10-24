@@ -12,3 +12,13 @@ CREATE TABLE calendarPlans (
 	text TEXT,
 	FOREIGN KEY(username) REFERENCES users(username)
 );
+
+CREATE TABLE todos (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	username TEXT NOT NULL,
+	date TEXT NOT NULL,
+	markedDate TEXT,
+	duration TEXT NOT NULL,
+	permanent TEXT NOT NULL,
+	text TEXT
+);

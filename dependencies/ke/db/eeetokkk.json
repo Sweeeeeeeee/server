@@ -1,0 +1,7591 @@
+[
+  {
+    "q": "Pardonu, permesu al mi indiki tri erarojn en la supra artikolo.",
+    "a": [
+      "ㅔㅉㅊㅜㅅㅔ ㅁㅔ; ㅏㄸㄸㅗ외 ㅁㅔ ㅌㅗ ㅍㅗㅣㄴㅌ ㅗㅜㅌ ㅌㅎㄹㅔㅔ ㅔㄹㄹㅗㄹㅅ ㅣㄴ ㅌㅎㅔ ㅏㅂㅗㅆㅔ ㅏㄹㅌㅣㅊㄸㅔ.",
+      "ㅔㅉㅊㅜㅅㅔ ㅁㅔ, ㄸㅔㅌ ㅁㅔ ㅍㅗㅣㄴㅌ ㅗㅜㅌ ㅌㅎㄹㅔㅔ ㅁㅣㅅㅌㅏㅋㅔㅅ ㅣㄴ ㅌㅎㅔ ㅏㅂㅗㅆㅔ ㅏㄹㅌㅣㅊㄸㅔ."
+    ],
+    "t": "Excuse me; allow me to point out three errors in the above article. | Excuse me, let me point out three mistakes in the above article."
+  },
+  {
+    "q": "Ĉu vi entute aŭskultas min?",
+    "a": [
+      "ㅏㄹㅔ ㅠㅗㅜ ㄸㅣㅅㅌㅔㄴㅣㄴㄱ ㅌㅗ ㅁㅔ ㅏㅌ ㅏㄸㄸ?",
+      "ㄷㅣㄷ ㅠㅗㅜ ㄸㅣㅅㅌㅔㄴ ㅏㅌ ㅏㄸㄸ ㅌㅗ 외ㅎㅏㅌ ㅣ ㅅㅏㅣㄷ?",
+      "ㅏㄹㅔ ㅠㅗㅜ ㅔㅆㅔㄴ ㄸㅣㅅㅌㅔㄴㅣㄴㄱ ㅌㅗ ㅁㅔ?"
+    ],
+    "t": "Are you listening to me at all? | Did you listen at all to what I said? | Are you even listening to me?"
+  },
+  {
+    "q": "Ĉiuj homoj estas denaske liberaj kaj egalaj laŭ digno kaj rajtoj. Ili posedas racion kaj konsciencon, kaj devus konduti unu al alia en spirito de frateco.",
+    "a": [
+      "ㅏㄸㄸ ㅎㅜㅁㅏㄴ ㅂㅔㅣㄴㄱㅅ ㅏㄹㅔ ㅂㅗㄹㄴ ㄲㄹㅔㅔ ㅏㄴㄷ ㅔㅃㅜㅏㄸ ㅣㄴ ㄷㅣㄱㄴㅣㅌㅠ ㅏㄴㄷ ㄹㅣㄱㅎㅌㅅ. ㅌㅎㅔㅠ ㅏㄹㅔ ㅔㄴㄷㅗ외ㅔㄷ 외ㅣㅌㅎ ㄹㅔㅏㅅㅗㄴ ㅏㄴㄷ ㅊㅗㄴㅅㅊㅣㅔㄴㅊㅔ ㅏㄴㄷ ㅅㅎㅗㅜㄸㄷ ㅏㅊㅌ ㅌㅗ외ㅏㄹㄷㅅ ㅗㄴㅔ ㅏㄴㅗㅌㅎㅔㄹ ㅣㄴ ㅏ ㅅㅍㅣㄹㅣㅌ ㅗㄲ ㅂㄹㅗㅌㅎㅔㄹㅎㅗㅗㄷ."
+    ],
+    "t": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+  },
+  {
+    "q": "Neniu komprenas min.",
+    "a": [
+      "ㄴㅗㅂㅗㄷㅠ ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷㅅ ㅁㅔ."
+    ],
+    "t": "Nobody understands me."
+  },
+  {
+    "q": "Tio ŝanĝos nenion.",
+    "a": [
+      "ㅌㅎㅏㅌ 외ㅗㄴ'ㅌ ㅊㅎㅏㄴㄱㅔ ㅏㄴㅠㅌㅎㅣㄴㄱ.",
+      "ㅌㅎㅏㅌ 외ㅣㄸㄸ ㅊㅎㅏㄴㄱㅔ ㄴㅗㅌㅎㅣㄴㄱ.",
+      "ㅌㅎㅏㅌ ㄷㅗㅔㅅㄴ'ㅌ ㅊㅎㅏㄴㄱㅔ ㅏㄴㅠㅌㅎㅣㄴㄱ.",
+      "ㅌㅎㅏㅌ'ㄸㄸ ㅊㅎㅏㄴㄱㅔ ㄴㅗㅌㅎㅣㄴㄱ.",
+      "ㅣㅌ 외ㅗㄴ'ㅌ ㅊㅎㅏㄴㄱㅔ ㅏㄴㅠㅌㅎㅣㄴㄱ.",
+      "ㅌㅎㅏㅌ 외ㅗㄴ'ㅌ ㅊㅎㅏㄴㄱㅔ ㅏ ㅌㅎㅣㄴㄱ.",
+      "ㅣㅌ 외ㅗㄴ'ㅌ ㅁㅏㅋㅔ ㅏㄴㅠ ㄷㅣㄲㄲㅔㄹㅔㄴㅊㅔ.",
+      "ㅌㅎㅏㅌ 외ㅗㄴ'ㅌ ㅁㅏㅋㅔ ㅏㄴㅠ ㄷㅣㄲㄲㅔㄹㅔㄴㅊㅔ."
+    ],
+    "t": "That won't change anything. | That will change nothing. | That doesn't change anything. | That'll change nothing. | It won't change anything. | That won't change a thing. | It won't make any difference. | That won't make any difference."
+  },
+  {
+    "q": "Ne zorgu.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ 외ㅗㄹㄹㅠ.",
+      "ㄴㅗ 외ㅗㄹㄹㅣㅔㅅ.",
+      "ㄴㅔㅆㅔㄹ ㅁㅣㄴㄷ!"
+    ],
+    "t": "Don't worry. | No worries. | Never mind!"
+  },
+  {
+    "q": "Neniu scios.",
+    "a": [
+      "ㄴㅗㅂㅗㄷㅠ 외ㅣㄸㄸ ㅋㄴㅗ외.",
+      "ㄴㅗㅂㅗㄷㅠ'ㄸㄸ ㅋㄴㅗ외."
+    ],
+    "t": "Nobody will know. | Nobody'll know."
+  },
+  {
+    "q": "Mi ne komprenas.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄱㅔㅌ ㅣㅌ.",
+      "ㅣ ㄷㅗ ㄴㅗㅌ ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷ.",
+      "ㅣ ㅊㅏㄴ'ㅌ ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷ.",
+      "ㄷㅗㄴ'ㅌ ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷ.",
+      "ㅣ'ㅁ ㄴㅗㅌ ㄲㅗㄸㄸㅗ외ㅣㄴㄱ."
+    ],
+    "t": "I don't get it. | I do not understand. | I don't understand. | I can't understand. | Don't understand. | I'm not following."
+  },
+  {
+    "q": "Mi ne malgajnos!",
+    "a": [
+      "ㅣ 외ㅗㄴ'ㅌ ㄸㅗㅅㅔ!"
+    ],
+    "t": "I won't lose!"
+  },
+  {
+    "q": "Ne forgesu nin!",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅏㅂㅗㅜㅌ ㅜㅅ!",
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅜㅅ!",
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅜㅅ."
+    ],
+    "t": "Don't forget about us! | Don't forget us! | Don't forget us."
+  },
+  {
+    "q": "Mi ne plu volas tion.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ 외ㅏㄴㅌ ㅌㅎㅏㅌ ㅏㄴㅠㅁㅗㄹㅔ.",
+      "ㅣ ㄴㅗ ㄸㅗㄴㄱㅔㄹ 외ㅏㄴㅌ ㅌㅎㅏㅌ.",
+      "ㅣ ㄷㅗㄴ'ㅌ 외ㅏㄴㅌ ㅌㅎㅣㅅ ㅏㄴㅠㅁㅗㄹㅔ.",
+      "ㅣ ㄷㅗㄴ'ㅌ 외ㅏㄴㅌ ㅣㅌ ㅏㄴㅠㅁㅗㄹㅔ."
+    ],
+    "t": "I don't want that anymore. | I no longer want that. | I don't want this anymore. | I don't want it anymore."
+  },
+  {
+    "q": "Kiom for estas la flughaveno?",
+    "a": [
+      "ㅎㅗ외 ㄲㅏㄹ ㅣㅅ ㅣㅌ ㅌㅗ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ?",
+      "ㅎㅗ외 ㄲㅏㄹ ㅏ외ㅏㅠ ㅣㅅ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ?"
+    ],
+    "t": "How far is it to the airport? | How far away is the airport?"
+  },
+  {
+    "q": "Ni ne povas dormi pro la bruo.",
+    "a": [
+      "외ㅔ ㅊㅏㄴ'ㅌ ㅅㄸㅔㅔㅍ ㅂㅔㅊㅏㅜㅅㅔ ㅗㄲ ㅌㅎㅔ ㄴㅗㅣㅅㅔ."
+    ],
+    "t": "We can't sleep because of the noise."
+  },
+  {
+    "q": "Kiom longe daŭras la vojaĝo per la flughavena buso al la flughaveno?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㄷㅗㅔㅅ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ ㅂㅜㅅ ㅌㅏㅋㅔ ㅌㅗ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ?",
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㄷㅗㅔㅅ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ ㅅㅎㅜㅌㅌㄸㅔ ㅌㅏㅋㅔ ㅌㅗ ㄱㅔㅌ ㅌㅗ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ?"
+    ],
+    "t": "How long does the airport bus take to the airport? | How long does the airport shuttle take to get to the airport?"
+  },
+  {
+    "q": "Mi ŝatus rezervi ĉambron en hotelo.",
+    "a": [
+      "ㅣ'ㄷ ㄸㅣㅋㅔ ㅏ ㅎㅗㅌㅔㄸ ㄹㅔㅅㅔㄹㅆㅏㅌㅣㅗㄴ.",
+      "ㅣ'ㄷ ㄸㅣㅋㅔ ㅌㅗ ㄹㅔㅅㅔㄹㅆㅔ ㅏ ㄹㅗㅗㅁ ㅣㄴ ㅏ ㅎㅗㅌㅔㄸ.",
+      "ㅣ'ㄷ ㄸㅣㅋㅔ ㅌㅗ ㄹㅔㅅㅔㄹㅆㅔ ㅏ ㅎㅗㅌㅔㄸ ㄹㅗㅗㅁ."
+    ],
+    "t": "I'd like a hotel reservation. | I'd like to reserve a room in a hotel. | I'd like to reserve a hotel room."
+  },
+  {
+    "q": "Al la hotelo Hilton bonvolu.",
+    "a": [
+      "ㅌㅎㅔ ㅎㅣㄸㅌㅗㄴ ㅎㅗㅌㅔㄸ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅌㅗ ㅌㅎㅔ ㅎㅣㄸㅌㅗㄴ ㅎㅗㅌㅔㄸ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅌㅗ ㅌㅎㅔ ㅎㅣㄸㅌㅗㄴ ㅎㅗㅌㅔㄸ ㅍㄸㅔㅏㅅㅔ!",
+      "ㅌㅗ ㅌㅎㅔ ㅎㅣㄸㅌㅗㄴ, ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "The Hilton Hotel, please. | To the Hilton Hotel, please. | To the Hilton Hotel please! | To the Hilton, please."
+  },
+  {
+    "q": "Kie ekas la flughavenaj busoj?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㄷㅗ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ ㅂㅜㅅㅔㅅ ㄸㅔㅏㅆㅔ ㄲㄹㅗㅁ?",
+      "외ㅎㅔㄹㅔ ㅣㅅ ㅌㅎㅔ ㅅㅌㅗㅍ ㄲㅗㄹ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ ㅂㅜㅅㅔㅅ?"
+    ],
+    "t": "Where do the airport buses leave from? | Where is the stop for the airport buses?"
+  },
+  {
+    "q": "Kiu estas via sangogrupo?",
+    "a": [
+      "외ㅎㅏㅌ'ㅅ ㅠㅗㅜㄹ ㅂㄸㅗㅗㄷ ㄱㄹㅗㅜㅍ?",
+      "외ㅎㅏㅌ ㅣㅅ ㅠㅗㅜㄹ ㅂㄸㅗㅗㄷ ㅌㅠㅍㅔ?",
+      "외ㅎㅏㅌ'ㅅ ㅠㅗㅜㄹ ㅂㄸㅗㅗㄷ ㅌㅠㅍㅔ?"
+    ],
+    "t": "What's your blood group? | What is your blood type? | What's your blood type?"
+  },
+  {
+    "q": "Mi ŝatus havi tason da kafo.",
+    "a": [
+      "ㅣ 외ㅗㅜㄸㄷ ㄸㅣㅋㅔ ㅌㅗ ㅎㅏㅆㅔ ㅏ ㅊㅜㅍ ㅗㄲ ㅊㅗㄲㄲㅔㅔ.",
+      "ㅣ 외ㅗㅜㄸㄷㄴ'ㅌ ㅁㅣㄴㄷ ㅏ ㅊㅜㅍ ㅗㄲ ㅊㅗㄲㄲㅔㅔ.",
+      "ㅣ 외ㅗㅜㄸㄷ ㄸㅣㅋㅔ ㅏ ㅊㅜㅍ ㅗㄲ ㅊㅗㄲㄲㅔㅔ."
+    ],
+    "t": "I would like to have a cup of coffee. | I wouldn't mind a cup of coffee. | I would like a cup of coffee."
+  },
+  {
+    "q": "Bonvolu doni al mi glason da akvo.",
+    "a": [
+      "ㄱㅣㅆㅔ ㅁㅔ ㅏ ㄱㄸㅏㅅㅅ ㅗㄲ 외ㅏㅌㅔㄹ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅍㄸㅔㅏㅅㅔ ㄱㅣㅆㅔ ㅁㅔ ㅏ ㄱㄸㅏㅅㅅ ㅗㄲ 외ㅏㅌㅔㄹ.",
+      "ㅏ ㄱㄸㅏㅅㅅ ㅗㄲ 외ㅏㅌㅔㄹ, ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "Give me a glass of water, please. | Please give me a glass of water. | A glass of water, please."
+  },
+  {
+    "q": "Ĝi helpis min multege.",
+    "a": [
+      "ㅣㅌ ㅎㅔㄸㅍㅔㄷ ㅁㅔ ㅏ ㄸㅗㅌ."
+    ],
+    "t": "It helped me a lot."
+  },
+  {
+    "q": "La filmo daŭris du horojn.",
+    "a": [
+      "ㅌㅎㅔ ㄲㅣㄸㅁ ㄸㅏㅅㅌㅔㄷ 2 ㅎㅗㅜㄹㅅ.",
+      "ㅌㅎㅔ ㅁㅗㅆㅣㅔ ㄹㅏㄴ ㄲㅗㄹ ㅌ외ㅗ ㅎㅗㅜㄹㅅ."
+    ],
+    "t": "The film lasted 2 hours. | The movie ran for two hours."
+  },
+  {
+    "q": "Mi scivolis, kial homoj fikse rigardis min.",
+    "a": [
+      "ㅣ 외ㅗㄴㄷㅔㄹㅔㄷ 외ㅎㅠ ㅍㅔㅗㅍㄸㅔ 외ㅔㄹㅔ ㅅㅌㅏㄹㅣㄴㄱ ㅏㅌ ㅁㅔ.",
+      "ㅣ 외ㅏㅅ ㅊㅜㄹㅣㅗㅜㅅ ㅌㅗ ㅋㄴㅗ외 외ㅎㅠ ㅍㅔㅗㅍㄸㅔ ㅎㅏㄷ ㅂㅔㅔㄴ ㅅㅌㅏㄹㅣㄴㄱ ㅏㅌ ㅁㅔ.",
+      "ㅣ 외ㅗㄴㄷㅔㄹㅔㄷ 외ㅎㅠ ㅍㅔㅗㅍㄸㅔ ㅅㅌㅏㄹㅔㄷ ㅏㅌ ㅁㅔ."
+    ],
+    "t": "I wondered why people were staring at me. | I was curious to know why people had been staring at me. | I wondered why people stared at me."
+  },
+  {
+    "q": "Mi revenis! Ho? Ĉu ni havas gaston?",
+    "a": [
+      "ㅣ'ㅁ ㅂㅏㅊㅋ! ㅗㅎ? ㅎㅏㅆㅔ 외ㅔ ㄱㅗㅌ ㅏ ㄱㅜㅔㅅㅌ?"
+    ],
+    "t": "I'm back! Oh? Have we got a guest?"
+  },
+  {
+    "q": "La demando jenas.",
+    "a": [
+      "ㅌㅎㅔ ㅃㅜㅔㅅㅌㅣㅗㄴ ㅣㅅ ㅌㅎㅣㅅ.",
+      "ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㅌㅎㅣㄴㄱ."
+    ],
+    "t": "The question is this. | Here's the thing."
+  },
+  {
+    "q": "Tio tro multekostas!",
+    "a": [
+      "ㅣㅌ'ㅅ ㅌㅗㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ!",
+      "ㅌㅎㅣㅅ ㅣㅅ ㅌㅗㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ!",
+      "ㅣㅌ'ㅅ ㅌㅗㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ.",
+      "ㅌㅎㅏㅌ'ㅅ ㅌㅗㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ!",
+      "ㅌㅎㅏㅌ ㅣㅅ ㅌㅗㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ."
+    ],
+    "t": "It's too expensive! | This is too expensive! | It's too expensive. | That's too expensive! | That is too expensive."
+  },
+  {
+    "q": "Tio estas surprizo.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅏ ㅅㅜㄹㅍㄹㅣㅅㅔ."
+    ],
+    "t": "It's a surprise."
+  },
+  {
+    "q": "Malvarmas.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅊㅗㄸㄷ.",
+      "ㅣㅌ ㅣㅅ ㅊㅗㄸㄷ."
+    ],
+    "t": "It's cold. | It is cold."
+  },
+  {
+    "q": "Pluvas.",
+    "a": [
+      "ㅣㅌ ㅣㅅ ㄹㅏㅣㄴㅣㄴㄱ.",
+      "ㅣㅌ'ㅅ ㄹㅏㅣㄴㅣㄴㄱ.",
+      "ㅣㅌ ㄹㅏㅣㄴㅅ."
+    ],
+    "t": "It is raining. | It's raining. | It rains."
+  },
+  {
+    "q": "Tio ne gravas.",
+    "a": [
+      "ㅣㅌ'ㅅ ㄴㅗㅌ ㅣㅁㅍㅗㄹㅌㅏㄴㅌ.",
+      "ㅣㅌ ㄷㅗㅔㅅㄴ'ㅌ ㅁㅏㅌㅌㅔㄹ.",
+      "ㅌㅎㅏㅌ'ㅅ ㅜㄴㅣㅁㅍㅗㄹㅌㅏㄴㅌ.",
+      "ㅌㅎㅏㅌ'ㅅ ㄴㅗㅌ ㅣㅁㅍㅗㄹㅌㅏㄴㅌ.",
+      "ㅣㅌ'ㅅ ㄴㅗㅌㅎㅣㄴㄱ.",
+      "ㅣㅌ ㅣㅅㄴ'ㅌ ㅣㅁㅍㅗㄹㅌㅏㄴㅌ.",
+      "ㄴㅔㅆㅔㄹ ㅁㅣㄴㄷ.",
+      "ㅣㅌ'ㅅ ㄴㅗㅌ ㅏ ㅂㅣㄱ ㄷㅔㅏㄸ.",
+      "외ㅎㅏㅌㅔㅆㅔㄹ."
+    ],
+    "t": "It's not important. | It doesn't matter. | That's unimportant. | That's not important. | It's nothing. | It isn't important. | Never mind. | It's not a big deal. | Whatever."
+  },
+  {
+    "q": "Ne forgesu la bileton.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅌㅎㅔ ㅌㅣㅊㅋㅔㅌ."
+    ],
+    "t": "Don't forget the ticket."
+  },
+  {
+    "q": "Mi ĝojas revidi vin.",
+    "a": [
+      "ㅣ'ㅁ ㄱㄸㅏㄷ ㅌㅗ ㅅㅔㅔ ㅠㅗㅜ ㅂㅏㅊㅋ.",
+      "ㄴㅣㅊㅔ ㅌㅗ ㅅㅔㅔ ㅠㅗㅜ ㅏㄱㅏㅣㄴ.",
+      "ㅣ'ㅁ ㄱㄸㅏㄷ ㅌㅗ ㅅㅔㅔ ㅠㅗㅜ ㅏㄱㅏㅣㄴ.",
+      "ㅣ'ㅁ ㅎㅏㅍㅍㅠ ㅌㅗ ㅅㅔㅔ ㅠㅗㅜ ㅏㄱㅏㅣㄴ.",
+      "ㅣ'ㅁ ㄱㄸㅏㄷ ㅌㅗ ㅅㅔㅔ ㅠㅗㅜ ㄱㅜㅠㅅ ㅏㄱㅏㅣㄴ."
+    ],
+    "t": "I'm glad to see you back. | Nice to see you again. | I'm glad to see you again. | I'm happy to see you again. | I'm glad to see you guys again."
+  },
+  {
+    "q": "Mi ne scias.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외.",
+      "ㅣ ㄷㅗ ㄴㅗㅌ ㅋㄴㅗ외.",
+      "ㄷㅗㄴ'ㅌ ㅋㄴㅗ외.",
+      "ㄷㅜㄴㄴㅗ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외!"
+    ],
+    "t": "I don't know. | I do not know. | Don't know. | Dunno. | I don't know!"
+  },
+  {
+    "q": "Bona demando.",
+    "a": [
+      "ㄱㅗㅗㄷ ㅃㅜㅔㅅㅌㅣㅗㄴ!",
+      "ㄱㅗㅗㄷ ㅃㅜㅔㅅㅌㅣㅗㄴ.",
+      "ㅏ ㄱㅗㅗㄷ ㅃㅜㅔㅅㅌㅣㅗㄴ.",
+      "ㅣㅌ'ㅅ ㅏ ㄱㅗㅗㄷ ㅃㅜㅔㅅㅌㅣㅗㄴ."
+    ],
+    "t": "Good question! | Good question. | A good question. | It's a good question."
+  },
+  {
+    "q": "Mi veturigos vin al la flughaveno.",
+    "a": [
+      "ㅣ'ㄸㄸ ㄷㄹㅣㅆㅔ ㅠㅗㅜ ㅌㅗ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ."
+    ],
+    "t": "I'll drive you to the airport."
+  },
+  {
+    "q": "Ho! Montru ĝin al mi bonvole.",
+    "a": [
+      "ㅗㅎ! ㅅㅎㅗ외 ㅣㅌ ㅌㅗ ㅁㅔ ㅍㄸㅔㅏㅅㅔ.",
+      "ㅗㅎ! ㅅㅎㅗ외 ㅁㅔ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅗㅎ! ㅍㄸㅔㅏㅅㅔ ㅅㅎㅗ외 ㅣㅌ ㅌㅗ ㅁㅔ."
+    ],
+    "t": "Oh! Show it to me please. | Oh! Show me, please. | Oh! Please show it to me."
+  },
+  {
+    "q": "Bonvolu pardoni min.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㄲㅗㄹㄱㅣㅆㅔ ㅁㅔ.",
+      "ㅍㅏㄹㄷㅗㄴ ㅁㅔ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㄲㅗㄹㄱㅣㅆㅔ ㅁㅔ, ㅍㄸㅔㅏㅅㅔ!",
+      "ㅍㄸㅔㅏㅅㅔ, ㄲㅗㄹㄱㅣㅆㅔ ㅁㅔ."
+    ],
+    "t": "Please forgive me. | Pardon me, please. | Forgive me, please! | Please, forgive me."
+  },
+  {
+    "q": "Tio estas nur via imago.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅈㅜㅅㅌ ㅠㅗㅜㄹ ㅣㅁㅏㄱㅣㄴㅏㅌㅣㅗㄴ.",
+      "ㅣㅌ'ㅅ ㅗㄴㄸㅠ ㅠㅗㅜㄹ ㅣㅁㅏㄱㅣㄴㅏㅌㅣㅗㄴ."
+    ],
+    "t": "It's just your imagination. | It's only your imagination."
+  },
+  {
+    "q": "Tio estas plezuro por ni.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅗㅜㄹ ㅍㄸㅔㅏㅅㅜㄹㅔ."
+    ],
+    "t": "It's our pleasure."
+  },
+  {
+    "q": "Ĉu vi memoras?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㄹㅔㅁㅔㅁㅂㅔㄹ?",
+      "ㄹㅔㅁㅔㅁㅂㅔㄹ?"
+    ],
+    "t": "Do you remember? | Remember?"
+  },
+  {
+    "q": "Kion mi kunportu?",
+    "a": [
+      "외ㅎㅏㅌ ㅅㅎㅗㅜㄸㄷ ㅣ ㅂㄹㅣㄴㄱ?"
+    ],
+    "t": "What should I bring?"
+  },
+  {
+    "q": "Kio mankas?",
+    "a": [
+      "외ㅎㅏㅌ ㅣㅅ ㅁㅣㅅㅅㅣㄴㄱ?",
+      "외ㅎㅏㅌ'ㅅ ㅁㅣㅅㅅㅣㄴㄱ?"
+    ],
+    "t": "What is missing? | What's missing?"
+  },
+  {
+    "q": "Ni revenu.",
+    "a": [
+      "ㄸㅔㅌ'ㅅ ㅌㅜㄹㄴ ㅂㅏㅊㅋ.",
+      "ㄸㅔㅌ'ㅅ ㅊㅗㅁㅔ ㅂㅏㅊㅋ."
+    ],
+    "t": "Let's turn back. | Let's come back."
+  },
+  {
+    "q": "Mi hontas pri mi mem.",
+    "a": [
+      "ㅣ ㅏㅁ ㅏㅅㅎㅏㅁㅔㄷ ㅗㄲ ㅁㅠㅅㅔㄸㄲ.",
+      "ㅣ'ㅁ ㅏㅅㅎㅏㅁㅔㄷ ㅗㄲ ㅁㅠㅅㅔㄸㄲ."
+    ],
+    "t": "I am ashamed of myself. | I'm ashamed of myself."
+  },
+  {
+    "q": "Malfruas.",
+    "a": [
+      "ㅣㅌ'ㅅ ㄸㅏㅌㅔ.",
+      "ㅣㅌ ㅣㅅ ㄸㅏㅌㅔ."
+    ],
+    "t": "It's late. | It is late."
+  },
+  {
+    "q": "Prenu taksion al la hotelo.",
+    "a": [
+      "ㅌㅏㅋㅔ ㅏ ㅌㅏㅉㅣ ㅌㅗ ㅌㅎㅔ ㅎㅗㅌㅔㄸ."
+    ],
+    "t": "Take a taxi to the hotel."
+  },
+  {
+    "q": "Ĝi estas novega.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅂㄹㅏㄴㄷ ㄴㅔ외."
+    ],
+    "t": "It's brand new."
+  },
+  {
+    "q": "Kio?",
+    "a": [
+      "외ㅎㅏㅌ?",
+      "ㄷㅣㄷ ㅠㅗㅜ ㅅㅏㅠ ㅅㅗㅁㅔㅌㅎㅣㄴㄱ?"
+    ],
+    "t": "What? | Did you say something?"
+  },
+  {
+    "q": "Ekzistas multaj hoteloj en la urbocentro.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ ㅏㄹㅔ ㅁㅏㄴㅠ ㅎㅗㅌㅔㄸㅅ ㄷㅗ외ㄴㅌㅗ외ㄴ."
+    ],
+    "t": "There are many hotels downtown."
+  },
+  {
+    "q": "Portu ĝin al mi.",
+    "a": [
+      "ㅂㄹㅣㄴㄱ ㅣㅌ ㅌㅗ ㅁㅔ."
+    ],
+    "t": "Bring it to me."
+  },
+  {
+    "q": "Ne forgesu sendi la leteron.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅌㅗ ㅍㅗㅅㅌ ㅌㅎㅔ ㄸㅔㅌㅌㅔㄹ.",
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅌㅗ ㅅㅔㄴㄷ ㅌㅎㅔ ㄸㅔㅌㅌㅔㄹ."
+    ],
+    "t": "Don't forget to post the letter. | Don't forget to send the letter."
+  },
+  {
+    "q": "Mi memoras, ke mi spektis la filmon.",
+    "a": [
+      "ㅣ ㄹㅔㅁㅔㅁㅂㅔㄹ ㅅㅔㅔㅣㄴㄱ ㅌㅎㅔ ㅁㅗㅆㅣㅔ."
+    ],
+    "t": "I remember seeing the movie."
+  },
+  {
+    "q": "Mi ja esperas, ke vi venos denove.",
+    "a": [
+      "ㅣ ㄷㅗ ㅎㅗㅍㅔ ㅠㅗㅜ'ㄸㄸ ㅊㅗㅁㅔ ㅏㄱㅏㅣㄴ.",
+      "ㅣ ㅅㅜㄹㅔ ㅎㅗㅍㅔ ㅠㅗㅜ'ㄸㄸ ㅊㅗㅁㅔ ㅏㄱㅏㅣㄴ."
+    ],
+    "t": "I do hope you'll come again. | I sure hope you'll come again."
+  },
+  {
+    "q": "Revenu baldaŭ.",
+    "a": [
+      "ㅊㅗㅁㅔ ㅂㅏㅊㅋ ㅅㅗㅗㄴ."
+    ],
+    "t": "Come back soon."
+  },
+  {
+    "q": "Bonvolu reskribi baldaŭ.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ 외ㄹㅣㅌㅔ ㅂㅏㅊㅋ ㅅㅗㅗㄴ."
+    ],
+    "t": "Please write back soon."
+  },
+  {
+    "q": "Ni esperas, ke vi ĝuos la montraĵon.",
+    "a": [
+      "외ㅔ ㅎㅗㅍㅔ ㅠㅗㅜ 외ㅣㄸㄸ ㅔㄴㅈㅗㅠ ㅌㅎㅔ ㅅㅎㅗ외."
+    ],
+    "t": "We hope you will enjoy the show."
+  },
+  {
+    "q": "Ne. Mi pardonpetas, mi devas reveni frue.",
+    "a": [
+      "ㄴㅗ. ㅣ'ㅁ ㅅㅗㄹㄹㅠ, ㅣ'ㅆㅔ ㄱㅗㅌ ㅌㅗ ㄱㅗ ㅂㅏㅊㅋ ㅔㅏㄹㄸㅠ."
+    ],
+    "t": "No. I'm sorry, I've got to go back early."
+  },
+  {
+    "q": "Ĉi tiu pomo estas tre ruĝa.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅏㅍㅍㄸㅔ ㅣㅅ ㅆㅔㄹㅠ ㄹㅔㄷ."
+    ],
+    "t": "This apple is very red."
+  },
+  {
+    "q": "Tiu gitaro estas tiom multekosta, ke mi ne povas aĉeti ĝin.",
+    "a": [
+      "ㅌㅎㅏㅌ ㄱㅜㅣㅌㅏㄹ ㅣㅅ ㅅㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ ㅌㅎㅏㅌ ㅣ ㅊㅏㄴ'ㅌ ㅂㅜㅠ ㅣㅌ.",
+      "ㅌㅎㅣㅅ ㄱㅜㅣㅌㅏㄹ ㅣㅅ ㅅㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ ㅌㅎㅏㅌ ㅣ ㅊㅏㄴ'ㅌ ㅏㄲㄲㅗㄹㄷ ㅌㅗ ㅂㅜㅠ ㅣㅌ.",
+      "ㅌㅎㅏㅌ ㄱㅜㅣㅌㅏㄹ ㅣㅅ ㅌㅗㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ ㄲㅗㄹ ㅁㅔ ㅌㅗ ㅂㅜㅠ.",
+      "ㅌㅎㅣㅅ ㄱㅜㅣㅌㅏㄹ ㅣㅅ ㅅㅗ ㅔㅉㅍㅔㄴㅅㅣㅆㅔ ㅌㅎㅏㅌ ㅣ ㅊㅏㄴ'ㅌ ㅂㅜㅠ ㅣㅌ."
+    ],
+    "t": "That guitar is so expensive that I can't buy it. | This guitar is so expensive that I can't afford to buy it. | That guitar is too expensive for me to buy. | This guitar is so expensive that I can't buy it."
+  },
+  {
+    "q": "Mi montros kelkajn fotojn al vi.",
+    "a": [
+      "ㅣ 외ㅣㄸㄸ ㅅㅎㅗ외 ㅠㅗㅜ ㅅㅗㅁㅔ ㅍㅣㅊㅌㅜㄹㅔㅅ."
+    ],
+    "t": "I will show you some pictures."
+  },
+  {
+    "q": "Nun mi memoras.",
+    "a": [
+      "ㄴㅗ외 ㅣ ㄹㅔㅁㅔㅁㅂㅔㄹ."
+    ],
+    "t": "Now I remember."
+  },
+  {
+    "q": "Ĝi estas tiu de mia frato.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅁㅠ ㅂㄹㅗㅌㅎㅔㄹ'ㅅ."
+    ],
+    "t": "It's my brother's."
+  },
+  {
+    "q": "Mi ne parolas la japanan.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅅㅍㅔㅏㅋ ㅈㅏㅍㅏㄴㅔㅅㅔ.",
+      "ㅣ ㅊㅏㄴㄴㅗㅌ ㅅㅍㅔㅏㅋ ㅈㅏㅍㅏㄴㅔㅅㅔ."
+    ],
+    "t": "I don't speak Japanese. | I cannot speak Japanese."
+  },
+  {
+    "q": "Mi amas vin!",
+    "a": [
+      "ㅣ ㄸㅗㅆㅔ ㅠㅗㅜ.",
+      "ㅣ ㄷㅗ ㄸㅗㅆㅔ ㅠㅗㅜ.",
+      "ㅣ ㄸㅗㅆㅔ ㅠㅗㅜ!"
+    ],
+    "t": "I love you. | I do love you. | I love you!"
+  },
+  {
+    "q": "Aĥ, kiam ili renkontiĝos denove?",
+    "a": [
+      "ㅏㅎ, 외ㅎㅔㄴ 외ㅣㄸㄸ ㅌㅎㅔㅠ ㅁㅔㅔㅌ ㅏㄱㅏㅣㄴ?"
+    ],
+    "t": "Ah, when will they meet again?"
+  },
+  {
+    "q": "Respondu la demandon.",
+    "a": [
+      "ㅏㄴㅅ외ㅔㄹ ㅌㅎㅔ ㅃㅜㅔㅅㅌㅣㅗㄴ."
+    ],
+    "t": "Answer the question."
+  },
+  {
+    "q": "Kia surprizo!",
+    "a": [
+      "외ㅎㅏㅌ ㅏ ㅅㅜㄹㅍㄹㅣㅅㅔ!"
+    ],
+    "t": "What a surprise!"
+  },
+  {
+    "q": "Mi havas demandon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅏ ㅃㅜㅔㅅㅌㅣㅗㄴ.",
+      "ㅣ'ㅆㅔ ㄱㅗㅌ ㅏ ㅃㅜㅔㅅㅌㅣㅗㄴ.",
+      "ㅣ ㅎㅏㅆㅔ ㄱㅗㅌ ㅏ ㅃㅜㅔㅅㅌㅣㅗㄴ."
+    ],
+    "t": "I have a question. | I've got a question. | I have got a question."
+  },
+  {
+    "q": "Mi devos retelefoni vin.",
+    "a": [
+      "ㅣ'ㅁ ㄱㅗㄴㄴㅏ ㅎㅏㅆㅔ ㅌㅗ ㅊㅏㄸㄸ ㅠㅗㅜ ㅂㅏㅊㅋ.",
+      "ㅣ'ㄸㄸ ㅎㅏㅆㅔ ㅌㅗ ㅊㅏㄸㄸ ㅠㅗㅜ ㅂㅏㅊㅋ.",
+      "ㅣ'ㄸㄸ ㅎㅏㅆㅔ ㅌㅗ ㄹㅣㄴㄱ ㅠㅗㅜ ㅂㅏㅊㅋ.",
+      "ㅣ'ㄸㄸ ㅎㅏㅆㅔ ㅌㅗ ㅍㅎㅗㄴㅔ ㅠㅗㅜ ㅂㅏㅊㅋ."
+    ],
+    "t": "I'm gonna have to call you back. | I'll have to call you back. | I'll have to ring you back. | I'll have to phone you back."
+  },
+  {
+    "q": "Ne rigardu malantaŭen.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㄸㅗㅗㅋ ㅂㅏㅊㅋ."
+    ],
+    "t": "Don't look back."
+  },
+  {
+    "q": "Estas varmege hodiaŭ.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅎㅗㅌ ㅌㅗㄷㅏㅠ.",
+      "ㅣㅌ ㅣㅅ ㅎㅗㅌ ㅌㅗㄷㅏㅠ."
+    ],
+    "t": "It's hot today. | It is hot today."
+  },
+  {
+    "q": "Mi memoras la unuan fojon.",
+    "a": [
+      "ㅣ ㄹㅔㅁㅔㅁㅂㅔㄹ ㅌㅎㅔ ㄲㅣㄹㅅㅌ ㅌㅣㅁㅔ."
+    ],
+    "t": "I remember the first time."
+  },
+  {
+    "q": "Kutime mi lavas la telerojn.",
+    "a": [
+      "ㅣ ㅜㅅㅜㅏㄸㄸㅠ ㄷㅗ ㅌㅎㅔ ㄷㅣㅅㅎㅔㅅ."
+    ],
+    "t": "I usually do the dishes."
+  },
+  {
+    "q": "Kunportu viajn infanojn.",
+    "a": [
+      "ㅂㄹㅣㄴㄱ ㅠㅗㅜㄹ ㅊㅎㅣㄸㄷㄹㅔㄴ ㅏㄸㅗㄴㄱ."
+    ],
+    "t": "Bring your children along."
+  },
+  {
+    "q": "Mi montros la urbon al vi.",
+    "a": [
+      "ㅣ'ㄸㄸ ㅅㅎㅗ외 ㅠㅗㅜ ㅏㄹㅗㅜㄴㄷ ㅌㅎㅔ ㅊㅣㅌㅠ.",
+      "ㅣ 외ㅣㄸㄸ ㅅㅎㅗ외 ㅠㅗㅜ ㅏㄹㅗㅜㄴㄷ ㅌㅎㅔ ㅊㅣㅌㅠ.",
+      "ㅣ'ㄸㄸ ㅅㅎㅗ외 ㅠㅗㅜ ㅌㅎㅔ ㅊㅣㅌㅠ.",
+      "ㅣ'ㄸㄸ ㅅㅎㅗ외 ㅠㅗㅜ ㅏㄹㅗㅜㄴㄷ ㅌㅗ외ㄴ."
+    ],
+    "t": "I'll show you around the city. | I will show you around the city. | I'll show you the city. | I'll show you around town."
+  },
+  {
+    "q": "Ne forgesu, ke ni havas hejmtaskojn.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅌㅎㅏㅌ 외ㅔ ㅎㅏㅆㅔ ㅎㅗㅁㅔ외ㅗㄹㅋ.",
+      "ㄷㅗㄴ'ㅌ ㄲㅗㄹㄱㅔㅌ ㅌㅎㅏㅌ 외ㅔ ㅎㅏㅆㅔ ㅊㅎㅗㄹㅔㅅ."
+    ],
+    "t": "Don't forget that we have homework. | Don't forget that we have chores."
+  },
+  {
+    "q": "Ĉu vi memoras min?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㄹㅔㅁㅔㅁㅂㅔㄹ ㅁㅔ?",
+      "ㄷㅗ ㅠㅗㅜ ㄹㅔㅁㅔㅁㅂㅔㄹ 외ㅎㅗ ㅣ ㅏㅁ?"
+    ],
+    "t": "Do you remember me? | Do you remember who I am?"
+  },
+  {
+    "q": "Mi ne reiros tien.",
+    "a": [
+      "ㅣ'ㅁ ㄴㅗㅌ ㄱㅗㅣㄴㄱ ㅂㅏㅊㅋ.",
+      "ㅣ 외ㅗㄴ'ㅌ ㄱㅗ ㅂㅏㅊㅋ ㅌㅎㅔㄹㅔ.",
+      "ㅣ 외ㅗㄴ'ㅌ ㄱㅗ ㅌㅎㅔㄹㅔ ㅏㄱㅏㅣㄴ."
+    ],
+    "t": "I'm not going back. | I won't go back there. | I won't go there again."
+  },
+  {
+    "q": "Mi estas en la flughaveno nun.",
+    "a": [
+      "ㅣ'ㅁ ㅏㅌ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ ㄴㅗ외."
+    ],
+    "t": "I'm at the airport now."
+  },
+  {
+    "q": "Mi revenos.",
+    "a": [
+      "ㅣ'ㄸㄸ ㅊㅗㅁㅔ ㅂㅏㅊㅋ.",
+      "ㅣ'ㄸㄸ ㅂㅔ ㅂㅏㅊㅋ.",
+      "ㅣ 외ㅣㄸㄸ ㄹㅔㅌㅜㄹㄴ."
+    ],
+    "t": "I'll come back. | I'll be back. | I will return."
+  },
+  {
+    "q": "Mankas nenio.",
+    "a": [
+      "ㄴㅗㅌㅎㅣㄴㄱ ㅣㅅ ㅁㅣㅅㅅㅣㄴㄱ.",
+      "ㄴㅗㅌㅎㅣㄴㄱ'ㅅ ㅁㅣㅅㅅㅣㄴㄱ."
+    ],
+    "t": "Nothing is missing. | Nothing's missing."
+  },
+  {
+    "q": "Gepatroj amas siajn gefilojn.",
+    "a": [
+      "ㅍㅏㄹㅔㄴㅌㅅ ㄸㅗㅆㅔ ㅌㅎㅔㅣㄹ ㅊㅎㅣㄸㄷㄹㅔㄴ."
+    ],
+    "t": "Parents love their children."
+  },
+  {
+    "q": "Malŝaltu la lumon. Mi ne povas ekdormi.",
+    "a": [
+      "ㅅ외ㅣㅌㅊㅎ ㅗㄲㄲ ㅌㅎㅔ ㄸㅣㄱㅎㅌ. ㅣ ㅊㅏㄴ'ㅌ ㄱㅔㅌ ㅌㅗ ㅅㄸㅔㅔㅍ.",
+      "ㅌㅜㄹㄴ ㅌㅎㅔ ㄸㅣㄱㅎㅌ ㅗㄲㄲ. ㅣ ㅊㅏㄴ'ㅌ ㄲㅏㄸㄸ ㅏㅅㄸㅔㅔㅍ.",
+      "ㅌㅜㄹㄴ ㅗㄲㄲ ㅌㅎㅔ ㄸㅣㄱㅎㅌ. ㅣ ㅊㅏㄴ'ㅌ ㄲㅏㄸㄸ ㅏㅅㄸㅔㅔㅍ."
+    ],
+    "t": "Switch off the light. I can't get to sleep. | Turn the light off. I can't fall asleep. | Turn off the light. I can't fall asleep."
+  },
+  {
+    "q": "Ŝaltu la lumon. Mi ne povas vidi ion ajn.",
+    "a": [
+      "ㅅ외ㅣㅌㅊㅎ ㅗㄴ ㅌㅎㅔ ㄸㅣㄱㅎㅌ. ㅣ ㅊㅏㄴ'ㅌ ㅅㅔㅔ ㅏㄴㅠㅌㅎㅣㄴㄱ.",
+      "ㅌㅜㄹㄴ ㅗㄴ ㅌㅎㅔ ㄸㅣㄱㅎㅌ. ㅣ ㅊㅏㄴ'ㅌ ㅅㅔㅔ ㅏㄴㅠㅌㅎㅣㄴㄱ.",
+      "ㅌㅜㄹㄴ ㅌㅎㅔ ㄸㅣㄱㅎㅌ ㅗㄴ. ㅣ ㅊㅏㄴ'ㅌ ㅅㅔㅔ ㅏㄴㅠㅌㅎㅣㄴㄱ.",
+      "ㅍㅜㅌ ㅌㅎㅔ ㄸㅣㄱㅎㅌ ㅗㄴ. ㅣ ㅊㅏㄴ'ㅌ ㅅㅔㅔ ㅏ ㅌㅎㅣㄴㄱ."
+    ],
+    "t": "Switch on the light. I can't see anything. | Turn on the light. I can't see anything. | Turn the light on. I can't see anything. | Put the light on. I can't see a thing."
+  },
+  {
+    "q": "Ĉu vi povus retelefoni pli malfrue?",
+    "a": [
+      "ㅊㅗㅜㄸㄷ ㅠㅗㅜ ㅊㅏㄸㄸ ㅏㄱㅏㅣㄴ ㄸㅏㅌㅔㄹ, ㅍㄸㅔㅏㅅㅔ?"
+    ],
+    "t": "Could you call again later, please?"
+  },
+  {
+    "q": "La kalkulon, bonvolu.",
+    "a": [
+      "ㅌㅎㅔ ㅊㅎㅔㅊㅋ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅌㅎㅔ ㅂㅣㄸㄸ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅣ'ㄷ ㄸㅣㅋㅔ ㅌㅎㅔ ㅂㅣㄸㄸ, ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "The check, please. | The bill, please. | I'd like the bill, please."
+  },
+  {
+    "q": "Kiam mi estis infano, mi pasigis multajn horojn legante sola en mia ĉambro.",
+    "a": [
+      "외ㅎㅔㄴ ㅣ 외ㅏㅅ ㅏ ㅊㅎㅣㄸㄷ, ㅣ ㅅㅍㅔㄴㅌ ㅁㅏㄴㅠ ㅎㅗㅜㄹㅅ ㄹㅔㅏㄷㅣㄴㄱ ㅏㄸㅗㄴㅔ ㅣㄴ ㅁㅠ ㄹㅗㅗㅁ."
+    ],
+    "t": "When I was a child, I spent many hours reading alone in my room."
+  },
+  {
+    "q": "Prenu libron kaj legu ĝin!",
+    "a": [
+      "ㅌㅏㅋㅔ ㅏ ㅂㅗㅗㅋ ㅏㄴㄷ ㄹㅔㅏㄷ ㅣㅌ.",
+      "ㅌㅏㅋㅔ ㅏ ㅂㅗㅗㅋ ㅏㄴㄷ ㄹㅔㅏㄷ ㅣㅌ!"
+    ],
+    "t": "Take a book and read it. | Take a book and read it!"
+  },
+  {
+    "q": "Mi havas kapdoloron.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅏ ㅎㅔㅏㄷㅏㅊㅎㅔ.",
+      "ㅣ'ㅆㅔ ㄱㅗㅌ ㅏ ㅎㅔㅏㄷㅏㅊㅎㅔ."
+    ],
+    "t": "I have a headache. | I've got a headache."
+  },
+  {
+    "q": "Mi devas enlitiĝi.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅌㅗ ㄱㅗ ㅌㅗ ㅅㄸㅔㅔㅍ.",
+      "ㅣ ㄴㅔㅔㄷ ㅌㅗ ㅎㅣㅌ ㅌㅎㅔ ㅅㅏㅊㅋ."
+    ],
+    "t": "I have to go to sleep. | I need to hit the sack."
+  },
+  {
+    "q": "Ŝajnas, ke la trajno malfruas.",
+    "a": [
+      "ㅌㅎㅔ ㅌㄹㅏㅣㄴ ㅅㅔㅔㅁㅅ ㅌㅗ ㅂㅔ ㄸㅏㅌㅔ."
+    ],
+    "t": "The train seems to be late."
+  },
+  {
+    "q": "Dankon, tio estas ĉio.",
+    "a": [
+      "ㅌㅎㅏㄴㅋㅅ, ㅌㅎㅏㅌ'ㅅ ㅏㄸㄸ.",
+      "ㅌㅎㅏㄴㅋㅅ, ㅌㅎㅏㅌ'ㅅ ㅔㅆㅔㄹㅠㅌㅎㅣㄴㄱ."
+    ],
+    "t": "Thanks, that's all. | Thanks, that's everything."
+  },
+  {
+    "q": "Li diris al mi, ke li iros al Venecio.",
+    "a": [
+      "ㅎㅔ ㅌㅗㄸㄷ ㅁㅔ ㅎㅔ 외ㅗㅜㄸㄷ ㄱㅗ ㅌㅗ ㅆㅔㄴㅣㅊㅔ."
+    ],
+    "t": "He told me he would go to Venice."
+  },
+  {
+    "q": "La filmo komenciĝis je la 2a.",
+    "a": [
+      "ㅌㅎㅔ ㄲㅣㄸㅁ ㅂㅔㄱㅏㄴ ㅏㅌ 2."
+    ],
+    "t": "The film began at 2."
+  },
+  {
+    "q": "Ĉiun matenon mi iras aĉetumi.",
+    "a": [
+      "ㅔㅆㅔㄹㅠ ㅁㅗㄹㄴㅣㄴㄱ, ㅣ ㄱㅗ ㅅㅎㅗㅍㅍㅣㄴㄱ.",
+      "ㅣ ㄱㅗ ㅅㅎㅗㅍㅍㅣㄴㄱ ㅔㅆㅔㄹㅠ ㅁㅗㄹㄴㅣㄴㄱ."
+    ],
+    "t": "Every morning, I go shopping. | I go shopping every morning."
+  },
+  {
+    "q": "Ĉu vi havas kondomon?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ ㅏ ㅊㅗㄴㄷㅗㅁ?"
+    ],
+    "t": "Do you have a condom?"
+  },
+  {
+    "q": "Kiom kostas tio?",
+    "a": [
+      "ㅎㅗ외 ㅁㅜㅊㅎ ㄷㅗㅔㅅ ㅌㅎㅏㅌ ㅊㅗㅅㅌ?",
+      "ㅎㅗ외 ㅁㅜㅊㅎ ㄷㅗㅔㅅ ㅌㅎㅣㅅ ㅊㅗㅅㅌ?"
+    ],
+    "t": "How much does that cost? | How much does this cost?"
+  },
+  {
+    "q": "Ĉu vi volas danci kun mi?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ 외ㅏㄴㅌ ㅌㅗ ㄷㅏㄴㅊㅔ 외ㅣㅌㅎ ㅁㅔ?",
+      "외ㅗㅜㄸㄷ ㅠㅗㅜ ㄸㅣㅋㅔ ㅌㅗ ㄷㅏㄴㅊㅔ 외ㅣㅌㅎ ㅁㅔ?"
+    ],
+    "t": "Do you want to dance with me? | Would you like to dance with me?"
+  },
+  {
+    "q": "Mi iros aŭte.",
+    "a": [
+      "ㅣ'ㄸㄸ ㄱㅗ ㅂㅠ ㅊㅏㄹ."
+    ],
+    "t": "I'll go by car."
+  },
+  {
+    "q": "Kial vi demandas?",
+    "a": [
+      "외ㅎㅠ ㄷㅗ ㅠㅗㅜ ㅏㅅㅋ?",
+      "외ㅎㅠ ㅏㄹㅔ ㅠㅗㅜ ㅏㅅㅋㅣㄴㄱ?"
+    ],
+    "t": "Why do you ask? | Why are you asking?"
+  },
+  {
+    "q": "Feliĉan naskiĝtagon, Muiriel!",
+    "a": [
+      "ㅎㅏㅍㅍㅠ ㅂㅣㄹㅌㅎㄷㅏㅠ, ㅁㅜㅣㄹㅣㅔㄸ!"
+    ],
+    "t": "Happy birthday, Muiriel!"
+  },
+  {
+    "q": "Mi ne havas multe da mono.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅁㅜㅊㅎ ㅁㅗㄴㅔㅠ.",
+      "ㅣ ㅎㅏㅆㅔㄴ'ㅌ ㄱㅗㅌ ㅁㅜㅊㅎ ㅁㅗㄴㅔㅠ.",
+      "ㅣ ㄷㅗ ㄴㅗㅌ ㅎㅏㅆㅔ ㅏ ㄸㅗㅌ ㅗㄲ ㅁㅗㄴㅔㅠ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅏ ㄸㅗㅌ ㅗㄲ ㅁㅗㄴㅔㅠ."
+    ],
+    "t": "I don't have much money. | I haven't got much money. | I do not have a lot of money. | I don't have a lot of money."
+  },
+  {
+    "q": "Venu rapide!",
+    "a": [
+      "ㅊㅗㅁㅔ ㅃㅜㅣㅊㅋ!",
+      "ㅊㅗㅁㅔ ㅃㅜㅣㅊㅋㄸㅠ!"
+    ],
+    "t": "Come quick! | Come quickly!"
+  },
+  {
+    "q": "Disvastigu Esperanton!",
+    "a": [
+      "ㅅㅍㄹㅔㅏㄷ ㅔㅅㅍㅔㄹㅏㄴㅌㅗ!"
+    ],
+    "t": "Spread Esperanto!"
+  },
+  {
+    "q": "Saluton!",
+    "a": [
+      "ㅎㅔㄸㄸㅗ!",
+      "ㅎㅣ.",
+      "ㅎㅔㅠ.",
+      "ㅎㅗ외 ㄷㅗ ㅠㅗㅜ ㄷㅗ.",
+      "ㅎㅣ!",
+      "ㅎㅔㄸㄸㅗ.",
+      "ㅎㅗ외ㄷㅠ!",
+      "ㅎㅏㄸㄸㅗ!",
+      "ㄱㄹㅔㅔㅌㅣㄴㄱㅅ!",
+      "ㄱ'ㄷㅏㅠ!"
+    ],
+    "t": "Hello! | Hi. | Hey. | How do you do. | Hi! | Hello. | Howdy! | Hallo! | Greetings! | G'day!"
+  },
+  {
+    "q": "Kioma horo estas?",
+    "a": [
+      "외ㅎㅏㅌ ㅌㅣㅁㅔ ㅣㅅ ㅣㅌ?",
+      "외ㅎㅏㅌ ㅌㅣㅁㅔ ㅣㅅ ㅣㅌ ㄴㅗ외?",
+      "외ㅎㅏㅌ'ㅅ ㅌㅎㅔ ㅌㅣㅁㅔ?",
+      "ㅎㅗ외 ㄸㅏㅌㅔ ㅣㅅ ㅣㅌ?"
+    ],
+    "t": "What time is it? | What time is it now? | What's the time? | How late is it?"
+  },
+  {
+    "q": "Dankon!",
+    "a": [
+      "ㅌㅎㅏㄴㅋ ㅠㅗㅜ!",
+      "ㅌㅎㅏㄴㅋㅅ!",
+      "ㅌㅎㅏㄴㅋ ㅠㅗㅜ.",
+      "ㅌㅎㅏㄴㅋㅅ.",
+      "ㅌㅏ!",
+      "ㅌㅎㅉ!"
+    ],
+    "t": "Thank you! | Thanks! | Thank you. | Thanks. | Ta! | Thx!"
+  },
+  {
+    "q": "Kie estas la enirejo en la muzeon?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㅣㅅ ㅌㅎㅔ ㅔㄴㅌㄹㅏㄴㅊㅔ ㅌㅗ ㅌㅎㅔ ㅁㅜㅅㅔㅜㅁ?",
+      "외ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㅔㄴㅌㄹㅏㄴㅊㅔ ㅌㅗ ㅌㅎㅔ ㅁㅜㅅㅔㅜㅁ?"
+    ],
+    "t": "Where is the entrance to the museum? | Where's the entrance to the museum?"
+  },
+  {
+    "q": "Mi ne povas paroli kun homoj.",
+    "a": [
+      "ㅣ ㅊㅏㄴ'ㅌ ㅌㅏㄸㅋ 외ㅣㅌㅎ ㅍㅔㅗㅍㄸㅔ."
+    ],
+    "t": "I can't talk with people."
+  },
+  {
+    "q": "Kiam vi intencas ĉesi fumi?",
+    "a": [
+      "외ㅎㅔㄴ ㄷㅗ ㅠㅗㅜ ㅣㄴㅌㅔㄴㄷ ㅌㅗ ㅃㅜㅣㅌ ㅅㅁㅗㅋㅣㄴㄱ?"
+    ],
+    "t": "When do you intend to quit smoking?"
+  },
+  {
+    "q": "Ĉi tiu kuko estas dolĉa.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅊㅏㅋㅔ ㅣㅅ ㅅ외ㅔㅔㅌ."
+    ],
+    "t": "This cake is sweet."
+  },
+  {
+    "q": "Vian kreditkarton, mi petas.",
+    "a": [
+      "ㅠㅗㅜㄹ ㅊㄹㅔㄷㅣㅌ ㅊㅏㄹㄷ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅍㄸㅔㅏㅅㅔ ㄱㅣㅆㅔ ㅁㅔ ㅠㅗㅜㄹ ㅊㄹㅔㄷㅣㅌ ㅊㅏㄹㄷ."
+    ],
+    "t": "Your credit card, please. | Please give me your credit card."
+  },
+  {
+    "q": "Mi ne scias, ĉu li venos aŭ ne.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅔㅌㅎㅔㄹ ㅎㅔ ㅊㅗㅁㅔㅅ ㅗㄹ ㄴㅗㅌ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅔㅌㅎㅔㄹ ㅎㅔ 외ㅣㄸㄸ ㅊㅗㅁㅔ ㅗㄹ ㄴㅗㅌ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅔㅌㅎㅔㄹ ㅎㅔ'ㄸㄸ ㅊㅗㅁㅔ ㅗㄹ ㄴㅗㅌ."
+    ],
+    "t": "I don't know whether he comes or not. | I don't know whether he will come or not. | I don't know whether he'll come or not."
+  },
+  {
+    "q": "Prefere ni ne ŝanĝu la planojn.",
+    "a": [
+      "ㅣㅌ 외ㅗㅜㄸㄷ ㅂㅔ ㅂㅔㅌㅌㅔㄹ ㅣㄲ 외ㅔ ㄷㅣㄷㄴ'ㅌ ㅊㅎㅏㄴㄱㅔ ㅗㅜㄹ ㅍㄸㅏㄴㅅ."
+    ],
+    "t": "It would be better if we didn't change our plans."
+  },
+  {
+    "q": "Ĵus ekpluvis.",
+    "a": [
+      "ㅣㅌ ㅈㅜㅅㅌ ㅅㅌㅏㄹㅌㅔㄷ ㅌㅗ ㄹㅏㅣㄴ.",
+      "ㅣㅌ ㅂㅔㄱㅏㄴ ㄹㅏㅣㄴㅣㄴㄱ ㅈㅜㅅㅌ ㄴㅗ외.",
+      "ㅣㅌ'ㅅ ㅈㅜㅅㅌ ㅅㅌㅏㄹㅌㅔㄷ ㄹㅏㅣㄴㅣㄴㄱ."
+    ],
+    "t": "It just started to rain. | It began raining just now. | It's just started raining."
+  },
+  {
+    "q": "Junaj japanoj ŝatas rok-muzikon kaj ĵazon.",
+    "a": [
+      "ㅈㅏㅍㅏㄴㅔㅅㅔ ㅠㅗㅜㄴㄱ ㅍㅔㅗㅍㄸㅔ ㄸㅣㅋㅔ ㄹㅗㅊㅋ ㅏㄴㄷ ㅈㅏㅐㅐ."
+    ],
+    "t": "Japanese young people like rock and jazz."
+  },
+  {
+    "q": "Mi scias nenion pri Japanio.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 ㅏㄴㅠㅌㅎㅣㄴㄱ ㅏㅂㅗㅜㅌ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "I don't know anything about Japan."
+  },
+  {
+    "q": "Mi malfermis la skatolon - ĝi estis malplena.",
+    "a": [
+      "ㅣ ㅗㅍㅔㄴㅔㄷ ㅌㅎㅔ ㅂㅗㅉ — ㅣㅌ 외ㅏㅅ ㅔㅁㅍㅌㅠ."
+    ],
+    "t": "I opened the box — it was empty."
+  },
+  {
+    "q": "Ĉu mi devas klarigi al li la kialojn?",
+    "a": [
+      "ㅣㅅ ㅣㅌ ㄴㅔㅊㅔㅅㅅㅏㄹㅠ ㄲㅗㄹ ㅁㅔ ㅌㅗ ㅔㅉㅍㄸㅏㅣㄴ ㅌㅎㅔ ㄹㅔㅏㅅㅗㄴ ㅌㅗ ㅎㅣㅁ?"
+    ],
+    "t": "Is it necessary for me to explain the reason to him?"
+  },
+  {
+    "q": "Mi parolas france same bone kiel ŝi.",
+    "a": [
+      "ㅣ ㅅㅍㅔㅏㅋ ㄲㄹㅔㄴㅊㅎ ㅏㅅ 외ㅔㄸㄸ ㅏㅅ ㅅㅎㅔ ㄷㅗㅔㅅ."
+    ],
+    "t": "I speak French as well as she does."
+  },
+  {
+    "q": "Mi supozas, ke vi ŝatas lin.",
+    "a": [
+      "ㅣ ㅅㅜㅍㅍㅗㅅㅔ ㅠㅗㅜ ㄸㅣㅋㅔ ㅎㅣㅁ."
+    ],
+    "t": "I suppose you like him."
+  },
+  {
+    "q": "Nu, fojfoje.",
+    "a": [
+      "외ㅔㄸㄸ, ㄲㄹㅗㅁ ㅌㅣㅁㅔ ㅌㅗ ㅌㅣㅁㅔ."
+    ],
+    "t": "Well, from time to time."
+  },
+  {
+    "q": "Mi mensogis, pardonu al mi.",
+    "a": [
+      "ㅣ ㄸㅣㅔㄷ. ㅍㄸㅔㅏㅅㅔ ㄲㅗㄹㄱㅣㅆㅔ ㅁㅔ.",
+      "ㅣ ㄸㅣㅔㄷ. ㅍㄸㅔㅏㅅㅔ ㄲㅗㄹㄱㅣㅆㅔ."
+    ],
+    "t": "I lied. Please forgive me. | I lied. Please forgive."
+  },
+  {
+    "q": "Se vi ne manĝas, vi mortas.",
+    "a": [
+      "ㅣㄲ ㅠㅗㅜ ㄷㅗㄴ'ㅌ ㅔㅏㅌ, ㅠㅗㅜ ㄷㅣㅔ."
+    ],
+    "t": "If you don't eat, you die."
+  },
+  {
+    "q": "Tom finfine ĉesis pri fumado.",
+    "a": [
+      "ㅌㅗㅁ ㄲㅣㄴㅏㄸㄸㅠ ㄱㅏㅆㅔ ㅜㅍ ㅅㅁㅗㅋㅣㄴㄱ.",
+      "ㅌㅗㅁ ㅔㄴㄷㅔㄷ ㅜㅍ ㅅㅌㅗㅍㅍㅣㄴㄱ ㅅㅁㅗㅋㅣㄴㄱ."
+    ],
+    "t": "Tom finally gave up smoking. | Tom ended up stopping smoking."
+  },
+  {
+    "q": "Ĉu vi lernas la anglan ĉiutage?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅅㅌㅜㄷㅠ ㅔㄴㄱㄸㅣㅅㅎ ㅔㅆㅔㄹㅠ ㄷㅏㅠ?",
+      "ㅏㄹㅔ ㅠㅗㅜ ㅅㅌㅜㄷㅠㅣㄴㄱ ㅔㄴㄱㄸㅣㅅㅎ ㅔㅆㅔㄹㅠ ㄷㅏㅠ?"
+    ],
+    "t": "Do you study English every day? | Are you studying English every day?"
+  },
+  {
+    "q": "Iuj homoj ŝatas someron, kaj la aliaj ŝatas vintron.",
+    "a": [
+      "ㅅㅗㅁㅔ ㅍㅔㅗㅍㄸㅔ ㄸㅣㅋㅔ ㅅㅜㅁㅁㅔㄹ, ㅏㄴㄷ ㅗㅌㅎㅔㄹㅅ ㄸㅣㅋㅔ 외ㅣㄴㅌㅔㄹ."
+    ],
+    "t": "Some people like summer, and others like winter."
+  },
+  {
+    "q": "Mi ĵus finis mian hejmtaskon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅈㅜㅅㅌ ㄲㅣㄴㅣㅅㅎㅔㄷ ㅁㅠ ㅎㅗㅁㅔ외ㅗㄹㅋ."
+    ],
+    "t": "I have just finished my homework."
+  },
+  {
+    "q": "Li estas respektata de ĉiuj.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㄹㅔㅅㅍㅔㅊㅌㅔㄷ ㅂㅠ ㅔㅆㅔㄹㅠㅗㄴㅔ."
+    ],
+    "t": "He is respected by everyone."
+  },
+  {
+    "q": "Vi povas atendi min morgaŭ.",
+    "a": [
+      "ㅠㅗㅜ ㅊㅏㄴ ㅔㅉㅍㅔㅊㅌ ㅁㅔ ㅌㅗㅁㅗㄹㄹㅗ외."
+    ],
+    "t": "You can expect me tomorrow."
+  },
+  {
+    "q": "Ni devas respekti lokajn morojn.",
+    "a": [
+      "외ㅔ ㅎㅏㅆㅔ ㅌㅗ ㄹㅔㅅㅍㅔㅊㅌ ㄸㅗㅊㅏㄸ ㅊㅜㅅㅌㅗㅁㅅ."
+    ],
+    "t": "We have to respect local customs."
+  },
+  {
+    "q": "Li eble venos.",
+    "a": [
+      "ㅍㅔㄹㅎㅏㅍㅅ ㅎㅔ 외ㅣㄸㄸ ㅊㅗㅁㅔ."
+    ],
+    "t": "Perhaps he will come."
+  },
+  {
+    "q": "Helpu al mi.",
+    "a": [
+      "ㅎㅔㄸㅍ ㅁㅔ.",
+      "ㅎㅔㄸㅍ ㅁㅔ ㅗㅜㅌ."
+    ],
+    "t": "Help me. | Help me out."
+  },
+  {
+    "q": "Ĉu vi jam legis ĉi tiun libron?",
+    "a": [
+      "ㅎㅏㅆㅔ ㅠㅗㅜ ㄹㅔㅏㄷ ㅌㅎㅣㅅ ㅂㅗㅗㅋ ㅏㄸㄹㅔㅏㄷㅠ?"
+    ],
+    "t": "Have you read this book already?"
+  },
+  {
+    "q": "Usono konsistas el 50 ŝtatoj.",
+    "a": [
+      "ㅌㅎㅔ ㅜㄴㅣㅌㅔㄷ ㅅㅌㅏㅌㅔㅅ ㅣㅅ ㅊㅗㅁㅍㅗㅅㅔㄷ ㅗㄲ 50 ㅅㅌㅏㅌㅔㅅ.",
+      "ㅌㅎㅔ ㅜㄴㅣㅌㅔㄷ ㅅㅌㅏㅌㅔㅅ ㅣㅅ ㅁㅏㄷㅔ ㅜㅍ ㅗㄲ 50 ㅅㅌㅏㅌㅔㅅ.",
+      "ㅌㅎㅔ ㅜㅅㅏ ㅣㅅ ㅊㅗㅁㅍㅗㅅㅔㄷ ㅗㄲ 50 ㅅㅌㅏㅌㅔㅅ."
+    ],
+    "t": "The United States is composed of 50 states. | The United States is made up of 50 states. | The USA is composed of 50 states."
+  },
+  {
+    "q": "Kiu prizorgis la hundon kiam vi ne ĉeestis?",
+    "a": [
+      "외ㅎㅗ ㅊㅏㄹㅔㄷ ㄲㅗㄹ ㅌㅎㅔ ㄷㅗㄱ 외ㅎㅔㄴ ㅠㅗㅜ 외ㅔㄹㅔ ㅏ외ㅏㅠ?"
+    ],
+    "t": "Who cared for the dog when you were away?"
+  },
+  {
+    "q": "Ili ambaŭ estas bonaj instruistoj.",
+    "a": [
+      "ㅌㅎㅔㅠ ㅏㄹㅔ ㅂㅗㅌㅎ ㄱㅗㅗㄷ ㅌㅔㅏㅊㅎㅔㄹㅅ."
+    ],
+    "t": "They are both good teachers."
+  },
+  {
+    "q": "Li tute ne timas serpentojn.",
+    "a": [
+      "ㅎㅔ'ㅅ ㄴㅗㅌ ㅏㅌ ㅏㄸㄸ ㅏㄲㄹㅏㅣㄷ ㅗㄲ ㅅㄴㅏㅋㅔㅅ.",
+      "ㅎㅔ ㅣㅅ ㄴㅗㅌ ㅅㅊㅏㄹㅔㄷ ㅗㄲ ㅅㄴㅏㅋㅔㅅ ㅏㅌ ㅏㄸㄸ.",
+      "ㅎㅔ'ㅅ ㄴㅗㅌ ㅏㄲㄹㅏㅣㄷ ㅗㄲ ㅅㄴㅏㅋㅔㅅ ㅏㅌ ㅏㄸㄸ."
+    ],
+    "t": "He's not at all afraid of snakes. | He is not scared of snakes at all. | He's not afraid of snakes at all."
+  },
+  {
+    "q": "Li mortis pro pulmo-kancero.",
+    "a": [
+      "ㅎㅔ ㄷㅣㅔㄷ ㅗㄲ ㄸㅜㄴㄱ ㅊㅏㄴㅊㅔㄹ."
+    ],
+    "t": "He died of lung cancer."
+  },
+  {
+    "q": "La tuta sumo estas proksimume 10 mil dolaroj.",
+    "a": [
+      "ㅌㅎㅔ ㅌㅗㅌㅏㄸ ㅣㅅ ㅏㅍㅍㄹㅗㅉㅣㅁㅏㅌㅔㄸㅠ ㅌㅔㄴ ㅌㅎㅗㅜㅅㅏㄴㄷ ㄷㅗㄸㄸㅏㄹㅅ."
+    ],
+    "t": "The total is approximately ten thousand dollars."
+  },
+  {
+    "q": "Ni iru spekti televidon.",
+    "a": [
+      "ㄸㅔㅌ'ㅅ 외ㅏㅌㅊㅎ ㅌㅆ.",
+      "외ㅔ 외ㅣㄸㄸ ㄱㅗ ㅌㅗ 외ㅏㅌㅊㅎ ㅌㅆ."
+    ],
+    "t": "Let's watch TV. | We will go to watch TV."
+  },
+  {
+    "q": "Mi havas stultan demandon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅏ ㅅㅌㅜㅍㅣㄷ ㅃㅜㅔㅅㅌㅣㅗㄴ.",
+      "ㅣ ㅎㅏㅆㅔ ㅏ ㅅㅣㄸㄸㅠ ㅃㅜㅔㅅㅌㅣㅗㄴ."
+    ],
+    "t": "I have a stupid question. | I have a silly question."
+  },
+  {
+    "q": "Bill estis en Japanio.",
+    "a": [
+      "ㅂㅣㄸㄸ 외ㅏㅅ ㅣㄴ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "Bill was in Japan."
+  },
+  {
+    "q": "Mi elspezis 3 mil enojn por nova lumdisko.",
+    "a": [
+      "ㅣ ㅅㅍㅔㄴㅌ 3000 ㅠㅔㄴ ㅗㄴ ㅏ ㄴㅔ외 ㅊㄷ.",
+      "ㅣ ㅅㅍㅔㄴㅌ 3,000 ㅠㅔㄴ ㅗㄴ ㅏ ㄴㅔ외 ㅊㄷ."
+    ],
+    "t": "I spent 3000 yen on a new CD. | I spent 3,000 yen on a new CD."
+  },
+  {
+    "q": "Mi parolas ne al vi, sed al la simio.",
+    "a": [
+      "ㅣ'ㅁ ㄴㅗㅌ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ ㅠㅗㅜ; ㅣ'ㅁ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ ㅌㅎㅔ ㅁㅗㄴㅋㅔㅠ.",
+      "ㅣ'ㅁ ㄴㅗㅌ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ ㅠㅗㅜ, ㅣ ㅏㅁ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ ㅌㅎㅔ ㅁㅗㄴㅋㅔㅠ.",
+      "ㅣ'ㅁ ㄴㅗㅌ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ ㅠㅗㅜ. ㅣ'ㅁ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ ㅌㅎㅔ ㅁㅗㄴㅋㅔㅠ."
+    ],
+    "t": "I'm not talking to you; I'm talking to the monkey. | I'm not talking to you, I am talking to the monkey. | I'm not talking to you. I'm talking to the monkey."
+  },
+  {
+    "q": "Ŝi vekiĝis per si mem.",
+    "a": [
+      "ㅅㅎㅔ 외ㅗㅋㅔ ㅜㅍ ㅗㄴ ㅎㅔㄹ ㅗ외ㄴ."
+    ],
+    "t": "She woke up on her own."
+  },
+  {
+    "q": "Liaj vortoj surprizis min.",
+    "a": [
+      "ㅎㅣㅅ 외ㅗㄹㄷㅅ ㅅㅜㄹㅍㄹㅣㅅㅔㄷ ㅁㅔ.",
+      "외ㅎㅏㅌ ㅎㅔ ㅅㅏㅣㄷ ㅅㅜㄹㅍㄹㅣㅅㅔㄷ ㅁㅔ."
+    ],
+    "t": "His words surprised me. | What he said surprised me."
+  },
+  {
+    "q": "Restu kun ni.",
+    "a": [
+      "ㅅㅌㅏㅠ ㅎㅔㄹㅔ 외ㅣㅌㅎ ㅜㅅ.",
+      "ㅅㅌㅏㅠ 외ㅣㅌㅎ ㅜㅅ.",
+      "ㅅㅌㅏㅠ 외ㅣㅌㅎ ㅜㅅ ㅎㅔㄹㅔ."
+    ],
+    "t": "Stay here with us. | Stay with us. | Stay with us here."
+  },
+  {
+    "q": "Granda besto fuĝis el la bestoĝardeno.",
+    "a": [
+      "ㅏ ㄸㅏㄹㄱㅔ ㅏㄴㅣㅁㅏㄸ ㄲㄸㅔㄷ ㄲㄹㅗㅁ ㅌㅎㅔ ㅐㅗㅗ.",
+      "ㅏ ㅂㅣㄱ ㅏㄴㅣㅁㅏㄸ ㅂㄹㅗㅋㅔ ㅗㅜㅌ ㅗㄲ ㅌㅎㅔ ㅐㅗㅗ.",
+      "ㅏ ㅂㅣㄱ ㅏㄴㅣㅁㅏㄸ ㄹㅏㄴ ㅏ외ㅏㅠ ㄲㄹㅗㅁ ㅌㅎㅔ ㅐㅗㅗ."
+    ],
+    "t": "A large animal fled from the zoo. | A big animal broke out of the zoo. | A big animal ran away from the zoo."
+  },
+  {
+    "q": "En la kunveno estis nur ses personoj.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ 외ㅔㄹㅔ ㅗㄴㄸㅠ ㅅㅣㅉ ㅍㅔㅗㅍㄸㅔ ㅣㄴ ㅌㅎㅔ ㅁㅔㅔㅌㅣㄴㄱ.",
+      "ㅌㅎㅔㄹㅔ 외ㅔㄹㅔ ㅗㄴㄸㅠ ㅅㅣㅉ ㅍㅔㅗㅍㄸㅔ ㅏㅌ ㅌㅎㅔ ㅁㅔㅔㅌㅣㄴㄱ."
+    ],
+    "t": "There were only six people in the meeting. | There were only six people at the meeting."
+  },
+  {
+    "q": "Maljunulo ripozis sub arbo.",
+    "a": [
+      "ㅏㄴ ㅔㄸㄷㅔㄹㄸㅠ ㅍㅔㄹㅅㅗㄴ 외ㅏㅅ ㄹㅔㅅㅌㅣㄴㄱ ㅜㄴㄷㅔㄹ ㅏ ㅌㄹㅔㅔ."
+    ],
+    "t": "An elderly person was resting under a tree."
+  },
+  {
+    "q": "Ĉu mi povas eniri?",
+    "a": [
+      "ㅊㅏㄴ ㅣ ㅊㅗㅁㅔ ㅣㄴ?"
+    ],
+    "t": "Can I come in?"
+  },
+  {
+    "q": "Mi ne povas ion kontraŭdiri.",
+    "a": [
+      "ㅣ ㅏㅁ ㄴㅗㅌ ㅏㅂㄸㅔ ㅌㅗ ㅅㅏㅠ ㅏㄴㅠㅌㅎㅣㄴㄱ ㅗㅌㅎㅔㄹ외ㅣㅅㅔ.",
+      "ㅣ ㅊㅏㄴ'ㅌ ㅅㅏㅠ ㅏㄴㅠㅌㅎㅣㄴㄱ ㅏㄱㅏㅣㄴㅅㅌ ㅣㅌ."
+    ],
+    "t": "I am not able to say anything otherwise. | I can't say anything against it."
+  },
+  {
+    "q": "Bonvolu respondi.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㄹㅔㅅㅍㅗㄴㄷ.",
+      "ㅍㄸㅔㅏㅅㅔ ㄹㅔㅍㄸㅠ."
+    ],
+    "t": "Please respond. | Please reply."
+  },
+  {
+    "q": "Li havas eksterlandan aŭton.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅ ㅏ ㄲㅗㄹㅔㅣㄱㄴ ㅊㅏㄹ."
+    ],
+    "t": "He has a foreign car."
+  },
+  {
+    "q": "Jen Japanio.",
+    "a": [
+      "ㅎㅔㄹㅔ ㅣㅅ ㅈㅏㅍㅏㄴ.",
+      "ㅌㅎㅣㅅ ㅣㅅ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "Here is Japan. | This is Japan."
+  },
+  {
+    "q": "Japanio eluzas amason da papero.",
+    "a": [
+      "ㅈㅏㅍㅏㄴ ㅊㅗㄴㅅㅜㅁㅔㅅ ㅏ ㄸㅗㅌ ㅗㄲ ㅍㅏㅍㅔㄹ."
+    ],
+    "t": "Japan consumes a lot of paper."
+  },
+  {
+    "q": "Japanio estas industria lando.",
+    "a": [
+      "ㅈㅏㅍㅏㄴ ㅣㅅ ㅏㄴ ㅣㄴㄷㅜㅅㅌㄹㅣㅏㄸ ㄴㅏㅌㅣㅗㄴ.",
+      "ㅈㅏㅍㅏㄴ ㅣㅅ ㅏㄴ ㅣㄴㄷㅜㅅㅌㄹㅣㅏㄸ ㅊㅗㅜㄴㅌㄹㅠ."
+    ],
+    "t": "Japan is an industrial nation. | Japan is an industrial country."
+  },
+  {
+    "q": "Ĉinio estas multe pli granda ol Japanio.",
+    "a": [
+      "ㅊㅎㅣㄴㅏ ㅣㅅ ㅁㅜㅊㅎ ㄸㅏㄹㄱㅔㄹ ㅌㅎㅏㄴ ㅈㅏㅍㅏㄴ.",
+      "ㅊㅎㅣㄴㅏ ㅣㅅ ㅁㅜㅊㅎ ㅂㅣㄱㄱㅔㄹ ㅌㅎㅏㄴ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "China is much larger than Japan. | China is much bigger than Japan."
+  },
+  {
+    "q": "Japanio estas belega lando.",
+    "a": [
+      "ㅈㅏㅍㅏㄴ ㅣㅅ ㅏ ㅂㅔㅏㅜㅌㅣㄲㅜㄸ ㅊㅗㅜㄴㅌㄹㅠ."
+    ],
+    "t": "Japan is a beautiful country."
+  },
+  {
+    "q": "Mi interesiĝas pri la historio de Azio.",
+    "a": [
+      "ㅣ ㅏㅁ ㅣㄴㅌㅔㄹㅔㅅㅌㅔㄷ ㅣㄴ ㅏㅅㅣㅏㄴ ㅎㅣㅅㅌㅗㄹㅠ.",
+      "ㅣ'ㅁ ㅣㄴㅌㅔㄹㅔㅅㅌㅔㄷ ㅣㄴ ㅏㅅㅣㅏㄴ ㅎㅣㅅㅌㅗㄹㅠ."
+    ],
+    "t": "I am interested in Asian history. | I'm interested in Asian history."
+  },
+  {
+    "q": "Azio estas multe pli granda ol Aŭstralio.",
+    "a": [
+      "ㅏㅅㅣㅏ ㅣㅅ ㅁㅜㅊㅎ ㄸㅏㄹㄱㅔㄹ ㅌㅎㅏㄴ ㅏㅜㅅㅌㄹㅏㄸㅣㅏ."
+    ],
+    "t": "Asia is much larger than Australia."
+  },
+  {
+    "q": "Iuj studentoj estis el Azio, kaj la aliaj el Eŭropo.",
+    "a": [
+      "ㅅㅗㅁㅔ ㅗㄲ ㅌㅎㅔ ㅅㅌㅜㄷㅔㄴㅌㅅ 외ㅔㄹㅔ ㄲㄹㅗㅁ ㅏㅅㅣㅏ ㅏㄴㄷ ㅌㅎㅔ ㅗㅌㅎㅔㄹㅅ 외ㅔㄹㅔ ㄲㄹㅗㅁ ㅔㅜㄹㅗㅍㅔ."
+    ],
+    "t": "Some of the students were from Asia and the others were from Europe."
+  },
+  {
+    "q": "Iam oni opiniis, ke homo ne kapablas flugi.",
+    "a": [
+      "ㅗㄴㅊㅔ 외ㅔ ㅌㅎㅗㅜㄱㅎㅌ ㅌㅎㅏㅌ ㅁㅏㄴ ㅊㅗㅜㄸㄷㄴ'ㅌ ㄲㄸㅠ."
+    ],
+    "t": "Once we thought that man couldn't fly."
+  },
+  {
+    "q": "La homo estas la sola besto, kiu uzas fajron.",
+    "a": [
+      "ㅁㅏㄴ ㅣㅅ ㅌㅎㅔ ㅗㄴㄸㅠ ㅏㄴㅣㅁㅏㄸ ㅌㅎㅏㅌ ㅜㅅㅔㅅ ㄲㅣㄹㅔ.",
+      "ㅁㅏㄴ ㅣㅅ ㅌㅎㅔ ㅗㄴㄸㅠ ㄲㅣㄹㅔ-ㅜㅅㅣㄴㄱ ㅏㄴㅣㅁㅏㄸ."
+    ],
+    "t": "Man is the only animal that uses fire. | Man is the only fire-using animal."
+  },
+  {
+    "q": "Homo devas labori.",
+    "a": [
+      "ㅏ ㅁㅏㄴ ㅁㅜㅅㅌ 외ㅗㄹㅋ.",
+      "ㅌㅎㅔ ㅁㅏㄴ ㅁㅜㅅㅌ 외ㅗㄹㅋ.",
+      "ㅁㅏㄴ ㅁㅜㅅㅌ 외ㅗㄹㅋ."
+    ],
+    "t": "A man must work. | The man must work. | Man must work."
+  },
+  {
+    "q": "Li donis libron al ŝi.",
+    "a": [
+      "ㅎㅔ ㄱㅏㅆㅔ ㅎㅔㄹ ㅏ ㅂㅗㅗㅋ."
+    ],
+    "t": "He gave her a book."
+  },
+  {
+    "q": "Ĉiuj studentoj protestis kontraŭ la milito.",
+    "a": [
+      "ㅏㄸㄸ ㅌㅎㅔ ㅅㅌㅜㄷㅔㄴㅌㅅ ㅍㄹㅗㅌㅔㅅㅌㅔㄷ ㅏㄱㅏㅣㄴㅅㅌ ㅌㅎㅔ 외ㅏㄹ."
+    ],
+    "t": "All the students protested against the war."
+  },
+  {
+    "q": "Kiam vi forveturos, vi mankos al mi.",
+    "a": [
+      "외ㅎㅔㄴ ㅠㅗㅜ ㄸㅔㅏㅆㅔ, ㅣ'ㄸㄸ ㅁㅣㅅㅅ ㅠㅗㅜ.",
+      "ㅣ'ㄸㄸ ㅁㅣㅅㅅ ㅠㅗㅜ 외ㅎㅔㄴ ㅠㅗㅜ'ㄹㅔ ㄱㅗㄴㅔ."
+    ],
+    "t": "When you leave, I'll miss you. | I'll miss you when you're gone."
+  },
+  {
+    "q": "Pri kio vi interesiĝas?",
+    "a": [
+      "외ㅎㅏㅌ ㅏㄹㅔ ㅠㅗㅜ ㅣㄴㅌㅔㄹㅔㅅㅌㅔㄷ ㅣㄴ?"
+    ],
+    "t": "What are you interested in?"
+  },
+  {
+    "q": "Ambaŭ liaj fratinoj estas belegaj.",
+    "a": [
+      "ㅂㅗㅌㅎ ㅎㅣㅅ ㅅㅣㅅㅌㅔㄹㅅ ㅏㄹㅔ ㅂㅔㅏㅜㅌㅣㄲㅜㄸ.",
+      "ㅎㅣㅅ ㅅㅣㅅㅌㅔㄹㅅ ㅏㄹㅔ ㅂㅗㅌㅎ ㅂㅔㅏㅜㅌㅣㄲㅜㄸ."
+    ],
+    "t": "Both his sisters are beautiful. | His sisters are both beautiful."
+  },
+  {
+    "q": "Mi devas trovi ĝin.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅌㅗ ㄲㅣㄴㄷ ㅣㅌ.",
+      "ㅣ'ㅆㅔ ㄱㅗㅌ ㅌㅗ ㄲㅣㄴㄷ ㅣㅌ.",
+      "ㅣ ㅁㅜㅅㅌ ㄲㅣㄴㄷ ㅣㅌ."
+    ],
+    "t": "I have to find it. | I've got to find it. | I must find it."
+  },
+  {
+    "q": "Mi volus skribi centojn da frazoj ĉe Tatoeba, sed mi havas aliajn farendaĵojn.",
+    "a": [
+      "ㅣ 외ㅗㅜㄸㄷ ㄸㅗㅆㅔ ㅌㅗ 외ㄹㅣㅌㅔ ㅎㅜㄴㄷㄹㅔㄷㅅ ㅗㄲ ㅅㅔㄴㅌㅔㄴㅊㅔㅅ ㅗㄴ ㅌㅏㅌㅗㅔㅂㅏ, ㅂㅜㅌ ㅣ'ㅆㅔ ㄱㅗㅌ ㅌㅎㅣㄴㄱㅅ ㅌㅗ ㄷㅗ."
+    ],
+    "t": "I would love to write hundreds of sentences on Tatoeba, but I've got things to do."
+  },
+  {
+    "q": "Mia plej ŝatata koloro estas la ruĝa.",
+    "a": [
+      "ㅁㅠ ㄲㅏㅆㅗㄹㅣㅌㅔ ㅊㅗㄸㅗㄹ ㅣㅅ ㄹㅔㄷ.",
+      "ㅁㅠ ㄲㅏㅆㅗㅜㄹㅣㅌㅔ ㅊㅗㄸㅗㅜㄹ ㅣㅅ ㄹㅔㄷ."
+    ],
+    "t": "My favorite color is red. | My favourite colour is red."
+  },
+  {
+    "q": "Maljunulo sidis apud mi en buso.",
+    "a": [
+      "ㅏㄴ ㅗㄸㄷ ㅁㅏㄴ ㅅㅏㅌ ㄴㅔㅉㅌ ㅌㅗ ㅁㅔ ㅗㄴ ㅌㅎㅔ ㅂㅜㅅ."
+    ],
+    "t": "An old man sat next to me on the bus."
+  },
+  {
+    "q": "Li kapablas tranaĝi unu mejlon.",
+    "a": [
+      "ㅎㅔ ㅊㅏㄴ ㅅ외ㅣㅁ ㅏ ㅁㅣㄸㅔ."
+    ],
+    "t": "He can swim a mile."
+  },
+  {
+    "q": "Hieraŭ mi aĉetis ruĝan aŭton.",
+    "a": [
+      "ㅠㅔㅅㅌㅔㄹㄷㅏㅠ, ㅣ ㅂㅗㅜㄱㅎㅌ ㅏ ㄹㅔㄷ ㅊㅏㄹ."
+    ],
+    "t": "Yesterday, I bought a red car."
+  },
+  {
+    "q": "Vi ambaŭ eraras - vi kaj via frato.",
+    "a": [
+      "ㅂㅗㅌㅎ ㅠㅗㅜ ㅏㄴㄷ ㅠㅗㅜㄹ ㅂㄹㅗㅌㅎㅔㄹ ㅏㄹㅔ 외ㄹㅗㄴㄱ."
+    ],
+    "t": "Both you and your brother are wrong."
+  },
+  {
+    "q": "Kiel vi sentas vin hodiaŭ?",
+    "a": [
+      "ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ ㄲㅔㅔㄸㅣㄴㄱ ㅌㅗㄷㅏㅠ?",
+      "ㅎㅗ외 ㄷㅗ ㅠㅗㅜ ㄲㅔㅔㄸ ㅌㅗㄷㅏㅠ?"
+    ],
+    "t": "How are you feeling today? | How do you feel today?"
+  },
+  {
+    "q": "Kie estas dentopasto?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㅊㅏㄴ ㅣ ㄲㅣㄴㄷ ㅌㅗㅗㅌㅎㅍㅏㅅㅌㅔ?"
+    ],
+    "t": "Where can I find toothpaste?"
+  },
+  {
+    "q": "Tabulo ne devas nepre esti nigra.",
+    "a": [
+      "ㅏ ㅂㄸㅏㅊㅋㅂㅗㅏㄹㄷ ㄷㅗㅔㅅㄴ'ㅌ ㅎㅏㅆㅔ ㅌㅗ ㅂㅔ ㅂㄸㅏㅊㅋ."
+    ],
+    "t": "A blackboard doesn't have to be black."
+  },
+  {
+    "q": "Ni konas lin.",
+    "a": [
+      "외ㅔ ㅋㄴㅗ외 ㅎㅣㅁ."
+    ],
+    "t": "We know him."
+  },
+  {
+    "q": "Li studis eksterlande.",
+    "a": [
+      "ㅎㅔ ㅅㅌㅜㄷㅣㅔㄷ ㅏㅂㄹㅗㅏㄷ."
+    ],
+    "t": "He studied abroad."
+  },
+  {
+    "q": "Cathy ŝajne ŝatas muzikon.",
+    "a": [
+      "ㅊㅏㅌㅎㅠ ㅅㅔㅔㅁㅅ ㅌㅗ ㄸㅣㅋㅔ ㅁㅜㅅㅣㅊ."
+    ],
+    "t": "Cathy seems to like music."
+  },
+  {
+    "q": "Ŝi havas malmultajn geamikojn.",
+    "a": [
+      "ㅅㅎㅔ ㄷㅗㅔㅅㄴ'ㅌ ㅎㅏㅆㅔ ㅁㅏㄴㅠ ㄲㄹㅣㅔㄴㄷㅅ."
+    ],
+    "t": "She doesn't have many friends."
+  },
+  {
+    "q": "Ŝi fianĉiniĝis al riĉulo.",
+    "a": [
+      "ㅅㅎㅔ ㅂㅔㅊㅏㅁㅔ ㅔㄴㄱㅏㄱㅔㄷ ㅌㅗ ㅌㅎㅔ ㄹㅣㅊㅎ ㅁㅏㄴ."
+    ],
+    "t": "She became engaged to the rich man."
+  },
+  {
+    "q": "Ne ekzistas esceptoj al tiu ĉi regulo.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ ㅏㄹㅔ ㄴㅗ ㅔㅉㅊㅔㅍㅌㅣㅗㄴㅅ ㅌㅗ ㅌㅎㅣㅅ ㄹㅜㄸㅔ."
+    ],
+    "t": "There are no exceptions to this rule."
+  },
+  {
+    "q": "Hieraŭ oni ŝtelis de mi monon.",
+    "a": [
+      "ㅣ ㅎㅏㄷ ㅅㅗㅁㅔ ㅁㅗㄴㅔㅠ ㅅㅌㅗㄸㅔㄴ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ."
+    ],
+    "t": "I had some money stolen yesterday."
+  },
+  {
+    "q": "Italio estas belega lando.",
+    "a": [
+      "ㅣㅌㅏㄸㅠ ㅣㅅ ㅏ ㅆㅔㄹㅠ ㅂㅔㅏㅜㅌㅣㄲㅜㄸ ㅊㅗㅜㄴㅌㄹㅠ."
+    ],
+    "t": "Italy is a very beautiful country."
+  },
+  {
+    "q": "Vi havas tri aŭtojn.",
+    "a": [
+      "ㅠㅗㅜ ㅎㅏㅆㅔ ㅌㅎㄹㅔㅔ ㅊㅏㄹㅅ."
+    ],
+    "t": "You have three cars."
+  },
+  {
+    "q": "Kia grandega hundo!",
+    "a": [
+      "외ㅎㅏㅌ ㅏ ㅎㅜㄱㅔ ㄷㅗㄱ!"
+    ],
+    "t": "What a huge dog!"
+  },
+  {
+    "q": "Li estas mia patro.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅁㅠ ㄲㅏㅌㅎㅔㄹ.",
+      "ㅌㅎㅣㅅ ㅣㅅ ㅁㅠ ㄲㅏㅌㅎㅔㄹ.",
+      "ㅎㅔ ㅣㅅ ㅁㅠ ㄷㅏㄷ.",
+      "ㅎㅔ'ㅅ ㅁㅠ ㄷㅏㄷ.",
+      "ㅎㅔ'ㅅ ㅁㅠ ㄲㅏㅌㅎㅔㄹ."
+    ],
+    "t": "He is my father. | This is my father. | He is my dad. | He's my dad. | He's my father."
+  },
+  {
+    "q": "Mi devas aĉeti novajn skiojn.",
+    "a": [
+      "ㅣ ㅁㅜㅅㅌ ㅂㅜㅠ ㄴㅔ외 ㅅㅋㅣㅅ."
+    ],
+    "t": "I must buy new skis."
+  },
+  {
+    "q": "Ĉio estis tre bongusta!",
+    "a": [
+      "ㅏㄸㄸ ㅗㄲ ㅣㅌ 외ㅏㅅ ㄷㅔㄸㅣㅊㅣㅗㅜㅅ!",
+      "ㅣㅌ 외ㅏㅅ ㅏㄸㄸ ㄷㅔㄸㅣㅊㅣㅗㅜㅅ!",
+      "ㅔㅆㅔㄹㅠㅌㅎㅣㄴㄱ 외ㅏㅅ ㄷㅔㄸㅣㅊㅣㅗㅜㅅ!"
+    ],
+    "t": "All of it was delicious! | It was all delicious! | Everything was delicious!"
+  },
+  {
+    "q": "Li vidis neniun.",
+    "a": [
+      "ㅎㅔ ㄷㅣㄷㄴ'ㅌ ㅅㅔㅔ ㅏㄴㅠㅂㅗㄷㅠ."
+    ],
+    "t": "He didn't see anybody."
+  },
+  {
+    "q": "Ĉu li mortos?",
+    "a": [
+      "외ㅣㄸㄸ ㅎㅔ ㄷㅣㅔ?",
+      "ㅣㅅ ㅎㅔ ㄱㅗㅣㄴㄱ ㅌㅗ ㄷㅣㅔ?"
+    ],
+    "t": "Will he die? | Is he going to die?"
+  },
+  {
+    "q": "Ĉiuj volas ekkoni vin, vi estas fama!",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅗㄴㅔ 외ㅏㄴㅌㅅ ㅌㅗ ㅋㄴㅗ외 ㅠㅗㅜ; ㅠㅗㅜ'ㄹㅔ ㄲㅏㅁㅗㅜㅅ.",
+      "ㅔㅆㅔㄹㅠㅗㄴㅔ 외ㅏㄴㅌㅅ ㅌㅗ ㄱㅔㅌ ㅌㅗ ㅋㄴㅗ외 ㅠㅗㅜ. ㅠㅗㅜ'ㄹㅔ ㄲㅏㅁㅗㅜㅅ!"
+    ],
+    "t": "Everyone wants to know you; you're famous. | Everyone wants to get to know you. You're famous!"
+  },
+  {
+    "q": "Mi preferas grapfruktojn al oranĝoj.",
+    "a": [
+      "ㅣ ㅍㄹㅔㄲㅔㄹ ㄱㄹㅏㅍㅔㄲㄹㅜㅣㅌ ㅌㅗ ㅗㄹㅏㄴㄱㅔㅅ."
+    ],
+    "t": "I prefer grapefruit to oranges."
+  },
+  {
+    "q": "Ĉio iris glate.",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅌㅎㅣㄴㄱ 외ㅔㄴㅌ ㅅㅁㅗㅗㅌㅎㄸㅠ.",
+      "ㅔㅆㅔㄹㅠㅌㅎㅣㄴㄱ ㅊㅏㅁㅔ ㅗㅜㅌ ㅗㅋㅏㅠ ㅣㄴ ㅌㅎㅔ ㅔㄴㄷ.",
+      "ㅣㅌ 외ㅔㄴㅌ 외ㅣㅌㅎㅗㅜㅌ ㅏ ㅎㅣㅌㅊㅎ.",
+      "ㅔㅆㅔㄹㅠㅌㅎㅣㄴㄱ 외ㅔㄴㅌ 외ㅔㄸㄸ."
+    ],
+    "t": "Everything went smoothly. | Everything came out okay in the end. | It went without a hitch. | Everything went well."
+  },
+  {
+    "q": "Dio benu vin!",
+    "a": [
+      "ㄱㅗㄷ ㅂㄸㅔㅅㅅ ㅠㅗㅜ!"
+    ],
+    "t": "God bless you!"
+  },
+  {
+    "q": "La komputilo estas nova.",
+    "a": [
+      "ㅌㅎㅔ ㅊㅗㅁㅍㅜㅌㅔㄹ ㅣㅅ ㄴㅔ외."
+    ],
+    "t": "The computer is new."
+  },
+  {
+    "q": "Ĉu knabo aŭ knabino?",
+    "a": [
+      "ㅣㅅ ㅣㅌ ㅏ ㅂㅗㅠ ㅗㄹ ㅏ ㄱㅣㄹㄸ?"
+    ],
+    "t": "Is it a boy or a girl?"
+  },
+  {
+    "q": "Kioto estas iama ĉefurbo de Japanio.",
+    "a": [
+      "ㅋㅠㅗㅌㅗ 외ㅏㅅ ㅌㅎㅔ ㄲㅗㄹㅁㅔㄹ ㅊㅏㅍㅣㅌㅏㄸ ㅗㄲ ㅈㅏㅍㅏㄴ.",
+      "ㅋㅠㅗㅌㅗ ㅣㅅ ㅈㅏㅍㅏㄴ'ㅅ ㄲㅗㄹㅁㅔㄹ ㅊㅏㅍㅣㅌㅏㄸ."
+    ],
+    "t": "Kyoto was the former capital of Japan. | Kyoto is Japan's former capital."
+  },
+  {
+    "q": "Rigardu ĉi tiun japanan aŭton.",
+    "a": [
+      "ㄸㅗㅗㅋ ㅏㅌ ㅌㅎㅣㅅ ㅈㅏㅍㅏㄴㅔㅅㅔ ㅊㅏㄹ."
+    ],
+    "t": "Look at this Japanese car."
+  },
+  {
+    "q": "Mi certas ke li trapasos la ekzamenon.",
+    "a": [
+      "ㅣ ㅏㅁ ㅊㅔㄹㅌㅏㅣㄴ ㅌㅎㅏㅌ ㅎㅔ 외ㅣㄸㄸ ㅍㅏㅅㅅ ㅌㅎㅔ ㅔㅉㅏㅁ."
+    ],
+    "t": "I am certain that he will pass the exam."
+  },
+  {
+    "q": "Vi estas anĝelo!",
+    "a": [
+      "ㅠㅗㅜ'ㄹㅔ ㅏㄴ ㅏㄴㄱㅔㄸ!",
+      "ㅠㅗㅜ'ㄹㅔ ㅏㄴ ㅏㄴㄱㅔㄸ."
+    ],
+    "t": "You're an angel! | You're an angel."
+  },
+  {
+    "q": "Ĉu vi scias, kiu ŝi estas?",
+    "a": [
+      "ㅠㅗㅜ ㅋㄴㅗ외 외ㅎㅗ ㅅㅎㅔ ㅣㅅ?",
+      "ㄷㅗ ㅠㅗㅜ ㅋㄴㅗ외 외ㅎㅗ ㅅㅎㅔ ㅣㅅ?"
+    ],
+    "t": "You know who she is? | Do you know who she is?"
+  },
+  {
+    "q": "Morgaŭ neĝos.",
+    "a": [
+      "ㅣㅌ'ㄸㄸ ㅅㄴㅗ외 ㅌㅗㅁㅗㄹㄹㅗ외.",
+      "ㅣㅌ 외ㅣㄸㄸ ㅅㄴㅗ외 ㅌㅗㅁㅗㄹㄹㅗ외.",
+      "ㅣㅌ 외ㅣㄸㄸ ㅂㅔ ㅅㄴㅗ외ㅣㄴㄱ ㅌㅗㅁㅗㄹㄹㅗ외."
+    ],
+    "t": "It'll snow tomorrow. | It will snow tomorrow. | It will be snowing tomorrow."
+  },
+  {
+    "q": "Foririnte el necesejo ni lavu la manojn!",
+    "a": [
+      "ㄸㅔㅏㅆㅣㄴㄱ ㅌㅎㅔ ㄹㅔㅅㅌㄹㅗㅗㅁ 외ㅔ ㅁㅜㅅㅌ 외ㅏㅅㅎ ㅗㅜㄹ ㅎㅏㄴㄷㅅ!"
+    ],
+    "t": "Leaving the restroom we must wash our hands!"
+  },
+  {
+    "q": "La vulkano denove aktiviĝis.",
+    "a": [
+      "ㅌㅎㅔ ㅆㅗㄸㅊㅏㄴㅗ ㅎㅏㅅ ㅂㅔㅊㅗㅁㅔ ㅏㅊㅌㅣㅆㅔ ㅏㄱㅏㅣㄴ."
+    ],
+    "t": "The volcano has become active again."
+  },
+  {
+    "q": "Kion vi faris ĉi-matene?",
+    "a": [
+      "외ㅎㅏㅌ ㄷㅣㄷ ㅠㅗㅜ ㄷㅗ ㅌㅎㅣㅅ ㅁㅗㄹㄴㅣㄴㄱ?"
+    ],
+    "t": "What did you do this morning?"
+  },
+  {
+    "q": "Li estas sendependa de siaj gepatroj.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅣㄴㄷㅔㅍㅔㄴㄷㅔㄴㅌ ㅗㄲ ㅎㅣㅅ ㅍㅏㄹㅔㄴㅌㅅ."
+    ],
+    "t": "He is independent of his parents."
+  },
+  {
+    "q": "Kiom longe vi restos?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㅏㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ ㅌㅗ ㅅㅌㅏㅠ?"
+    ],
+    "t": "How long are you going to stay?"
+  },
+  {
+    "q": "Ĉu vi pensas, ke fiŝoj povas aŭdi?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅌㅎㅣㄴㅋ ㄲㅣㅅㅎ ㅊㅏㄴ ㅎㅔㅏㄹ?",
+      "ㄷㅗ ㅠㅗㅜ ㅌㅎㅣㄴㅋ ㅌㅎㅏㅌ ㄲㅣㅅㅎ ㅊㅏㄴ ㅎㅔㅏㄹ?"
+    ],
+    "t": "Do you think fish can hear? | Do you think that fish can hear?"
+  },
+  {
+    "q": "Ne alproksimiĝu al la hundo.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㄱㅗ ㄴㅔㅏㄹ ㅌㅎㅔ ㄷㅗㄱ."
+    ],
+    "t": "Don't go near the dog."
+  },
+  {
+    "q": "Iam ĉi tie estis preĝejo.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ 외ㅏㅅ ㅏ ㅊㅎㅜㄹㅊㅎ ㅎㅔㄹㅔ ㅗㄴㅊㅔ.",
+      "ㅌㅎㅔㄹㅔ ㅜㅅㅔㄷ ㅌㅗ ㅂㅔ ㅏ ㅊㅎㅜㄹㅊㅎ ㅎㅔㄹㅔ."
+    ],
+    "t": "There was a church here once. | There used to be a church here."
+  },
+  {
+    "q": "Oni nomas min Bob.",
+    "a": [
+      "ㅌㅎㅔㅠ ㅊㅏㄸㄸ ㅁㅔ ㅂㅗㅂ."
+    ],
+    "t": "They call me Bob."
+  },
+  {
+    "q": "Kenji estas tenisludanto.",
+    "a": [
+      "ㅋㅔㄴㅈㅣ ㅣㅅ ㅏ ㅌㅔㄴㄴㅣㅅ ㅍㄸㅏㅠㅔㄹ."
+    ],
+    "t": "Kenji is a tennis player."
+  },
+  {
+    "q": "Ho! Se mi estus riĉa, mi aĉetus domon en Hispanio.",
+    "a": [
+      "ㅏㅎ! ㅣㄲ ㅣ 외ㅔㄹㅔ ㄹㅣㅊㅎ, ㅣ'ㄷ ㅂㅜㅠ ㅁㅠㅅㅔㄸㄲ ㅏ ㅎㅗㅜㅅㅔ ㅣㄴ ㅅㅍㅏㅣㄴ."
+    ],
+    "t": "Ah! If I were rich, I'd buy myself a house in Spain."
+  },
+  {
+    "q": "Ho, vi estis ĉe frizisto!",
+    "a": [
+      "ㅗㅎ, ㅠㅗㅜ 외ㅔㄹㅔ ㅏㅌ ㅌㅎㅔ ㅎㅏㅣㄹㄷㄹㅔㅅㅅㅔㄹ'ㅅ."
+    ],
+    "t": "Oh, you were at the hairdresser's."
+  },
+  {
+    "q": "Mia horloĝo devas esti riparita.",
+    "a": [
+      "ㅁㅠ 외ㅏㅌㅊㅎ ㄴㅔㅔㄷㅅ ㅁㅔㄴㄷㅣㄴㄱ.",
+      "ㅁㅠ 외ㅏㅌㅊㅎ ㄴㅔㅔㄷㅅ ㅌㅗ ㅂㅔ ㄹㅔㅍㅏㅣㄹㅔㄷ.",
+      "ㅁㅠ 외ㅏㅌㅊㅎ ㄴㅔㅔㄷㅅ ㄹㅔㅍㅏㅣㄹㅣㄴㄱ.",
+      "ㅁㅠ ㅊㄸㅗㅊㅋ ㄴㅔㅔㄷㅅ ㅌㅗ ㅂㅔ ㄲㅣㅉㅔㄷ."
+    ],
+    "t": "My watch needs mending. | My watch needs to be repaired. | My watch needs repairing. | My clock needs to be fixed."
+  },
+  {
+    "q": "Kiam vi komencis lerni la germanan?",
+    "a": [
+      "외ㅎㅔㄴ ㄷㅣㄷ ㅠㅗㅜ ㅂㅔㄱㅣㄴ ㄸㅔㅏㄹㄴㅣㄴㄱ ㄱㅔㄹㅁㅏㄴ?"
+    ],
+    "t": "When did you begin learning German?"
+  },
+  {
+    "q": "Mi vomis.",
+    "a": [
+      "ㅣ ㅌㅎㄹㅔ외 ㅜㅍ."
+    ],
+    "t": "I threw up."
+  },
+  {
+    "q": "Ĉi tiuj urboj havas samajn trafikregulojn.",
+    "a": [
+      "ㅌㅎㅔㅅㅔ ㅊㅣㅌㅣㅔㅅ ㅎㅏㅆㅔ ㅅㅣㅁㅣㄸㅏㄹ ㅌㄹㅏㄲㄲㅣㅊ ㄹㅜㄸㅔㅅ."
+    ],
+    "t": "These cities have similar traffic rules."
+  },
+  {
+    "q": "Mi pensas, ke filmo estas pli interesa ol iu ajn libro.",
+    "a": [
+      "ㅣ ㅌㅎㅣㄴㅋ ㅏ ㄲㅣㄸㅁ ㅣㅅ ㅁㅗㄹㅔ ㅣㄴㅌㅔㄹㅔㅅㅌㅣㄴㄱ ㅌㅎㅏㄴ ㅏㄴㅠ ㅂㅗㅗㅋ."
+    ],
+    "t": "I think a film is more interesting than any book."
+  },
+  {
+    "q": "Romo estas malnova urbo.",
+    "a": [
+      "ㄹㅗㅁㅔ ㅣㅅ ㅏㄴ ㅗㄸㄷ ㅊㅣㅌㅠ.",
+      "ㄹㅗㅁㅔ ㅣㅅ ㅏㄴ ㅏㄴㅊㅣㅔㄴㅌ ㅊㅣㅌㅠ."
+    ],
+    "t": "Rome is an old city. | Rome is an ancient city."
+  },
+  {
+    "q": "Nemultaj studentoj ĉeestis la renkontiĝon.",
+    "a": [
+      "ㄲㅔ외 ㅅㅌㅜㄷㅔㄴㅌㅅ ㅏㅌㅌㅔㄴㄷㅔㄷ ㅌㅎㅔ ㅁㅔㅔㅌㅣㄴㄱ.",
+      "ㄴㅗㅌ ㅁㅏㄴㅠ ㅅㅌㅜㄷㅔㄴㅌㅅ ㅏㅌㅌㅔㄴㄷㅔㄷ ㅌㅎㅔ ㅁㅔㅔㅌㅣㄴㄱ."
+    ],
+    "t": "Few students attended the meeting. | Not many students attended the meeting."
+  },
+  {
+    "q": "Svedio havas sian propran lingvon.",
+    "a": [
+      "ㅅ외ㅔㄷㅔㄴ ㅎㅏㅅ ㅏ ㄸㅏㄴㄱㅜㅏㄱㅔ ㅗㄲ ㅣㅌㅅ ㅗ외ㄴ.",
+      "ㅅ외ㅔㄷㅔㄴ ㅎㅏㅅ ㅣㅌㅅ ㅗ외ㄴ ㄸㅏㄴㄱㅜㅏㄱㅔ."
+    ],
+    "t": "Sweden has a language of its own. | Sweden has its own language."
+  },
+  {
+    "q": "La angla estas uzata de multaj homoj.",
+    "a": [
+      "ㅔㄴㄱㄸㅣㅅㅎ ㅣㅅ ㅜㅅㅔㄷ ㅂㅠ ㅁㅏㄴㅠ ㅍㅔㅗㅍㄸㅔ."
+    ],
+    "t": "English is used by many people."
+  },
+  {
+    "q": "Kulturo detruas lingvon.",
+    "a": [
+      "ㅊㅜㄸㅌㅜㄹㅔ ㄷㅔㅅㅌㄹㅗㅠㅅ ㄸㅏㄴㄱㅜㅏㄱㅔㅅ."
+    ],
+    "t": "Culture destroys languages."
+  },
+  {
+    "q": "Ĉu via kapo doloras?",
+    "a": [
+      "ㄷㅗㅔㅅ ㅠㅗㅜㄹ ㅎㅔㅏㄷ ㅎㅜㄹㅌ?"
+    ],
+    "t": "Does your head hurt?"
+  },
+  {
+    "q": "Mi pensas, ke li pravas.",
+    "a": [
+      "ㅣ ㅌㅎㅣㄴㅋ ㅎㅔ ㅣㅅ ㄹㅣㄱㅎㅌ.",
+      "ㅣ ㅌㅎㅣㄴㅋ ㅌㅎㅏㅌ ㅎㅔ'ㅅ ㄹㅣㄱㅎㅌ.",
+      "ㅣ ㅌㅎㅣㄴㅋ ㅎㅔ'ㅅ ㄹㅣㄱㅎㅌ."
+    ],
+    "t": "I think he is right. | I think that he's right. | I think he's right."
+  },
+  {
+    "q": "Mi estas edziĝinta.",
+    "a": [
+      "ㅣ'ㅁ ㅁㅏㄹㄹㅣㅔㄷ.",
+      "ㅣ ㅏㅁ ㅁㅏㄹㄹㅣㅔㄷ."
+    ],
+    "t": "I'm married. | I am married."
+  },
+  {
+    "q": "Blovis forta vento.",
+    "a": [
+      "ㅏ ㅅㅌㄹㅗㄴㄱ 외ㅣㄴㄷ 외ㅏㅅ ㅂㄸㅗ외ㅣㄴㄱ."
+    ],
+    "t": "A strong wind was blowing."
+  },
+  {
+    "q": "Ŝi ŝategas kuiri.",
+    "a": [
+      "ㅅㅎㅔ ㄸㅗㅆㅔㅅ ㅌㅗ ㅊㅗㅗㅋ."
+    ],
+    "t": "She loves to cook."
+  },
+  {
+    "q": "Jane kaj mi bone ludas pianon.",
+    "a": [
+      "ㅈㅏㄴㅔ ㅏㄴㄷ ㅣ ㅍㄸㅏㅠ ㅌㅎㅔ ㅍㅣㅏㄴㅗ 외ㅔㄸㄸ."
+    ],
+    "t": "Jane and I play the piano well."
+  },
+  {
+    "q": "Li loĝas en Tokio.",
+    "a": [
+      "ㅎㅔ ㄸㅣㅆㅔㅅ ㅣㄴ ㅌㅗㅋㅠㅗ.",
+      "ㅎㅔ ㅣㅅ ㄸㅣㅆㅣㄴㄱ ㅣㄴ ㅌㅗㅋㅠㅗ."
+    ],
+    "t": "He lives in Tokyo. | He is living in Tokyo."
+  },
+  {
+    "q": "Bonan nokton, Timmy.",
+    "a": [
+      "ㄱㅗㅗㄷ ㄴㅣㄱㅎㅌ, ㅌㅣㅁㅁㅠ!",
+      "ㄱㅗㅗㄷㄴㅣㄱㅎㅌ, ㅌㅣㅁㅁㅠ."
+    ],
+    "t": "Good night, Timmy! | Goodnight, Timmy."
+  },
+  {
+    "q": "Provu denove.",
+    "a": [
+      "ㅌㄹㅠ ㅣㅌ ㅗㄴㅊㅔ ㅁㅗㄹㅔ.",
+      "ㅌㄹㅠ ㅏㄱㅏㅣㄴ!",
+      "ㅌㄹㅠ ㅏㄱㅏㅣㄴ.",
+      "ㅌㄹㅠ ㅗㄴㅊㅔ ㅏㄱㅏㅣㄴ."
+    ],
+    "t": "Try it once more. | Try again! | Try again. | Try once again."
+  },
+  {
+    "q": "Saluton, mi estas Tomoko Sato el Japanio.",
+    "a": [
+      "ㅎㅔㄸㄸㅗ, ㅣ'ㅁ ㅌㅗㅁㅗㅋㅗ ㅅㅏㅌㅗ ㄲㄹㅗㅁ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "Hello, I'm Tomoko Sato from Japan."
+  },
+  {
+    "q": "Li revenis du tagojn poste.",
+    "a": [
+      "ㅎㅔ ㅊㅏㅁㅔ ㅂㅏㅊㅋ ㅌ외ㅗ ㄷㅏㅠㅅ ㅏㄲㅌㅔㄹ.",
+      "ㅎㅔ ㅊㅏㅁㅔ ㅂㅏㅊㅋ ㅌ외ㅗ ㄷㅏㅠㅅ ㄸㅏㅌㅔㄹ."
+    ],
+    "t": "He came back two days after. | He came back two days later."
+  },
+  {
+    "q": "La urbo troviĝas okcidente de Londono.",
+    "a": [
+      "ㅌㅎㅔ ㅊㅣㅌㅠ ㅣㅅ ㄲㅗㅜㄴㄷ 외ㅔㅅㅌ ㅗㄲ ㄸㅗㄴㄷㅗㄴ.",
+      "ㅌㅎㅔ ㅊㅣㅌㅠ ㅣㅅ ㅌㅗ ㅌㅎㅔ 외ㅔㅅㅌ ㅗㄲ ㄸㅗㄴㄷㅗㄴ.",
+      "ㅌㅎㅔ ㅊㅣㅌㅠ ㅣㅅ 외ㅔㅅㅌ ㅗㄲ ㄸㅗㄴㄷㅗㄴ.",
+      "ㅌㅎㅔ ㅌㅗ외ㄴ ㄸㅣㅔㅅ ㅌㅗ ㅌㅎㅔ 외ㅔㅅㅌ ㅗㄲ ㄸㅗㄴㄷㅗㄴ.",
+      "ㅌㅎㅔ ㅌㅗ외ㄴ ㅣㅅ ㅌㅗ ㅌㅎㅔ 외ㅔㅅㅌ ㅗㄲ ㄸㅗㄴㄷㅗㄴ."
+    ],
+    "t": "The city is found west of London. | The city is to the west of London. | The city is west of London. | The town lies to the west of London. | The town is to the west of London."
+  },
+  {
+    "q": "Kia bela sunsubiro!",
+    "a": [
+      "외ㅎㅏㅌ ㅏ ㅂㅔㅏㅜㅌㅣㄲㅜㄸ ㅅㅜㄴㅅㅔㅌ!"
+    ],
+    "t": "What a beautiful sunset!"
+  },
+  {
+    "q": "Norde troviĝas Skotlando, sude - Anglio, okcidente - Kimrio kaj fore okcidente - Norda Irlando.",
+    "a": [
+      "ㅣㄴ ㅌㅎㅔ ㄴㅗㄹㅌㅎ, ㅌㅎㅔㄹㅔ'ㅅ ㅅㅊㅗㅌㄸㅏㄴㄷ; ㅣㄴ ㅌㅎㅔ ㅅㅗㅜㅌㅎ, ㅔㄴㄱㄸㅏㄴㄷ; ㅣㄴ ㅌㅎㅔ 외ㅔㅅㅌ, 외ㅏㄸㅔㅅ; ㅏㄴㄷ ㄲㅜㄹㅌㅎㅔㄹ 외ㅔㅅㅌ, ㄴㅗㄹㅌㅎㅔㄹㄴ ㅣㄹㅔㄸㅏㄴㄷ."
+    ],
+    "t": "In the north, there's Scotland; in the south, England; in the west, Wales; and further west, Northern Ireland."
+  },
+  {
+    "q": "Li bezonas monon.",
+    "a": [
+      "ㅎㅔ ㄴㅔㅔㄷㅅ ㅁㅗㄴㅔㅠ.",
+      "ㅎㅔ ㅣㅅ ㅣㄴ ㄴㅔㅔㄷ ㅗㄲ ㅁㅗㄴㅔㅠ."
+    ],
+    "t": "He needs money. | He is in need of money."
+  },
+  {
+    "q": "Mi ŝatas ĵazon.",
+    "a": [
+      "ㅣ ㄸㅣㅋㅔ ㅈㅏㅐㅐ ㅁㅜㅅㅣㅊ.",
+      "ㅣ ㄸㅣㅋㅔ ㅈㅏㅐㅐ."
+    ],
+    "t": "I like jazz music. | I like jazz."
+  },
+  {
+    "q": "Li havas ĵokeron.",
+    "a": [
+      "ㅎㅔ'ㅅ ㄱㅗㅌ ㅏ ㅈㅗㅋㅔㄹ."
+    ],
+    "t": "He's got a joker."
+  },
+  {
+    "q": "Mi ne plu amas ŝin.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄸㅗㅆㅔ ㅎㅔㄹ ㅏㄴㅠㅁㅗㄹㅔ."
+    ],
+    "t": "I don't love her anymore."
+  },
+  {
+    "q": "Ŝi ne estas alta.",
+    "a": [
+      "ㅅㅎㅔ ㅣㅅ ㄴㅗㅌ ㅌㅏㄸㄸ."
+    ],
+    "t": "She is not tall."
+  },
+  {
+    "q": "Sam estas du jarojn pli juna ol Tom.",
+    "a": [
+      "ㅅㅏㅁ ㅣㅅ ㅌ외ㅗ ㅠㅔㅏㄹㅅ ㅠㅗㅜㄴㄱㅔㄹ ㅌㅎㅏㄴ ㅌㅗㅁ."
+    ],
+    "t": "Sam is two years younger than Tom."
+  },
+  {
+    "q": "Ĉu vi povas rekomendi al mi iun bonan fotilon?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜ ㄹㅔㅊㅗㅁㅁㅔㄴㄷ ㅏ ㄱㅗㅗㄷ ㅊㅏㅁㅔㄹㅏ?"
+    ],
+    "t": "Can you recommend a good camera?"
+  },
+  {
+    "q": "Kiun vi atendas?",
+    "a": [
+      "외ㅎㅗ ㅏㄹㅔ ㅠㅗㅜ 외ㅏㅣㅌㅣㄴㄱ ㄲㅗㄹ?"
+    ],
+    "t": "Who are you waiting for?"
+  },
+  {
+    "q": "Oni ne povas vivi sen akvo.",
+    "a": [
+      "ㅗㄴㅔ ㅊㅏㄴ'ㅌ ㄸㅣㅆㅔ 외ㅣㅌㅎㅗㅜㅌ 외ㅏㅌㅔㄹ.",
+      "ㅠㅗㅜ ㅊㅏㄴ'ㅌ ㄸㅣㅆㅔ 외ㅣㅌㅎㅗㅜㅌ 외ㅏㅌㅔㄹ."
+    ],
+    "t": "One can't live without water. | You can't live without water."
+  },
+  {
+    "q": "Saluton, mi estas Nancy.",
+    "a": [
+      "ㅎㅔㄸㄸㅗ, ㅣ ㅏㅁ ㄴㅏㄴㅊㅠ.",
+      "ㅎㅔㄸㄸㅗ, ㅣ'ㅁ ㄴㅏㄴㅊㅠ."
+    ],
+    "t": "Hello, I am Nancy. | Hello, I'm Nancy."
+  },
+  {
+    "q": "Mi pardonpetas.",
+    "a": [
+      "ㅣ'ㅁ ㅅㅗㄹㄹㅠ.",
+      "ㅣ ㅏㅍㅗㄸㅗㄱㅣㅐㅔ.",
+      "ㅅㅗㄹㄹㅠ!",
+      "ㅣ ㅂㅔㄱ ㅠㅗㅜㄹ ㅍㅏㄹㄷㅗㄴ."
+    ],
+    "t": "I'm sorry. | I apologize. | Sorry! | I beg your pardon."
+  },
+  {
+    "q": "Ŝi aĉetis paron da botoj.",
+    "a": [
+      "ㅅㅎㅔ ㅂㅗㅜㄱㅎㅌ ㅏ ㅍㅏㅣㄹ ㅗㄲ ㅂㅗㅗㅌㅅ.",
+      "ㅅㅎㅔ ㅂㅗㅜㄱㅎㅌ ㅏ ㅊㅗㅜㅍㄸㅔ ㅗㄲ ㅂㅗㅗㅌㅅ."
+    ],
+    "t": "She bought a pair of boots. | She bought a couple of boots."
+  },
+  {
+    "q": "Mi komencas.",
+    "a": [
+      "ㅣ ㅅㅌㅏㄹㅌ."
+    ],
+    "t": "I start."
+  },
+  {
+    "q": "Mi terure timas serpentojn.",
+    "a": [
+      "ㅣ ㅏㅁ ㅌㅔㄹㄹㅣㅂㄸㅠ ㅏㄲㄹㅏㅣㄷ ㅗㄲ ㅅㄴㅏㅋㅔㅅ."
+    ],
+    "t": "I am terribly afraid of snakes."
+  },
+  {
+    "q": "Libertempe mi verkas poemojn.",
+    "a": [
+      "ㅣ 외ㄹㅣㅌㅔ ㅍㅗㅔㅁㅅ ㅣㄴ ㅁㅠ ㄲㄹㅔㅔ ㅌㅣㅁㅔ."
+    ],
+    "t": "I write poems in my free time."
+  },
+  {
+    "q": "Ŝi ŝatas ĉi tiujn katojn.",
+    "a": [
+      "ㅅㅎㅔ ㄸㅣㅋㅔㅅ ㅌㅎㅔㅅㅔ ㅊㅏㅌㅅ."
+    ],
+    "t": "She likes these cats."
+  },
+  {
+    "q": "Mi estis ŝokita pro la morto de John.",
+    "a": [
+      "ㅣ 외ㅏㅅ ㅅㅎㅗㅊㅋㅔㄷ ㅏㅂㅗㅜㅌ ㅈㅗㅎㄴ'ㅅ ㄷㅔㅏㅌㅎ."
+    ],
+    "t": "I was shocked about John's death."
+  },
+  {
+    "q": "Baldaŭ la ĉielo heliĝos.",
+    "a": [
+      "ㅅㅗㅗㄴ ㅌㅎㅔ ㅅㅋㅠ 외ㅣㄸㄸ ㅂㅔㅊㅗㅁㅔ ㅂㄹㅣㄱㅎㅌ."
+    ],
+    "t": "Soon the sky will become bright."
+  },
+  {
+    "q": "Ĉu proksime troviĝas telefono?",
+    "a": [
+      "ㅣㅅ ㅌㅎㅔㄹㅔ ㅏ ㅌㅔㄸㅔㅍㅎㅗㄴㅔ ㄴㅔㅏㄹ ㅂㅠ?",
+      "ㅊㅏㄴ ㅗㄴㅔ ㄲㅣㄴㄷ ㅏ ㅌㅔㄸㅔㅍㅎㅗㄴㅔ ㄴㅔㅏㄹ ㅂㅠ?"
+    ],
+    "t": "Is there a telephone near by? | Can one find a telephone near by?"
+  },
+  {
+    "q": "Mi aŭdas vin, sed mi ne vidas vin.",
+    "a": [
+      "ㅣ ㅎㅔㅏㄹ ㅠㅗㅜ, ㅂㅜㅌ ㅣ ㄷㅗㄴ'ㅌ ㅅㅔㅔ ㅠㅗㅜ."
+    ],
+    "t": "I hear you, but I don't see you."
+  },
+  {
+    "q": "Alivorte, li estas pigrulo.",
+    "a": [
+      "ㅣㄴ ㅗㅌㅎㅔㄹ 외ㅗㄹㄷㅅ, ㅎㅔ ㅣㅅ ㄸㅏㅐㅠ.",
+      "ㅣㄴ ㅗㅌㅎㅔㄹ 외ㅗㄹㄷㅅ, ㅎㅔ ㅣㅅ ㅏ ㄸㅏㅐㅠ ㅍㅔㄹㅅㅗㄴ.",
+      "ㅣㄴ ㅗㅌㅎㅔㄹ 외ㅗㄹㄷㅅ, ㅎㅔ'ㅅ ㄸㅏㅐㅠ."
+    ],
+    "t": "In other words, he is lazy. | In other words, he is a lazy person. | In other words, he's lazy."
+  },
+  {
+    "q": "Ni sukcesis!",
+    "a": [
+      "외ㅔ ㅅㅜㅊㅊㅔㅔㄷㅔㄷ!",
+      "외ㅔ ㅅㅜㅊㅊㅔㅔㄷㅔㄷ."
+    ],
+    "t": "We succeeded! | We succeeded."
+  },
+  {
+    "q": "Mia onklo instruas la anglan ĉe universitato.",
+    "a": [
+      "ㅁㅠ ㅜㄴㅊㄸㅔ ㅌㅔㅏㅊㅎㅔㅅ ㅔㄴㄱㄸㅣㅅㅎ ㅏㅌ ㅌㅎㅔ ㅜㄴㅣㅆㅔㄹㅅㅣㅌㅠ."
+    ],
+    "t": "My uncle teaches English at the university."
+  },
+  {
+    "q": "Li eĉ ne scipovas subskribi.",
+    "a": [
+      "ㅎㅔ ㄷㅗㅔㅅ ㄴㅗㅌ ㅔㅆㅔㄴ ㅋㄴㅗ외 ㅎㅗ외 ㅌㅗ ㅅㅣㄱㄴ ㅎㅣㅅ ㄴㅏㅁㅔ."
+    ],
+    "t": "He does not even know how to sign his name."
+  },
+  {
+    "q": "Bonvolu pendigi vian mantelon en la antaŭĉambro.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㅎㅏㄴㄱ ㅠㅗㅜㄹ ㅊㅗㅏㅌ ㅣㄴ ㅌㅎㅔ ㅏㄴㅌㅔㄹㅗㅗㅁ."
+    ],
+    "t": "Please hang your coat in the anteroom."
+  },
+  {
+    "q": "Poste mi ne parolis kun ili.",
+    "a": [
+      "ㅏㄲㅌㅔㄹ외ㅏㄹㄷㅅ, ㅣ ㄷㅣㄷ ㄴㅗㅌ ㅅㅍㅔㅏㅋ 외ㅣㅌㅎ ㅌㅎㅔㅁ."
+    ],
+    "t": "Afterwards, I did not speak with them."
+  },
+  {
+    "q": "Mi ne havas tempon por legi.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㄴㅗ ㅌㅣㅁㅔ ㅌㅗ ㄹㅔㅏㄷ.",
+      "ㅣ ㅎㅏㅆㅔ ㄴㅗ ㅌㅣㅁㅔ ㅔㅆㅔㄴ ㄲㅗㄹ ㄹㅔㅏㄷㅣㄴㄱ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅌㅣㅁㅔ ㅌㅗ ㄹㅔㅏㄷ."
+    ],
+    "t": "I have no time to read. | I have no time even for reading. | I don't have time to read."
+  },
+  {
+    "q": "Mi havas katon kaj hundon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅏ ㅊㅏㅌ ㅏㄴㄷ ㅏ ㄷㅗㄱ."
+    ],
+    "t": "I have a cat and a dog."
+  },
+  {
+    "q": "Li ne povas koni la veron.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㄴㅗㅌ ㅏㅂㄸㅔ ㅌㅗ ㅋㄴㅗ외 ㅌㅎㅔ ㅌㄹㅜㅌㅎ.",
+      "ㅎㅔ ㅊㅏㄴ'ㅌ ㅋㄴㅗ외 ㅌㅎㅔ ㅌㄹㅜㅌㅎ."
+    ],
+    "t": "He is not able to know the truth. | He can't know the truth."
+  },
+  {
+    "q": "Kiam la akvo ekbolis, ŝi aldonis la ingrediencojn.",
+    "a": [
+      "외ㅎㅔㄴ ㅌㅎㅔ 외ㅏㅌㅔㄹ 외ㅏㅅ ㅂㄹㅗㅜㄱㅎㅌ ㅌㅗ ㅏ ㅂㅗㅣㄸ, ㅅㅎㅔ ㅏㄷㄷㅔㄷ ㅌㅎㅔ ㅣㄴㄱㄹㅔㄷㅣㅔㄴㅌㅅ."
+    ],
+    "t": "When the water was brought to a boil, she added the ingredients."
+  },
+  {
+    "q": "Prenu kiom vi volas.",
+    "a": [
+      "ㅌㅏㅋㅔ ㅏㅅ ㅁㅜㅊㅎ ㅏㅅ ㅠㅗㅜ 외ㅏㄴㅌ."
+    ],
+    "t": "Take as much as you want."
+  },
+  {
+    "q": "Mi estas edziniĝinta.",
+    "a": [
+      "ㅣ'ㅁ ㅁㅏㄹㄹㅣㅔㄷ.",
+      "ㅣ ㅏㅁ ㅁㅏㄹㄹㅣㅔㄷ."
+    ],
+    "t": "I'm married. | I am married."
+  },
+  {
+    "q": "John konstruis librobreton.",
+    "a": [
+      "ㅈㅗㅎㄴ ㅁㅏㄷㅔ ㅏ ㅂㅗㅗㅋ ㅅㅎㅔㄸㄲ.",
+      "ㅈㅗㅎㄴ ㅂㅜㅣㄸㅌ ㅏ ㅂㅗㅗㅋㅊㅏㅅㅔ."
+    ],
+    "t": "John made a book shelf. | John built a bookcase."
+  },
+  {
+    "q": "Ŝi donis lakton al kato.",
+    "a": [
+      "ㅅㅎㅔ ㄱㅏㅆㅔ ㅏ ㅊㅏㅌ ㅅㅗㅁㅔ ㅁㅣㄸㅋ."
+    ],
+    "t": "She gave a cat some milk."
+  },
+  {
+    "q": "Mi vartos vian infanon ĉi-vespere.",
+    "a": [
+      "ㅣ'ㄸㄸ ㅌㅏㅋㅔ ㅊㅏㄹㅔ ㅗㄲ ㅠㅗㅜㄹ ㅊㅎㅣㄸㄷ ㅌㅗㄴㅣㄱㅎㅌ.",
+      "ㅣ 외ㅣㄸㄸ ㄸㅗㅗㅋ ㅏㄲㅌㅔㄹ ㅠㅗㅜㄹ ㅊㅎㅣㄸㄷ ㅌㅎㅣㅅ ㅔㅆㅔㄴㅣㄴㄱ."
+    ],
+    "t": "I'll take care of your child tonight. | I will look after your child this evening."
+  },
+  {
+    "q": "Ĉi tiu sporto estas pli kaj pli populara.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅅㅍㅗㄹㅌ ㅣㅅ ㅂㅔㅊㅗㅁㅣㄴㄱ ㅁㅗㄹㅔ ㅏㄴㄷ ㅁㅗㄹㅔ ㅍㅗㅍㅜㄸㅏㄹ."
+    ],
+    "t": "This sport is becoming more and more popular."
+  },
+  {
+    "q": "Ĝi estas tre stranga letero.",
+    "a": [
+      "ㅣㅌ ㅣㅅ ㅏ ㅆㅔㄹㅠ ㅅㅌㄹㅏㄴㄱㅔ ㄸㅔㅌㅌㅔㄹ."
+    ],
+    "t": "It is a very strange letter."
+  },
+  {
+    "q": "Ĉi tiu floro estas flava, kaj la aliaj estas bluaj.",
+    "a": [
+      "ㅌㅎㅔ ㄲㄸㅗ외ㅔㄹ ㅣㅅ ㅠㅔㄸㄸㅗ외 ㅏㄴㄷ ㅌㅎㅔ ㅗㅌㅎㅔㄹㅅ ㅏㄹㅔ ㅂㄸㅜㅔ."
+    ],
+    "t": "The flower is yellow and the others are blue."
+  },
+  {
+    "q": "Estas iom malvarme.",
+    "a": [
+      "ㅣㅌ ㅣㅅ ㅏ ㄸㅣㅌㅌㄸㅔ ㅊㅗㄸㄷ.",
+      "ㅣㅌ'ㅅ ㅏ ㅂㅣㅌ ㅊㅎㅣㄸㄸㅠ.",
+      "ㅣㅌ'ㅅ ㅍㄹㅔㅌㅌㅠ ㅊㅗㄸㄷ.",
+      "ㅣㅌ'ㅅ ㅊㅎㅣㄸㄸㅠ.",
+      "ㅣㅌ ㅣㅅ ㅍㄹㅔㅌㅌㅠ ㅊㅗㄸㄷ.",
+      "ㅣㅌ'ㅅ ㄹㅏㅌㅎㅔㄹ ㅊㅗㄸㄷ."
+    ],
+    "t": "It is a little cold. | It's a bit chilly. | It's pretty cold. | It's chilly. | It is pretty cold. | It's rather cold."
+  },
+  {
+    "q": "Mi ne povas elteni la ventrodoloron.",
+    "a": [
+      "ㅣ ㅏㅁ ㄴㅗ ㄸㅗㄴㄱㅔㄹ ㅏㅂㄸㅔ ㅌㅗ ㅎㅏㄴㄷㄸㅔ ㅌㅎㅔ ㅊㅎㅔㅅㅌ ㅍㅏㅣㄴ."
+    ],
+    "t": "I am no longer able to handle the chest pain."
+  },
+  {
+    "q": "Li ne plu havas forton.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅ ㄴㅗ ㅁㅗㄹㅔ ㅅㅌㄹㅔㄴㄱㅌㅎ."
+    ],
+    "t": "He has no more strength."
+  },
+  {
+    "q": "Mi estas heroo.",
+    "a": [
+      "ㅣ'ㅁ ㅏ ㅎㅔㄹㅗ."
+    ],
+    "t": "I'm a hero."
+  },
+  {
+    "q": "Printempo alvenis.",
+    "a": [
+      "ㅅㅍㄹㅣㄴㄱ ㅎㅏㅅ ㅊㅗㅁㅔ ㅏㄹㅗㅜㄴㄷ.",
+      "ㅅㅍㄹㅣㄴㄱ ㅊㅏㅁㅔ ㅗㄴ.",
+      "ㅅㅍㄹㅣㄴㄱ ㅎㅏㅅ ㅊㅗㅁㅔ.",
+      "ㅅㅍㄹㅣㄴㄱ ㅏㄹㄹㅣㅆㅔㄷ."
+    ],
+    "t": "Spring has come around. | Spring came on. | Spring has come. | Spring arrived."
+  },
+  {
+    "q": "Mi estas pli alta ol vi.",
+    "a": [
+      "ㅣ'ㅁ ㅌㅏㄸㄸㅔㄹ ㅌㅎㅏㄴ ㅠㅗㅜ.",
+      "ㅣ ㅏㅁ ㅌㅏㄸㄸㅔㄹ ㅌㅎㅏㄴ ㅠㅗㅜ."
+    ],
+    "t": "I'm taller than you. | I am taller than you."
+  },
+  {
+    "q": "Mi loĝas en ĉi tiu hotelo.",
+    "a": [
+      "ㅣ ㄸㅣㅆㅔ ㅣㄴ ㅌㅎㅣㅅ ㅎㅗㅌㅔㄸ."
+    ],
+    "t": "I live in this hotel."
+  },
+  {
+    "q": "La floroj pliheligis la ĉambron.",
+    "a": [
+      "ㅌㅎㅔ ㄲㄸㅗ외ㅔㄹㅅ ㅂㄹㅣㄱㅎㅌㅔㄴㅔㄷ ㅜㅍ ㅌㅎㅔ ㄹㅗㅗㅁ."
+    ],
+    "t": "The flowers brightened up the room."
+  },
+  {
+    "q": "Ŝi dankis pro la donaco.",
+    "a": [
+      "ㅅㅎㅔ ㅌㅎㅏㄴㅋㅔㄷ ㄲㅗㄹ ㅌㅎㅔ ㅍㄹㅔㅅㅔㄴㅌ."
+    ],
+    "t": "She thanked for the present."
+  },
+  {
+    "q": "Duoblan, mi petas.",
+    "a": [
+      "ㅏ ㄷㅗㅜㅂㄸㅔ, ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "A double, please."
+  },
+  {
+    "q": "Mi ne povas elteni, ke ŝi tiom suferas.",
+    "a": [
+      "ㅣ ㅊㅏㄴ'ㅌ ㅅㅌㅏㄴㄷ ㅣㅌ ㅌㅎㅏㅌ ㅅㅎㅔ'ㅅ ㅅㅜㄲㄲㅔㄹㅣㄴㄱ ㅅㅗ."
+    ],
+    "t": "I can't stand it that she's suffering so."
+  },
+  {
+    "q": "Neĝis dum kvar tagoj.",
+    "a": [
+      "ㅣㅌ ㅅㄴㅗ외ㅔㄷ ㄲㅗㄹ ㄲㅗㅜㄹ ㄷㅏㅠㅅ."
+    ],
+    "t": "It snowed for four days."
+  },
+  {
+    "q": "Mi fieras partopreni ĉi projekton.",
+    "a": [
+      "ㅣ'ㅁ ㅍㄹㅗㅜㄷ ㅌㅗ ㅂㅔ 외ㅗㄹㅋㅣㄴㄱ ㅗㄴ ㅌㅎㅣㅅ ㅍㄹㅗㅈㅔㅊㅌ."
+    ],
+    "t": "I'm proud to be working on this project."
+  },
+  {
+    "q": "Ĉu vi havas iom da mono?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ ㅅㅗㅁㅔ ㅁㅗㄴㅔㅠ?",
+      "ㅎㅏㅆㅔ ㅠㅗㅜ ㄱㅗㅌ ㅅㅗㅁㅔ ㅁㅗㄴㅔㅠ?"
+    ],
+    "t": "Do you have some money? | Have you got some money?"
+  },
+  {
+    "q": "Li decidis edziĝi al ŝi.",
+    "a": [
+      "ㅎㅔ ㅁㅏㄷㅔ ㅜㅍ ㅎㅣㅅ ㅁㅣㄴㄷ ㅌㅗ ㅁㅏㄹㄹㅠ ㅎㅔㄹ."
+    ],
+    "t": "He made up his mind to marry her."
+  },
+  {
+    "q": "Li kaptis ŝian manikon.",
+    "a": [
+      "ㅎㅔ ㄱㅗㅌ ㅎㅣㅅ ㅅㄸㅔㅔㅆㅔ ㅊㅏㅜㄱㅎㅌ."
+    ],
+    "t": "He got his sleeve caught."
+  },
+  {
+    "q": "Plej bone ridas, kiu laste ridas.",
+    "a": [
+      "ㅎㅔ ㄸㅏㅜㄱㅎㅅ ㅂㅔㅅㅌ 외ㅎㅗ ㄸㅏㅜㄱㅎㅅ ㄸㅏㅅㅌ.",
+      "ㅎㅔ 외ㅎㅗ ㄸㅏㅜㄱㅎㅅ ㄸㅏㅅㅌ ㄸㅏㅜㄱㅎㅅ ㅂㅔㅅㅌ.",
+      "ㅎㅔ 외ㅎㅗ ㄸㅏㅜㄱㅎㅅ ㄸㅏㅅㅌ, ㄸㅏㅜㄱㅎㅅ ㅂㅔㅅㅌ."
+    ],
+    "t": "He laughs best who laughs last. | He who laughs last laughs best. | He who laughs last, laughs best."
+  },
+  {
+    "q": "Li estas malsana.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅣㄸㄸ.",
+      "ㅎㅔ ㅣㅅ ㅅㅣㅊㅋ."
+    ],
+    "t": "He is ill. | He is sick."
+  },
+  {
+    "q": "Eniru la ĉambron post mi.",
+    "a": [
+      "ㅊㅗㅁㅔ ㅣㄴㅌㅗ ㅌㅎㅔ ㄹㅗㅗㅁ ㅏㄲㅌㅔㄹ ㅁㅔ."
+    ],
+    "t": "Come into the room after me."
+  },
+  {
+    "q": "Li estas la sola amerikano, kiu transnaĝis la Manikan Markolon.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅌㅎㅔ ㅗㄴㄸㅠ ㅏㅁㅔㄹㅣㅊㅏㄴ 외ㅎㅗ ㅎㅏㅅ ㅅ외ㅜㅁ ㅌㅎㅔ ㅔㄴㄱㄸㅣㅅㅎ ㅊㅎㅏㄴㄴㅔㄸ.",
+      "ㅎㅔ ㅣㅅ ㅌㅎㅔ ㅗㄴㄸㅠ ㅏㅁㅔㄹㅣㅊㅏㄴ ㅌㅗ ㅎㅏㅆㅔ ㅅ외ㅜㅁ ㅌㅎㅔ ㅔㄴㄱㄸㅣㅅㅎ ㅊㅎㅏㄴㄴㅔㄸ."
+    ],
+    "t": "He is the only American who has swum the English Channel. | He is the only American to have swum the English Channel."
+  },
+  {
+    "q": "Mi petas kafon kun sukero kaj kremo.",
+    "a": [
+      "ㅊㅗㄲㄲㅔㅔ, ㅍㄸㅔㅏㅅㅔ, 외ㅣㅌㅎ ㅊㄹㅔㅏㅁ ㅏㄴㄷ ㅅㅜㄱㅏㄹ."
+    ],
+    "t": "Coffee, please, with cream and sugar."
+  },
+  {
+    "q": "Nia instruisto diris, ke akvo bolas ĉe 100 gradoj celsiaj.",
+    "a": [
+      "ㅗㅜㄹ ㅌㅔㅏㅊㅎㅔㄹ ㅅㅏㅣㄷ ㅌㅎㅏㅌ 외ㅏㅌㅔㄹ ㅂㅗㅣㄸㅅ ㅏㅌ 100°ㅊ.",
+      "ㅗㅜㄹ ㅌㅔㅏㅊㅎㅔㄹ ㅌㅗㄸㄷ ㅜㅅ ㅌㅎㅏㅌ 외ㅏㅌㅔㄹ ㅂㅗㅣㄸㅔㄷ ㅏㅌ 100 ㄷㅔㄱㄹㅔㅔㅅ ㅊㅔㄴㅌㅣㄱㄹㅏㄷㅔ."
+    ],
+    "t": "Our teacher said that water boils at 100°C. | Our teacher told us that water boiled at 100 degrees centigrade."
+  },
+  {
+    "q": "La ideo ne malbonas.",
+    "a": [
+      "ㅌㅎㅔ ㅣㄷㅔㅏ ㅣㅅㄴ'ㅌ ㅂㅏㄷ."
+    ],
+    "t": "The idea isn't bad."
+  },
+  {
+    "q": "Li ne havas biciklon.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅㄴ'ㅌ ㄱㅗㅌ ㅏ ㅂㅣㅊㅠㅊㄸㅔ.",
+      "ㅎㅔ ㅎㅏㅅ ㄴㅗ ㅂㅣㅊㅠㅊㄸㅔ."
+    ],
+    "t": "He hasn't got a bicycle. | He has no bicycle."
+  },
+  {
+    "q": "Ŝi ploris la tutan nokton.",
+    "a": [
+      "ㅅㅎㅔ ㅊㄹㅣㅔㄷ ㅌㅎㄹㅗㅜㄱㅎㅗㅜㅌ ㅌㅎㅔ ㄴㅣㄱㅎㅌ.",
+      "ㅅㅎㅔ 외ㅔㅍㅌ ㅏㄸㄸ ㅌㅎㅔ ㄴㅣㄱㅎㅌ.",
+      "ㅅㅎㅔ ㅊㄹㅣㅔㄷ ㅏㄸㄸ ㄴㅣㄱㅎㅌ."
+    ],
+    "t": "She cried throughout the night. | She wept all the night. | She cried all night."
+  },
+  {
+    "q": "Mi ne volas elspezi pli ol 10 dolarojn.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ 외ㅏㄴㅌ ㅌㅗ ㅅㅍㅔㄴㄷ ㅁㅗㄹㅔ ㅌㅎㅏㄴ $10."
+    ],
+    "t": "I don't want to spend more than $10."
+  },
+  {
+    "q": "Surmetu ĉapon.",
+    "a": [
+      "ㅍㅜㅌ ㅗㄴ ㅠㅗㅜㄹ ㅊㅏㅍ."
+    ],
+    "t": "Put on your cap."
+  },
+  {
+    "q": "La poŝta oficejo troviĝas duonmejlon de ĉi tie.",
+    "a": [
+      "ㅌㅎㅔ ㅍㅗㅅㅌ ㅗㄲㄲㅣㅊㅔ ㅣㅅ ㅎㅏㄸㄲ ㅏ ㅁㅣㄸㅔ ㅏ외ㅏㅠ."
+    ],
+    "t": "The post office is half a mile away."
+  },
+  {
+    "q": "Kio estas via plej ŝatata distraĵo?",
+    "a": [
+      "외ㅎㅏㅌ'ㅅ ㅌㅎㅔ ㅁㅗㅅㅌ ㅍㅗㅍㅜㄸㅏㄹ ㅔㄴㅌㅔㄹㅌㅏㅣㄴㅁㅔㄴㅌ?"
+    ],
+    "t": "What's the most popular entertainment?"
+  },
+  {
+    "q": "Feliĉan Novjaron!",
+    "a": [
+      "ㅎㅏㅍㅍㅠ ㄴㅔ외 ㅠㅔㅏㄹ!",
+      "ㅎㅏㅍㅍㅣㅔㄹ ㄴㅔ외 ㅠㅔㅏㄹ!"
+    ],
+    "t": "Happy New Year! | Happier New Year!"
+  },
+  {
+    "q": "Kiun lingvon oni parolas en Brazilo?",
+    "a": [
+      "외ㅎㅏㅌ ㅣㅅ ㅌㅎㅔ ㄸㅏㄴㄱㅜㅏㄱㅔ ㅅㅍㅗㅋㅔㄴ ㅣㄴ ㅂㄹㅏㅐㅣㄸ?",
+      "외ㅎㅏㅌ ㄸㅏㄴㄱㅜㅏㄱㅔ ㅣㅅ ㅅㅍㅗㅋㅔㄴ ㅣㄴ ㅂㄹㅏㅐㅣㄸ?"
+    ],
+    "t": "What is the language spoken in Brazil? | What language is spoken in Brazil?"
+  },
+  {
+    "q": "Ĉi tiu teo estas tre bona.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅣㅅ ㅏ ㅆㅔㄹㅠ ㄱㅗㅗㄷ ㅌㅔㅏ."
+    ],
+    "t": "This is a very good tea."
+  },
+  {
+    "q": "Hispanio estas demokratia lando ekde 1975.",
+    "a": [
+      "ㅅㅍㅏㅣㄴ ㅎㅏㅅ ㅂㅔㅔㄴ ㅏ ㄷㅔㅁㅗㅊㄹㅏㅊㅠ ㅅㅣㄴㅊㅔ 1975.",
+      "ㅅㅍㅏㅣㄴ ㅎㅏㅅ ㅂㅔㅔㄴ ㅏ ㄷㅔㅁㅗㅊㄹㅏㅌㅣㅊ ㅊㅗㅜㄴㅌㄹㅠ ㅅㅣㄴㅊㅔ 1975."
+    ],
+    "t": "Spain has been a democracy since 1975. | Spain has been a democratic country since 1975."
+  },
+  {
+    "q": "Mi volas scii, kiu venos kun ni.",
+    "a": [
+      "ㅣ 외ㅏㄴㅌ ㅌㅗ ㅋㄴㅗ외 외ㅎㅗ ㅣㅅ ㅊㅗㅁㅣㄴㄱ 외ㅣㅌㅎ ㅜㅅ.",
+      "ㅣ 외ㅏㄴㅌ ㅌㅗ ㅋㄴㅗ외 외ㅎㅗ'ㅅ ㅊㅗㅁㅣㄴㄱ 외ㅣㅌㅎ ㅜㅅ."
+    ],
+    "t": "I want to know who is coming with us. | I want to know who's coming with us."
+  },
+  {
+    "q": "Junularo en nia lando ne interesiĝas pri politiko.",
+    "a": [
+      "ㅌㅎㅔ ㅠㅗㅜㅌㅎ ㅗㄲ ㅗㅜㄹ ㄸㅏㄴㄷ ㅏㄹㅔ ㄴㅗㅌ ㅣㄴㅌㅔㄹㅔㅅㅌㅔㄷ ㅣㄴ ㅍㅗㄸㅣㅌㅣㅊㅅ."
+    ],
+    "t": "The youth of our land are not interested in politics."
+  },
+  {
+    "q": "Mi havas trioble pli da libroj ol li.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅌㅎㄹㅔㅔ ㅌㅣㅁㅔㅅ ㅏㅅ ㅁㅏㄴㅠ ㅂㅗㅗㅋㅅ ㅏㅅ ㅎㅔ.",
+      "ㅣ ㅎㅏㅆㅔ ㅌㅎㄹㅔㅔ ㅌㅣㅁㅔㅅ ㅁㅗㄹㅔ ㅂㅗㅗㅋㅅ ㅌㅎㅏㄴ ㅎㅔ ㅎㅏㅅ.",
+      "ㅣ ㅎㅏㅆㅔ ㅌㅎㄹㅔㅔ ㅌㅣㅁㅔㅅ ㅏㅅ ㅁㅏㄴㅠ ㅂㅗㅗㅋㅅ ㅏㅅ ㅎㅔ ㄷㅗㅔㅅ.",
+      "ㅣ ㅎㅏㅆㅔ ㅌㅎㄹㅔㅔ ㅌㅣㅁㅔㅅ ㅏㅅ ㅁㅏㄴㅠ ㅂㅗㅗㅋㅅ ㅏㅅ ㅎㅣㅁ."
+    ],
+    "t": "I have three times as many books as he. | I have three times more books than he has. | I have three times as many books as he does. | I have three times as many books as him."
+  },
+  {
+    "q": "Li demetis siajn okulvitrojn.",
+    "a": [
+      "ㅎㅔ ㅌㅗㅗㅋ ㅗㄲㄲ ㅎㅣㅅ ㄱㄸㅏㅅㅅㅔㅅ."
+    ],
+    "t": "He took off his glasses."
+  },
+  {
+    "q": "Pasintjare ili veturis al Kioto.",
+    "a": [
+      "ㅌㅎㅔㅠ 외ㅔㄴㅌ ㅌㅗ ㅋㅠㅗㅌㅗ ㄸㅏㅅㅌ ㅠㅔㅏㄹ."
+    ],
+    "t": "They went to Kyoto last year."
+  },
+  {
+    "q": "Bob alkutimiĝis al peza laboro.",
+    "a": [
+      "ㅂㅗㅂ ㅣㅅ ㅏㅊㅊㅜㅅㅌㅗㅁㅔㄷ ㅌㅗ ㅎㅏㄹㄷ 외ㅗㄹㅋ.",
+      "ㅂㅗㅂ ㄱㅗㅌ ㅜㅅㅔㄷ ㅌㅗ ㅎㅏㄹㄷ 외ㅗㄹㅋ."
+    ],
+    "t": "Bob is accustomed to hard work. | Bob got used to hard work."
+  },
+  {
+    "q": "Prenu la tranĉilon kaj fortranĉu la pinton.",
+    "a": [
+      "ㅌㅏㅋㅔ ㅌㅎㅣㅅ ㅋㄴㅣㄲㅔ ㅏㄴㄷ ㅊㅜㅌ ㅌㅎㅔ ㅌㅗㅍ ㅗㄲㄲ."
+    ],
+    "t": "Take this knife and cut the top off."
+  },
+  {
+    "q": "Donu al li tempon.",
+    "a": [
+      "ㄱㅣㅆㅔ ㅎㅣㅁ ㅌㅣㅁㅔ."
+    ],
+    "t": "Give him time."
+  },
+  {
+    "q": "Li loĝas ses domojn for de mi.",
+    "a": [
+      "ㅎㅔ ㄸㅣㅆㅔㅅ ㅅㅣㅉ ㅎㅗㅜㅅㅔㅅ ㅂㅔㅠㅗㄴㄷ ㅁㅠ ㅎㅗㅜㅅㅔ."
+    ],
+    "t": "He lives six houses beyond my house."
+  },
+  {
+    "q": "Mi ne forlasos vin.",
+    "a": [
+      "ㅣ 외ㅗㄴ'ㅌ ㄲㅗㄹㅅㅏㅋㅔ ㅠㅗㅜ.",
+      "ㅣ 외ㅗㄴ'ㅌ ㄸㅔㅏㅆㅔ ㅠㅗㅜ.",
+      "ㅣ'ㅁ ㄴㅗㅌ ㄸㅔㅏㅆㅣㄴㄱ ㅠㅗㅜ.",
+      "ㅣ ㅏㅁ ㄴㅗㅌ ㄸㅔㅏㅆㅣㄴㄱ ㅠㅗㅜ.",
+      "ㅣ 외ㅣㄸㄸ ㄴㅗㅌ ㅏㅂㅏㄴㄷㅗㄴ ㅠㅗㅜ.",
+      "ㅣ'ㅁ ㄴㅗㅌ ㄱㅗㅣㄴㄱ ㅌㅗ ㄸㅔㅏㅆㅔ ㅠㅗㅜ."
+    ],
+    "t": "I won't forsake you. | I won't leave you. | I'm not leaving you. | I am not leaving you. | I will not abandon you. | I'm not going to leave you."
+  },
+  {
+    "q": "Li havis grandan domon kaj du aŭtojn.",
+    "a": [
+      "ㅎㅔ ㅍㅗㅅㅅㅔㅅㅅㅔㄷ ㅏ ㄸㅏㄹㄱㅔ ㅎㅗㅜㅅㅔ ㅏㄴㄷ ㅌ외ㅗ ㅊㅏㄹㅅ.",
+      "ㅎㅔ ㅎㅏㄷ ㅏ ㅂㅣㄱ ㅎㅗㅜㅅㅔ ㅏㄴㄷ ㅌ외ㅗ ㅊㅏㄹㅅ."
+    ],
+    "t": "He possessed a large house and two cars. | He had a big house and two cars."
+  },
+  {
+    "q": "Svislando estas belega lando, kiu meritas viziton.",
+    "a": [
+      "ㅅ외ㅣㅌㅐㅔㄹㄸㅏㄴㄷ ㅣㅅ ㅏ ㅆㅔㄹㅠ ㅂㅔㅏㅜㅌㅣㄲㅜㄸ ㅊㅗㅜㄴㅌㄹㅠ ㅏㄴㄷ 외ㅔㄸㄸ 외ㅗㄹㅌㅎ ㅆㅣㅅㅣㅌㅣㄴㄱ."
+    ],
+    "t": "Switzerland is a very beautiful country and well worth visiting."
+  },
+  {
+    "q": "Kie vi loĝas?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㄷㅗ ㅠㅗㅜ ㄸㅣㅆㅔ?",
+      "외ㅎㅔㄹㅔ ㄷㅗ ㅠㅗㅜ ㄱㅜㅠㅅ ㄸㅣㅆㅔ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㄸㅣㅆㅣㄴㄱ?"
+    ],
+    "t": "Where do you live? | Where do you guys live? | Where are you living?"
+  },
+  {
+    "q": "Ĉi tiu arbo estas tro juna por doni fruktojn.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅌㄹㅔㅔ ㅣㅅ ㅌㅗㅗ ㅠㅗㅜㄴㄱ ㅌㅗ ㅂㅔㅏㄹ ㄲㄹㅜㅣㅌ."
+    ],
+    "t": "This tree is too young to bear fruit."
+  },
+  {
+    "q": "Bob estas ŝatata en la lernejo.",
+    "a": [
+      "ㅂㅗㅂ ㅣㅅ ㅍㅗㅍㅜㄸㅏㄹ ㅏㅌ ㅅㅊㅎㅗㅗㄸ."
+    ],
+    "t": "Bob is popular at school."
+  },
+  {
+    "q": "Ĉi tiu tranĉilo estas tre akra.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅋㄴㅣㄲㅔ ㅣㅅ ㅆㅔㄹㅠ ㅅㅎㅏㄹㅍ.",
+      "ㅌㅎㅣㅅ ㅣㅅ ㅏ ㄹㅔㅏㄸㄸㅠ ㅅㅎㅏㄹㅍ ㅋㄴㅣㄲㅔ."
+    ],
+    "t": "This knife is very sharp. | This is a really sharp knife."
+  },
+  {
+    "q": "Dum bela vetero videblas de ĉi tie la Fuĵi-monto.",
+    "a": [
+      "ㅣㄴ ㅊㄸㅔㅏㄹ 외ㅔㅏㅌㅎㅔㄹ ㅗㄴㅔ ㅊㅏㄴ ㅅㅔㅔ ㅁㅗㅜㄴㅌ ㄲㅜㅈㅣ ㄲㄹㅗㅁ ㅎㅔㄹㅔ."
+    ],
+    "t": "In clear weather one can see Mount Fuji from here."
+  },
+  {
+    "q": "Mi lasis mian novan paron da gantoj en la biblioteko.",
+    "a": [
+      "ㅣ ㄸㅔㄲㅌ ㅁㅠ ㄴㅔ외 ㅍㅏㅣㄹ ㅗㄲ ㄱㄸㅗㅆㅔㅅ ㅣㄴ ㅌㅎㅔ ㄸㅣㅂㄹㅏㄹㅠ."
+    ],
+    "t": "I left my new pair of gloves in the library."
+  },
+  {
+    "q": "Paco estu kun vi!",
+    "a": [
+      "ㅍㅔㅏㅊㅔ ㅂㅔ 외ㅣㅌㅎ ㅠㅗㅜ!",
+      "ㅍㅔㅏㅊㅔ ㅂㅔ 외ㅣㅌㅎ ㅠㅗㅜ."
+    ],
+    "t": "Peace be with you! | Peace be with you."
+  },
+  {
+    "q": "Mi scias, ke iuj personoj estimas mian laboron.",
+    "a": [
+      "ㅣ ㅋㄴㅗ외 ㅌㅎㅏㅌ ㅅㅗㅁㅔ ㅍㅔㅗㅍㄸㅔ ㅆㅏㄸㅜㅔ ㅁㅠ 외ㅗㄹㅋ.",
+      "ㅣ ㅋㄴㅗ외 ㅌㅎㅏㅌ ㅅㅗㅁㅔ ㅍㅔㅗㅍㄸㅔ ㅏㅍㅍㄹㅔㅊㅣㅏㅌㅔ ㅁㅠ 외ㅗㄹㅋ."
+    ],
+    "t": "I know that some people value my work. | I know that some people appreciate my work."
+  },
+  {
+    "q": "Kiom da tempo vi uzis por traduki tiun libron?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㄷㅣㄷ ㅣㅌ ㅌㅏㅋㅔ ㅠㅗㅜ ㅌㅗ ㅌㄹㅏㄴㅅㄸㅏㅌㅔ ㅌㅎㅣㅅ ㅂㅗㅗㅋ?"
+    ],
+    "t": "How long did it take you to translate this book?"
+  },
+  {
+    "q": "Fumi ĉi tie estas strikte malpermesite.",
+    "a": [
+      "ㅅㅁㅗㅋㅣㄴㄱ ㅣㅅ ㅅㅌㄹㅣㅊㅌㄸㅠ ㄲㅗㄹㅂㅣㄷㄷㅔㄴ ㅎㅔㄹㅔ."
+    ],
+    "t": "Smoking is strictly forbidden here."
+  },
+  {
+    "q": "Kion vi diris?",
+    "a": [
+      "외ㅎㅏㅌ ㄷㅣㄷ ㅠㅗㅜ ㅅㅏㅠ?",
+      "외ㅎㅏㅌ 외ㅔㄹㅔ ㅠㅗㅜ ㅅㅏㅠㅣㄴㄱ?",
+      "ㅅㅏㅠ 외ㅎㅏㅌ?",
+      "외ㅎㅏㅌ'ㄷ ㅠㅗㅜ ㅅㅏㅠ?",
+      "ㄷㅣㄷ ㅠㅗㅜ ㅅㅏㅠ ㅅㅗㅁㅔㅌㅎㅣㄴㄱ?"
+    ],
+    "t": "What did you say? | What were you saying? | Say what? | What'd you say? | Did you say something?"
+  },
+  {
+    "q": "Vi meritas sukcesi.",
+    "a": [
+      "ㅠㅗㅜ ㄷㅔㅅㅔㄹㅆㅔ ㅌㅗ ㅅㅜㅊㅊㅔㅔㄷ."
+    ],
+    "t": "You deserve to succeed."
+  },
+  {
+    "q": "Mi ricevis de li inviton, sed mi ne akceptis ĝin.",
+    "a": [
+      "ㅣ ㄹㅔㅊㅔㅣㅆㅔㄷ ㅏㄴ ㅣㄴㅆㅣㅌㅏㅌㅣㅗㄴ ㄲㄹㅗㅁ ㅎㅣㅁ, ㅂㅜㅌ ㄷㅣㄷㄴ'ㅌ ㅏㅊㅊㅔㅍㅌ ㅣㅌ."
+    ],
+    "t": "I received an invitation from him, but didn't accept it."
+  },
+  {
+    "q": "Mi naĝis pli rapide kiam mi estis pli juna.",
+    "a": [
+      "ㅣ ㅊㅗㅜㄸㄷ ㅅ외ㅣㅁ ㄲㅏㅅㅌㅔㄹ 외ㅎㅔㄴ ㅣ 외ㅏㅅ ㅠㅗㅜㄴㄱ."
+    ],
+    "t": "I could swim faster when I was young."
+  },
+  {
+    "q": "Mi sopiras vin.",
+    "a": [
+      "ㅣ ㅁㅣㅅㅅ ㅠㅗㅜ.",
+      "ㅣ'ㅁ ㄸㅗㄴㄱㅣㄴㄱ ㄲㅗㄹ ㅠㅗㅜ."
+    ],
+    "t": "I miss you. | I'm longing for you."
+  },
+  {
+    "q": "Li estas la jura posedanto de la firmao.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅌㅎㅔ ㄸㅏ외ㄲㅜㄸ ㅗ외ㄴㅔㄹ ㅗㄲ ㅌㅎㅔ ㅊㅗㅁㅍㅏㄴㅠ."
+    ],
+    "t": "He is the lawful owner of the company."
+  },
+  {
+    "q": "Ŝi donis al mi bonan konsilon.",
+    "a": [
+      "ㅅㅎㅔ ㄱㅏㅆㅔ ㅁㅔ ㅏ ㅍㅣㅔㅊㅔ ㅗㄲ ㄱㅗㅗㄷ ㅏㄷㅆㅣㅊㅔ.",
+      "ㅅㅎㅔ ㄱㅏㅆㅔ ㅁㅔ ㄱㅗㅗㄷ ㅏㄷㅆㅣㅊㅔ."
+    ],
+    "t": "She gave me a piece of good advice. | She gave me good advice."
+  },
+  {
+    "q": "Eble vi pravas.",
+    "a": [
+      "ㅁㅏㅠㅂㅔ ㅠㅗㅜ'ㄹㅔ ㄹㅣㄱㅎㅌ.",
+      "ㅍㅔㄹㅎㅏㅍㅅ ㅠㅗㅜ ㅏㄹㅔ ㄹㅣㄱㅎㅌ.",
+      "ㅍㅔㄹㅎㅏㅍㅅ ㅠㅗㅜ'ㄹㅔ ㄹㅣㄱㅎㅌ.",
+      "ㅠㅗㅜ ㅊㅗㅜㄸㄷ ㅂㅔ ㄹㅣㄱㅎㅌ.",
+      "ㅁㅏㅠㅂㅔ ㅠㅗㅜ ㄱㅜㅠㅅ ㅏㄹㅔ ㄹㅣㄱㅎㅌ."
+    ],
+    "t": "Maybe you're right. | Perhaps you are right. | Perhaps you're right. | You could be right. | Maybe you guys are right."
+  },
+  {
+    "q": "Surprize nin ŝi iris sola al Brazilo.",
+    "a": [
+      "ㅌㅗ ㅗㅜㄹ ㅅㅜㄹㅍㄹㅣㅅㅔ, ㅅㅎㅔ ㅎㅏㅅ ㄱㅗㄴㅔ ㅌㅗ ㅂㄹㅏㅐㅣㄸ ㅏㄸㅗㄴㅔ."
+    ],
+    "t": "To our surprise, she has gone to Brazil alone."
+  },
+  {
+    "q": "Venu endormiĝi ĉe miaj brakoj.",
+    "a": [
+      "ㅊㅗㅁㅔ ㄲㅏㄸㄸ ㅏㅅㄸㅔㅔㅍ ㅣㄴ ㅁㅠ ㅏㄹㅁㅅ."
+    ],
+    "t": "Come fall asleep in my arms."
+  },
+  {
+    "q": "Jes, mi komprenas. Dankon.",
+    "a": [
+      "ㅠㅔㅅ, ㅣ ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷ. ㅌㅎㅏㄴㅋ ㅠㅗㅜ."
+    ],
+    "t": "Yes, I understand. Thank you."
+  },
+  {
+    "q": "Tom ne ŝatas fromaĝon.",
+    "a": [
+      "ㅌㅗㅁ ㄷㅗㅔㅅㄴ'ㅌ ㄸㅣㅋㅔ ㅊㅎㅔㅔㅅㅔ.",
+      "ㅌㅗㅁ ㄷㅗㅔㅅ ㄴㅗㅌ ㄸㅣㅋㅔ ㅊㅎㅔㅔㅅㅔ.",
+      "ㅌㅗㅁ ㄷㅗㅔㅅ ㄴㅗㅌ ㄸㅗㅆㅔ ㅊㅎㅔㅔㅅㅔ."
+    ],
+    "t": "Tom doesn't like cheese. | Tom does not like cheese. | Tom does not love cheese."
+  },
+  {
+    "q": "Toni parolas la anglan lingvon same bone kiel vi.",
+    "a": [
+      "ㅌㅗㄴㅠ ㅅㅍㅔㅏㅋㅅ ㅔㄴㄱㄸㅣㅅㅎ ㅏㅅ 외ㅔㄸㄸ ㅏㅅ ㅠㅗㅜ.",
+      "ㅌㅗㄴㅠ ㅅㅍㅔㅏㅋㅅ ㅔㄴㄱㄸㅣㅅㅎ ㅏㅅ 외ㅔㄸㄸ ㅏㅅ ㅠㅗㅜ ㄷㅗ."
+    ],
+    "t": "Tony speaks English as well as you. | Tony speaks English as well as you do."
+  },
+  {
+    "q": "Ĉu vi ŝatas muzikon?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㄸㅗㅆㅔ ㅁㅜㅅㅣㅊ?",
+      "ㅏㄹㅔ ㅠㅗㅜ ㄲㅗㄴㄷ ㅗㄲ ㅁㅜㅅㅣㅊ?",
+      "ㄷㅗ ㅠㅗㅜ ㄸㅣㅋㅔ ㅁㅜㅅㅣㅊ?"
+    ],
+    "t": "Do you love music? | Are you fond of music? | Do you like music?"
+  },
+  {
+    "q": "Kiu li estas?",
+    "a": [
+      "외ㅎㅗ ㅣㅅ ㅎㅔ?",
+      "외ㅎㅗ'ㅅ ㅎㅔ?"
+    ],
+    "t": "Who is he? | Who's he?"
+  },
+  {
+    "q": "Tom parolas la hispanan lingvon kaj Betti parolas ĝin ankaŭ.",
+    "a": [
+      "ㅌㅗㅁ ㅅㅍㅔㅏㅋㅅ ㅅㅍㅏㄴㅣㅅㅎ, ㅏㄴㄷ ㅂㅔㅌㅌㅠ ㅅㅍㅔㅏㅋㅅ ㅅㅍㅏㄴㅣㅅㅎ, ㅌㅗㅗ.",
+      "ㅌㅗㅁ ㅅㅍㅔㅏㅋㅅ ㅅㅍㅏㄴㅣㅅㅎ, ㅏㄴㄷ ㅅㅗ ㄷㅗㅔㅅ ㅂㅔㅌㅌㅠ."
+    ],
+    "t": "Tom speaks Spanish, and Betty speaks Spanish, too. | Tom speaks Spanish, and so does Betty."
+  },
+  {
+    "q": "Li ŝatas kafon sen sukero.",
+    "a": [
+      "ㅎㅔ ㄸㅣㅋㅔㅅ ㅊㅗㄲㄲㅔㅔ 외ㅣㅌㅎㅗㅜㅌ ㅅㅜㄱㅏㄹ."
+    ],
+    "t": "He likes coffee without sugar."
+  },
+  {
+    "q": "Picasso estas fama artisto.",
+    "a": [
+      "ㅍㅣㅊㅏㅅㅅㅗ ㅣㅅ ㅏ ㄲㅏㅁㅗㅜㅅ ㅏㄹㅌㅣㅅㅌ."
+    ],
+    "t": "Picasso is a famous artist."
+  },
+  {
+    "q": "Mi renkontis amerikaninon.",
+    "a": [
+      "ㅣ ㅁㅔㅌ ㅏㄴ ㅏㅁㅔㄹㅣㅊㅏㄴ ㄱㅣㄹㄸ."
+    ],
+    "t": "I met an American girl."
+  },
+  {
+    "q": "Mi estos tie morgaŭ.",
+    "a": [
+      "ㅣ'ㄸㄸ ㅂㅔ ㅌㅎㅔㄹㅔ ㅌㅗㅁㅗㄹㄹㅗ외.",
+      "ㅣ 외ㅣㄸㄸ ㅂㅔ ㅌㅎㅔㄹㅔ ㅌㅗㅁㅗㄹㄹㅗ외."
+    ],
+    "t": "I'll be there tomorrow. | I will be there tomorrow."
+  },
+  {
+    "q": "Vi devas nur koncentriĝi.",
+    "a": [
+      "ㅠㅗㅜ ㅗㄴㄸㅠ ㄴㅔㅔㄷ ㅌㅗ ㅊㅗㄴㅊㅔㄴㅌㄹㅏㅌㅔ."
+    ],
+    "t": "You only need to concentrate."
+  },
+  {
+    "q": "Vi pravas.",
+    "a": [
+      "ㅠㅗㅜ'ㄹㅔ ㄹㅣㄱㅎㅌ.",
+      "ㅠㅗㅜ ㅏㄹㅔ ㄹㅣㄱㅎㅌ.",
+      "ㅠㅗㅜ ㄱㅜㅠㅅ ㅏㄹㅔ ㄹㅣㄱㅎㅌ."
+    ],
+    "t": "You're right. | You are right. | You guys are right."
+  },
+  {
+    "q": "Ĉi tiu kutimo aperis en la Edo-periodo.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅊㅜㅅㅌㅗㅁ ㅂㅔㄱㅏㄴ ㄷㅜㄹㅣㄴㄱ ㅌㅎㅔ ㅔㄷㅗ ㅍㅔㄹㅣㅗㄷ."
+    ],
+    "t": "This custom began during the Edo period."
+  },
+  {
+    "q": "Ĉu li loĝas ĉi tie?",
+    "a": [
+      "ㄷㅗㅔㅅ ㅎㅔ ㄸㅣㅆㅔ ㅎㅔㄹㅔ?"
+    ],
+    "t": "Does he live here?"
+  },
+  {
+    "q": "Ĉu vi povas imagi la mondon sen mono?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜ ㅣㅁㅏㄱㅣㄴㅔ ㅌㅎㅔ 외ㅗㄹㄸㄷ 외ㅣㅌㅎㅗㅜㅌ ㅁㅗㄴㅔㅠ?"
+    ],
+    "t": "Can you imagine the world without money?"
+  },
+  {
+    "q": "Mi devas tie esti antaŭ la 7a horo.",
+    "a": [
+      "ㅣ ㅁㅜㅅㅌ ㅂㅔ ㅌㅎㅔㄹㅔ ㅂㅔㄲㅗㄹㅔ 7:00."
+    ],
+    "t": "I must be there before 7:00."
+  },
+  {
+    "q": "Iru dormi.",
+    "a": [
+      "ㄱㅗ ㅌㅗ ㅅㄸㅔㅔㅍ.",
+      "ㄱㅗ ㅌㅗ ㅅㄸㅔㅔㅍ!"
+    ],
+    "t": "Go to sleep. | Go to sleep!"
+  },
+  {
+    "q": "Ĉu vi povas doni al mi iom da mono?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜ ㄱㅣㅆㅔ ㅁㅔ ㅅㅗㅁㅔ ㅁㅗㄴㅔㅠ?",
+      "ㅠㅗㅜ ㅊㅏㄴ ㄱㅣㅆㅔ ㅁㅔ ㅅㅗㅁㅔ ㅁㅗㄴㅔㅠ?"
+    ],
+    "t": "Can you give me some money? | You can give me some money?"
+  },
+  {
+    "q": "Mi forgesis lian nomon.",
+    "a": [
+      "ㅣ ㄲㅗㄹㄱㅗㅌ ㅎㅣㅅ ㄴㅏㅁㅔ.",
+      "ㅣ'ㅆㅔ ㄲㅗㄹㄱㅗㅌㅌㅔㄴ ㅎㅣㅅ ㄴㅏㅁㅔ."
+    ],
+    "t": "I forgot his name. | I've forgotten his name."
+  },
+  {
+    "q": "Ĉu Lucy jam telefonis?",
+    "a": [
+      "ㅎㅏㅅ ㄸㅜㅊㅠ ㅌㅔㄸㅔㅍㅎㅗㄴㅔㄷ ㅠㅔㅌ?",
+      "ㅎㅏㅅ ㄸㅜㅊㅠ ㅏㄸㄹㅔㅏㄷㅠ ㅊㅏㄸㄸㅔㄷ?",
+      "ㅎㅏㅅ ㄸㅜㅊㅠ ㅊㅏㄸㄸㅔㄷ ㅏㄸㄹㅔㅏㄷㅠ?",
+      "ㄸㅜㅊㅠ ㅊㅏㄸㄸㅔㄷ ㅏㄸㄹㅔㅏㄷㅠ?",
+      "ㅎㅏㅅ ㄸㅜㅊㅠ ㅊㅏㄸㄸㅔㄷ ㅠㅔㅌ?"
+    ],
+    "t": "Has Lucy telephoned yet? | Has Lucy already called? | Has Lucy called already? | Lucy called already? | Has Lucy called yet?"
+  },
+  {
+    "q": "Ŝi ŝatas promeni sola.",
+    "a": [
+      "ㅅㅎㅔ ㄸㅣㅋㅔㅅ ㅌㅗ 외ㅏㄸㅋ ㅏㄸㅗㄴㅔ.",
+      "ㅅㅎㅔ ㄸㅣㅋㅔㅅ ㅌㅗ ㄱㅗ 외ㅏㄸㅋㅣㄴㄱ ㅂㅠ ㅎㅔㄹㅅㅔㄸㄲ.",
+      "ㅅㅎㅔ ㄸㅣㅋㅔㅅ ㅌㅗ ㄱㅗ ㄲㅗㄹ 외ㅏㄸㅋㅅ ㅏㄸㅗㄴㅔ.",
+      "ㅅㅎㅔ ㄸㅣㅋㅔㅅ 외ㅏㄸㅋㅣㄴㄱ ㅏㄸㅗㄴㅔ."
+    ],
+    "t": "She likes to walk alone. | She likes to go walking by herself. | She likes to go for walks alone. | She likes walking alone."
+  },
+  {
+    "q": "Li estas ĝisosta amerikano.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅏㅁㅔㄹㅣㅊㅏㄴ ㅌㅗ ㅌㅎㅔ ㅅㅗㄸㅔㅅ ㅗㄲ ㅎㅣㅅ ㄲㅔㅔㅌ.",
+      "ㅎㅔ'ㅅ ㅏㅁㅔㄹㅣㅊㅏㄴ ㅌㅎㄹㅗㅜㄱㅎ ㅏㄴㄷ ㅌㅎㄹㅗㅜㄱㅎ."
+    ],
+    "t": "He is American to the soles of his feet. | He's American through and through."
+  },
+  {
+    "q": "Ĉu vi donos al mi salon?",
+    "a": [
+      "ㅊㅗㅜㄸㄷ ㅠㅗㅜ ㅍㅏㅅㅅ ㅁㅔ ㅌㅎㅔ ㅅㅏㄸㅌ?"
+    ],
+    "t": "Could you pass me the salt?"
+  },
+  {
+    "q": "Ĉu vi volas iri kun ni?",
+    "a": [
+      "외ㅣㄸㄸ ㅠㅗㅜ ㅊㅗㅁㅔ 외ㅣㅌㅎ ㅜㅅ?"
+    ],
+    "t": "Will you come with us?"
+  },
+  {
+    "q": "El kio ĝi estas farita?",
+    "a": [
+      "외ㅎㅏㅌ'ㅅ ㅣㅌ ㅁㅏㄷㅔ ㄲㄹㅗㅁ?",
+      "외ㅎㅏㅌ ㅣㅅ ㅣㅌ ㅁㅏㄷㅔ ㅗㄲ?"
+    ],
+    "t": "What's it made from? | What is it made of?"
+  },
+  {
+    "q": "Neniu nin kontrolos.",
+    "a": [
+      "ㄴㅗㅂㅗㄷㅠ ㅊㅏㄴ ㅊㅗㄴㅌㄹㅗㄸ ㅜㅅ."
+    ],
+    "t": "Nobody can control us."
+  },
+  {
+    "q": "Tiu ruino estas vizitinda.",
+    "a": [
+      "ㅌㅎㅔ ㄹㅜㅣㄴㅅ ㅏㄹㅔ 외ㅗㄹㅌㅎ ㅅㅔㅔㅣㄴㄱ."
+    ],
+    "t": "The ruins are worth seeing."
+  },
+  {
+    "q": "Li bone ludas pianon.",
+    "a": [
+      "ㅎㅔ ㅍㄸㅏㅠㅅ ㅌㅎㅔ ㅍㅣㅏㄴㅗ 외ㅔㄸㄸ."
+    ],
+    "t": "He plays the piano well."
+  },
+  {
+    "q": "Ni iru!",
+    "a": [
+      "ㄸㅔㅌ'ㅅ ㄱㅗ!",
+      "ㄸㅔㅌ'ㅅ ㄱㅗ.",
+      "ㄱㅗ ㅏㅎㅔㅏㄷ!"
+    ],
+    "t": "Let's go! | Let's go. | Go ahead!"
+  },
+  {
+    "q": "Ŝi vangofrapis lin.",
+    "a": [
+      "ㅅㅎㅔ ㅅㄸㅏㅍㅍㅔㄷ ㅎㅣㅁ ㅣㄴ ㅌㅎㅔ ㄲㅏㅊㅔ.",
+      "ㅅㅎㅔ ㅅㄸㅏㅍㅍㅔㄷ ㅎㅣㅅ ㄲㅏㅊㅔ.",
+      "ㅅㅎㅔ ㄱㅏㅆㅔ ㅎㅣㅁ ㅏ ㅅㄸㅏㅍ ㅣㄴ ㅌㅎㅔ ㄲㅏㅊㅔ.",
+      "ㅅㅎㅔ ㅅㄸㅏㅍㅍㅔㄷ ㅎㅣㅁ."
+    ],
+    "t": "She slapped him in the face. | She slapped his face. | She gave him a slap in the face. | She slapped him."
+  },
+  {
+    "q": "Je kioma horo la taksio forveturos al la flughaveno?",
+    "a": [
+      "ㅏㅌ 외ㅎㅏㅌ ㅌㅣㅁㅔ 외ㅣㄸㄸ ㅌㅎㅔ ㅌㅏㅉㅣ ㄱㅗ ㅌㅗ ㅌㅎㅔ ㅏㅣㄹㅍㅗㄹㅌ?"
+    ],
+    "t": "At what time will the taxi go to the airport?"
+  },
+  {
+    "q": "Tie estas flava rozo.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ ㅣㅅ ㅏ ㅠㅔㄸㄸㅗ외 ㄹㅗㅅㅔ.",
+      "ㅌㅎㅔㄹㅔ'ㅅ ㅏ ㅠㅔㄸㄸㅗ외 ㄹㅗㅅㅔ ㅌㅎㅔㄹㅔ."
+    ],
+    "t": "There is a yellow rose. | There's a yellow rose there."
+  },
+  {
+    "q": "Ne lasu la biciklon sub la pluvo.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㄸㅔㅏㅆㅔ ㅌㅎㅔ ㅂㅣㅊㅠㅊㄸㅔ ㅣㄴ ㅌㅎㅔ ㄹㅏㅣㄴ."
+    ],
+    "t": "Don't leave the bicycle in the rain."
+  },
+  {
+    "q": "Ĉu li estis en Hokajdo lastjare?",
+    "a": [
+      "외ㅏㅅ ㅎㅔ ㅣㄴ ㅎㅗㅋㅋㅏㅣㄷㅗ ㄸㅏㅅㅌ ㅠㅔㅏㄹ?"
+    ],
+    "t": "Was he in Hokkaido last year?"
+  },
+  {
+    "q": "Vi iam fumis, ĉu ne?",
+    "a": [
+      "ㅠㅗㅜ ㅅㅁㅗㅋㅔㄷ ㅏㅌ ㅅㅗㅁㅔ ㅍㅗㅣㄴㅌ, ㄷㅣㄷㄴ'ㅌ ㅠㅗㅜ?"
+    ],
+    "t": "You smoked at some point, didn't you?"
+  },
+  {
+    "q": "Ne, dankon.",
+    "a": [
+      "ㄴㅗ, ㅌㅎㅏㄴㅋ ㅠㅗㅜ.",
+      "ㄴㅗ, ㅌㅎㅏㄴㅋㅅ."
+    ],
+    "t": "No, thank you. | No, thanks."
+  },
+  {
+    "q": "Li estas ŝia amiko.",
+    "a": [
+      "ㅎㅔ'ㅅ ㅎㅔㄹ ㄲㄹㅣㅔㄴㄷ.",
+      "ㅎㅔ ㅣㅅ ㅎㅔㄹ ㄲㄹㅣㅔㄴㄷ."
+    ],
+    "t": "He's her friend. | He is her friend."
+  },
+  {
+    "q": "Ŝi aĉetis du parojn da ŝtrumpetoj.",
+    "a": [
+      "ㅅㅎㅔ ㅂㅗㅜㄱㅎㅌ ㅌ외ㅗ ㅍㅏㅣㄹㅅ ㅗㄲ ㅅㅗㅊㅋㅅ."
+    ],
+    "t": "She bought two pairs of socks."
+  },
+  {
+    "q": "Nia filo militpereis.",
+    "a": [
+      "ㅗㅜㄹ ㅅㅗㄴ ㄷㅣㅔㄷ ㅣㄴ ㅌㅎㅔ 외ㅏㄹ.",
+      "ㅗㅜㄹ ㅅㅗㄴ 외ㅏㅅ ㅋㅣㄸㄸㅔㄷ ㅣㄴ ㅌㅎㅔ 외ㅏㄹ."
+    ],
+    "t": "Our son died in the war. | Our son was killed in the war."
+  },
+  {
+    "q": "La telefono daŭre sonoris.",
+    "a": [
+      "ㅌㅎㅔ ㅍㅎㅗㄴㅔ ㅋㅔㅍㅌ ㄹㅣㄴㄱㅣㄴㄱ."
+    ],
+    "t": "The phone kept ringing."
+  },
+  {
+    "q": "Ĉiuj ŝin ŝatas.",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅗㄴㅔ ㄸㅣㅋㅔㅅ ㅎㅔㄹ.",
+      "ㅔㅆㅔㄹㅠㅂㅗㄷㅠ ㄸㅣㅋㅔㅅ ㅎㅔㄹ."
+    ],
+    "t": "Everyone likes her. | Everybody likes her."
+  },
+  {
+    "q": "Li tro maljunis por naĝi.",
+    "a": [
+      "ㅎㅔ 외ㅏㅅ ㅌㅗㅗ ㅗㄸㄷ ㅌㅗ ㅅ외ㅣㅁ."
+    ],
+    "t": "He was too old to swim."
+  },
+  {
+    "q": "Jen restoracio, en kiu mi ofte manĝas.",
+    "a": [
+      "ㅎㅔㄹㅔ'ㅅ ㅏ ㄹㅔㅅㅌㅏㅜㄹㅏㄴㅌ ㅣ ㅔㅏㅌ ㅏㅌ ㅏ ㄸㅗㅌ.",
+      "ㅎㅔㄹㅔ'ㅅ ㅏ ㄹㅔㅅㅌㅏㅜㄹㅏㄴㅌ ㅣ ㅗㄲㅌㅔㄴ ㅔㅏㅌ ㅏㅌ."
+    ],
+    "t": "Here's a restaurant I eat at a lot. | Here's a restaurant I often eat at."
+  },
+  {
+    "q": "La esenco de matematiko estas libereco.",
+    "a": [
+      "ㅌㅎㅔ ㅔㅅㅅㅔㄴㅊㅔ ㅗㄲ ㅁㅏㅌㅎㅔㅁㅏㅌㅣㅊㅅ ㅣㅅ ㄸㅣㅂㅔㄹㅌㅠ.",
+      "ㄲㄹㅔㅔㄷㅗㅁ ㅣㅅ ㅌㅎㅔ ㅔㅅㅅㅔㄴㅊㅔ ㅗㄲ ㅁㅏㅌㅎㅔㅁㅏㅌㅣㅊㅅ."
+    ],
+    "t": "The essence of mathematics is liberty. | Freedom is the essence of mathematics."
+  },
+  {
+    "q": "Longa atendado al amiko nervozigas min.",
+    "a": [
+      "외ㅏㅣㅌㅣㄴㄱ ㅏ ㄸㅗㄴㄱ ㅌㅣㅁㅔ ㄲㅗㄹ ㅏ ㄲㄹㅣㅔㄴㄷ ㅁㅏㅋㅔㅅ ㅁㅔ ㄴㅔㄹㅆㅗㅜㅅ."
+    ],
+    "t": "Waiting a long time for a friend makes me nervous."
+  },
+  {
+    "q": "Tio kostos ĉirkaŭ 10 mil enojn.",
+    "a": [
+      "ㅌㅎㅣㅅ 외ㅣㄸㄸ ㅊㅗㅅㅌ ㅏㅂㅗㅜㅌ 10 ㅌㅎㅗㅜㅅㅏㄴㄷ ㅠㅔㄴ.",
+      "ㅣㅌ 외ㅣㄸㄸ ㅊㅗㅅㅌ ㅏㄹㅗㅜㄴㄷ 10,000 ㅠㅔㄴ."
+    ],
+    "t": "This will cost about 10 thousand yen. | It will cost around 10,000 yen."
+  },
+  {
+    "q": "Magda edziniĝos al hispano.",
+    "a": [
+      "ㅁㅏㄱㄷㅏ 외ㅣㄸㄸ ㅂㅔ ㅁㅏㄹㄹㅣㅔㄷ ㅌㅗ ㅏ ㅅㅍㅏㄴㅣㅏㄹㄷ.",
+      "ㅁㅏㄱㄷㅏ ㅣㅅ ㄱㅗㅣㄴㄱ ㅌㅗ ㅁㅏㄹㄹㅠ ㅏ ㅅㅍㅏㄴㅣㅏㄹㄷ."
+    ],
+    "t": "Magda will be married to a Spaniard. | Magda is going to marry a Spaniard."
+  },
+  {
+    "q": "Li transloĝiĝis al Tokio.",
+    "a": [
+      "ㅎㅔ ㅁㅗㅆㅔㄷ ㅌㅗ ㅌㅗㅋㅠㅗ."
+    ],
+    "t": "He moved to Tokyo."
+  },
+  {
+    "q": "Mi kutime rehejmeniras je la kvara.",
+    "a": [
+      "ㅣ ㅜㅅㅜㅏㄸㄸㅠ ㄱㅗ ㅎㅗㅁㅔ ㅏㅌ ㄲㅗㅜㄹ."
+    ],
+    "t": "I usually go home at four."
+  },
+  {
+    "q": "Maria havas longan hararon.",
+    "a": [
+      "ㅁㅏㄹㅣㅏ ㅎㅏㅅ ㄸㅗㄴㄱ ㅎㅏㅣㄹ."
+    ],
+    "t": "Maria has long hair."
+  },
+  {
+    "q": "Mi prenis du tasojn da kafo.",
+    "a": [
+      "ㅣ ㅎㅏㄷ ㅌ외ㅗ ㅊㅜㅍㅅ ㅗㄲ ㅊㅗㄲㄲㅔㅔ.",
+      "ㅣ ㄷㄹㅏㄴㅋ ㅌ외ㅗ ㅊㅜㅍㅅ ㅗㄲ ㅊㅗㄲㄲㅔㅔ."
+    ],
+    "t": "I had two cups of coffee. | I drank two cups of coffee."
+  },
+  {
+    "q": "La pluvo daŭris tri tagojn.",
+    "a": [
+      "ㅌㅎㅔ ㄹㅏㅣㄴ ㄸㅏㅅㅌㅔㄷ ㅌㅎㄹㅔㅔ ㄷㅏㅠㅅ."
+    ],
+    "t": "The rain lasted three days."
+  },
+  {
+    "q": "Mallevu la manojn!",
+    "a": [
+      "ㅍㅜㅌ ㅠㅗㅜㄹ ㅎㅏㄴㄷㅅ ㄷㅗ외ㄴ!"
+    ],
+    "t": "Put your hands down!"
+  },
+  {
+    "q": "Ne timu erari.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅂㅔ ㅏㄲㄹㅏㅣㄷ ㅗㄲ ㅁㅏㅋㅣㄴㄱ ㅁㅣㅅㅌㅏㅋㅔㅅ.",
+      "ㄷㅗㄴ'ㅌ ㅂㅔ ㅅㅊㅏㄹㅔㄷ ㅗㄲ ㅁㅏㅋㅣㄴㄱ ㅁㅣㅅㅌㅏㅋㅔㅅ.",
+      "ㄷㅗㄴ'ㅌ ㅂㅔ ㅏㄲㄹㅏㅣㄷ ㅌㅗ ㅁㅏㅋㅔ ㅏ ㅁㅣㅅㅌㅏㅋㅔ."
+    ],
+    "t": "Don't be afraid of making mistakes. | Don't be scared of making mistakes. | Don't be afraid to make a mistake."
+  },
+  {
+    "q": "Li povas kuri pli rapide ol mi.",
+    "a": [
+      "ㅎㅔ ㅊㅏㄴ ㄹㅜㄴ ㄲㅏㅅㅌㅔㄹ ㅌㅎㅏㄴ ㅣ.",
+      "ㅎㅔ ㅊㅏㄴ ㄹㅜㄴ ㄲㅏㅅㅌㅔㄹ ㅌㅎㅏㄴ ㅣ ㅊㅏㄴ.",
+      "ㅎㅔ ㅊㅏㄴ ㄹㅜㄴ ㄲㅏㅅㅌㅔㄹ ㅌㅎㅏㄴ ㅁㅔ."
+    ],
+    "t": "He can run faster than I. | He can run faster than I can. | He can run faster than me."
+  },
+  {
+    "q": "Mi studas la anglan.",
+    "a": [
+      "ㅣ'ㅁ ㅅㅌㅜㄷㅠㅣㄴㄱ ㅔㄴㄱㄸㅣㅅㅎ.",
+      "ㅣ ㅅㅌㅜㄷㅠ ㅔㄴㄱㄸㅣㅅㅎ."
+    ],
+    "t": "I'm studying English. | I study English."
+  },
+  {
+    "q": "Mi volus iri al Japanio.",
+    "a": [
+      "ㅣ 외ㅣㅅㅎ ㅣ ㅊㅗㅜㄸㄷ ㄱㅗ ㅌㅗ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "I wish I could go to Japan."
+  },
+  {
+    "q": "Li estas la justico.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅈㅜㅅㅌㅣㅊㅔ."
+    ],
+    "t": "He is justice."
+  },
+  {
+    "q": "La hispana estas parolata en Meksiko.",
+    "a": [
+      "ㅅㅍㅏㄴㅣㅅㅎ ㅣㅅ ㅅㅍㅗㅋㅔㄴ ㅣㄴ ㅁㅔㅉㅣㅊㅗ."
+    ],
+    "t": "Spanish is spoken in Mexico."
+  },
+  {
+    "q": "Mi havas ideon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅏㄴ ㅣㄷㅔㅏ.",
+      "ㅣ'ㅆㅔ ㄱㅗㅌ ㅏㄴ ㅣㄷㅔㅏ."
+    ],
+    "t": "I have an idea. | I've got an idea."
+  },
+  {
+    "q": "Li diris: „Mi estas de Kanado.”",
+    "a": [
+      "ㅎㅔ ㅅㅏㅣㄷ, \"ㅣ'ㅁ ㄲㄹㅗㅁ ㅊㅏㄴㅏㄷㅏ.\""
+    ],
+    "t": "He said, \"I'm from Canada.\""
+  },
+  {
+    "q": "Tio estas mia biciklo.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅣㅅ ㅁㅠ ㅂㅣㅋㅔ.",
+      "ㅌㅎㅣㅅ ㅣㅅ ㅁㅠ ㅂㅣㅊㅠㅊㄸㅔ.",
+      "ㅌㅎㅏㅌ'ㅅ ㅁㅠ ㅂㅣㅋㅔ."
+    ],
+    "t": "This is my bike. | This is my bicycle. | That's my bike."
+  },
+  {
+    "q": "Mi kredas, ke li estas feliĉa.",
+    "a": [
+      "ㅣ ㅂㅔㄸㅣㅔㅆㅔ ㅌㅎㅏㅌ ㅎㅔ'ㅅ ㅎㅏㅍㅍㅠ.",
+      "ㅣ ㅌㅎㅣㄴㅋ ㅎㅔ'ㅅ ㅎㅏㅍㅍㅠ."
+    ],
+    "t": "I believe that he's happy. | I think he's happy."
+  },
+  {
+    "q": "Forgesu.",
+    "a": [
+      "ㄲㅗㄹㄱㅔㅌ ㅣㅌ.",
+      "ㄴㅔㅆㅔㄹ ㅁㅣㄴㄷ!"
+    ],
+    "t": "Forget it. | Never mind!"
+  },
+  {
+    "q": "Mi estas tre laca.",
+    "a": [
+      "ㅣ'ㅁ ㅆㅔㄹㅠ ㅌㅣㄹㅔㄷ.",
+      "ㅣ'ㅁ ㄹㅔㅏㄸㄸㅠ ㅌㅣㄹㅔㄷ.",
+      "ㅣ'ㅁ ㅅㅗ ㅌㅣㄹㅔㄷ.",
+      "ㅣ ㅏㅁ ㅆㅔㄹㅠ ㅌㅣㄹㅔㄷ."
+    ],
+    "t": "I'm very tired. | I'm really tired. | I'm so tired. | I am very tired."
+  },
+  {
+    "q": "La rizo kreskas en la varmaj landoj.",
+    "a": [
+      "ㄹㅣㅊㅔ ㄱㄹㅗ외ㅅ ㅣㄴ 외ㅏㄹㅁ ㅊㅗㅜㄴㅌㄹㅣㅔㅅ."
+    ],
+    "t": "Rice grows in warm countries."
+  },
+  {
+    "q": "Tio estas plene videbla.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅊㅗㅁㅍㄸㅔㅌㅔㄸㅠ ㅆㅣㅅㅣㅂㄸㅔ."
+    ],
+    "t": "It's completely visible."
+  },
+  {
+    "q": "Tiuj estas miaj KD-oj.",
+    "a": [
+      "ㅌㅎㅔㅅㅔ ㅏㄹㅔ ㅁㅠ ㅊㄷㅅ.",
+      "ㅌㅎㅗㅅㅔ ㅏㄹㅔ ㅁㅠ ㅊㄷㅅ.",
+      "ㅌㅎㅗㅅㅔ ㅏㄹㅔ ㅁㅠ ㅊㄷ'ㅅ."
+    ],
+    "t": "These are my CDs. | Those are my CDs. | Those are my CD's."
+  },
+  {
+    "q": "Kaj ĉu neniu helpis vin?",
+    "a": [
+      "ㅏㄴㄷ ㄴㅗ ㅗㄴㅔ ㅎㅔㄸㅍㅔㄷ ㅠㅗㅜ?",
+      "ㅏㄴㄷ ㄴㅗㅂㅗㄷㅠ ㅎㅔㄸㅍㅔㄷ ㅠㅗㅜ?"
+    ],
+    "t": "And no one helped you? | And nobody helped you?"
+  },
+  {
+    "q": "Bonvolu skribi vian nomon.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ 외ㄹㅣㅌㅔ ㄷㅗ외ㄴ ㅠㅗㅜㄹ ㄴㅏㅁㅔ."
+    ],
+    "t": "Please write down your name."
+  },
+  {
+    "q": "Kial vi estas tiel feliĉa?",
+    "a": [
+      "외ㅎㅠ ㅏㄹㅔ ㅠㅗㅜ ㅅㅗ ㅎㅏㅍㅍㅠ?"
+    ],
+    "t": "Why are you so happy?"
+  },
+  {
+    "q": "Ĝis revido, Sajoko.",
+    "a": [
+      "ㄱㅗㅗㄷㅂㅠㅔ, ㅅㅏㅠㅗㅋㅗ."
+    ],
+    "t": "Goodbye, Sayoko."
+  },
+  {
+    "q": "Mi faros miajn taskojn post kiam mi estos spektinta televidon.",
+    "a": [
+      "ㅣ'ㄸㄸ ㄷㅗ ㅁㅠ ㅎㅗㅁㅔ외ㅗㄹㅋ ㅏㄲㅌㅔㄹ ㅣ 외ㅏㅌㅊㅎ ㅌㅔㄸㅔㅆㅣㅅㅣㅗㄴ."
+    ],
+    "t": "I'll do my homework after I watch television."
+  },
+  {
+    "q": "Ŝi adoras katojn.",
+    "a": [
+      "ㅅㅎㅔ ㅏㄷㅗㄹㅔㅅ ㅊㅏㅌㅅ."
+    ],
+    "t": "She adores cats."
+  },
+  {
+    "q": "Beti murdis ŝin.",
+    "a": [
+      "ㅂㅔㅌㅌㅠ ㅋㅣㄸㄸㅔㄷ ㅎㅔㄹ."
+    ],
+    "t": "Betty killed her."
+  },
+  {
+    "q": "Bonvolu sidiĝi.",
+    "a": [
+      "ㅅㅣㅌ ㄷㅗ외ㄴ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅍㄸㅔㅏㅅㅔ ㅎㅏㅆㅔ ㅏ ㅅㅔㅏㅌ.",
+      "ㅍㄸㅔㅏㅅㅔ ㅅㅣㅌ ㄷㅗ외ㄴ.",
+      "ㅌㅏㅋㅔ ㅏ ㅅㅔㅏㅌ, ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "Sit down, please. | Please have a seat. | Please sit down. | Take a seat, please."
+  },
+  {
+    "q": "Jes, tio estas Antoni.",
+    "a": [
+      "ㅠㅔㅅ, ㅌㅎㅣㅅ ㅣㅅ ㅏㄴㅌㅎㅗㄴㅠ."
+    ],
+    "t": "Yes, this is Anthony."
+  },
+  {
+    "q": "Li estas instruisto pri la angla.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅏ ㅌㅔㅏㅊㅎㅔㄹ ㅗㄲ ㅔㄴㄱㄸㅣㅅㅎ.",
+      "ㅎㅔ ㅣㅅ ㅏㄴ ㅔㄴㄱㄸㅣㅅㅎ ㅌㅔㅏㅊㅎㅔㄹ."
+    ],
+    "t": "He is a teacher of English. | He is an English teacher."
+  },
+  {
+    "q": "Mia hobio estas aŭskulti muzikon.",
+    "a": [
+      "ㅁㅠ ㅎㅗㅂㅂㅠ ㅣㅅ ㅌㅗ ㄸㅣㅅㅌㅔㄴ ㅌㅗ ㅁㅜㅅㅣㅊ.",
+      "ㅁㅠ ㅎㅗㅂㅂㅠ ㅣㅅ ㄸㅣㅅㅌㅔㄴㅣㄴㄱ ㅌㅗ ㅁㅜㅅㅣㅊ."
+    ],
+    "t": "My hobby is to listen to music. | My hobby is listening to music."
+  },
+  {
+    "q": "Mi konsilas al vi iri hejmen.",
+    "a": [
+      "ㅁㅠ ㅏㄷㅆㅣㅊㅔ ㅣㅅ ㄲㅗㄹ ㅠㅗㅜ ㅌㅗ ㄱㅗ ㅎㅗㅁㅔ."
+    ],
+    "t": "My advice is for you to go home."
+  },
+  {
+    "q": "Mi amas kaj katojn kaj hundojn.",
+    "a": [
+      "ㅣ ㄸㅗㅆㅔ ㅂㅗㅌㅎ ㅊㅏㅌㅅ ㅏㄴㄷ ㄷㅗㄱㅅ."
+    ],
+    "t": "I love both cats and dogs."
+  },
+  {
+    "q": "Ĉu via patrino scias stiri?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜㄹ ㅁㅗㅌㅎㅔㄹ ㄷㄹㅣㅆㅔ ㅏ ㅊㅏㄹ?"
+    ],
+    "t": "Can your mother drive a car?"
+  },
+  {
+    "q": "Mi lernis stiri kiam mi estis dek-okjara kaj mi ekhavis mian permesilon.",
+    "a": [
+      "ㅣ ㄸㅔㅏㄹㄴㅔㄷ ㅌㅗ ㄷㄹㅣㅆㅔ ㅏ ㅊㅏㄹ ㅏㄴㄷ ㄱㅗㅌ ㅏ ㄷㄹㅣㅆㅔㄹ'ㅅ ㄸㅣㅊㅔㄴㅅㅔ 외ㅎㅔㄴ ㅣ 외ㅏㅅ ㅔㅣㄱㅎㅌㅔㅔㄴ."
+    ],
+    "t": "I learned to drive a car and got a driver's license when I was eighteen."
+  },
+  {
+    "q": "Hieraŭ ŝi vidis tre grandan viron.",
+    "a": [
+      "ㅅㅎㅔ ㅅㅏ외 ㅏ ㅆㅔㄹㅠ ㅌㅏㄸㄸ ㅁㅏㄴ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ."
+    ],
+    "t": "She saw a very tall man yesterday."
+  },
+  {
+    "q": "La ĉina popolo estas tre laborema.",
+    "a": [
+      "ㅌㅎㅔ ㅊㅎㅣㄴㅔㅅㅔ ㅏㄹㅔ ㅏ ㅎㅏㄹㄷ-외ㅗㄹㅋㅣㄴㄱ ㅍㅔㅗㅍㄸㅔ."
+    ],
+    "t": "The Chinese are a hard-working people."
+  },
+  {
+    "q": "Li naskiĝis en malgranda urbo de Italio.",
+    "a": [
+      "ㅎㅔ 외ㅏㅅ ㅂㅗㄹㄴ ㅣㄴ ㅏ ㅅㅁㅏㄸㄸ ㅌㅗ외ㄴ ㅣㄴ ㅣㅌㅏㄸㅠ."
+    ],
+    "t": "He was born in a small town in Italy."
+  },
+  {
+    "q": "Tio estas bona ideo!",
+    "a": [
+      "ㅌㅎㅏㅌ'ㅅ ㅏ ㄱㅗㅗㄷ ㅣㄷㅔㅏ!"
+    ],
+    "t": "That's a good idea!"
+  },
+  {
+    "q": "Saluton, Tom.",
+    "a": [
+      "ㅎㅔㄸㄸㅗ, ㅌㅗㅁ.",
+      "ㅎㅣ, ㅌㅗㅁ.",
+      "ㅎㅣ, ㅌㅗㅁ!"
+    ],
+    "t": "Hello, Tom. | Hi, Tom. | Hi, Tom!"
+  },
+  {
+    "q": "Ĝis revido!",
+    "a": [
+      "ㅅㅔㅔ ㅠㅗㅜ ㅏㄱㅏㅣㄴ.",
+      "ㅅㅔㅔ ㅠㅗㅜ ㅅㅗㅗㄴ!",
+      "ㄱㅗㅗㄷ-ㅂㅠㅔ!",
+      "ㅅㅔㅔ ㅠㅗㅜ ㅅㅗㅗㄴ.",
+      "ㄱㅗㅗㄷㅂㅠㅔ!",
+      "ㄲㅏㄹㅔ외ㅔㄸㄸ!",
+      "ㅂㅠㅔ ㄲㅗㄹ ㄴㅗ외.",
+      "ㅣ'ㄸㄸ ㅅㅔㅔ ㅠㅗㅜ ㅅㅗㅗㄴ."
+    ],
+    "t": "See you again. | See you soon! | Good-bye! | See you soon. | Goodbye! | Farewell! | Bye for now. | I'll see you soon."
+  },
+  {
+    "q": "Mi ŝatas vian aŭton.",
+    "a": [
+      "ㅣ ㄸㅣㅋㅔ ㅠㅗㅜㄹ ㅊㅏㄹ."
+    ],
+    "t": "I like your car."
+  },
+  {
+    "q": "Ni kantu la kanton anglan.",
+    "a": [
+      "ㄸㅔㅌ'ㅅ ㅅㅣㄴㄱ ㅌㅎㅔ ㅔㄴㄱㄸㅣㅅㅎ ㅅㅗㄴㄱ."
+    ],
+    "t": "Let's sing the English song."
+  },
+  {
+    "q": "Estas libro sur la tablo.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ ㅣㅅ ㅏ ㅂㅗㅗㅋ ㅗㄴ ㅌㅎㅔ ㄷㅔㅅㅋ.",
+      "ㅌㅎㅔㄹㅔ ㅣㅅ ㅏ ㅂㅗㅗㅋ ㅗㄴ ㅌㅎㅔ ㅌㅏㅂㄸㅔ.",
+      "ㅏ ㅂㅗㅗㅋ ㅣㅅ ㅗㄴ ㅌㅎㅔ ㅌㅏㅂㄸㅔ."
+    ],
+    "t": "There is a book on the desk. | There is a book on the table. | A book is on the table."
+  },
+  {
+    "q": "Ĉu vi bonvolus veni al mia festo?",
+    "a": [
+      "외ㅣㄸㄸ ㅠㅗㅜ ㅍㄸㅔㅏㅅㅔ ㅊㅗㅁㅔ ㅌㅗ ㅁㅠ ㅍㅏㄹㅌㅠ?"
+    ],
+    "t": "Will you please come to my party?"
+  },
+  {
+    "q": "Ni aŭdis pafojn fore.",
+    "a": [
+      "외ㅔ ㅎㅔㅏㄹㄷ ㅅㅎㅗㅌㅅ ㅣㄴ ㅌㅎㅔ ㄷㅣㅅㅌㅏㄴㅊㅔ."
+    ],
+    "t": "We heard shots in the distance."
+  },
+  {
+    "q": "Mi distingis turon fore.",
+    "a": [
+      "ㅣ ㅁㅏㄷㅔ ㅗㅜㅌ ㅏ ㅌㅗ외ㅔㄹ ㅣㄴ ㅌㅎㅔ ㄷㅣㅅㅌㅏㄴㅊㅔ."
+    ],
+    "t": "I made out a tower in the distance."
+  },
+  {
+    "q": "Kiom da tempo necesas por iri al Okinawa aviadile?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㄷㅗㅔㅅ ㅣㅌ ㅌㅏㅋㅔ ㅌㅗ ㄱㅗ ㅌㅗ ㅗㅋㅣㄴㅏ외ㅏ ㅂㅠ ㅍㄸㅏㄴㅔ?"
+    ],
+    "t": "How long does it take to go to Okinawa by plane?"
+  },
+  {
+    "q": "Mia patro ne manĝas multe da fruktoj.",
+    "a": [
+      "ㅁㅠ ㄲㅏㅌㅎㅔㄹ ㄷㅗㅔㅅ ㄴㅗㅌ ㅔㅏㅌ ㅁㅜㅊㅎ ㄲㄹㅜㅣㅌ.",
+      "ㅁㅠ ㄲㅏㅌㅎㅔㄹ ㄷㅗㅔㅅㄴ'ㅌ ㅔㅏㅌ ㅁㅜㅊㅎ ㄲㄹㅜㅣㅌ."
+    ],
+    "t": "My father does not eat much fruit. | My father doesn't eat much fruit."
+  },
+  {
+    "q": "Mia patro ĉesis fumi.",
+    "a": [
+      "ㅁㅠ ㄲㅏㅌㅎㅔㄹ ㅅㅌㅗㅍㅍㅔㄷ ㅅㅁㅗㅋㅣㄴㄱ.",
+      "ㅁㅠ ㄲㅏㅌㅎㅔㄹ ㄱㅏㅆㅔ ㅜㅍ ㅅㅁㅗㅋㅣㄴㄱ.",
+      "ㅁㅠ ㄲㅏㅌㅎㅔㄹ ㅃㅜㅣㅌ ㅅㅁㅗㅋㅣㄴㄱ."
+    ],
+    "t": "My father stopped smoking. | My father gave up smoking. | My father quit smoking."
+  },
+  {
+    "q": "Mia patro resaniĝis.",
+    "a": [
+      "ㄲㅏㅌㅎㅔㄹ ㄹㅔㅊㅗㅆㅔㄹㅔㄷ ㅎㅣㅅ ㅎㅔㅏㄸㅌㅎ."
+    ],
+    "t": "Father recovered his health."
+  },
+  {
+    "q": "Mia patro parolas bone la anglan.",
+    "a": [
+      "ㅁㅠ ㄷㅏㄷ ㅅㅍㅔㅏㅋㅅ ㅔㄴㄱㄸㅣㅅㅎ 외ㅔㄸㄸ."
+    ],
+    "t": "My dad speaks English well."
+  },
+  {
+    "q": "Mia patro legas ofte ĵurnalon dum manĝo.",
+    "a": [
+      "ㅁㅠ ㄲㅏㅌㅎㅔㄹ 외ㅣㄸㄸ ㅗㄲㅌㅔㄴ ㄹㅔㅏㄷ ㅌㅎㅔ ㄴㅔ외ㅅㅍㅏㅍㅔㄹ ㄷㅜㄹㅣㄴㄱ ㅁㅔㅏㄸㅅ."
+    ],
+    "t": "My father will often read the newspaper during meals."
+  },
+  {
+    "q": "Mi volas, ke vi ordigu la ĉambron rapide.",
+    "a": [
+      "ㅣ 외ㅏㄴㅌ ㅠㅗㅜ ㅌㅗ ㅍㅜㅌ ㅌㅎㅔ ㄹㅗㅗㅁ ㅣㄴ ㅗㄹㄷㅔㄹ ㅃㅜㅣㅊㅋㄸㅠ."
+    ],
+    "t": "I want you to put the room in order quickly."
+  },
+  {
+    "q": "Mi estas sana.",
+    "a": [
+      "ㅣ'ㅁ ㅎㅔㅏㄸㅌㅎㅠ."
+    ],
+    "t": "I'm healthy."
+  },
+  {
+    "q": "Bill estis mortigita de tiu viro.",
+    "a": [
+      "ㅂㅣㄸㄸ 외ㅏㅅ ㅋㅣㄸㄸㅔㄷ ㅂㅠ ㅌㅎㅏㅌ ㅁㅏㄴ."
+    ],
+    "t": "Bill was killed by that man."
+  },
+  {
+    "q": "Ĉiu parto de la insulo estis esplorita.",
+    "a": [
+      "ㅔㅆㅔㄹㅠ ㅍㅏㄹㅌ ㅗㄲ ㅌㅎㅔ ㅣㅅㄸㅏㄴㄷ ㅎㅏㅅ ㅂㅔㅔㄴ ㅔㅉㅍㄸㅗㄹㅔㄷ."
+    ],
+    "t": "Every part of the island has been explored."
+  },
+  {
+    "q": "La insulo estas ĉirkaŭ du mejlojn de la marbordo.",
+    "a": [
+      "ㅌㅎㅔ ㅣㅅㄸㅏㄴㄷ ㅣㅅ ㅏㅂㅗㅜㅌ ㅌ외ㅗ ㅁㅣㄸㅔㅅ ㅗㄲㄲ ㅌㅎㅔ ㅊㅗㅏㅅㅌ."
+    ],
+    "t": "The island is about two miles off the coast."
+  },
+  {
+    "q": "Ci neniam superfortos min, ĉu ci aŭdas min? Neniam!",
+    "a": [
+      "ㅠㅗㅜ 외ㅣㄸㄸ ㄴㅔㅆㅔㄹ ㅂㅔㅏㅌ ㅁㅔ, ㅠㅗㅜ ㅎㅔㅏㄹ ㅁㅔ? ㄴㅔㅆㅔㄹ!"
+    ],
+    "t": "You will never beat me, you hear me? Never!"
+  },
+  {
+    "q": "Li neniam superfortos min.",
+    "a": [
+      "ㅎㅔ 외ㅗㄴ'ㅌ ㅂㅔㅏㅌ ㅁㅔ."
+    ],
+    "t": "He won't beat me."
+  },
+  {
+    "q": "Mi amikiĝis kun multaj homoj, ekde kiam mi eniris la universitaton.",
+    "a": [
+      "ㅣ'ㅆㅔ ㅁㅏㄷㅔ ㅏ ㄸㅗㅌ ㅗㄲ ㄲㄹㅣㅔㄴㄷㅅ ㅅㅣㄴㅊㅔ ㅣ ㅔㄴㅌㅔㄹㅔㄷ ㅊㅗㄸㄸㅔㄱㅔ."
+    ],
+    "t": "I've made a lot of friends since I entered college."
+  },
+  {
+    "q": "Mi kredas je Dio.",
+    "a": [
+      "ㅣ ㅂㅔㄸㅣㅔㅆㅔ ㅣㄴ ㄱㅗㄷ."
+    ],
+    "t": "I believe in God."
+  },
+  {
+    "q": "Kiam pluvas, ŝi busumas.",
+    "a": [
+      "외ㅎㅔㄴ ㅣㅌ ㄹㅏㅣㄴㅅ, ㅅㅎㅔ ㅌㅏㅋㅔㅅ ㅌㅎㅔ ㅂㅜㅅ."
+    ],
+    "t": "When it rains, she takes the bus."
+  },
+  {
+    "q": "Mi atendadis kurtenan leviĝon kun koro batanta ekscite.",
+    "a": [
+      "ㅣ 외ㅏㅣㅌㅔㄷ ㄲㅗㄹ ㅌㅎㅔ ㅊㅜㄹㅌㅏㅣㄴ ㅌㅗ ㄹㅣㅅㅔ 외ㅣㅌㅎ ㅁㅠ ㅎㅔㅏㄹㅌ ㅂㅔㅏㅌㅣㄴㄱ ㅣㄴ ㅔㅉㅊㅣㅌㅔㅁㅔㄴㅌ."
+    ],
+    "t": "I waited for the curtain to rise with my heart beating in excitement."
+  },
+  {
+    "q": "John gitaris kaj liaj amikoj kantis.",
+    "a": [
+      "ㅈㅗㅎㄴ ㅍㄸㅏㅠㅔㄷ ㄱㅜㅣㅌㅏㄹ ㅏㄴㄷ ㅎㅣㅅ ㄲㄹㅣㅔㄴㄷㅅ ㅅㅏㄴㄱ."
+    ],
+    "t": "John played guitar and his friends sang."
+  },
+  {
+    "q": "Kial vi ne venas danci kun mi?",
+    "a": [
+      "외ㅎㅠ ㄷㅗㄴ'ㅌ ㅠㅗㅜ ㅊㅗㅁㅔ ㄷㅏㄴㅊㅣㄴㄱ 외ㅣㅌㅎ ㅁㅔ?"
+    ],
+    "t": "Why don't you come dancing with me?"
+  },
+  {
+    "q": "Ne faru tiun bruon.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅁㅏㅋㅔ ㅏ ㄴㅗㅣㅅㅔ."
+    ],
+    "t": "Don't make a noise."
+  },
+  {
+    "q": "Ĉar mi ne havas la bitvaron, kiu kongruas kun la kunsenditaĵo, mi ne povas malfermi la dosieron. Bonvolu resendi ĝin al mi en alia formo.",
+    "a": [
+      "ㅏㅅ ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅌㅎㅔ ㅅㅗㄲㅌ외ㅏㄹㅔ ㅌㅎㅏㅌ ㅁㅏㅌㅊㅎㅔㅅ ㅌㅎㅔ ㅏㅌㅌㅏㅊㅎㅁㅔㄴㅌ, ㅣ ㅊㅏㄴㄴㅗㅌ ㅗㅍㅔㄴ ㅌㅎㅔ ㄲㅣㄸㅔ. ㅍㄸㅔㅏㅅㅔ ㄹㅔㅅㅔㄴㄷ ㅣㅌ ㅣㄴ ㅏㄴㅗㅌㅎㅔㄹ ㄲㅗㄹㅁㅏㅌ."
+    ],
+    "t": "As I don't have the software that matches the attachment, I cannot open the file. Please resend it in another format."
+  },
+  {
+    "q": "Picasso pentris tiun bildon en 1950.",
+    "a": [
+      "ㅍㅣㅊㅏㅅㅅㅗ ㅍㅏㅣㄴㅌㅔㄷ ㅌㅎㅣㅅ ㅍㅣㅊㅌㅜㄹㅔ ㅣㄴ 1950."
+    ],
+    "t": "Picasso painted this picture in 1950."
+  },
+  {
+    "q": "Ni atendu ĝis la sesa horo.",
+    "a": [
+      "ㄸㅔㅌ'ㅅ 외ㅏㅣㅌ ㅜㄴㅌㅣㄸ ㅅㅣㅉ ㅗ'ㅊㄸㅗㅊㅋ."
+    ],
+    "t": "Let's wait until six o'clock."
+  },
+  {
+    "q": "Ĉu vi ŝatas pomojn?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㄸㅣㅋㅔ ㅏㅍㅍㄸㅔㅅ?"
+    ],
+    "t": "Do you like apples?"
+  },
+  {
+    "q": "Mi havas retpoŝtajn problemojn nuntempe.",
+    "a": [
+      "ㅣ'ㅁ ㅎㅏㅆㅣㄴㄱ ㅍㄹㅗㅂㄸㅔㅁㅅ 외ㅣㅌㅎ ㅔ-ㅁㅏㅣㄸ ㄹㅣㄱㅎㅌ ㄴㅗ외."
+    ],
+    "t": "I'm having problems with e-mail right now."
+  },
+  {
+    "q": "Ĉu vi povos sendi tion per retmesaĝo?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜ ㅅㅔㄴㄷ ㅌㅎㅏㅌ ㅂㅠ ㅔㅁㅏㅣㄸ?"
+    ],
+    "t": "Can you send that by email?"
+  },
+  {
+    "q": "Ĉu vi feliĉas?",
+    "a": [
+      "ㅏㄹㅔ ㅠㅗㅜ ㅎㅏㅍㅍㅠ?",
+      "ㅏㄹㅔ ㅠㅗㅜ ㄱㅜㅠㅅ ㅎㅏㅍㅍㅠ?"
+    ],
+    "t": "Are you happy? | Are you guys happy?"
+  },
+  {
+    "q": "Komputiloj stultigas homojn.",
+    "a": [
+      "ㅊㅗㅁㅍㅜㅌㅔㄹㅅ ㅁㅏㅋㅔ ㅍㅔㅗㅍㄸㅔ ㅅㅌㅜㅍㅣㄷ."
+    ],
+    "t": "Computers make people stupid."
+  },
+  {
+    "q": "Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㄸㅣㅌㅌㄸㅔ ㅁㅗㄴㅔㅠ. ㅎㅗ외ㅔㅆㅔㄹ, ㅣ ㄲㅔㅔㄸ ㅎㅏㅍㅍㅠ 외ㅣㅌㅎ ㅠㅗㅜ."
+    ],
+    "t": "I have little money. However, I feel happy with you."
+  },
+  {
+    "q": "Ni paŭzu dum 10 minutoj.",
+    "a": [
+      "ㄸㅔㅌ'ㅅ ㅌㅏㅋㅔ ㅏ 10-ㅁㅣㄴㅜㅌㅔ ㅂㄹㅔㅏㅋ."
+    ],
+    "t": "Let's take a 10-minute break."
+  },
+  {
+    "q": "Bonvolu paroli pli laŭte.",
+    "a": [
+      "ㅅㅍㅔㅏㅋ ㄸㅗㅜㄷㅔㄹ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅊㅗㅜㄸㄷ ㅠㅗㅜ ㅅㅍㅔㅏㅋ ㅏ ㄸㅣㅌㅌㄸㅔ ㄸㅗㅜㄷㅔㄹ ㅍㄸㅔㅏㅅㅔ?",
+      "ㅍㄸㅔㅏㅅㅔ ㅅㅍㅔㅏㅋ ㅣㄴ ㅏ ㄸㅗㅜㄷㅔㄹ ㅆㅗㅣㅊㅔ.",
+      "ㅍㄸㅔㅏㅅㅔ ㅅㅍㅔㅏㅋ ㅁㅗㄹㅔ ㄸㅗㅜㄷㄸㅠ.",
+      "ㅍㄸㅔㅏㅅㅔ ㅅㅍㅔㅏㅋ ㄸㅗㅜㄷㅔㄹ.",
+      "ㅍㄸㅔㅏㅅㅔ ㅅㅍㅔㅏㅋ ㄸㅗㅜㄷㅔㄹ!"
+    ],
+    "t": "Speak louder, please. | Could you speak a little louder please? | Please speak in a louder voice. | Please speak more loudly. | Please speak louder. | Please speak louder!"
+  },
+  {
+    "q": "Ĉu vi venis ĉi tien sola?",
+    "a": [
+      "ㄷㅣㄷ ㅠㅗㅜ ㅊㅗㅁㅔ ㅎㅔㄹㅔ ㅏㄸㅗㄴㅔ?"
+    ],
+    "t": "Did you come here alone?"
+  },
+  {
+    "q": "Ĉu vi vendos vian domon al mi?",
+    "a": [
+      "외ㅣㄸㄸ ㅠㅗㅜ ㅅㅔㄸㄸ ㅁㅔ ㅠㅗㅜㄹ ㅎㅗㅜㅅㅔ?"
+    ],
+    "t": "Will you sell me your house?"
+  },
+  {
+    "q": "Saluton, kiel vi fartas?",
+    "a": [
+      "ㅎㅔㄸㄸㅗ, ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ?",
+      "ㅎㅣ, ㅎㅗ외'ㅅ ㅣㅌ ㄱㅗㅣㄴㄱ?",
+      "ㅎㅔㄸㄸㅗ, ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ ㄷㅗㅣㄴㄱ?",
+      "ㅎㅣ. ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ ㄷㅗㅣㄴㄱ?"
+    ],
+    "t": "Hello, how are you? | Hi, how's it going? | Hello, how are you doing? | Hi. How are you doing?"
+  },
+  {
+    "q": "Mi estas franco.",
+    "a": [
+      "ㅣ ㅏㅁ ㄲㄹㅔㄴㅊㅎ.",
+      "ㅣ'ㅁ ㄲㄹㅔㄴㅊㅎ.",
+      "ㅣ'ㅁ ㅏ ㄲㄹㅔㄴㅊㅎㅁㅏㄴ."
+    ],
+    "t": "I am French. | I'm French. | I'm a Frenchman."
+  },
+  {
+    "q": "Mi dormas en mia dormoĉambro.",
+    "a": [
+      "ㅣ ㅅㄸㅔㅔㅍ ㅣㄴ ㅁㅠ ㄹㅗㅗㅁ."
+    ],
+    "t": "I sleep in my room."
+  },
+  {
+    "q": "Mi ne kredas, ke ŝi estas feliĉa.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅌㅎㅣㄴㅋ ㅅㅎㅔ ㅣㅅ ㅎㅏㅍㅍㅠ."
+    ],
+    "t": "I don't think she is happy."
+  },
+  {
+    "q": "Al la infanoj pli plaĉas ludi ol studi.",
+    "a": [
+      "ㅊㅎㅣㄸㄷㄹㅔㄴ ㄸㅣㅋㅔ ㅍㄸㅏㅠㅣㄴㄱ ㅁㅗㄹㅔ ㅌㅎㅏㄴ ㅅㅌㅜㄷㅠㅣㄴㄱ."
+    ],
+    "t": "Children like playing more than studying."
+  },
+  {
+    "q": "Li ne plu laboras ĉi tie.",
+    "a": [
+      "ㅎㅔ ㄴㅗ ㄸㅗㄴㄱㅔㄹ 외ㅗㄹㅋㅅ ㅎㅔㄹㅔ."
+    ],
+    "t": "He no longer works here."
+  },
+  {
+    "q": "Mi senvortiĝas.",
+    "a": [
+      "외ㅗㄹㄷㅅ ㄲㅏㅣㄸ ㅁㅔ."
+    ],
+    "t": "Words fail me."
+  },
+  {
+    "q": "Mi instruas.",
+    "a": [
+      "ㅣ ㅌㅔㅏㅊㅎ.",
+      "ㅣ'ㅁ ㅌㅔㅏㅊㅎㅣㄴㄱ."
+    ],
+    "t": "I teach. | I'm teaching."
+  },
+  {
+    "q": "Mi ridis.",
+    "a": [
+      "ㅣ ㄸㅏㅜㄱㅎㅔㄷ.",
+      "ㅣ ㄸㅗㄸ'ㄷ."
+    ],
+    "t": "I laughed. | I lol'd."
+  },
+  {
+    "q": "Mi simple ne scias kion diri.",
+    "a": [
+      "ㅣ ㅈㅜㅅㅌ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅏㅌ ㅌㅗ ㅅㅏㅠ.",
+      "ㅣ ㅅㅣㅁㅍㄸㅠ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅏㅌ ㅌㅗ ㅅㅏㅠ..."
+    ],
+    "t": "I just don't know what to say. | I simply don't know what to say..."
+  },
+  {
+    "q": "Mi estis en la montaro.",
+    "a": [
+      "ㅣ 외ㅏㅅ ㅣㄴ ㅌㅎㅔ ㅁㅗㅜㄴㅌㅏㅣㄴㅅ."
+    ],
+    "t": "I was in the mountains."
+  },
+  {
+    "q": "Mi tro dormis.",
+    "a": [
+      "ㅣ ㅗㅆㅔㄹㅅㄸㅔㅍㅌ."
+    ],
+    "t": "I overslept."
+  },
+  {
+    "q": "Mi ne konis tiun kanton.",
+    "a": [
+      "ㅣ 외ㅏㅅ ㄴㅗㅌ ㄲㅏㅁㅣㄸㅣㅏㄹ 외ㅣㅌㅎ ㅌㅎㅣㅅ ㅅㅗㄴㄱ."
+    ],
+    "t": "I was not familiar with this song."
+  },
+  {
+    "q": "Mi volas iri al Tokio.",
+    "a": [
+      "ㅣ 외ㅏㄴㅌ ㅌㅗ ㄱㅗ ㅌㅗ ㅌㅗㅋㅠㅗ."
+    ],
+    "t": "I want to go to Tokyo."
+  },
+  {
+    "q": "Mi havas multajn amikojn.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅁㅏㄴㅠ ㄲㄹㅣㅔㄴㄷㅅ.",
+      "ㅣ ㅎㅏㅆㅔ ㄸㅗㅌㅅ ㅗㄲ ㄲㄹㅣㅔㄴㄷㅅ."
+    ],
+    "t": "I have many friends. | I have lots of friends."
+  },
+  {
+    "q": "Mi nomiĝas Andrea.",
+    "a": [
+      "ㅁㅠ ㄴㅏㅁㅔ ㅣㅅ ㅏㄴㄷㄹㅔㅏ."
+    ],
+    "t": "My name is Andrea."
+  },
+  {
+    "q": "Okazis tertremo hieraŭ.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ 외ㅏㅅ ㅏㄴ ㅔㅏㄹㅌㅎㅃㅜㅏㅋㅔ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ.",
+      "ㅠㅔㅅㅌㅔㄹㄷㅏㅠ ㅌㅎㅔㄹㅔ 외ㅏㅅ ㅏㄴ ㅔㅏㄹㅌㅎㅃㅜㅏㅋㅔ."
+    ],
+    "t": "There was an earthquake yesterday. | Yesterday there was an earthquake."
+  },
+  {
+    "q": "Mi ne kulpas!",
+    "a": [
+      "ㅣㅌ'ㅅ ㄴㅗㅌ ㅁㅠ ㄲㅏㅜㄸㅌ!"
+    ],
+    "t": "It's not my fault!"
+  },
+  {
+    "q": "Ĉu gravas?",
+    "a": [
+      "ㅣㅅ ㅣㅌ ㅣㅁㅍㅗㄹㅌㅏㄴㅌ?",
+      "외ㅎㅗ ㅊㅏㄹㅔㅅ?"
+    ],
+    "t": "Is it important? | Who cares?"
+  },
+  {
+    "q": "Vi ne scias, kiu mi estas.",
+    "a": [
+      "ㅠㅗㅜ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅗ ㅣ ㅏㅁ."
+    ],
+    "t": "You don't know who I am."
+  },
+  {
+    "q": "Tiu kiu serĉas, trovas.",
+    "a": [
+      "외ㅎㅗ ㅅㅔㅏㄹㅊㅎㅔㅅ, ㄲㅣㄴㄷㅅ.",
+      "ㅅㅔㅔㅋ ㅏㄴㄷ ㅠㅗㅜ ㅅㅎㅏㄸㄸ ㄲㅣㄴㄷ."
+    ],
+    "t": "Who searches, finds. | Seek and you shall find."
+  },
+  {
+    "q": "Mi ne komprenas la germanan.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷ ㄱㅔㄹㅁㅏㄴ."
+    ],
+    "t": "I don't understand German."
+  },
+  {
+    "q": "Ni havas papon.",
+    "a": [
+      "외ㅔ ㅎㅏㅆㅔ ㅏ ㅍㅗㅍㅔ."
+    ],
+    "t": "We have a Pope."
+  },
+  {
+    "q": "Kun kiu mi parolas?",
+    "a": [
+      "외ㅎㅗ ㅏㅁ ㅣ ㅌㅏㄸㅋㅣㄴㄱ 외ㅣㅌㅎ?",
+      "외ㅣㅌㅎ 외ㅎㅗㅁ ㅏㅁ ㅣ ㅅㅍㅔㅏㅋㅣㄴㄱ?",
+      "외ㅎㅗ ㅏㅁ ㅣ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ?",
+      "외ㅎㅗ ㅏㅁ ㅣ ㅅㅍㅔㅏㅋㅣㄴㄱ ㅌㅗ?"
+    ],
+    "t": "Who am I talking with? | With whom am I speaking? | Who am I talking to? | Who am I speaking to?"
+  },
+  {
+    "q": "Mi tre ŝatas mian laboron.",
+    "a": [
+      "ㅣ ㄸㅣㅋㅔ ㅁㅠ ㅈㅗㅂ ㅆㅔㄹㅠ ㅁㅜㅊㅎ.",
+      "ㅣ ㄸㅗㅆㅔ ㅁㅠ ㅈㅗㅂ.",
+      "ㅣ ㄹㅔㅏㄸㄸㅠ ㄸㅣㅋㅔ ㅁㅠ ㅈㅗㅂ."
+    ],
+    "t": "I like my job very much. | I love my job. | I really like my job."
+  },
+  {
+    "q": "Mi sonĝis pri vi.",
+    "a": [
+      "ㅣ ㄷㄹㅔㅏㅁㅌ ㅏㅂㅗㅜㅌ ㅠㅗㅜ.",
+      "ㅣ ㄷㄹㅔㅏㅁㅔㄷ ㅏㅂㅗㅜㅌ ㅠㅗㅜ.",
+      "ㅣ ㅎㅏㄷ ㅏ ㄷㄹㅔㅏㅁ ㅏㅂㅗㅜㅌ ㅠㅗㅜ."
+    ],
+    "t": "I dreamt about you. | I dreamed about you. | I had a dream about you."
+  },
+  {
+    "q": "Kien vi iras?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㅎㅔㅏㄷㅔㄷ ㄲㅗㄹ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ ㅌㅗ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㅎㅔㅏㄷㅣㄴㄱ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㅗㄲㄲ ㅌㅗ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ ㅌㅗ ㄱㅗ?",
+      "외ㅎㅏㅌ'ㅅ ㅠㅗㅜㄹ ㄷㅔㅅㅌㅣㄴㅏㅌㅣㅗㄴ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㄱㅜㅠㅅ ㅎㅔㅏㄷㅔㄷ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅠㅗㅜ ㄱㅜㅠㅅ ㄱㅗㅣㄴㄱ?",
+      "외ㅎㅔㄹㅔ'ㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ?"
+    ],
+    "t": "Where are you headed for? | Where are you going to? | Where are you going? | Where are you heading? | Where are you off to? | Where are you going to go? | What's your destination? | Where are you guys headed? | Where are you guys going? | Where're you going?"
+  },
+  {
+    "q": "Mi ludis tenison dum la tuta tago.",
+    "a": [
+      "ㅣ ㅍㄸㅏㅠㅔㄷ ㅌㅔㄴㄴㅣㅅ ㅏㄸㄸ ㄷㅏㅠ."
+    ],
+    "t": "I played tennis all day."
+  },
+  {
+    "q": "Ĉiu faras erarojn.",
+    "a": [
+      "외ㅔ ㅏㄸㄸ ㅁㅏㅋㅔ ㅁㅣㅅㅌㅏㅋㅔㅅ.",
+      "ㅔㅆㅔㄹㅠㅗㄴㅔ ㅁㅏㅋㅔㅅ ㅁㅣㅅㅌㅏㅋㅔㅅ.",
+      "ㅔㅆㅔㄹㅠㅂㅗㄷㅠ ㅁㅏㅋㅔㅅ ㅁㅣㅅㅌㅏㅋㅔㅅ."
+    ],
+    "t": "We all make mistakes. | Everyone makes mistakes. | Everybody makes mistakes."
+  },
+  {
+    "q": "Jen unu el la lernantoj de mia patro.",
+    "a": [
+      "ㅠㅗㅜ ㅅㅔㅔ, ㅌㅎㅔ ㄲㅣㄹㅅㅌ ㅗㄲ ㅌㅎㅔ ㅅㅌㅜㄷㅔㄴㅌㅅ ㅣㅅ ㅁㅠ ㄲㅏㅌㅎㅔㄹ."
+    ],
+    "t": "You see, the first of the students is my father."
+  },
+  {
+    "q": "Laŭ Biblio, Dio kreis la mondon dum ses tagoj.",
+    "a": [
+      "ㅏㅊㅊㅗㄹㄷㅣㄴㄱ ㅌㅗ ㅌㅎㅔ ㅂㅣㅂㄸㅔ, ㄱㅗㄷ ㅊㄹㅔㅏㅌㅔㄷ ㅌㅎㅔ 외ㅗㄹㄸㄷ ㅣㄴ ㅅㅣㅉ ㄷㅏㅠㅅ."
+    ],
+    "t": "According to the Bible, God created the world in six days."
+  },
+  {
+    "q": "Kia patro, tia filo.",
+    "a": [
+      "ㄸㅣㅋㅔ ㄲㅏㅌㅎㅔㄹ, ㄸㅣㅋㅔ ㅅㅗㄴ.",
+      "ㅌㅎㅔ ㅏㅍㅍㄸㅔ ㄷㅗㅔㅅ ㄴㅗㅌ ㄲㅏㄸㄸ ㄲㅏㄹ ㄲㄹㅗㅁ ㅌㅎㅔ ㅌㄹㅜㄴㅋ."
+    ],
+    "t": "Like father, like son. | The apple does not fall far from the trunk."
+  },
+  {
+    "q": "Saluton, mondo!",
+    "a": [
+      "ㅎㅔㄸㄸㅗ, 외ㅗㄹㄸㄷ!"
+    ],
+    "t": "Hello, world!"
+  },
+  {
+    "q": "Aŭklando estas urbo en Nov-Zelando.",
+    "a": [
+      "ㅏㅜㅊㅋㄸㅏㄴㄷ ㅣㅅ ㅏ ㅊㅣㅌㅠ ㅣㄴ ㄴㅔ외 ㅐㅔㅏㄸㅏㄴㄷ."
+    ],
+    "t": "Auckland is a city in New Zealand."
+  },
+  {
+    "q": "Madonna scipovas kanti.",
+    "a": [
+      "ㅁㅏㄷㅗㄴㄴㅏ ㅣㅅ ㅏㅂㄸㅔ ㅌㅗ ㅅㅣㄴㄱ."
+    ],
+    "t": "Madonna is able to sing."
+  },
+  {
+    "q": "Mi pensas, do mi estas.",
+    "a": [
+      "ㅣ ㅌㅎㅣㄴㅋ, ㅌㅎㅔㄹㅔㄲㅗㄹㅔ ㅣ ㅏㅁ.",
+      "ㅣ ㅌㅎㅣㄴㅋ ㅌㅎㅔㄹㅔㄲㅗㄹㅔ ㅣ ㅏㅁ."
+    ],
+    "t": "I think, therefore I am. | I think therefore I am."
+  },
+  {
+    "q": "Kiel vi fartas?",
+    "a": [
+      "ㅎㅗ외 ㅣㅅ ㅣㅌ ㄱㅗㅣㄴㄱ?",
+      "ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ ㄷㅗㅣㄴㄱ?",
+      "ㅎㅗ외'ㅅ ㅣㅌ ㄱㅗㅣㄴㄱ?",
+      "ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ?",
+      "ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ ㄱㅜㅠㅅ?",
+      "ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ ㄱㅜㅠㅅ ㄷㅗㅣㄴㄱ?",
+      "ㅎㅗ외'ㅅ ㄸㅣㄲㅔ?",
+      "ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ ㅁㅏㅋㅣㄴㄱ ㅗㅜㅌ?",
+      "ㅎㅗ외'ㅅ ㅣㅌ ㅎㅏㄴㄱㅣㄴ'?",
+      "ㅎㅗ외'ㅅ ㅌㅎㅔ 외ㅗㄹㄸㄷ ㅌㄹㅔㅏㅌㅣㄴㄱ ㅠㅗㅜ?",
+      "ㅎㅗ외'ㅅ ㄸㅣㄲㅔ ㄱㅗㅣㄴㄱ ㄲㅗㄹ ㅠㅗㅜ?"
+    ],
+    "t": "How is it going? | How are you doing? | How's it going? | How are you? | How are you guys? | How are you guys doing? | How's life? | How are you making out? | How's it hangin'? | How's the world treating you? | How's life going for you?"
+  },
+  {
+    "q": "Mi restis tie tri tagojn.",
+    "a": [
+      "ㅣ ㅅㅌㅏㅠㅔㄷ ㅌㅎㅔㄹㅔ ㄲㅗㄹ ㅌㅎㄹㅔㅔ ㄷㅏㅠㅅ."
+    ],
+    "t": "I stayed there for three days."
+  },
+  {
+    "q": "La nombro de lernantoj en ĉi tiu klaso estas limigita je 15.",
+    "a": [
+      "ㅌㅎㅔ ㄴㅜㅁㅂㅔㄹ ㅗㄲ ㅅㅌㅜㄷㅔㄴㅌㅅ ㅣㄴ ㅌㅎㅔ ㅊㄸㅏㅅㅅ ㅣㅅ ㄸㅣㅁㅣㅌㅔㄷ ㅌㅗ ㄲㅣㄲㅌㅔㅔㄴ.",
+      "ㅌㅎㅔ ㄴㅜㅁㅂㅔㄹ ㅗㄲ ㅅㅌㅜㄷㅔㄴㅌㅅ ㅣㄴ ㅌㅎㅣㅅ ㅊㄸㅏㅅㅅ ㅣㅅ ㄸㅣㅁㅣㅌㅔㄷ ㅌㅗ 15.",
+      "ㅌㅎㅔ ㄴㅜㅁㅂㅔㄹ ㅗㄲ ㅅㅌㅜㄷㅔㄴㅌㅅ ㅣㄴ ㅌㅎㅣㅅ ㅊㄸㅏㅅㅅ ㅣㅅ ㄸㅣㅁㅣㅌㅔㄷ ㅌㅗ ㄲㅣㄲㅌㅔㅔㄴ."
+    ],
+    "t": "The number of students in the class is limited to fifteen. | The number of students in this class is limited to 15. | The number of students in this class is limited to fifteen."
+  },
+  {
+    "q": "Estas dolĉe kaj noble morti por la patrujo.",
+    "a": [
+      "ㅣㅌ ㅣㅅ ㅅ외ㅔㅔㅌ ㅏㄴㄷ ㄹㅣㄱㅎㅌ ㅌㅗ ㄷㅣㅔ ㄲㅗㄹ ㅠㅗㅜㄹ ㅎㅗㅁㅔㄸㅏㄴㄷ.",
+      "ㅣㅌ ㅣㅅ ㅅ외ㅔㅔㅌ ㅏㄴㄷ ㄴㅗㅂㄸㅔ ㅌㅗ ㄷㅣㅔ ㄲㅗㄹ ㅗㄴㅔ'ㅅ ㅊㅗㅜㄴㅌㄹㅠ."
+    ],
+    "t": "It is sweet and right to die for your homeland. | It is sweet and noble to die for one's country."
+  },
+  {
+    "q": "Mi venis, mi vidis, mi venkis.",
+    "a": [
+      "ㅣ ㅊㅏㅁㅔ, ㅣ ㅅㅏ외, ㅣ ㅊㅗㄴㅃㅜㅔㄹㅔㄷ."
+    ],
+    "t": "I came, I saw, I conquered."
+  },
+  {
+    "q": "Vi scias, kie troviĝas la problemo.",
+    "a": [
+      "ㅠㅗㅜ ㅋㄴㅗ외 외ㅎㅔㄹㅔ ㅌㅎㅔ ㅍㄹㅗㅂㄸㅔㅁ ㄸㅣㅔㅅ."
+    ],
+    "t": "You know where the problem lies."
+  },
+  {
+    "q": "Mi kredas al vi.",
+    "a": [
+      "ㅣ ㅂㅔㄸㅣㅔㅆㅔ ㅠㅗㅜ."
+    ],
+    "t": "I believe you."
+  },
+  {
+    "q": "Mi ne povas solvi la problemon, ĝi estas tro malfacila por mi.",
+    "a": [
+      "ㅣ ㅊㅏㄴ'ㅌ ㅅㅗㄸㅆㅔ ㅌㅎㅣㅅ ㅍㄹㅗㅂㄸㅔㅁ. ㅣㅌ'ㅅ ㅌㅗㅗ ㄷㅣㄲㄲㅣㅊㅜㄸㅌ ㄲㅗㄹ ㅁㅔ."
+    ],
+    "t": "I can't solve this problem. It's too difficult for me."
+  },
+  {
+    "q": "Cezaro ne superas gramatikistojn.",
+    "a": [
+      "ㅊㅏㅔㅅㅏㄹ ㅣㅅ ㄴㅗㅌ ㅏㅂㅗㅆㅔ ㄱㄹㅏㅁㅁㅏㄹㅣㅏㄴㅅ."
+    ],
+    "t": "Caesar is not above grammarians."
+  },
+  {
+    "q": "Kiu estas via plej ŝatata teamo?",
+    "a": [
+      "외ㅎㅣㅊㅎ ㅣㅅ ㅠㅗㅜㄹ ㄲㅏㅆㅗㄹㅣㅌㅔ ㅌㅔㅏㅁ?"
+    ],
+    "t": "Which is your favorite team?"
+  },
+  {
+    "q": "Unu hirundo printempon ne alportas.",
+    "a": [
+      "ㅗㄴㅔ ㅅ외ㅏㄸㄸㅗ외 ㄷㅗㅔㅅ ㄴㅗㅌ ㅁㅏㅋㅔ ㅏ ㅅㅍㄹㅣㄴㄱ.",
+      "ㅗㄴㅔ ㅅ외ㅏㄸㄸㅗ외 ㄷㅗㅔㅅ ㄴㅗㅌ ㅏ ㅅㅍㄹㅣㄴㄱ ㅁㅏㅋㅔ.",
+      "ㅣㅌ ㅌㅏㅋㅔㅅ ㅁㅗㄹㅔ ㅌㅎㅏㄴ ㅗㄴㅔ ㅅ외ㅏㄸㄸㅗ외 ㅌㅗ ㅁㅏㅋㅔ ㅏ ㅅㅜㅁㅁㅔㄹ."
+    ],
+    "t": "One swallow does not make a spring. | One swallow does not a spring make. | It takes more than one swallow to make a summer."
+  },
+  {
+    "q": "Ĉu vi deziras kafon?",
+    "a": [
+      "외ㅗㅜㄸㄷ ㅠㅗㅜ ㄸㅣㅋㅔ ㅅㅗㅁㅔ ㅊㅗㄲㄲㅔㅔ?"
+    ],
+    "t": "Would you like some coffee?"
+  },
+  {
+    "q": "Bonvolu porti al ni du tasojn da kafo.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㅂㄹㅣㄴㄱ ㅜㅅ ㅌ외ㅗ ㅊㅜㅍㅅ ㅗㄲ ㅊㅗㄲㄲㅔㅔ."
+    ],
+    "t": "Please bring us two cups of coffee."
+  },
+  {
+    "q": "Se vi amas min, amu ankaŭ mian hundon.",
+    "a": [
+      "ㅣㄲ ㅠㅗㅜ ㄸㅗㅆㅔ ㅁㅔ, ㄸㅗㅆㅔ ㅁㅠ ㄷㅗㄱ, ㅌㅗㅗ."
+    ],
+    "t": "If you love me, love my dog, too."
+  },
+  {
+    "q": "Barbo ne faras iun filozofo.",
+    "a": [
+      "ㅌㅎㅔ ㅂㅔㅏㄹㄷ ㄷㅗㅔㅅ ㄴㅗㅌ ㅁㅏㅋㅔ ㅌㅎㅔ ㅍㅎㅣㄸㅗㅅㅗㅍㅎㅔㄹ.",
+      "ㅏ ㅂㅔㅏㄹㄷ ㄷㅗㅔㅅ ㄴㅗㅌ ㅁㅏㅋㅔ ㅏ ㅍㅎㅣㄸㅗㅅㅗㅍㅎㅔㄹ.",
+      "ㅏ ㅂㅔㅏㄹㄷ ㄷㅗㅔㅅㄴ'ㅌ ㅁㅏㅋㅔ ㅏ ㅍㅎㅣㄸㅗㅅㅗㅍㅎㅔㄹ.",
+      "ㅌㅎㅔ ㄹㅗㅂㅔㅅ ㄷㅗ ㄴㅗㅌ ㅁㅏㅋㅔ ㅌㅎㅔ ㅁㅗㄴㅋ."
+    ],
+    "t": "The beard does not make the philosopher. | A beard does not make a philosopher. | A beard doesn't make a philosopher. | The robes do not make the monk."
+  },
+  {
+    "q": "Kie mi povas aĉeti biletojn?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㅊㅏㄴ ㅣ ㅂㅜㅠ ㅌㅣㅊㅋㅔㅌㅅ?"
+    ],
+    "t": "Where can I buy tickets?"
+  },
+  {
+    "q": "Estas dek antaŭ la dekunua.",
+    "a": [
+      "ㅣㅌ ㅣㅅ ㅌㅔㄴ ㅁㅣㄴㅜㅌㅔㅅ ㅂㅔㄲㅗㄹㅔ ㅔㄸㅔㅆㅔㄴ."
+    ],
+    "t": "It is ten minutes before eleven."
+  },
+  {
+    "q": "Metu la libron sur la skribtablon.",
+    "a": [
+      "ㅍㅜㅌ ㅌㅎㅔ ㅂㅗㅗㅋ ㅗㄴ ㅌㅎㅔ ㄷㅔㅅㅋ."
+    ],
+    "t": "Put the book on the desk."
+  },
+  {
+    "q": "Pli ol 40 % de la studentoj iras al universitato.",
+    "a": [
+      "ㅁㅗㄹㅔ ㅌㅎㅏㄴ 40 ㅍㅔㄹㅊㅔㄴㅌ ㅗㄲ ㅌㅎㅔ ㅅㅌㅜㄷㅔㄴㅌㅅ ㄱㅗ ㅌㅗ ㅜㄴㅣㅆㅔㄹㅅㅣㅌㅠ."
+    ],
+    "t": "More than 40 percent of the students go to university."
+  },
+  {
+    "q": "Kiom longe mi ankoraŭ devos resti en la malsanulejo?",
+    "a": [
+      "ㅎㅗ외 ㅁㅜㅊㅎ ㄸㅗㄴㄱㅔㄹ 외ㅣㄸㄸ ㅣ ㅎㅏㅆㅔ ㅌㅗ ㅅㅌㅏㅠ ㅣㄴ ㅌㅎㅔ ㅎㅗㅅㅍㅣㅌㅏㄸ?"
+    ],
+    "t": "How much longer will I have to stay in the hospital?"
+  },
+  {
+    "q": "Li estas ŝtelisto.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅏ ㅌㅎㅣㅔㄲ."
+    ],
+    "t": "He is a thief."
+  },
+  {
+    "q": "Kiu hundo estas via?",
+    "a": [
+      "외ㅎㅣㅊㅎ ㄷㅗㄱ ㅣㅅ ㅠㅗㅜㄹㅅ?"
+    ],
+    "t": "Which dog is yours?"
+  },
+  {
+    "q": "Kiujn ŝuojn vi surmetos?",
+    "a": [
+      "외ㅎㅣㅊㅎ ㅅㅎㅗㅔㅅ ㅏㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ ㅌㅗ ㅍㅜㅌ ㅗㄴ?"
+    ],
+    "t": "Which shoes are you going to put on?"
+  },
+  {
+    "q": "Kiujn ŝuojn vi metos?",
+    "a": [
+      "외ㅎㅣㅊㅎ ㅅㅎㅗㅔㅅ ㅏㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ ㅌㅗ ㅍㅜㅌ ㅗㄴ?"
+    ],
+    "t": "Which shoes are you going to put on?"
+  },
+  {
+    "q": "Ne plu estas salo.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ ㅣㅅ ㄴㅗ ㅅㅏㄸㅌ ㄸㅔㄲㅌ.",
+      "ㅌㅎㅔㄹㅔ'ㅅ ㄴㅗ ㅁㅗㄹㅔ ㅅㅏㄸㅌ."
+    ],
+    "t": "There is no salt left. | There's no more salt."
+  },
+  {
+    "q": "Ŝi montris la foton al li.",
+    "a": [
+      "ㅅㅎㅔ ㅅㅎㅗ외ㅔㄷ ㅎㅣㅁ ㅌㅎㅔ ㅍㅎㅗㅌㅗ."
+    ],
+    "t": "She showed him the photo."
+  },
+  {
+    "q": "La infanoj eliris por ludi.",
+    "a": [
+      "ㅌㅎㅔ ㅊㅎㅣㄸㄷㄹㅔㄴ 외ㅔㄴㅌ ㅗㅜㅌ ㅌㅗ ㅍㄸㅏㅠ."
+    ],
+    "t": "The children went out to play."
+  },
+  {
+    "q": "Ni kantu la anglan kanton.",
+    "a": [
+      "ㄸㅔㅌ'ㅅ ㅅㅣㄴㄱ ㅌㅎㅔ ㅔㄴㄱㄸㅣㅅㅎ ㅅㅗㄴㄱ."
+    ],
+    "t": "Let's sing the English song."
+  },
+  {
+    "q": "La radioaparato estas difektita.",
+    "a": [
+      "ㅌㅎㅔ ㄹㅏㄷㅣㅗ ㅣㅅ ㅗㅜㅌ ㅗㄲ ㅗㄹㄷㅔㄹ.",
+      "ㅌㅎㅔ ㄹㅏㄷㅣㅗ ㅂㄹㅗㅋㅔ ㄷㅗ외ㄴ."
+    ],
+    "t": "The radio is out of order. | The radio broke down."
+  },
+  {
+    "q": "Mi nur rigardas.",
+    "a": [
+      "ㅣ'ㅁ ㅈㅜㅅㅌ ㄸㅗㅗㅋㅣㄴㄱ.",
+      "ㅣ'ㅁ ㅈㅜㅅㅌ ㄸㅗㅗㅋㅣㄴㄱ ㅏㄹㅗㅜㄴㄷ."
+    ],
+    "t": "I'm just looking. | I'm just looking around."
+  },
+  {
+    "q": "Feliĉon oni ne povas aĉeti.",
+    "a": [
+      "ㅗㄴㅔ ㄷㅗㅔㅅ ㄴㅗㅌ ㅂㅜㅠ ㅎㅏㅍㅍㅣㄴㅔㅅㅅ."
+    ],
+    "t": "One does not buy happiness."
+  },
+  {
+    "q": "Lasu min rigardi.",
+    "a": [
+      "ㄸㅔㅌ ㅁㅔ ㅎㅏㅆㅔ ㅏ ㄸㅗㅗㅋ ㅏㅌ ㅣㅌ.",
+      "ㄸㅔㅌ ㅁㅔ ㅅㅔㅔ.",
+      "ㄸㅔㅌ ㅁㅔ ㅎㅏㅆㅔ ㅏ ㄸㅗㅗㅋ.",
+      "ㄸㅔㅌ ㅁㅔ ㄸㅗㅗㅋ."
+    ],
+    "t": "Let me have a look at it. | Let me see. | Let me have a look. | Let me look."
+  },
+  {
+    "q": "Mi alvenis en Tokio je la dek-dua tagmeze.",
+    "a": [
+      "ㅣ ㅏㄹㄹㅣㅆㅔㄷ ㅣㄴ ㅌㅗㅋㅠㅗ ㅏㅌ ㄴㅗㅗㄴ."
+    ],
+    "t": "I arrived in Tokyo at noon."
+  },
+  {
+    "q": "Io okazis al mia dekstra okulo.",
+    "a": [
+      "ㅅㅗㅁㅔㅌㅎㅣㄴㄱ ㅎㅏㅅ ㅎㅏㅍㅍㅔㄴㅔㄷ ㅌㅗ ㅁㅠ ㄹㅣㄱㅎㅌ ㅔㅠㅔ.",
+      "ㅅㅗㅁㅔㅌㅎㅣㄴㄱ ㅎㅏㅍㅍㅔㄴㅔㄷ ㅌㅗ ㅁㅠ ㄹㅣㄱㅎㅌ ㅔㅠㅔ."
+    ],
+    "t": "Something has happened to my right eye. | Something happened to my right eye."
+  },
+  {
+    "q": "Je la kioma horo vi fermas?",
+    "a": [
+      "외ㅎㅏㅌ ㅌㅣㅁㅔ ㄷㅗ ㅠㅗㅜ ㅊㄸㅗㅅㅔ?"
+    ],
+    "t": "What time do you close?"
+  },
+  {
+    "q": "Tio estas komplete senutila.",
+    "a": [
+      "ㅌㅎㅏㅌ ㅣㅅ ㅊㅗㅁㅍㄸㅔㅌㅔㄸㅠ ㅜㅅㅔㄸㅔㅅㅅ.",
+      "ㅣㅌ'ㅅ ㅌㅗㅌㅏㄸㄸㅠ ㅜㅅㅔㄸㅔㅅㅅ.",
+      "ㅌㅎㅏㅌ'ㅅ ㅊㅗㅁㅍㄸㅔㅌㅔㄸㅠ ㅜㅅㅔㄸㅔㅅㅅ."
+    ],
+    "t": "That is completely useless. | It's totally useless. | That's completely useless."
+  },
+  {
+    "q": "Nun, kiam ne plu pluvas, ni povas iri hejmen.",
+    "a": [
+      "ㄴㅗ외 ㅌㅎㅏㅌ ㅣㅌ ㅎㅏㅅ ㅅㅌㅗㅍㅍㅔㄷ ㄹㅏㅣㄴㅣㄴㄱ, 외ㅔ ㅊㅏㄴ ㄱㅗ ㅎㅗㅁㅔ."
+    ],
+    "t": "Now that it has stopped raining, we can go home."
+  },
+  {
+    "q": "Kiom da gefratoj vi havas?",
+    "a": [
+      "ㅎㅗ외 ㅁㅏㄴㅠ ㅂㄹㅗㅌㅎㅔㄹㅅ ㅏㄴㄷ ㅅㅣㅅㅌㅔㄹㅅ ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ?",
+      "ㅎㅗ외 ㅁㅏㄴㅠ ㅅㅣㅂㄸㅣㄴㄱㅅ ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ?"
+    ],
+    "t": "How many brothers and sisters do you have? | How many siblings do you have?"
+  },
+  {
+    "q": "Estis tiom bela tago, ke ni decidis pikniki.",
+    "a": [
+      "ㅣㅌ 외ㅏㅅ ㅅㅜㅊㅎ ㅏ ㄲㅣㄴㅔ ㄷㅏㅠ ㅌㅎㅏㅌ 외ㅔ ㄷㅔㅊㅣㄷㅔㄷ ㅌㅗ ㅎㅏㅆㅔ ㅏ ㅍㅣㅊㄴㅣㅊ."
+    ],
+    "t": "It was such a fine day that we decided to have a picnic."
+  },
+  {
+    "q": "Mi ŝatas tiun ĉi hundon.",
+    "a": [
+      "ㅣ ㄸㅣㅋㅔ ㅌㅎㅣㅅ ㄷㅗㄱ."
+    ],
+    "t": "I like this dog."
+  },
+  {
+    "q": "Li havas longajn krurojn.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅ ㄸㅗㄴㄱ ㄸㅔㄱㅅ."
+    ],
+    "t": "He has long legs."
+  },
+  {
+    "q": "Kiom longe vi restos en Japanio?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ 외ㅣㄸㄸ ㅠㅗㅜ ㅅㅌㅏㅠ ㅣㄴ ㅈㅏㅍㅏㄴ?",
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㅏㄹㅔ ㅠㅗㅜ ㄱㅗㅣㄴㄱ ㅌㅗ ㅅㅌㅏㅠ ㅣㄴ ㅈㅏㅍㅏㄴ?",
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㅏㄹㅔ ㅠㅗㅜ ㅅㅌㅏㅠㅣㄴㄱ ㅣㄴ ㅈㅏㅍㅏㄴ?"
+    ],
+    "t": "How long will you stay in Japan? | How long are you going to stay in Japan? | How long are you staying in Japan?"
+  },
+  {
+    "q": "Kiom longe vi estis malsana?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㅎㅏㅆㅔ ㅠㅗㅜ ㅂㅔㅔㄴ ㅣㄸㄸ?",
+      "ㅎㅗ외 ㄸㅗㄴㄱ 외ㅔㄹㅔ ㅠㅗㅜ ㅣㄸㄸ?"
+    ],
+    "t": "How long have you been ill? | How long were you ill?"
+  },
+  {
+    "q": "Kiu teamo venkos?",
+    "a": [
+      "외ㅎㅣㅊㅎ ㅌㅔㅏㅁ 외ㅣㄸㄸ 외ㅣㄴ?"
+    ],
+    "t": "Which team will win?"
+  },
+  {
+    "q": "Ĉu vi povas diri al mi, kiun buson aŭ trajnon mi povas preni por iri en la urbocentron?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜ ㅌㅔㄸㄸ ㅁㅔ 외ㅎㅣㅊㅎ ㅂㅜㅅ ㅗㄹ ㅌㄹㅏㅣㄴ ㅣ ㅊㅏㄴ ㅌㅏㅋㅔ ㅌㅗ ㄱㅔㅌ ㅌㅗ ㅌㅎㅔ ㅌㅗ외ㄴ ㅊㅔㄴㅌㄹㅔ?"
+    ],
+    "t": "Can you tell me which bus or train I can take to get to the town centre?"
+  },
+  {
+    "q": "Mi ne scias, kiun butonon mi devas premi.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅣㅊㅎ ㅂㅜㅌㅌㅗㄴ ㅌㅗ ㅍㅜㅅㅎ."
+    ],
+    "t": "I don't know which button to push."
+  },
+  {
+    "q": "Vi devas nur premi la butonon.",
+    "a": [
+      "ㅠㅗㅜ ㅎㅏㅆㅔ ㅗㄴㄸㅠ ㅌㅗ ㅍㅜㅅㅎ ㅌㅎㅔ ㅂㅜㅌㅌㅗㄴ."
+    ],
+    "t": "You have only to push the button."
+  },
+  {
+    "q": "Ĉu vi memoras la naskiĝdaton de via patro?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㄹㅔㅁㅔㅁㅂㅔㄹ ㅠㅗㅜㄹ ㄲㅏㅌㅎㅔㄹ'ㅅ ㅂㅣㄹㅌㅎㄷㅏㅠ?"
+    ],
+    "t": "Do you remember your father's birthday?"
+  },
+  {
+    "q": "Traduku la substrekitan parton.",
+    "a": [
+      "ㅌㄹㅏㄴㅅㄸㅏㅌㅔ ㅌㅎㅔ ㅜㄴㄷㅔㄹㄸㅣㄴㅔㄷ ㅍㅏㄹㅌ."
+    ],
+    "t": "Translate the underlined part."
+  },
+  {
+    "q": "Bonvolu atendi ĉi tie.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ 외ㅏㅣㅌ ㅎㅔㄹㅔ."
+    ],
+    "t": "Please wait here."
+  },
+  {
+    "q": "Tiu ĉi brakhorloĝo estis produktita en Japanio.",
+    "a": [
+      "ㅌㅎㅣㅅ 외ㅏㅌㅊㅎ ㅣㅅ ㅁㅏㄷㅔ ㅣㄴ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "This watch is made in Japan."
+  },
+  {
+    "q": "Jen la domo, kie li vivis.",
+    "a": [
+      "ㅎㅔㄹㅔ ㅣㅅ ㅌㅎㅔ ㅎㅗㅜㅅㅔ 외ㅎㅔㄹㅔ ㅎㅔ ㄸㅣㅆㅔㄷ.",
+      "ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㅎㅗㅜㅅㅔ 외ㅎㅔㄹㅔ ㅎㅔ ㄸㅣㅆㅔㄷ."
+    ],
+    "t": "Here is the house where he lived. | Here's the house where he lived."
+  },
+  {
+    "q": "Bonvolu havi kuketojn.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㅎㅏㅆㅔ ㅅㅗㅁㅔ ㅊㅗㅗㅋㅣㅔㅅ."
+    ],
+    "t": "Please have some cookies."
+  },
+  {
+    "q": "Mi enportos la tolaĵon antaŭ ol pluvos.",
+    "a": [
+      "ㅣ'ㄸㄸ ㅌㅏㅋㅔ ㅣㄴ ㅌㅎㅔ 외ㅏㅅㅎㅣㄴㄱ ㅂㅔㄲㅗㄹㅔ ㅣㅌ ㄹㅏㅣㄴㅅ."
+    ],
+    "t": "I'll take in the washing before it rains."
+  },
+  {
+    "q": "Mi ŝatus esti instruisto pri la angla.",
+    "a": [
+      "ㅣ 외ㅗㅜㄸㄷ ㄸㅣㅋㅔ ㅌㅗ ㅂㅔ ㅏㄴ ㅔㄴㄱㄸㅣㅅㅎ ㅌㅔㅏㅊㅎㅔㄹ."
+    ],
+    "t": "I would like to be an English teacher."
+  },
+  {
+    "q": "La valoro de la eno multe kreskis.",
+    "a": [
+      "ㅌㅎㅔ ㅆㅏㄸㅜㅔ ㅗㄲ ㅌㅎㅔ ㅠㅔㄴ ㅎㅏㅅ ㄹㅣㅅㅔㄴ ㄱㄹㅔㅏㅌㄸㅠ."
+    ],
+    "t": "The value of the yen has risen greatly."
+  },
+  {
+    "q": "Mi diros al vi pli pri Japanio.",
+    "a": [
+      "ㅣ 외ㅣㄸㄸ ㅌㅔㄸㄸ ㅠㅗㅜ ㅁㅗㄹㅔ ㅏㅂㅗㅜㅌ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "I will tell you more about Japan."
+  },
+  {
+    "q": "Nia teamo estas gajnanta.",
+    "a": [
+      "ㅗㅜㄹ ㅌㅔㅏㅁ ㅣㅅ 외ㅣㄴㄴㅣㄴㄱ."
+    ],
+    "t": "Our team is winning."
+  },
+  {
+    "q": "Nur malgranda knabo travivis la trafikakcidenton.",
+    "a": [
+      "ㅗㄴㄸㅠ ㅗㄴㅔ ㄸㅣㅌㅌㄸㅔ ㅂㅗㅠ ㅅㅜㄹㅆㅣㅆㅔㄷ ㅌㅎㅔ ㅌㄹㅏㄲㄲㅣㅊ ㅏㅊㅊㅣㄷㅔㄴㅌ."
+    ],
+    "t": "Only one little boy survived the traffic accident."
+  },
+  {
+    "q": "Vi devas ĉesi fumi.",
+    "a": [
+      "ㅠㅗㅜ ㅁㅜㅅㅌ ㄱㅣㅆㅔ ㅜㅍ ㅅㅁㅗㅋㅣㄴㄱ.",
+      "ㅠㅗㅜ ㅁㅜㅅㅌ ㅅㅌㅗㅍ ㅅㅁㅗㅋㅣㄴㄱ.",
+      "ㅠㅗㅜ ㅁㅜㅅㅌ ㅃㅜㅣㅌ ㅅㅁㅗㅋㅣㄴㄱ.",
+      "ㅠㅗㅜ ㄴㅔㅔㄷ ㅌㅗ ㅅㅌㅗㅍ ㅅㅁㅗㅋㅣㄴㄱ."
+    ],
+    "t": "You must give up smoking. | You must stop smoking. | You must quit smoking. | You need to stop smoking."
+  },
+  {
+    "q": "Se vi helpas min, mi denove provos ĝin.",
+    "a": [
+      "ㅣㄲ ㅠㅗㅜ ㅎㅔㄸㅍ ㅁㅔ, ㅣ'ㄸㄸ ㅌㄹㅠ ㅣㅌ ㅏㄱㅏㅣㄴ."
+    ],
+    "t": "If you help me, I'll try it again."
+  },
+  {
+    "q": "Se vi demandos ŝin tro rekte, ĉu ŝi havas amikon, tiam ŝi estos singarda kaj respondos: \"Kial vi demandas tion?\".",
+    "a": [
+      "ㅣㄲ ㅠㅗㅜ ㅏㅅㅋ ㅎㅔㄹ ㅌㅗㅗ ㄷㅣㄹㅔㅊㅌㄸㅠ 외ㅎㅔㅌㅎㅔㄹ ㅅㅎㅔ ㅎㅏㅅ ㅏ ㄲㄹㅣㅔㄴㄷ, ㅅㅎㅔ 외ㅣㄸㄸ ㅂㅔㅊㅗㅁㅔ ㅅㅜㅅㅍㅣㅊㅣㅗㅜㅅ ㅏㄴㄷ ㅏㄴㅅ외ㅔㄹ: \"외ㅎㅠ ㄷㅣㄷ ㅠㅗㅜ ㅏㅅㅋ ㅁㅔ ㅌㅎㅏㅌ?\""
+    ],
+    "t": "If you ask her too directly whether she has a friend, she will become suspicious and answer: \"Why did you ask me that?\""
+  },
+  {
+    "q": "Mi trovis precize tion, kion vi serĉadis.",
+    "a": [
+      "ㅣ ㄲㅗㅜㄴㄷ ㅌㅎㅔ ㅆㅔㄹㅠ ㅌㅎㅣㄴㄱ ㅠㅗㅜ ㅎㅏㄷ ㅂㅔㅔㄴ ㄸㅗㅗㅋㅣㄴㄱ ㄲㅗㄹ."
+    ],
+    "t": "I found the very thing you had been looking for."
+  },
+  {
+    "q": "Ni leviĝis post noktomezo.",
+    "a": [
+      "외ㅔ ㄱㅗㅌ ㅜㅍ ㅏㄲㅌㅔㄹ ㅁㅣㄷㄴㅣㄱㅎㅌ."
+    ],
+    "t": "We got up after midnight."
+  },
+  {
+    "q": "Mi bedaŭras. La trajno malfruis.",
+    "a": [
+      "ㅅㅗㄹㄹㅠ. ㅌㅎㅔ ㅌㄹㅏㅣㄴ 외ㅏㅅ ㄸㅏㅌㅔ.",
+      "ㅅㅗㄹㄹㅠ. ㅌㅎㅔ ㅌㄹㅏㅣㄴ 외ㅏㅅ ㄷㅔㄸㅏㅠㅔㄷ."
+    ],
+    "t": "Sorry. The train was late. | Sorry. The train was delayed."
+  },
+  {
+    "q": "Ĉu vi povas moviĝi iomete?",
+    "a": [
+      "ㅊㅗㅜㄸㄷ ㅠㅗㅜ ㅁㅗㅆㅔ ㅗㅆㅔㄹ ㅏ ㄸㅣㅌㅌㄸㅔ?"
+    ],
+    "t": "Could you move over a little?"
+  },
+  {
+    "q": "Ĉiuj estas okupitaj escepte de mi.",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅂㅗㄷㅠ ㅣㅅ ㅂㅜㅅㅠ ㅔㅉㅊㅔㅍㅌ ㅁㅔ.",
+      "ㅔㅆㅔㄹㅠㅗㄴㅔ ㅂㅜㅌ ㅁㅔ ㅣㅅ ㅂㅜㅅㅠ."
+    ],
+    "t": "Everybody is busy except me. | Everyone but me is busy."
+  },
+  {
+    "q": "Mi pasigis la tutan tagon ĉe la strando.",
+    "a": [
+      "ㅣ ㅅㅍㅔㄴㅌ ㅌㅎㅔ ㅔㄴㅌㅣㄹㅔ ㄷㅏㅠ ㅗㄴ ㅌㅎㅔ ㅂㅔㅏㅊㅎ."
+    ],
+    "t": "I spent the entire day on the beach."
+  },
+  {
+    "q": "Tio, kion vi diras, sensencas miaopinie.",
+    "a": [
+      "외ㅎㅏㅌ ㅠㅗㅜ ㅅㅏㅠ ㄷㅗㅔㅅ ㄴㅗㅌ ㅁㅏㅋㅔ ㅏㄴㅠ ㅅㅔㄴㅅㅔ ㅌㅗ ㅁㅔ."
+    ],
+    "t": "What you say does not make any sense to me."
+  },
+  {
+    "q": "Ĉu vi povus diri al mi vian nunan adreson?",
+    "a": [
+      "ㅊㅗㅜㄸㄷ ㅠㅗㅜ ㅌㅔㄸㄸ ㅁㅔ ㅠㅗㅜㄹ ㅍㄹㅔㅅㅔㄴㅌ ㅏㄷㄷㄹㅔㅅㅅ?"
+    ],
+    "t": "Could you tell me your present address?"
+  },
+  {
+    "q": "Tio estas bela floro.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅣㅅ ㅏ ㅂㅔㅏㅜㅌㅣㄲㅜㄸ ㄲㄸㅗ외ㅔㄹ."
+    ],
+    "t": "This is a beautiful flower."
+  },
+  {
+    "q": "Li starigis al mi kelkajn demandojn pri la matematika testo.",
+    "a": [
+      "ㅎㅔ ㅏㅅㅋㅔㄷ ㅁㅔ ㅅㅗㅁㅔ ㅃㅜㅔㅅㅌㅣㅗㄴㅅ ㅏㅂㅗㅜㅌ ㅌㅎㅔ ㅁㅏㅌㅎ ㅌㅔㅅㅌ."
+    ],
+    "t": "He asked me some questions about the math test."
+  },
+  {
+    "q": "Kion vi celas studante la anglan?",
+    "a": [
+      "외ㅎㅏㅌ'ㅅ ㅠㅗㅜㄹ ㅍㅜㄹㅍㅗㅅㅔ ㅣㄴ ㅅㅌㅜㄷㅠㅣㄴㄱ ㅔㄴㄱㄸㅣㅅㅎ?"
+    ],
+    "t": "What's your purpose in studying English?"
+  },
+  {
+    "q": "La knabino eniris la ĉambron.",
+    "a": [
+      "ㅌㅎㅔ ㄱㅣㄹㄸ ㅔㄴㅌㅔㄹㅔㄷ ㅌㅎㅔ ㄹㅗㅗㅁ."
+    ],
+    "t": "The girl entered the room."
+  },
+  {
+    "q": "Li ĉeestos la tutan vesperon.",
+    "a": [
+      "ㅎㅔ 외ㅣㄸㄸ ㅂㅔ ㅎㅔㄹㅔ ㅏㄸㄸ ㅔㅆㅔㄴㅣㄴㄱ."
+    ],
+    "t": "He will be here all evening."
+  },
+  {
+    "q": "Ni estas viroj.",
+    "a": [
+      "외ㅔ ㅏㄹㅔ ㅁㅔㄴ."
+    ],
+    "t": "We are men."
+  },
+  {
+    "q": "Tio ne estis malmultekosta, ĉu?",
+    "a": [
+      "ㅌㅎㅣㅅ 외ㅏㅅㄴ'ㅌ ㅊㅎㅔㅏㅍ, 외ㅏㅅ ㅣㅌ?"
+    ],
+    "t": "This wasn't cheap, was it?"
+  },
+  {
+    "q": "Ni havas ses lecionojn ĉiutage.",
+    "a": [
+      "외ㅔ ㅎㅏㅆㅔ ㅅㅣㅉ ㄸㅔㅅㅅㅗㄴㅅ ㅏ ㄷㅏㅠ."
+    ],
+    "t": "We have six lessons a day."
+  },
+  {
+    "q": "La vero estas filino de la tempo.",
+    "a": [
+      "ㅌㄹㅜㅌㅎ ㅣㅅ ㅌㅣㅁㅔ'ㅅ ㄷㅏㅜㄱㅎㅌㅔㄹ.",
+      "ㅌㄹㅜㅌㅎ ㅣㅅ ㅌㅎㅔ ㄷㅏㅜㄱㅎㅌㅔㄹ ㅗㄲ ㅌㅣㅁㅔ."
+    ],
+    "t": "Truth is time's daughter. | Truth is the daughter of time."
+  },
+  {
+    "q": "La folioj komencis fariĝi ruĝaj kaj flavaj.",
+    "a": [
+      "ㅌㅎㅔ ㄸㅔㅏㅆㅔㅅ ㅂㅔㄱㅏㄴ ㅌㅗ ㅌㅜㄹㄴ ㄹㅔㄷ ㅏㄴㄷ ㅠㅔㄸㄸㅗ외."
+    ],
+    "t": "The leaves began to turn red and yellow."
+  },
+  {
+    "q": "Mi ne ŝatas matematikon, eĉ malpli fizikon.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄸㅣㅋㅔ ㅁㅏㅌㅎ, ㅁㅜㅊㅎ ㄸㅔㅅㅅ ㅍㅎㅠㅅㅣㅊㅅ."
+    ],
+    "t": "I don't like math, much less physics."
+  },
+  {
+    "q": "Mi ne kunhavas multan monon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔㄴ'ㅌ ㄱㅗㅌ ㅁㅜㅊㅎ ㅁㅗㄴㅔㅠ 외ㅣㅌㅎ ㅁㅔ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅆㅔㄹㅠ ㅁㅜㅊㅎ ㅁㅗㄴㅔㅠ ㅗㄴ ㅁㅔ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅏ ㄸㅗㅌ ㅗㄲ ㅁㅗㄴㅔㅠ ㅗㄴ ㅁㅔ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅁㅜㅊㅎ ㅁㅗㄴㅔㅠ ㅗㄴ ㅁㅔ."
+    ],
+    "t": "I haven't got much money with me. | I don't have very much money on me. | I don't have a lot of money on me. | I don't have much money on me."
+  },
+  {
+    "q": "Mia revo estas fariĝi kuracisto.",
+    "a": [
+      "ㅁㅠ ㄷㄹㅔㅏㅁ ㅣㅅ ㅌㅗ ㅂㅔ ㅏ ㄷㅗㅊㅌㅗㄹ."
+    ],
+    "t": "My dream is to be a doctor."
+  },
+  {
+    "q": "Multaj soldatoj estis mortigitaj ĉi tie.",
+    "a": [
+      "ㅏ ㄸㅗㅌ ㅗㄲ ㅅㅗㄸㄷㅣㅔㄹㅅ 외ㅔㄹㅔ ㅋㅣㄸㄸㅔㄷ ㅎㅔㄹㅔ.",
+      "ㅁㅏㄴㅠ ㅅㅗㄸㄷㅣㅔㄹㅅ 외ㅔㄹㅔ ㅋㅣㄸㄸㅔㄷ ㅎㅔㄹㅔ."
+    ],
+    "t": "A lot of soldiers were killed here. | Many soldiers were killed here."
+  },
+  {
+    "q": "Tiu ĉi libro estas via.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅂㅗㅗㅋ ㅂㅔㄸㅗㄴㄱㅅ ㅌㅗ ㅠㅗㅜ.",
+      "ㅌㅎㅣㅅ ㅂㅗㅗㅋ ㅣㅅ ㅠㅗㅜㄹㅅ."
+    ],
+    "t": "This book belongs to you. | This book is yours."
+  },
+  {
+    "q": "Mi certas, ke ili venkos.",
+    "a": [
+      "ㅣ'ㅁ ㅅㅜㄹㅔ ㅌㅎㅔㅠ'ㄸㄸ 외ㅣㄴ."
+    ],
+    "t": "I'm sure they'll win."
+  },
+  {
+    "q": "Forprenu viajn malpurajn manaĉojn de mia mono.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅍㅜㅌ ㅠㅗㅜㄹ ㄱㄹㅔㅔㄷㅠ ㅎㅏㄴㄷㅅ ㅗㄴ ㅁㅠ ㅁㅗㄴㅔㅠ."
+    ],
+    "t": "Don't put your greedy hands on my money."
+  },
+  {
+    "q": "Vi prefere tuj iru dormi.",
+    "a": [
+      "ㅠㅗㅜ'ㄷ ㅂㅔㅌㅌㅔㄹ ㄱㅗ ㅌㅗ ㅂㅔㄷ ㅏㅌ ㅗㄴㅊㅔ."
+    ],
+    "t": "You'd better go to bed at once."
+  },
+  {
+    "q": "Mi akceptis lian inviton.",
+    "a": [
+      "ㅣ ㅏㅊㅊㅔㅍㅌㅔㄷ ㅎㅣㅅ ㅣㄴㅆㅣㅌㅏㅌㅣㅗㄴ."
+    ],
+    "t": "I accepted his invitation."
+  },
+  {
+    "q": "Manojn supren!",
+    "a": [
+      "ㅎㅏㄴㄷㅅ ㅜㅍ!",
+      "ㅍㅜㅌ ㅠㅗㅜㄹ ㅎㅏㄴㄷㅅ ㅜㅍ!",
+      "ㅅㅌㅣㅊㅋ 'ㅔㅁ ㅜㅍ!"
+    ],
+    "t": "Hands up! | Put your hands up! | Stick 'em up!"
+  },
+  {
+    "q": "Tiu kanto estas tre ŝatata de junuloj.",
+    "a": [
+      "ㅌㅎㅏㅌ ㅅㅗㄴㄱ ㅣㅅ ㅆㅔㄹㅠ ㅍㅗㅍㅜㄸㅏㄹ 외ㅣㅌㅎ ㅠㅗㅜㄴㄱ ㅍㅔㅗㅍㄸㅔ."
+    ],
+    "t": "That song is very popular with young people."
+  },
+  {
+    "q": "Diru ĝin alimaniere.",
+    "a": [
+      "ㅅㅏㅠ ㅣㅌ ㅣㄴ ㅏㄴㅗㅌㅎㅔㄹ 외ㅏㅠ."
+    ],
+    "t": "Say it in another way."
+  },
+  {
+    "q": "Ne parolu tiel.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅌㅏㄸㅋ ㄸㅣㅋㅔ ㅌㅎㅏㅌ."
+    ],
+    "t": "Don't talk like that."
+  },
+  {
+    "q": "Taro, la vespermanĝo estas preta!",
+    "a": [
+      "ㅌㅏㄹㅗ, ㄷㅣㄴㄴㅔㄹ'ㅅ ㄹㅔㅏㄷㅠ!",
+      "ㅌㅏㄹㅗ, ㅌㅎㅔ ㅅㅜㅍㅍㅔㄹ ㅣㅅ ㄹㅔㅏㄷㅠ!"
+    ],
+    "t": "Taro, dinner's ready! | Taro, the supper is ready!"
+  },
+  {
+    "q": "Ĝuste!",
+    "a": [
+      "ㅔㅉㅏㅊㅌㄸㅠ!",
+      "ㅊㅗㄹㄹㅔㅊㅌ!"
+    ],
+    "t": "Exactly! | Correct!"
+  },
+  {
+    "q": "Ĝi eksplodis kun granda knalo.",
+    "a": [
+      "ㅣㅌ ㅔㅉㅍㄸㅗㄷㅔㄷ 외ㅣㅌㅎ ㅏ ㄸㅗㅜㄷ ㄴㅗㅣㅅㅔ."
+    ],
+    "t": "It exploded with a loud noise."
+  },
+  {
+    "q": "Post la lernejo mi ofte ludas tenison.",
+    "a": [
+      "ㅣ ㅗㄲㅌㅔㄴ ㅍㄸㅏㅠ ㅌㅔㄴㄴㅣㅅ ㅏㄲㅌㅔㄹ ㅅㅊㅎㅗㅗㄸ."
+    ],
+    "t": "I often play tennis after school."
+  },
+  {
+    "q": "Ŝi estas fiera pro siaj infanoj.",
+    "a": [
+      "ㅅㅎㅔ ㅣㅅ ㅍㄹㅗㅜㄷ ㅗㄲ ㅎㅔㄹ ㅊㅎㅣㄸㄷㄹㅔㄴ."
+    ],
+    "t": "She is proud of her children."
+  },
+  {
+    "q": "Li parolas la francan.",
+    "a": [
+      "ㅎㅔ ㅅㅍㅔㅏㅋㅅ ㄲㄹㅔㄴㅊㅎ."
+    ],
+    "t": "He speaks French."
+  },
+  {
+    "q": "Kioto dependas de la turisma industrio.",
+    "a": [
+      "ㅋㅠㅗㅌㅗ ㄷㅔㅍㅔㄴㄷㅅ ㅗㄴ ㅌㅎㅔ ㅌㅗㅜㄹㅣㅅㅌ ㅣㄴㄷㅜㅅㅌㄹㅠ."
+    ],
+    "t": "Kyoto depends on the tourist industry."
+  },
+  {
+    "q": "Mi havas trioble pli da mono ol vi.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅌㅎㄹㅔㅔ ㅌㅣㅁㅔㅅ ㅏㅅ ㅁㅜㅊㅎ ㅁㅗㄴㅔㅠ ㅏㅅ ㅠㅗㅜ.",
+      "ㅣ'ㅆㅔ ㄱㅗㅌ ㅌㅎㄹㅔㅔ ㅌㅣㅁㅔㅅ ㅁㅗㄹㅔ ㅁㅗㄴㅔㅠ ㅌㅎㅏㄴ ㅠㅗㅜ.",
+      "ㅣ ㅎㅏㅆㅔ ㅌㅎㄹㅔㅔ ㅌㅣㅁㅔㅅ ㅁㅗㄹㅔ ㅁㅗㄴㅔㅠ ㅌㅎㅏㄴ ㅠㅗㅜ ㄷㅗ."
+    ],
+    "t": "I have three times as much money as you. | I've got three times more money than you. | I have three times more money than you do."
+  },
+  {
+    "q": "Jane mem verkis la leteron.",
+    "a": [
+      "ㅈㅏㄴㅔ 외ㄹㅗㅌㅔ ㅌㅎㅔ ㄸㅔㅌㅌㅔㄹ ㅎㅔㄹㅅㅔㄸㄲ."
+    ],
+    "t": "Jane wrote the letter herself."
+  },
+  {
+    "q": "Lia pli aĝa frato estas je du jaroj pli aĝa ol mi.",
+    "a": [
+      "ㅎㅣㅅ ㅗㄸㄷㅔㄹ ㅂㄹㅗㅌㅎㅔㄹ ㅣㅅ ㅌ외ㅗ ㅠㅔㅏㄹㅅ ㅗㄸㄷㅔㄹ ㅌㅎㅏㄴ ㅣ."
+    ],
+    "t": "His older brother is two years older than I."
+  },
+  {
+    "q": "Mi ne memoras, kiam mi renkontis lin la unuan fojon.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄹㅔㅁㅔㅁㅂㅔㄹ 외ㅎㅔㄴ ㅣ ㄲㅣㄹㅅㅌ ㅁㅔㅌ ㅎㅣㅁ."
+    ],
+    "t": "I don't remember when I first met him."
+  },
+  {
+    "q": "Kiom granda li estas?",
+    "a": [
+      "ㅎㅗ외 ㅌㅏㄸㄸ ㅣㅅ ㅎㅔ?"
+    ],
+    "t": "How tall is he?"
+  },
+  {
+    "q": "Li tute ne aspektas kiel kuracisto.",
+    "a": [
+      "ㅎㅔ ㄸㅗㅗㅋㅅ ㄴㅗㅌㅎㅣㄴㄱ ㄸㅣㅋㅔ ㅏ ㄷㅗㅊㅌㅗㄹ."
+    ],
+    "t": "He looks nothing like a doctor."
+  },
+  {
+    "q": "Mi povus plori pro ĝojo.",
+    "a": [
+      "ㅣ ㅊㅗㅜㄸㄷ ㅊㄹㅠ ㄲㅗㄹ ㅈㅗㅠ."
+    ],
+    "t": "I could cry for joy."
+  },
+  {
+    "q": "Mi ne volas pasigi la reston de mia vivo per tio, ke mi bedaŭras ĝin.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ 외ㅏㄴㅌ ㅌㅗ ㅅㅍㅔㄴㄷ ㅌㅎㅔ ㄹㅔㅅㅌ ㅗㄲ ㅁㅠ ㄸㅣㄲㅔ ㄹㅔㄱㄹㅔㅌㅌㅣㄴㄱ ㅣㅌ."
+    ],
+    "t": "I don't want to spend the rest of my life regretting it."
+  },
+  {
+    "q": "Kate ne estas tiel granda kiel Anne.",
+    "a": [
+      "ㅋㅏㅌㅔ ㅣㅅ ㄴㅗㅌ ㅏㅅ ㅌㅏㄸㄸ ㅏㅅ ㅏㄴㄴㅔ."
+    ],
+    "t": "Kate is not as tall as Anne."
+  },
+  {
+    "q": "Ĉu vi iris al la lernejo hodiaŭ?",
+    "a": [
+      "ㄷㅣㄷ ㅠㅗㅜ ㄱㅗ ㅌㅗ ㅅㅊㅎㅗㅗㄸ ㅌㅗㄷㅏㅠ?"
+    ],
+    "t": "Did you go to school today?"
+  },
+  {
+    "q": "Antaŭ la tagmanĝo ŝi fartis tre bone, sed poste ŝi sentis sin malbone.",
+    "a": [
+      "ㅅㅎㅔ 외ㅏㅅ ㄲㅣㄴㅔ ㅂㅔㄲㅗㄹㅔ ㄸㅜㄴㅊㅎ, ㅂㅜㅌ ㄲㅔㄸㅌ ㅂㅏㄷ ㅏㄲㅌㅔㄹ외ㅏㄹㄷㅅ."
+    ],
+    "t": "She was fine before lunch, but felt bad afterwards."
+  },
+  {
+    "q": "Kie vi naskiĝis?",
+    "a": [
+      "외ㅎㅔㄹㅔ 외ㅔㄹㅔ ㅠㅗㅜ ㅂㅗㄹㄴ?"
+    ],
+    "t": "Where were you born?"
+  },
+  {
+    "q": "Kiu diris tion? Tio estas komplete malĝusta!",
+    "a": [
+      "외ㅎㅗ ㅅㅏㅣㄷ ㅌㅎㅏㅌ? ㅣㅌ'ㅅ ㅌㅗㅌㅏㄸㄸㅠ 외ㄹㅗㄴㄱ!"
+    ],
+    "t": "Who said that? It's totally wrong!"
+  },
+  {
+    "q": "Mi ne ŝatas tiun kameraon.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄸㅣㅋㅔ ㅌㅎㅣㅅ ㅊㅏㅁㅔㄹㅏ."
+    ],
+    "t": "I don't like this camera."
+  },
+  {
+    "q": "Ĉu li parolas la anglan, la francan aŭ la germanan?",
+    "a": [
+      "ㅣㅅ ㅎㅔ ㅅㅍㅔㅏㅋㅣㄴㄱ ㅔㄴㄱㄸㅣㅅㅎ, ㄲㄹㅔㄴㅊㅎ, ㅗㄹ ㄱㅔㄹㅁㅏㄴ?"
+    ],
+    "t": "Is he speaking English, French, or German?"
+  },
+  {
+    "q": "Dum ni manĝis la deserton, kreskis la deziro vojaĝi en ĉi tiun landon.",
+    "a": [
+      "ㅏㅅ 외ㅔ ㅏㅌㅔ ㄷㅔㅅㅅㅔㄹㅌ, ㅌㅎㅔ ㄷㅔㅅㅣㄹㅔ ㄱㄹㅔ외 ㅌㅗ ㅌㄹㅏㅆㅔㄸ ㅣㄴ ㅌㅎㅣㅅ ㅊㅗㅜㄴㅌㄹㅠ."
+    ],
+    "t": "As we ate dessert, the desire grew to travel in this country."
+  },
+  {
+    "q": "Lia kuraĝa faro alportis al li respekton.",
+    "a": [
+      "ㅎㅣㅅ ㅂㄹㅏㅆㅔ ㄷㅔㅔㄷ ㅔㅏㄹㄴㅔㄷ ㅎㅣㅁ ㄹㅔㅅㅍㅔㅊㅌ."
+    ],
+    "t": "His brave deed earned him respect."
+  },
+  {
+    "q": "Ĉu vi manĝas rizon en via lando?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅔㅏㅌ ㄹㅣㅊㅔ ㅣㄴ ㅠㅗㅜㄹ ㅊㅗㅜㄴㅌㄹㅠ?"
+    ],
+    "t": "Do you eat rice in your country?"
+  },
+  {
+    "q": "La ŝipo veturos morgaŭ al Honoluluo.",
+    "a": [
+      "ㅌㅎㅔ ㅅㅎㅣㅍ ㅅㅏㅣㄸㅅ ㄲㅗㄹ ㅎㅗㄴㅗㄸㅜㄸㅜ ㅌㅗㅁㅗㄹㄹㅗ외.",
+      "ㅌㅎㅔ ㅅㅎㅣㅍ ㄸㅔㅏㅆㅔㅅ ㄲㅗㄹ ㅎㅗㄴㅗㄸㅜㄸㅜ ㅌㅗㅁㅗㄹㄹㅗ외."
+    ],
+    "t": "The ship sails for Honolulu tomorrow. | The ship leaves for Honolulu tomorrow."
+  },
+  {
+    "q": "La domo brulas.",
+    "a": [
+      "ㅌㅎㅔ ㅎㅗㅜㅅㅔ ㅣㅅ ㅗㄴ ㄲㅣㄹㅔ.",
+      "ㅌㅎㅔ ㅎㅗㅜㅅㅔ ㅣㅅ ㅂㅜㄹㄴㅣㄴㄱ."
+    ],
+    "t": "The house is on fire. | The house is burning."
+  },
+  {
+    "q": "Vi aspektas bone kun viaj mallongaj haroj.",
+    "a": [
+      "ㅠㅗㅜ ㄸㅗㅗㅋ ㄴㅣㅊㅔ 외ㅣㅌㅎ ㅠㅗㅜㄹ ㅎㅏㅣㄹ ㅅㅎㅗㄹㅌ."
+    ],
+    "t": "You look nice with your hair short."
+  },
+  {
+    "q": "La striko ĝenis la nacian ekonomion.",
+    "a": [
+      "ㅌㅎㅔ ㅅㅌㄹㅣㅋㅔ ㅏㄲㄲㅔㅊㅌㅔㄷ ㅌㅎㅔ ㄴㅏㅌㅣㅗㄴ'ㅅ ㅔㅊㅗㄴㅗㅁㅠ."
+    ],
+    "t": "The strike affected the nation's economy."
+  },
+  {
+    "q": "Laŭ mia opinio li pravas.",
+    "a": [
+      "ㅣㄴ ㅁㅠ ㅗㅍㅣㄴㅣㅗㄴ, ㅎㅔ ㅣㅅ ㅊㅗㄹㄹㅔㅊㅌ.",
+      "ㅣ ㅌㅎㅣㄴㅋ ㅎㅔ'ㅅ ㄹㅣㄱㅎㅌ."
+    ],
+    "t": "In my opinion, he is correct. | I think he's right."
+  },
+  {
+    "q": "La konstruaĵo havas dudek etaĝojn.",
+    "a": [
+      "ㅌㅎㅔ ㅂㅜㅣㄸㄷㅣㄴㄱ ㅎㅏㅅ ㅌ외ㅔㄴㅌㅠ ㄲㄸㅗㅗㄹㅅ.",
+      "ㅌㅎㅔ ㅂㅜㅣㄸㄷㅣㄴㄱ ㅎㅏㅅ 20 ㄲㄸㅗㅗㄹㅅ."
+    ],
+    "t": "The building has twenty floors. | The building has 20 floors."
+  },
+  {
+    "q": "Ĉu tiuj ĉi insektoj pikas?",
+    "a": [
+      "ㄷㅗ ㅌㅎㅔㅅㅔ ㅣㄴㅅㅔㅊㅌㅅ ㅅㅌㅣㄴㄱ?"
+    ],
+    "t": "Do these insects sting?"
+  },
+  {
+    "q": "Mi jam spektis la filmon.",
+    "a": [
+      "ㅣ'ㅆㅔ ㅏㄸㄹㅔㅏㄷㅠ ㅅㅔㅔㄴ ㅌㅎㅔ ㄲㅣㄸㅁ.",
+      "ㅣ'ㅆㅔ ㅏㄸㄹㅔㅏㄷㅠ ㅅㅔㅔㄴ ㅌㅎㅏㅌ ㅁㅗㅆㅣㅔ."
+    ],
+    "t": "I've already seen the film. | I've already seen that movie."
+  },
+  {
+    "q": "Infano ploras ie.",
+    "a": [
+      "ㅏ ㅊㅎㅣㄸㄷ ㅣㅅ ㅊㄹㅠㅣㄴㄱ ㅅㅗㅁㅔ외ㅎㅔㄹㅔ."
+    ],
+    "t": "A child is crying somewhere."
+  },
+  {
+    "q": "Ni ĉiuj estis lacaj.",
+    "a": [
+      "외ㅔ 외ㅔㄹㅔ ㅏㄸㄸ ㅌㅣㄹㅔㄷ.",
+      "외ㅔ'ㄹㅔ ㅏㄸㄸ ㅌㅣㄹㅔㄷ."
+    ],
+    "t": "We were all tired. | We're all tired."
+  },
+  {
+    "q": "Li tro lacis por studi.",
+    "a": [
+      "ㅎㅔ 외ㅏㅅ ㅌㅗㅗ ㅌㅣㄹㅔㄷ ㅌㅗ ㅅㅌㅜㄷㅠ."
+    ],
+    "t": "He was too tired to study."
+  },
+  {
+    "q": "Se vi volas, mi instruos ludi ŝakon al vi.",
+    "a": [
+      "ㅣㄲ ㅠㅗㅜ ㄸㅣㅋㅔ, ㅣ 외ㅣㄸㄸ ㅌㅔㅏㅊㅎ ㅠㅗㅜ ㅌㅗ ㅍㄸㅏㅠ ㅊㅎㅔㅅㅅ."
+    ],
+    "t": "If you like, I will teach you to play chess."
+  },
+  {
+    "q": "Mi instruos al vi ludi ŝakon.",
+    "a": [
+      "ㅣ 외ㅣㄸㄸ ㅌㅔㅏㅊㅎ ㅠㅗㅜ ㅌㅗ ㅍㄸㅏㅠ ㅊㅎㅔㅅㅅ.",
+      "ㅣ 외ㅣㄸㄸ ㅌㅔㅏㅊㅎ ㅠㅗㅜ ㅎㅗ외 ㅌㅗ ㅍㄸㅏㅠ ㅊㅎㅔㅅㅅ."
+    ],
+    "t": "I will teach you to play chess. | I will teach you how to play chess."
+  },
+  {
+    "q": "Ĉu tio estas via pluvombrelo?",
+    "a": [
+      "ㅣㅅ ㅌㅎㅣㅅ ㅠㅗㅜㄹ ㅜㅁㅂㄹㅔㄸㄸㅏ?",
+      "ㅣㅅ ㅌㅎㅏㅌ ㅠㅗㅜㄹ ㅜㅁㅂㄹㅔㄸㄸㅏ?",
+      "ㅣㅅ ㅌㅎㅣㅅ ㅠㅗㅜㄹ ㅂㄹㅗㄸㄸㅠ?"
+    ],
+    "t": "Is this your umbrella? | Is that your umbrella? | Is this your brolly?"
+  },
+  {
+    "q": "Mi prenos tiun pluvombrelon.",
+    "a": [
+      "ㅣ'ㄸㄸ ㅌㅏㅋㅔ ㅌㅎㅣㅅ ㅜㅁㅂㄹㅔㄸㄸㅏ."
+    ],
+    "t": "I'll take this umbrella."
+  },
+  {
+    "q": "Ĉu vi manĝas viandon?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅔㅏㅌ ㅁㅔㅏㅌ?"
+    ],
+    "t": "Do you eat meat?"
+  },
+  {
+    "q": "Ni provu ion!",
+    "a": [
+      "ㄸㅔㅌ'ㅅ ㅌㄹㅠ ㅅㅗㅁㅔㅌㅎㅣㄴㄱ."
+    ],
+    "t": "Let's try something."
+  },
+  {
+    "q": "Kion vi faras?",
+    "a": [
+      "외ㅎㅏㅌ ㅏㄹㅔ ㅠㅗㅜ ㄷㅗㅣㄴㄱ?",
+      "외ㅎㅏㅌ ㄷㅗ ㅠㅗㅜ ㄷㅗ?",
+      "외ㅎㅏㅌ ㅏㄹㅔ ㅠㅗㅜ ㅜㅍ ㅌㅗ?",
+      "외ㅎㅏㅌ ㅏㄹㅔ ㅠㅗㅜ ㄱㅜㅠㅅ ㄷㅗㅣㄴㄱ?",
+      "외ㅎㅏㅌ ㄷㅗ ㅠㅗㅜ ㄱㅜㅠㅅ ㄷㅗ?"
+    ],
+    "t": "What are you doing? | What do you do? | What are you up to? | What are you guys doing? | What do you guys do?"
+  },
+  {
+    "q": "Mi havas revon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅏ ㄷㄹㅔㅏㅁ."
+    ],
+    "t": "I have a dream."
+  },
+  {
+    "q": "Li portas okulvitrojn.",
+    "a": [
+      "ㅎㅔ 외ㅔㅏㄹㅅ ㄱㄸㅏㅅㅅㅔㅅ."
+    ],
+    "t": "He wears glasses."
+  },
+  {
+    "q": "Porti okulvitrojn devus korekti vian vidadon.",
+    "a": [
+      "외ㅔㅏㄹㅣㄴㄱ ㄱㄸㅏㅅㅅㅔㅅ ㅅㅎㅗㅜㄸㄷ ㅊㅗㄹㄹㅔㅊㅌ ㅠㅗㅜㄹ ㅆㅣㅅㅣㅗㄴ."
+    ],
+    "t": "Wearing glasses should correct your vision."
+  },
+  {
+    "q": "Mi ne havas tiun libron.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅌㅎㅣㅅ ㅂㅗㅗㅋ."
+    ],
+    "t": "I don't have this book."
+  },
+  {
+    "q": "Ĉu vi havas du komputilojn?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ ㅌ외ㅗ ㅊㅗㅁㅍㅜㅌㅔㄹㅅ?"
+    ],
+    "t": "Do you have two computers?"
+  },
+  {
+    "q": "Mi estas inĝeniero.",
+    "a": [
+      "ㅣ'ㅁ ㅏㄴ ㅔㄴㄱㅣㄴㅔㅔㄹ.",
+      "ㅣ ㅏㅁ ㅏㄴ ㅔㄴㄱㅣㄴㅔㅔㄹ."
+    ],
+    "t": "I'm an engineer. | I am an engineer."
+  },
+  {
+    "q": "Ŝi nun skribas leteron.",
+    "a": [
+      "ㅅㅎㅔ ㅣㅅ 외ㄹㅣㅌㅣㄴㄱ ㅏ ㄸㅔㅌㅌㅔㄹ ㄴㅗ외."
+    ],
+    "t": "She is writing a letter now."
+  },
+  {
+    "q": "Nia teamo perdis.",
+    "a": [
+      "ㅗㅜㄹ ㅌㅔㅏㅁ ㄸㅗㅅㅌ."
+    ],
+    "t": "Our team lost."
+  },
+  {
+    "q": "Eniru, mi petas.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㅊㅗㅁㅔ ㅣㄴ.",
+      "ㄷㅗ ㅊㅗㅁㅔ ㅣㄴ, ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "Please come in. | Do come in, please."
+  },
+  {
+    "q": "Vi povas iri tie, kie vi volas.",
+    "a": [
+      "ㅠㅗㅜ ㅊㅏㄴ ㄱㅗ ㅏㄴㅠ외ㅎㅔㄹㅔ ㅠㅗㅜ ㄸㅣㅋㅔ.",
+      "ㅠㅗㅜ ㅊㅏㄴ ㄱㅗ ㅏㄴㅠㅍㄸㅏㅊㅔ ㅠㅗㅜ ㄸㅣㅋㅔ."
+    ],
+    "t": "You can go anywhere you like. | You can go anyplace you like."
+  },
+  {
+    "q": "Ŝi ĉiam kapablis respondi ĉiujn demandojn.",
+    "a": [
+      "ㅅㅎㅔ 외ㅏㅅ ㅏㄸ외ㅏㅠㅅ ㅏㅂㄸㅔ ㅌㅗ ㅏㄴㅅ외ㅔㄹ ㅏㄸㄸ ㅌㅎㅔ ㅃㅜㅔㅅㅌㅣㅗㄴㅅ."
+    ],
+    "t": "She was always able to answer all the questions."
+  },
+  {
+    "q": "Tio estas mia KD.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅁㅠ ㅊㄷ.",
+      "ㅌㅎㅏㅌ'ㅅ ㅁㅠ ㅊㄷ."
+    ],
+    "t": "It's my CD. | That's my CD."
+  },
+  {
+    "q": "Mi ĵus alvenis ĉi tie.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅈㅜㅅㅌ ㅊㅗㅁㅔ ㅎㅔㄹㅔ."
+    ],
+    "t": "I have just come here."
+  },
+  {
+    "q": "Mi antaŭĝojas baldaŭ aŭdi ion de vi.",
+    "a": [
+      "ㅣ ㅏㅁ ㄸㅗㅗㅋㅣㄴㄱ ㄲㅗㄹ외ㅏㄹㄷ ㅌㅗ ㅎㅔㅏㄹㅣㄴㄱ ㄲㄹㅗㅁ ㅠㅗㅜ ㅅㅗㅗㄴ."
+    ],
+    "t": "I am looking forward to hearing from you soon."
+  },
+  {
+    "q": "Kio veturas pli rapide, ŝipo aŭ trajno?",
+    "a": [
+      "외ㅎㅣㅊㅎ ㄱㅗㅔㅅ ㄲㅏㅅㅌㅔㄹ, ㅏ ㅅㅎㅣㅍ ㅗㄹ ㅏ ㅌㄹㅏㅣㄴ?"
+    ],
+    "t": "Which goes faster, a ship or a train?"
+  },
+  {
+    "q": "Mi deziras iun por interparoli.",
+    "a": [
+      "ㅣ 외ㅏㄴㅌ ㅅㅗㅁㅔㅗㄴㅔ ㅌㅗ ㅌㅏㄸㅋ ㅌㅗ."
+    ],
+    "t": "I want someone to talk to."
+  },
+  {
+    "q": "Mi timas, ke morgaŭ pluvos.",
+    "a": [
+      "ㅣ'ㅁ ㅏㄲㄹㅏㅣㄷ ㅣㅌ 외ㅣㄸㄸ ㄹㅏㅣㄴ ㅌㅗㅁㅗㄹㄹㅗ외.",
+      "ㅣ'ㅁ ㅏㄲㄹㅏㅣㄷ ㅣㅌ'ㅅ ㄱㅗㅣㄴㄱ ㅌㅗ ㄹㅏㅣㄴ ㅌㅗㅁㅗㄹㄹㅗ외.",
+      "ㅣ'ㅁ ㅏㄲㄹㅏㅣㄷ ㅣㅌ'ㄸㄸ ㄹㅏㅣㄴ ㅌㅗㅁㅗㄹㄹㅗ외."
+    ],
+    "t": "I'm afraid it will rain tomorrow. | I'm afraid it's going to rain tomorrow. | I'm afraid it'll rain tomorrow."
+  },
+  {
+    "q": "La trajno hodiaŭ malfruas dek minutojn.",
+    "a": [
+      "ㅌㅎㅔ ㅌㄹㅏㅣㄴ ㅣㅅ ㅌㅔㄴ ㅁㅣㄴㅜㅌㅔㅅ ㅂㅔㅎㅣㄴㄷ ㅌㅗㄷㅏㅠ.",
+      "ㅌㅎㅔ ㅌㄹㅏㅣㄴ ㅣㅅ ㅌㅔㄴ ㅁㅣㄴㅜㅌㅔㅅ ㄸㅏㅌㅔ ㅌㅗㄷㅏㅠ.",
+      "ㅌㅎㅔ ㅌㄹㅏㅣㄴ ㅣㅅ 10 ㅁㅣㄴㅜㅌㅔㅅ ㄸㅏㅌㅔ ㅌㅗㄷㅏㅠ."
+    ],
+    "t": "The train is ten minutes behind today. | The train is ten minutes late today. | The train is 10 minutes late today."
+  },
+  {
+    "q": "Mi ŝatus peti vin pri favoro.",
+    "a": [
+      "ㅣ'ㄷ ㄸㅣㅋㅔ ㅌㅗ ㅏㅅㅋ ㅏ ㄲㅏㅆㅗㄹ ㅗㄲ ㅠㅗㅜ."
+    ],
+    "t": "I'd like to ask a favor of you."
+  },
+  {
+    "q": "Se mi ne faras ĝin nun, mi neniam faros ĝin.",
+    "a": [
+      "ㅣㄲ ㅣ ㄷㅗㄴ'ㅌ ㄷㅗ ㅣㅌ ㄴㅗ외, ㅣ ㄴㅔㅆㅔㄹ 외ㅣㄸㄸ."
+    ],
+    "t": "If I don't do it now, I never will."
+  },
+  {
+    "q": "La knabo estas tre honesta.",
+    "a": [
+      "ㅌㅎㅔ ㅂㅗㅠ ㅣㅅ ㅆㅔㄹㅠ ㅎㅗㄴㅔㅅㅌ."
+    ],
+    "t": "The boy is very honest."
+  },
+  {
+    "q": "Dum la manĝo mi legis libron.",
+    "a": [
+      "ㅣ ㄹㅔㅏㄷ ㅏ ㅂㅗㅗㅋ 외ㅎㅣㄸㅔ ㅔㅏㅌㅣㄴㄱ."
+    ],
+    "t": "I read a book while eating."
+  },
+  {
+    "q": "Sen ĝiso li malaperis en la homamaso.",
+    "a": [
+      "외ㅣㅌㅎㅗㅜㅌ ㅅㅏㅠㅣㄴㄱ ㄱㅗㅗㄷㅂㅠㅔ, ㅎㅔ ㄷㅣㅅㅏㅍㅍㅔㅏㄹㅔㄷ ㅣㄴㅌㅗ ㅌㅎㅔ ㅊㄹㅗ외ㄷ."
+    ],
+    "t": "Without saying goodbye, he disappeared into the crowd."
+  },
+  {
+    "q": "Mi abomenas araneojn.",
+    "a": [
+      "ㅣ ㅏㅂㅎㅗㄹ ㅅㅍㅣㄷㅔㄹㅅ."
+    ],
+    "t": "I abhor spiders."
+  },
+  {
+    "q": "Ŝi parolis irante.",
+    "a": [
+      "ㅅㅎㅔ 외ㅏㄸㅋㅔㄷ ㅏㄴㄷ ㅌㅏㄸㅋㅔㄷ."
+    ],
+    "t": "She walked and talked."
+  },
+  {
+    "q": "Mi ŝatus fiksi rendevuon por mia trijara filo.",
+    "a": [
+      "ㅣ'ㄷ ㄸㅣㅋㅔ ㅌㅗ ㅁㅏㅋㅔ ㅏㄴ ㅏㅍㅍㅗㅣㄴㅌㅁㅔㄴㅌ ㄲㅗㄹ ㅁㅠ ㅌㅎㄹㅔㅔ-ㅠㅔㅏㄹ-ㅗㄸㄷ ㅅㅗㄴ."
+    ],
+    "t": "I'd like to make an appointment for my three-year-old son."
+  },
+  {
+    "q": "Kiel oni vekas la deziron de virino?",
+    "a": [
+      "ㅎㅗ외 ㅌㅗ ㅏㄹㅗㅜㅅㅔ ㅏ 외ㅗㅁㅏㄴ'ㅅ ㄷㅔㅅㅣㄹㅔ?"
+    ],
+    "t": "How to arouse a woman's desire?"
+  },
+  {
+    "q": "Mi ankoraŭ ne finis la taskon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㄴㅗㅌ ㄲㅣㄴㅣㅅㅎㅔㄷ ㅌㅎㅔ ㅌㅏㅅㅋ ㅠㅔㅌ."
+    ],
+    "t": "I have not finished the task yet."
+  },
+  {
+    "q": "Li parolas kvazaŭ li estus riĉa.",
+    "a": [
+      "ㅎㅔ ㅅㅍㅔㅏㅋㅅ ㅏㅅ ㅣㄲ ㅎㅔ 외ㅔㄹㅔ ㄹㅣㅊㅎ."
+    ],
+    "t": "He speaks as if he were rich."
+  },
+  {
+    "q": "Ĉu vi scipovas konduki aŭton?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜ ㄷㄹㅣㅆㅔ ㅏ ㅊㅏㄹ?"
+    ],
+    "t": "Can you drive a car?"
+  },
+  {
+    "q": "Vi devus spekti la filmon, kiam vi havos okazon por tio.",
+    "a": [
+      "ㅠㅗㅜ ㅅㅎㅗㅜㄸㄷ ㅅㅔㅔ ㅌㅎㅣㅅ ㄲㅣㄸㅁ ㅣㄲ ㅠㅗㅜ ㄱㅔㅌ ㅌㅎㅔ ㅗㅍㅍㅗㄹㅌㅜㄴㅣㅌㅠ."
+    ],
+    "t": "You should see this film if you get the opportunity."
+  },
+  {
+    "q": "Ŝi iris butikumi.",
+    "a": [
+      "ㅅㅎㅔ ㅎㅏㅅ ㄱㅗㄴㅔ ㅅㅎㅗㅍㅍㅣㄴㄱ."
+    ],
+    "t": "She has gone shopping."
+  },
+  {
+    "q": "Vi baldaŭ alkutimiĝos al japana manĝo.",
+    "a": [
+      "ㅠㅗㅜ 외ㅣㄸㄸ ㅅㅗㅗㄴ ㄱㅔㅌ ㅜㅅㅔㄷ ㅌㅗ ㅈㅏㅍㅏㄴㅔㅅㅔ ㄲㅗㅗㄷ."
+    ],
+    "t": "You will soon get used to Japanese food."
+  },
+  {
+    "q": "Bonvolu ne ridi pri mi.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㄷㅗㄴ'ㅌ ㄸㅏㅜㄱㅎ ㅏㅌ ㅁㅔ."
+    ],
+    "t": "Please don't laugh at me."
+  },
+  {
+    "q": "Li estas pli inteligenta ol ili.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅊㄸㅔㅆㅔㄹㅔㄹ ㅌㅎㅏㄴ ㅌㅎㅔㅠ ㅏㄹㅔ.",
+      "ㅎㅔ'ㅅ ㅅㅁㅏㄹㅌㅔㄹ ㅌㅎㅏㄴ ㅌㅎㅔㅠ ㅏㄹㅔ.",
+      "ㅎㅔ'ㅅ ㅅㅁㅏㄹㅌㅔㄹ ㅌㅎㅏㄴ ㅌㅎㅔㅁ.",
+      "ㅎㅔ'ㅅ ㅂㄹㅣㄱㅎㅌㅔㄹ ㅌㅎㅏㄴ ㅌㅎㅔㅠ ㅏㄹㅔ."
+    ],
+    "t": "He is cleverer than they are. | He's smarter than they are. | He's smarter than them. | He's brighter than they are."
+  },
+  {
+    "q": "Li estas granda kaj forta.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅌㅏㄸㄸ ㅏㄴㄷ ㅅㅌㄹㅗㄴㄱ.",
+      "ㅎㅔ'ㅅ ㅂㅣㄱ ㅏㄴㄷ ㅅㅌㄹㅗㄴㄱ."
+    ],
+    "t": "He is tall and strong. | He's big and strong."
+  },
+  {
+    "q": "Mi ŝatus, ke ni estus gajnintaj la ludon.",
+    "a": [
+      "ㅣ 외ㅣㅅㅎ 외ㅔ ㅎㅏㄷ 외ㅗㄴ ㅌㅎㅔ ㄱㅏㅁㅔ."
+    ],
+    "t": "I wish we had won the game."
+  },
+  {
+    "q": "Ni estis en danĝero perdi la vivon.",
+    "a": [
+      "외ㅔ 외ㅔㄹㅔ ㅣㄴ ㄷㅏㄴㄱㅔㄹ ㅗㄲ ㄸㅗㅅㅣㄴㄱ ㅗㅜㄹ ㄸㅣㅆㅔㅅ."
+    ],
+    "t": "We were in danger of losing our lives."
+  },
+  {
+    "q": "Tio ne funkcios!",
+    "a": [
+      "ㅌㅎㅏㅌ 외ㅗㄴ'ㅌ 외ㅗㄹㅋ!"
+    ],
+    "t": "That won't work!"
+  },
+  {
+    "q": "Ĝinzoj estas nun laŭmodaj ĉe knabinoj.",
+    "a": [
+      "ㅈㅔㅏㄴㅅ ㅏㄹㅔ ㄴㅗ외 ㅣㄴ ㄲㅏㅅㅎㅣㅗㄴ ㅏㅁㅗㄴㄱ ㄱㅣㄹㄸㅅ."
+    ],
+    "t": "Jeans are now in fashion among girls."
+  },
+  {
+    "q": "Pluvis multe en la pasinta monato.",
+    "a": [
+      "외ㅔ ㅎㅏㄷ ㅏ ㄸㅗㅌ ㅗㄲ ㄹㅏㅣㄴ ㄸㅏㅅㅌ ㅁㅗㄴㅌㅎ."
+    ],
+    "t": "We had a lot of rain last month."
+  },
+  {
+    "q": "Ŝi havas multan laboron por fari.",
+    "a": [
+      "ㅅㅎㅔ ㅎㅏㅅ ㅏ ㄸㅗㅌ ㅗㄲ 외ㅗㄹㅋ ㅌㅗ ㄷㅗ.",
+      "ㅅㅎㅔ ㅎㅏㅅ ㅍㄸㅔㄴㅌㅠ ㅗㄲ 외ㅗㄹㅋ ㅌㅗ ㄷㅗ."
+    ],
+    "t": "She has a lot of work to do. | She has plenty of work to do."
+  },
+  {
+    "q": "Ni havas du filinojn.",
+    "a": [
+      "외ㅔ ㅎㅏㅆㅔ ㅌ외ㅗ ㄷㅏㅜㄱㅎㅌㅔㄹㅅ."
+    ],
+    "t": "We have two daughters."
+  },
+  {
+    "q": "La virino observas kaj la viro pensas.",
+    "a": [
+      "ㅌㅎㅔ 외ㅗㅁㅏㄴ ㅗㅂㅅㅔㄹㅆㅔㅅ ㅏㄴㄷ ㅌㅎㅔ ㅁㅏㄴ ㅌㅎㅣㄴㅋㅅ."
+    ],
+    "t": "The woman observes and the man thinks."
+  },
+  {
+    "q": "Mi povas veni morgaŭ.",
+    "a": [
+      "ㅣ ㅊㅏㄴ ㅊㅗㅁㅔ ㅌㅗㅁㅗㄹㄹㅗ외."
+    ],
+    "t": "I can come tomorrow."
+  },
+  {
+    "q": "Mia nomo estas Hashimoto.",
+    "a": [
+      "ㅁㅠ ㄴㅏㅁㅔ ㅣㅅ ㅎㅏㅅㅎㅣㅁㅗㅌㅗ."
+    ],
+    "t": "My name is Hashimoto."
+  },
+  {
+    "q": "Kiom longe daŭros la flugo?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ 외ㅣㄸㄸ ㅌㅎㅔ ㄲㄸㅣㄱㅎㅌ ㅌㅣㅁㅔ ㅂㅔ?"
+    ],
+    "t": "How long will the flight time be?"
+  },
+  {
+    "q": "Dick ludis pianon kaj Lucy kantis.",
+    "a": [
+      "ㄷㅣㅊㅋ ㅍㄸㅏㅠㅔㄷ ㅌㅎㅔ ㅍㅣㅏㄴㅗ ㅏㄴㄷ ㄸㅜㅊㅠ ㅅㅏㄴㄱ.",
+      "ㄷㅣㅊㅋ ㅍㄸㅏㅠㅔㄷ ㅍㅣㅏㄴㅗ ㅏㄴㄷ ㄸㅜㅊㅠ ㅅㅏㄴㄱ."
+    ],
+    "t": "Dick played the piano and Lucy sang. | Dick played piano and Lucy sang."
+  },
+  {
+    "q": "Li perdis la intereson pri politiko.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅ ㄸㅗㅅㅌ ㅣㄴㅌㅔㄹㅔㅅㅌ ㅣㄴ ㅍㅗㄸㅣㅌㅣㅊㅅ."
+    ],
+    "t": "He has lost interest in politics."
+  },
+  {
+    "q": "Li hastis el la oficejo.",
+    "a": [
+      "ㅎㅔ ㄹㅜㅅㅎㅔㄷ ㅗㅜㅌ ㅗㄲ ㅌㅎㅔ ㅗㄲㄲㅣㅊㅔ."
+    ],
+    "t": "He rushed out of the office."
+  },
+  {
+    "q": "Via amikeco signifas multon al mi.",
+    "a": [
+      "ㅠㅗㅜㄹ ㄲㄹㅣㅔㄴㄷㅅㅎㅣㅍ ㅁㅔㅏㄴㅅ ㅁㅜㅊㅎ ㅌㅗ ㅁㅔ.",
+      "ㅠㅗㅜㄹ ㄲㄹㅣㅔㄴㄷㅅㅎㅣㅍ ㅁㅔㅏㄴㅅ ㅏ ㄸㅗㅌ ㅌㅗ ㅁㅔ."
+    ],
+    "t": "Your friendship means much to me. | Your friendship means a lot to me."
+  },
+  {
+    "q": "Li estas vere tre inteligenta.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅆㅔㄹㅠ ㅊㄸㅔㅆㅔㄹ ㅣㄴㄷㅔㅔㄷ."
+    ],
+    "t": "He is very clever indeed."
+  },
+  {
+    "q": "Ĝis la revido!",
+    "a": [
+      "ㅅㅔㅔ ㅠㅗㅜ ㅏㄱㅏㅣㄴ.",
+      "ㅅㅔㅔ ㅠㅗㅜ ㅏㄹㅗㅜㄴㄷ.",
+      "ㄱㅗㅗㄷ-ㅂㅠㅔ!",
+      "ㄱㅗㅗㄷㅂㅠㅔ!",
+      "ㅣ'ㄸㄸ ㅅㅔㅔ ㅠㅗㅜ ㄸㅏㅌㅔㄹ.",
+      "ㅅㅔㅔ ㅠㅗㅜ ㄴㅔㅉㅌ ㅌㅣㅁㅔ!"
+    ],
+    "t": "See you again. | See you around. | Good-bye! | Goodbye! | I'll see you later. | See you next time!"
+  },
+  {
+    "q": "Bonan nokton.",
+    "a": [
+      "ㄱㅗㅗㄷㄴㅣㄱㅎㅌ!",
+      "ㄱㅗㅗㄷ ㄴㅣㄱㅎㅌ.",
+      "ㄱㅗㅗㄷ ㄴㅣㄱㅎㅌ!",
+      "ㄱㅗㅗㄷㄴㅣㄱㅎㅌ."
+    ],
+    "t": "Goodnight! | Good night. | Good night! | Goodnight."
+  },
+  {
+    "q": "Ĉu vi volas ion?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ 외ㅏㄴㅌ ㅏㄴㅠㅌㅎㅣㄴㄱ?"
+    ],
+    "t": "Do you want anything?"
+  },
+  {
+    "q": "Kiom da tempo vi intencas resti ĉi tie?",
+    "a": [
+      "ㅎㅗ외 ㄸㅗㄴㄱ ㄷㅗ ㅠㅗㅜ ㅍㄸㅏㄴ ㅗㄴ ㅅㅌㅏㅠㅣㄴㄱ ㅎㅔㄹㅔ?"
+    ],
+    "t": "How long do you plan on staying here?"
+  },
+  {
+    "q": "Ŝi vidis sin en la spegulo.",
+    "a": [
+      "ㅅㅎㅔ ㅅㅏ외 ㅎㅔㄹㅅㅔㄸㄲ ㅣㄴ ㅌㅎㅔ ㅁㅣㄹㄹㅗㄹ."
+    ],
+    "t": "She saw herself in the mirror."
+  },
+  {
+    "q": "Mi havas ion por doni al vi.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅅㅗㅁㅔㅌㅎㅣㄴㄱ ㅌㅗ ㄱㅣㅆㅔ ㅠㅗㅜ."
+    ],
+    "t": "I have something to give you."
+  },
+  {
+    "q": "Por esti sincera, mi ne amas lin.",
+    "a": [
+      "ㅌㅗ ㅌㅔㄸㄸ ㅠㅗㅜ ㅌㅎㅔ ㅌㄹㅜㅌㅎ, ㅣ ㄷㅗㄴ'ㅌ ㄸㅗㅆㅔ ㅎㅣㅁ."
+    ],
+    "t": "To tell you the truth, I don't love him."
+  },
+  {
+    "q": "Oliver ludis la rolon de Hamleto.",
+    "a": [
+      "ㅗㄸㅣㅆㅣㅔㄹ ㅏㅊㅌㅔㄷ ㅌㅎㅔ ㅍㅏㄹㅌ ㅗㄲ ㅎㅏㅁㄸㅔㅌ."
+    ],
+    "t": "Olivier acted the part of Hamlet."
+  },
+  {
+    "q": "Oni ne biciklu sur la trotuaro.",
+    "a": [
+      "ㅗㄴㅔ ㅅㅎㅗㅜㄸㄷㄴ'ㅌ ㄹㅣㄷㅔ ㅏ ㅂㅣㅊㅠㅊㄸㅔ ㅗㄴ ㅌㅎㅔ ㅍㅏㅆㅔㅁㅔㄴㅌ."
+    ],
+    "t": "One shouldn't ride a bicycle on the pavement."
+  },
+  {
+    "q": "Mi flugos al Ameriko.",
+    "a": [
+      "ㅣ ㅏㅁ ㄱㅗㅣㄴㄱ ㅌㅗ ㅏㅁㅔㄹㅣㅊㅏ ㅂㅠ ㅍㄸㅏㄴㅔ."
+    ],
+    "t": "I am going to America by plane."
+  },
+  {
+    "q": "Ne eblas al mi klarigi ĝin al vi.",
+    "a": [
+      "ㅣㅌ'ㅅ ㅣㅁㅍㅗㅅㅅㅣㅂㄸㅔ ㄲㅗㄹ ㅁㅔ ㅌㅗ ㅔㅉㅍㄸㅏㅣㄴ ㅣㅌ ㅌㅗ ㅠㅗㅜ."
+    ],
+    "t": "It's impossible for me to explain it to you."
+  },
+  {
+    "q": "Ĉu vi vere kredas je fantomoj?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㄹㅔㅏㄸㄸㅠ ㅂㅔㄸㅣㅔㅆㅔ ㅣㄴ ㄱㅎㅗㅅㅌㅅ?"
+    ],
+    "t": "Do you really believe in ghosts?"
+  },
+  {
+    "q": "Multaj homoj kredas, ke mi estas freneza.",
+    "a": [
+      "ㅁㅏㄴㅠ ㅍㅔㅗㅍㄸㅔ ㅌㅎㅣㄴㅋ ㅣ'ㅁ ㅊㄹㅏㅐㅠ."
+    ],
+    "t": "Many people think I'm crazy."
+  },
+  {
+    "q": "Ni estas frato kaj fratino.",
+    "a": [
+      "외ㅔ ㅏㄹㅔ ㅂㄹㅗㅌㅎㅔㄹ ㅏㄴㄷ ㅅㅣㅅㅌㅔㄹ.",
+      "외ㅔ'ㄹㅔ ㅂㄹㅗㅌㅎㅔㄹ ㅏㄴㄷ ㅅㅣㅅㅌㅔㄹ."
+    ],
+    "t": "We are brother and sister. | We're brother and sister."
+  },
+  {
+    "q": "Ŝparita speso estas impostita speso.",
+    "a": [
+      "ㅏ ㅍㅔㄴㄴㅠ ㅅㅏㅆㅔㄷ ㅣㅅ ㅏ ㅍㅔㄴㄴㅠ ㅌㅏㅉㅔㄷ."
+    ],
+    "t": "A penny saved is a penny taxed."
+  },
+  {
+    "q": "Hieraŭ mi aĉetis libron.",
+    "a": [
+      "ㅣ ㅂㅗㅜㄱㅎㅌ ㅏ ㅂㅗㅗㅋ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ.",
+      "ㅠㅔㅅㅌㅔㄹㄷㅏㅠ ㅣ ㅂㅗㅜㄱㅎㅌ ㅏ ㅂㅗㅗㅋ."
+    ],
+    "t": "I bought a book yesterday. | Yesterday I bought a book."
+  },
+  {
+    "q": "Antaŭ ol vi faros pacon kun tio, kio vi estas, vi neniam estos kontentaj per tio, kion vi havas.",
+    "a": [
+      "ㅜㄴㅌㅣㄸ ㅠㅗㅜ ㅁㅏㅋㅔ ㅍㅔㅏㅊㅔ 외ㅣㅌㅎ 외ㅎㅗ ㅠㅗㅜ ㅏㄹㅔ, ㅠㅗㅜ'ㄸㄸ ㄴㅔㅆㅔㄹ ㅂㅔ ㅊㅗㄴㅌㅔㄴㅌ 외ㅣㅌㅎ 외ㅎㅏㅌ ㅠㅗㅜ ㅎㅏㅆㅔ."
+    ],
+    "t": "Until you make peace with who you are, you'll never be content with what you have."
+  },
+  {
+    "q": "Rapidu aŭ vi malfruos.",
+    "a": [
+      "ㅎㅜㄹㄹㅠ ㅜㅍ, ㅗㄹ ㅠㅗㅜ 외ㅣㄸㄸ ㅂㅔ ㄸㅏㅌㅔ.",
+      "ㅎㅜㄹㄹㅠ ㅜㅍ, ㅗㄹ ㅠㅗㅜ'ㄸㄸ ㅂㅔ ㄸㅏㅌㅔ.",
+      "ㅎㅜㄹㄹㅠ ㅏㄸㅗㄴㄱ ㅗㄹ ㅠㅗㅜ'ㄸㄸ ㅂㅔ ㄸㅏㅌㅔ."
+    ],
+    "t": "Hurry up, or you will be late. | Hurry up, or you'll be late. | Hurry along or you'll be late."
+  },
+  {
+    "q": "John kaj Ann ŝatas unu la alian.",
+    "a": [
+      "ㅈㅗㅎㄴ ㅏㄴㄷ ㅏㄴㄴ ㄸㅣㅋㅔ ㅔㅏㅊㅎ ㅗㅌㅎㅔㄹ."
+    ],
+    "t": "John and Ann like each other."
+  },
+  {
+    "q": "Ĝis nun ili estis bonaj najbaroj.",
+    "a": [
+      "ㅌㅎㅔㅠ ㅎㅏㅆㅔ ㅂㅔㅔㄴ ㄱㅗㅗㄷ ㄴㅔㅣㄱㅎㅂㅗㄹㅅ ㅌㅗ ㅌㅎㅣㅅ ㄷㅏㅠ."
+    ],
+    "t": "They have been good neighbors to this day."
+  },
+  {
+    "q": "Estis mia vico purigi la ĉambron.",
+    "a": [
+      "ㅣㅌ 외ㅏㅅ ㅁㅠ ㅌㅜㄹㄴ ㅌㅗ ㅊㄸㅔㅏㄴ ㅌㅎㅔ ㄹㅗㅗㅁ."
+    ],
+    "t": "It was my turn to clean the room."
+  },
+  {
+    "q": "Li ĉiam estis afabla kun mi.",
+    "a": [
+      "ㅎㅔ'ㅅ ㅏㄸ외ㅏㅠㅅ ㅂㅔㅔㄴ ㅋㅣㄴㄷ ㅌㅗ ㅁㅔ."
+    ],
+    "t": "He's always been kind to me."
+  },
+  {
+    "q": "Komparu vian frazon kun tiu sur la tabulo.",
+    "a": [
+      "ㅊㅗㅁㅍㅏㄹㅔ ㅠㅗㅜㄹ ㅅㅔㄴㅌㅔㄴㅊㅔ 외ㅣㅌㅎ ㅌㅎㅔ ㅗㄴㅔ ㅗㄴ ㅌㅎㅔ ㅂㄸㅏㅊㅋㅂㅗㅏㄹㄷ."
+    ],
+    "t": "Compare your sentence with the one on the blackboard."
+  },
+  {
+    "q": "Estas multaj floroj en la ĝardeno.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ ㅏㄹㅔ ㅁㅏㄴㅠ ㄲㄸㅗ외ㅔㄹㅅ ㅣㄴ ㅌㅎㅔ ㄱㅏㄹㄷㅔㄴ."
+    ],
+    "t": "There are many flowers in the garden."
+  },
+  {
+    "q": "Mi facile trovis la libron, kvankam malhelis en la ĉambro.",
+    "a": [
+      "ㅣ ㄲㅗㅜㄴㄷ ㅌㅎㅔ ㅂㅗㅗㅋ ㅔㅏㅅㅣㄸㅠ ㅌㅎㅗㅜㄱㅎ ㅣㅌ 외ㅏㅅ ㄷㅏㄹㅋ ㅣㄴ ㅌㅎㅔ ㄹㅗㅗㅁ."
+    ],
+    "t": "I found the book easily though it was dark in the room."
+  },
+  {
+    "q": "Mi havas multajn florojn.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅏ ㄸㅗㅌ ㅗㄲ ㄲㄸㅗ외ㅔㄹㅅ."
+    ],
+    "t": "I have a lot of flowers."
+  },
+  {
+    "q": "Komputiloj estas daŭre plibonigataj.",
+    "a": [
+      "ㅊㅗㅁㅍㅜㅌㅔㄹㅅ ㅏㄹㅔ ㅊㅗㄴㅅㅌㅏㄴㅌㄸㅠ ㅂㅔㅣㄴㄱ ㅣㅁㅍㄹㅗㅆㅔㄷ."
+    ],
+    "t": "Computers are constantly being improved."
+  },
+  {
+    "q": "Paĉjo tradukis la germanan leteron en la japanan.",
+    "a": [
+      "ㄲㅏㅌㅎㅔㄹ ㅌㄹㅏㄴㅅㄸㅏㅌㅔㄷ ㅌㅎㅔ ㄱㅔㄹㅁㅏㄴ ㄸㅔㅌㅌㅔㄹ ㅣㄴㅌㅗ ㅈㅏㅍㅏㄴㅔㅅㅔ."
+    ],
+    "t": "Father translated the German letter into Japanese."
+  },
+  {
+    "q": "Ĉi-matene mi tranĉis min dum razado.",
+    "a": [
+      "ㅣ ㅊㅜㅌ ㅁㅠㅅㅔㄸㄲ ㅅㅎㅏㅆㅣㄴㄱ ㅌㅎㅣㅅ ㅁㅗㄹㄴㅣㄴㄱ."
+    ],
+    "t": "I cut myself shaving this morning."
+  },
+  {
+    "q": "Li diris: \"Lasu min trankvila!\"",
+    "a": [
+      "ㅎㅔ ㅅㅏㅣㄷ: \"ㄸㅔㅏㅆㅔ ㅁㅔ ㅏㄸㅗㄴㅔ!\"",
+      "ㅎㅔ ㅅㅏㅣㄷ: \"ㄸㅔㅏㅆㅔ ㅁㅔ ㅣㄴ ㅍㅔㅏㅊㅔ!\""
+    ],
+    "t": "He said: \"Leave me alone!\" | He said: \"Leave me in peace!\""
+  },
+  {
+    "q": "Vi tre mankas al ni.",
+    "a": [
+      "외ㅔ ㅁㅣㅅㅅ ㅠㅗㅜ ㅆㅔㄹㅠ ㅁㅜㅊㅎ.",
+      "외ㅔ ㅁㅣㅅㅅ ㅠㅗㅜ ㅏ ㄸㅗㅌ."
+    ],
+    "t": "We miss you very much. | We miss you a lot."
+  },
+  {
+    "q": "Bonvolu ne fari fotojn ĉi tie.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㄷㅗ ㄴㅗㅌ ㅌㅏㅋㅔ ㅍㅎㅗㅌㅗㅅ ㅎㅔㄹㅔ."
+    ],
+    "t": "Please do not take photos here."
+  },
+  {
+    "q": "Varmeco estas formo de energio.",
+    "a": [
+      "ㅎㅔㅏㅌ ㅣㅅ ㅏ ㄲㅗㄹㅁ ㅗㄲ ㅔㄴㅔㄹㄱㅠ."
+    ],
+    "t": "Heat is a form of energy."
+  },
+  {
+    "q": "Ne provu fari du aferojn samtempe.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅏㅌㅌㅔㅁㅍㅌ ㅌ외ㅗ ㅌㅎㅣㄴㄱㅅ ㅏㅌ ㅗㄴㅊㅔ.",
+      "ㄷㅗㄴ'ㅌ ㅌㄹㅠ ㅌㅗ ㄷㅗ ㅌ외ㅗ ㅌㅎㅣㄴㄱㅅ ㅏㅌ ㅏ ㅌㅣㅁㅔ.",
+      "ㄷㅗㄴ'ㅌ ㅌㄹㅠ ㅌㅗ ㄷㅗ ㅌ외ㅗ ㅌㅎㅣㄴㄱㅅ ㅏㅌ ㅌㅎㅔ ㅅㅏㅁㅔ ㅌㅣㅁㅔ."
+    ],
+    "t": "Don't attempt two things at once. | Don't try to do two things at a time. | Don't try to do two things at the same time."
+  },
+  {
+    "q": "Li dankis min pro la donaco.",
+    "a": [
+      "ㅎㅔ ㅌㅎㅏㄴㅋㅔㄷ ㅁㅔ ㄲㅗㄹ ㅌㅎㅔ ㄱㅣㄲㅌ."
+    ],
+    "t": "He thanked me for the gift."
+  },
+  {
+    "q": "Li ne estas poeto, sed romanverkisto.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㄴㅗㅌ ㅏ ㅍㅗㅔㅌ ㅂㅜㅌ ㅏ ㄴㅗㅆㅔㄸㅣㅅㅌ."
+    ],
+    "t": "He is not a poet but a novelist."
+  },
+  {
+    "q": "Ĉokolado gustas dolĉe.",
+    "a": [
+      "ㅊㅎㅗㅊㅗㄸㅏㅌㅔ ㅌㅏㅅㅌㅔㅅ ㅅ외ㅔㅔㅌ."
+    ],
+    "t": "Chocolate tastes sweet."
+  },
+  {
+    "q": "Post ni la diluvo.",
+    "a": [
+      "ㅏㄲㅌㅔㄹ ㅜㅅ, ㅌㅎㅔ ㄷㅔㄸㅜㄱㅔ."
+    ],
+    "t": "After us, the Deluge."
+  },
+  {
+    "q": "Ĉu vi konas lin?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅋㄴㅗ외 ㅎㅣㅁ?",
+      "ㄷㅗ ㅠㅗㅜ ㄱㅜㅠㅅ ㅋㄴㅗ외 ㅎㅣㅁ?"
+    ],
+    "t": "Do you know him? | Do you guys know him?"
+  },
+  {
+    "q": "Alvoku min tuj, kiam vi renkontis lin.",
+    "a": [
+      "ㅊㅏㄸㄸ ㅁㅔ ㅣㅁㅁㅔㄷㅣㅏㅌㅔㄸㅠ ㅏㄲㅌㅔㄹ ㅠㅗㅜ ㅁㅔㅔㅌ ㅎㅣㅁ."
+    ],
+    "t": "Call me immediately after you meet him."
+  },
+  {
+    "q": "Tiel li eskapis la danĝeron.",
+    "a": [
+      "ㅌㅎㅏㅌ ㅣㅅ ㅎㅗ외 ㅎㅔ ㄱㅗㅌ ㅗㅜㅌ ㅗㄲ ㄷㅏㄴㄱㅔㄹ."
+    ],
+    "t": "That is how he got out of danger."
+  },
+  {
+    "q": "Kion vi pli ŝatas, ĉu la someron aŭ ĉu la vintron?",
+    "a": [
+      "외ㅎㅣㅊㅎ ㄷㅗ ㅠㅗㅜ ㄸㅣㅋㅔ ㅂㅔㅌㅌㅔㄹ, ㅅㅜㅁㅁㅔㄹ ㅗㄹ 외ㅣㄴㅌㅔㄹ?"
+    ],
+    "t": "Which do you like better, summer or winter?"
+  },
+  {
+    "q": "Kia estis la vetero hieraŭ?",
+    "a": [
+      "외ㅎㅏㅌ 외ㅏㅅ ㅌㅎㅔ 외ㅔㅏㅌㅎㅔㄹ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ?",
+      "ㅎㅗ외 외ㅏㅅ ㅌㅎㅔ 외ㅔㅏㅌㅎㅔㄹ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ?",
+      "외ㅎㅏㅌ 외ㅏㅅ ㅌㅎㅔ 외ㅔㅏㅌㅎㅔㄹ ㄸㅣㅋㅔ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ?"
+    ],
+    "t": "What was the weather yesterday? | How was the weather yesterday? | What was the weather like yesterday?"
+  },
+  {
+    "q": "Li ne povis veni pro la malbona vetero.",
+    "a": [
+      "ㅂㅔㅊㅏㅜㅅㅔ ㅗㄲ ㅌㅎㅔ ㅂㅏㄷ 외ㅔㅏㅌㅎㅔㄹ, ㅎㅔ ㅊㅗㅜㄸㄷㄴ'ㅌ ㅊㅗㅁㅔ."
+    ],
+    "t": "Because of the bad weather, he couldn't come."
+  },
+  {
+    "q": "Provu esti pacienca kun aliaj.",
+    "a": [
+      "ㅌㄹㅠ ㅌㅗ ㅂㅔ ㅍㅏㅌㅣㅔㄴㅌ 외ㅣㅌㅎ ㅗㅌㅎㅔㄹㅅ."
+    ],
+    "t": "Try to be patient with others."
+  },
+  {
+    "q": "Ĉu vi televidas?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ 외ㅏㅌㅊㅎ ㅌㅔㄸㅔㅆㅣㅅㅣㅗㄴ?",
+      "ㄷㅗ ㅠㅗㅜ 외ㅏㅌㅊㅎ ㅌㅔㄸㄸㅠ?"
+    ],
+    "t": "Do you watch television? | Do you watch telly?"
+  },
+  {
+    "q": "Li timas la hundon.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅣㄴ ㄲㅔㅏㄹ ㅗㄲ ㅌㅎㅔ ㄷㅗㄱ.",
+      "ㅎㅔ ㅣㅅ ㅏㄲㄹㅏㅣㄷ ㅗㄲ ㅌㅎㅔ ㄷㅗㄱ."
+    ],
+    "t": "He is in fear of the dog. | He is afraid of the dog."
+  },
+  {
+    "q": "Kiel vi nomas tiun floron?",
+    "a": [
+      "외ㅎㅏㅌ ㄷㅗ ㅠㅗㅜ ㅊㅏㄸㄸ ㅌㅎㅣㅅ ㄲㄸㅗ외ㅔㄹ?"
+    ],
+    "t": "What do you call this flower?"
+  },
+  {
+    "q": "Estas mil filmoj, kiujn oni devas vidi antaŭ ol morti.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ ㅏㄹㅔ 1000 ㅁㅗㅆㅣㅔㅅ ㅌㅎㅏㅌ ㅗㄴㅔ ㅁㅜㅅㅌ 외ㅏㅌㅊㅎ ㅂㅔㄲㅗㄹㅔ ㄷㅠㅣㄴㄱ."
+    ],
+    "t": "There are 1000 movies that one must watch before dying."
+  },
+  {
+    "q": "Mi tre bedaŭras, sed ŝajne mi perdis vian pluvombrelon.",
+    "a": [
+      "ㅣ'ㅁ ㅆㅔㄹㅠ ㅅㅗㄹㄹㅠ, ㅂㅜㅌ ㅣ ㅅㅔㅔㅁ ㅌㅗ ㅎㅏㅆㅔ ㄸㅗㅅㅌ ㅠㅗㅜㄹ ㅜㅁㅂㄹㅔㄸㄸㅏ."
+    ],
+    "t": "I'm very sorry, but I seem to have lost your umbrella."
+  },
+  {
+    "q": "Ŝi estas tre ĉarma.",
+    "a": [
+      "ㅅㅎㅔ ㅣㅅ ㅆㅔㄹㅠ ㅊㅎㅏㄹㅁㅣㄴㄱ.",
+      "ㅅㅎㅔ'ㅅ ㅍㄹㅔㅌㅌㅠ ㅊㅜㅌㅔ.",
+      "ㅅㅎㅔ'ㅅ ㄹㅔㅏㄸ ㅊㅜㅌㅔ."
+    ],
+    "t": "She is very charming. | She's pretty cute. | She's real cute."
+  },
+  {
+    "q": "Mia edzino estas kuiranta nun.",
+    "a": [
+      "ㅁㅠ 외ㅣㄲㅔ ㅣㅅ ㅊㅗㅗㅋㅣㄴㄱ ㄹㅣㄱㅎㅌ ㄴㅗ외."
+    ],
+    "t": "My wife is cooking right now."
+  },
+  {
+    "q": "Tiu aviadilo ekflugos je la kvina.",
+    "a": [
+      "ㅌㅎㅏㅌ ㅍㄸㅏㄴㅔ 외ㅣㄸㄸ ㅌㅏㅋㅔ ㅗㄲㄲ ㅏㅌ ㄲㅣㅆㅔ."
+    ],
+    "t": "That plane will take off at five."
+  },
+  {
+    "q": "Ŝi malfermas la fenestron.",
+    "a": [
+      "ㅅㅎㅔ ㅗㅍㅔㄴㅅ ㅌㅎㅔ 외ㅣㄴㄷㅗ외.",
+      "ㅅㅎㅔ ㅣㅅ ㅗㅍㅔㄴㅣㄴㄱ ㅌㅎㅔ 외ㅣㄴㄷㅗ외."
+    ],
+    "t": "She opens the window. | She is opening the window."
+  },
+  {
+    "q": "Mi loĝas en apartamento.",
+    "a": [
+      "ㅣ ㄸㅣㅆㅔ ㅣㄴ ㅏㄴ ㅏㅍㅏㄹㅌㅁㅔㄴㅌ.",
+      "ㅣ ㄸㅣㅆㅔ ㅣㄴ ㅏ ㄲㄸㅏㅌ."
+    ],
+    "t": "I live in an apartment. | I live in a flat."
+  },
+  {
+    "q": "Mi estas okupita nun.",
+    "a": [
+      "ㅣ'ㅁ ㅂㅜㅅㅠ ㄴㅗ외."
+    ],
+    "t": "I'm busy now."
+  },
+  {
+    "q": "Jes, vi devas.",
+    "a": [
+      "ㅠㅔㅅ, ㅠㅗㅜ ㅁㅜㅅㅌ."
+    ],
+    "t": "Yes, you must."
+  },
+  {
+    "q": "Ĉu ŝi jam finis legi la libron?",
+    "a": [
+      "ㅎㅏㅅ ㅅㅎㅔ ㄲㅣㄴㅣㅅㅎㅔㄷ ㅌㅎㅔ ㅂㅗㅗㅋ ㅠㅔㅌ?"
+    ],
+    "t": "Has she finished the book yet?"
+  },
+  {
+    "q": "Mi laboras kun li.",
+    "a": [
+      "ㅣ 외ㅗㄹㅋ 외ㅣㅌㅎ ㅎㅣㅁ."
+    ],
+    "t": "I work with him."
+  },
+  {
+    "q": "Mi ŝatas neniun el la bildoj.",
+    "a": [
+      "ㅣ ㄸㅣㅋㅔ ㄴㅔㅣㅌㅎㅔㄹ ㅗㄲ ㅌㅎㅔ ㅍㅣㅊㅌㅜㄹㅔㅅ."
+    ],
+    "t": "I like neither of the pictures."
+  },
+  {
+    "q": "Tio estas malnova truko.",
+    "a": [
+      "ㅌㅎㅏㅌ'ㅅ ㅏㄴ ㅗㄸㄷ ㅌㄹㅣㅊㅋ."
+    ],
+    "t": "That's an old trick."
+  },
+  {
+    "q": "Kiu metroo veturas en la urbocentron?",
+    "a": [
+      "외ㅎㅏㅌ ㅅㅜㅂ외ㅏㅠ ㄱㅗㅔㅅ ㅌㅗ ㅌㅎㅔ ㅊㅔㄴㅌㅔㄹ ㅗㄲ ㅌㅗ외ㄴ?"
+    ],
+    "t": "What subway goes to the center of town?"
+  },
+  {
+    "q": "Ĉu vi volas esti riĉa?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ 외ㅏㄴㅌ ㅌㅗ ㅂㅔ ㄹㅣㅊㅎ?"
+    ],
+    "t": "Do you want to be rich?"
+  },
+  {
+    "q": "Bonvolu alporti tason da teo.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㅂㄹㅣㄴㄱ ㅏ ㅊㅜㅍ ㅗㄲ ㅌㅔㅏ ㅌㅗ ㅁㅔ."
+    ],
+    "t": "Please bring a cup of tea to me."
+  },
+  {
+    "q": "Ĉu via horloĝo funkcias akurate?",
+    "a": [
+      "ㅣㅅ ㅠㅗㅜㄹ 외ㅏㅌㅊㅎ ㅊㅗㄹㄹㅔㅊㅌ?",
+      "ㅣㅅ ㅠㅗㅜㄹ ㅊㄸㅗㅊㅋ ㅋㅔㅔㅍㅣㄴㄱ ㅏㅊㅊㅜㄹㅏㅌㅔ ㅌㅣㅁㅔ?"
+    ],
+    "t": "Is your watch correct? | Is your clock keeping accurate time?"
+  },
+  {
+    "q": "Lia patrino havis tri filojn, el kiuj li estis la plej juna.",
+    "a": [
+      "ㅎㅣㅅ ㅁㅗㅌㅎㅔㄹ ㅎㅏㄷ ㅌㅎㄹㅔㅔ ㅅㅗㄴㅅ, ㅗㄲ 외ㅎㅗㅁ ㅎㅔ 외ㅏㅅ ㅌㅎㅔ ㅠㅗㅜㄴㄱㅔㅅㅌ."
+    ],
+    "t": "His mother had three sons, of whom he was the youngest."
+  },
+  {
+    "q": "Ĉu vi volas lasi mesaĝon?",
+    "a": [
+      "외ㅗㅜㄸㄷ ㅠㅗㅜ ㄸㅣㅋㅔ ㅌㅗ ㄸㅔㅏㅆㅔ ㅏ ㅁㅔㅅㅅㅏㄱㅔ?"
+    ],
+    "t": "Would you like to leave a message?"
+  },
+  {
+    "q": "La homo estas la sola animalo, kiu povas uzi fajron.",
+    "a": [
+      "ㅁㅏㄴ ㅣㅅ ㅌㅎㅔ ㅗㄴㄸㅠ ㅏㄴㅣㅁㅏㄸ ㅌㅎㅏㅌ ㅊㅏㄴ ㅁㅏㅋㅔ ㅜㅅㅔ ㅗㄲ ㄲㅣㄹㅔ.",
+      "ㅁㅏㄴ ㅣㅅ ㅌㅎㅔ ㅗㄴㄸㅠ ㄲㅣㄹㅔ-ㅜㅅㅣㄴㄱ ㅏㄴㅣㅁㅏㄸ."
+    ],
+    "t": "Man is the only animal that can make use of fire. | Man is the only fire-using animal."
+  },
+  {
+    "q": "Mi ne povas ĉeesti la kunvenon.",
+    "a": [
+      "ㅣ ㅊㅏㄴ'ㅌ ㅏㅌㅌㅔㄴㄷ ㅌㅎㅔ ㅁㅔㅔㅌㅣㄴㄱ."
+    ],
+    "t": "I can't attend the meeting."
+  },
+  {
+    "q": "Ĉu vi havas ajnan konsilon por mi?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ ㅏㄴㅠ ㅏㄷㅆㅣㅊㅔ ㄲㅗㄹ ㅁㅔ?"
+    ],
+    "t": "Do you have any advice for me?"
+  },
+  {
+    "q": "Li estas inteligenta knabo.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅏㄴ ㅣㄴㅌㅔㄸㄸㅣㄱㅔㄴㅌ ㅂㅗㅠ.",
+      "ㅎㅔ ㅣㅅ ㅏ ㅅㅁㅏㄹㅌ ㅂㅗㅠ.",
+      "ㅎㅔ ㅣㅅ ㅏ ㅊㄸㅔㅆㅔㄹ ㅂㅗㅠ.",
+      "ㅎㅔ'ㅅ ㅏ ㅅㅁㅏㄹㅌ ㅂㅗㅠ."
+    ],
+    "t": "He is an intelligent boy. | He is a smart boy. | He is a clever boy. | He's a smart boy."
+  },
+  {
+    "q": "Li stariĝis.",
+    "a": [
+      "ㅎㅔ ㅅㅌㅗㅗㄷ ㅜㅍ."
+    ],
+    "t": "He stood up."
+  },
+  {
+    "q": "Ni iras al la lernejo por lerni.",
+    "a": [
+      "외ㅔ ㄱㅗ ㅌㅗ ㅅㅊㅎㅗㅗㄸ ㅌㅗ ㄸㅔㅏㄹㄴ.",
+      "외ㅔ ㄱㅗ ㅌㅗ ㅅㅊㅎㅗㅗㄸ ㅌㅗ ㅅㅌㅜㄷㅠ."
+    ],
+    "t": "We go to school to learn. | We go to school to study."
+  },
+  {
+    "q": "Pomo falis sur la grundon.",
+    "a": [
+      "ㅏㄴ ㅏㅍㅍㄸㅔ ㄲㅔㄸㄸ ㅗㄴ ㅌㅎㅔ ㄱㄹㅗㅜㄴㄷ."
+    ],
+    "t": "An apple fell on the ground."
+  },
+  {
+    "q": "Li kaptis la ŝnuron per ambaŭ manoj.",
+    "a": [
+      "ㅎㅔ ㄱㄹㅏㅅㅍㅔㄷ ㅌㅎㅔ ㄹㅗㅍㅔ 외ㅣㅌㅎ ㅌ외ㅗ ㅎㅏㄴㄷㅅ."
+    ],
+    "t": "He grasped the rope with two hands."
+  },
+  {
+    "q": "Li respondis al siaj gepatroj.",
+    "a": [
+      "ㅎㅔ ㄹㅔㅍㄸㅣㅔㄷ ㅌㅗ ㅎㅣㅅ ㅍㅏㄹㅔㄴㅌㅅ."
+    ],
+    "t": "He replied to his parents."
+  },
+  {
+    "q": "Mi manĝas pomon.",
+    "a": [
+      "ㅣ ㅏㅁ ㅔㅏㅌㅣㄴㄱ ㅏㄴ ㅏㅍㅍㄸㅔ.",
+      "ㅣ ㅔㅏㅌ ㅏㄴ ㅏㅍㅍㄸㅔ.",
+      "ㅣ'ㅁ ㅔㅏㅌㅣㄴㄱ ㅏㄴ ㅏㅍㅍㄸㅔ."
+    ],
+    "t": "I am eating an apple. | I eat an apple. | I'm eating an apple."
+  },
+  {
+    "q": "Li estas bona oratoro.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅏ ㄱㅗㅗㄷ ㅅㅍㅔㅏㅋㅔㄹ."
+    ],
+    "t": "He is a good speaker."
+  },
+  {
+    "q": "En tiu ĉi lando estas kvar sezonoj.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅊㅗㅜㄴㅌㄹㅠ ㅎㅏㅅ ㄲㅗㅜㄹ ㅅㅔㅏㅅㅗㄴㅅ.",
+      "ㅌㅎㅔㄹㅔ ㅏㄹㅔ ㄲㅗㅜㄹ ㅅㅔㅏㅅㅗㄴㅅ ㅣㄴ ㅌㅎㅣㅅ ㅊㅗㅜㄴㅌㄹㅠ."
+    ],
+    "t": "This country has four seasons. | There are four seasons in this country."
+  },
+  {
+    "q": "Ĉu vi sciis, ke kelkaj vulpoj vivis sur tiu monto?",
+    "a": [
+      "ㄷㅣㄷ ㅠㅗㅜ ㅋㄴㅗ외 ㅌㅎㅏㅌ ㅅㅗㅁㅔ ㄲㅗㅉㅔㅅ ㄸㅣㅆㅔㄷ ㅗㄴ ㅌㅎㅣㅅ ㅁㅗㅜㄴㅌㅏㅣㄴ?",
+      "ㄷㅣㄷ ㅠㅗㅜ ㅋㄴㅗ외 ㅌㅎㅔㄹㅔ 외ㅔㄹㅔ ㅏ ㄲㅔ외 ㄲㅗㅉㅔㅅ ㄸㅣㅆㅣㄴㄱ ㅗㄴ ㅌㅎㅣㅅ ㅁㅗㅜㄴㅌㅏㅣㄴ?"
+    ],
+    "t": "Did you know that some foxes lived on this mountain? | Did you know there were a few foxes living on this mountain?"
+  },
+  {
+    "q": "Mi alvenis al la stacidomo ĉi-matene.",
+    "a": [
+      "ㅣ ㄱㅗㅌ ㅌㅗ ㅌㅎㅔ ㅅㅌㅏㅌㅣㅗㄴ ㅌㅎㅣㅅ ㅁㅗㄹㄴㅣㄴㄱ."
+    ],
+    "t": "I got to the station this morning."
+  },
+  {
+    "q": "Ĉu vi scias, kiu rigardas tiun bildon?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅋㄴㅗ외 외ㅎㅗ ㅣㅅ ㄸㅗㅗㅋㅣㄴㄱ ㅏㅌ ㅌㅎㅏㅌ ㅍㅣㅊㅌㅜㄹㅔ?"
+    ],
+    "t": "Do you know who is looking at that picture?"
+  },
+  {
+    "q": "\"Kiel vi fartas?\" \"Mi fartas bone, dankon.\"",
+    "a": [
+      "\"ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ?\" \"ㅣ ㅏㅁ ㄲㅣㄴㅔ, ㅌㅎㅏㄴㅋ ㅠㅗㅜ.\"",
+      "\"ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ?\" \"ㅣ'ㅁ ㄲㅣㄴㅔ, ㅌㅎㅏㄴㅋㅅ.\"",
+      "\"ㅎㅗ외 ㅏㄹㅔ ㅠㅗㅜ?\" \"ㅣ'ㅁ ㄲㅣㄴㅔ, ㅌㅎㅏㄴㅋ ㅠㅗㅜ.\""
+    ],
+    "t": "\"How are you?\" \"I am fine, thank you.\" | \"How are you?\" \"I'm fine, thanks.\" | \"How are you?\" \"I'm fine, thank you.\""
+  },
+  {
+    "q": "Li ne estas usonano.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㄴㅗㅌ ㅏㄴ ㅏㅁㅔㄹㅣㅊㅏㄴ.",
+      "ㅎㅔ ㅣㅅㄴ'ㅌ ㅏㄴ ㅏㅁㅔㄹㅣㅊㅏㄴ."
+    ],
+    "t": "He is not an American. | He isn't an American."
+  },
+  {
+    "q": "Demandu al li, ĉu ili ankoraŭ vivas en Tokio.",
+    "a": [
+      "ㅏㅅㅋ ㅎㅣㅁ 외ㅎㅔㅌㅎㅔㄹ ㅌㅎㅔㅠ ㅅㅌㅣㄸㄸ ㄸㅣㅆㅔ ㅣㄴ ㅌㅗㅋㅠㅗ."
+    ],
+    "t": "Ask him whether they still live in Tokyo."
+  },
+  {
+    "q": "Ridu kun ili.",
+    "a": [
+      "ㄸㅏㅜㄱㅎ 외ㅣㅌㅎ ㅌㅎㅔㅁ."
+    ],
+    "t": "Laugh with them."
+  },
+  {
+    "q": "La venonta koncerto okazos en Junio.",
+    "a": [
+      "ㅌㅎㅔ ㄴㅔㅉㅌ ㅊㅗㄴㅊㅔㄹㅌ 외ㅣㄸㄸ ㅌㅏㅋㅔ ㅍㄸㅏㅊㅔ ㅣㄴ ㅈㅜㄴㅔ."
+    ],
+    "t": "The next concert will take place in June."
+  },
+  {
+    "q": "Ĉiu volas esti feliĉa.",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅂㅗㄷㅠ 외ㅏㄴㅌㅅ ㅌㅗ ㅂㅔ ㅎㅏㅍㅍㅠ."
+    ],
+    "t": "Everybody wants to be happy."
+  },
+  {
+    "q": "Mi nenie ilin vidis.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔㄴ'ㅌ ㅅㅔㅔㄴ ㅌㅎㅔㅁ ㅏㄴㅠ외ㅎㅔㄹㅔ."
+    ],
+    "t": "I haven't seen them anywhere."
+  },
+  {
+    "q": "Ĉu ili loĝis ĉi tie?",
+    "a": [
+      "ㄷㅣㄷ ㅌㅎㅔㅠ ㄸㅣㅆㅔ ㅎㅔㄹㅔ?"
+    ],
+    "t": "Did they live here?"
+  },
+  {
+    "q": "Amu viajn samklasanojn! Amu viajn gepatrojn! Amu vian landon!",
+    "a": [
+      "ㅎㅏㅆㅔ ㄸㅗㅆㅔ ㄲㅗㄹ ㅠㅗㅜㄹ ㅊㄸㅏㅅㅅㅁㅏㅌㅔㅅ! ㅎㅏㅆㅔ ㄸㅗㅆㅔ ㄲㅗㄹ ㅠㅗㅜㄹ ㅍㅏㄹㅔㄴㅌㅅ! ㅎㅏㅆㅔ ㄸㅗㅆㅔ ㄲㅗㄹ ㅠㅗㅜㄹ ㅊㅗㅜㄴㅌㄹㅠ!",
+      "ㄸㅗㅆㅔ ㅠㅗㅜㄹ ㅊㄸㅏㅅㅅㅁㅏㅌㅔㅅ! ㄸㅗㅆㅔ ㅠㅗㅜㄹ ㅍㅏㄹㅔㄴㅌㅅ! ㄸㅗㅆㅔ ㅠㅗㅜㄹ ㅊㅗㅜㄴㅌㄹㅠ!"
+    ],
+    "t": "Have love for your classmates! Have love for your parents! Have love for your country! | Love your classmates! Love your parents! Love your country!"
+  },
+  {
+    "q": "Mi ne vidas lin.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅅㅔㅔ ㅎㅣㅁ."
+    ],
+    "t": "I don't see him."
+  },
+  {
+    "q": "Mi amas vin pli multe ol vi amas min.",
+    "a": [
+      "ㅣ ㄸㅗㅆㅔ ㅠㅗㅜ ㅁㅗㄹㅔ ㅌㅎㅏㄴ ㅠㅗㅜ ㄸㅗㅆㅔ ㅁㅔ."
+    ],
+    "t": "I love you more than you love me."
+  },
+  {
+    "q": "Amu min iomete, amu min longe.",
+    "a": [
+      "ㄸㅗㅆㅔ ㅁㅔ ㄸㅣㅌㅌㄸㅔ, ㄸㅗㅆㅔ ㅁㅔ ㄸㅗㄴㄱ."
+    ],
+    "t": "Love me little, love me long."
+  },
+  {
+    "q": "Estas facile ami, sed malfacile esti amata.",
+    "a": [
+      "ㅣㅌ ㅣㅅ ㅔㅏㅅㅠ ㅌㅗ ㄸㅗㅆㅔ, ㅂㅜㅌ ㅎㅏㄹㄷ ㅌㅗ ㅂㅔ ㄸㅗㅆㅔㄷ."
+    ],
+    "t": "It is easy to love, but hard to be loved."
+  },
+  {
+    "q": "Ami kaj esti amata estas la plej granda feliĉo.",
+    "a": [
+      "ㅌㅗ ㄸㅗㅆㅔ ㅏㄴㄷ ㅌㅗ ㅂㅔ ㄸㅗㅆㅔㄷ ㅣㅅ ㅌㅎㅔ ㄱㄹㅔㅏㅌㅔㅅㅌ ㅎㅏㅍㅍㅣㄴㅔㅅㅅ."
+    ],
+    "t": "To love and to be loved is the greatest happiness."
+  },
+  {
+    "q": "La knabo, kiun mi amas, ne amas min.",
+    "a": [
+      "ㅌㅎㅔ ㅂㅗㅠ ㅣ ㄸㅗㅆㅔ ㄷㅗㅔㅅㄴ'ㅌ ㄸㅗㅆㅔ ㅁㅔ.",
+      "ㅌㅎㅔ ㅂㅗㅠ ㅣ ㄸㅗㅆㅔ ㄷㅗㅔㅅㄴ'ㅌ ㄸㅗㅆㅔ ㅁㅔ ㅂㅏㅊㅋ."
+    ],
+    "t": "The boy I love doesn't love me. | The boy I love doesn't love me back."
+  },
+  {
+    "q": "Mi ne havas tre bonan vortaron.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅎㅏㅆㅔ ㅏ ㅆㅔㄹㅠ ㄱㅗㅗㄷ ㄷㅣㅊㅌㅣㅗㄴㅏㄹㅠ."
+    ],
+    "t": "I don't have a very good dictionary."
+  },
+  {
+    "q": "Bonvolu.",
+    "a": [
+      "ㅂㅠ ㅏㄸㄸ ㅁㅔㅏㄴㅅ.",
+      "ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "By all means. | Please."
+  },
+  {
+    "q": "Ĉiuj amas ŝin.",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅂㅗㄷㅠ ㄸㅗㅆㅔㅅ ㅎㅔㄹ."
+    ],
+    "t": "Everybody loves her."
+  },
+  {
+    "q": "Ĉiuj amas ĝin.",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅂㅗㄷㅠ ㄸㅗㅆㅔㅅ ㅣㅌ."
+    ],
+    "t": "Everybody loves it."
+  },
+  {
+    "q": "Li malsukcesis pro manko de mono.",
+    "a": [
+      "ㅎㅔ ㄲㅏㅣㄸㅔㄷ, ㄷㅜㅔ ㅌㅗ ㄸㅏㅊㅋ ㅗㄲ ㅁㅗㄴㅔㅠ."
+    ],
+    "t": "He failed, due to lack of money."
+  },
+  {
+    "q": "Sinjoro Crouch, kion vi faras?",
+    "a": [
+      "ㅁㄹ ㅊㄹㅗㅜㅊㅎ, 외ㅎㅏㅌ ㄷㅗ ㅠㅗㅜ ㄷㅗ?",
+      "ㅁㄹ. ㅊㄹㅗㅜㅊㅎ, 외ㅎㅏㅌ ㅏㄹㅔ ㅠㅗㅜ ㄷㅗㅣㄴㄱ?"
+    ],
+    "t": "Mr Crouch, what do you do? | Mr. Crouch, what are you doing?"
+  },
+  {
+    "q": "Bonan ŝancon!",
+    "a": [
+      "ㅣ 외ㅣㅅㅎ ㅠㅗㅜ ㄱㅗㅗㄷ ㄸㅜㅊㅋ.",
+      "ㄱㅗㅗㄷ ㄸㅜㅊㅋ ㅌㅗ ㅠㅗㅜ!",
+      "ㄱㅗㅗㄷ ㄸㅜㅊㅋ.",
+      "ㄱㅗㅗㄷ ㄸㅜㅊㅋ!",
+      "ㅣ 외ㅣㅅㅎ ㅠㅗㅜ ㄸㅜㅊㅋ."
+    ],
+    "t": "I wish you good luck. | Good luck to you! | Good luck. | Good luck! | I wish you luck."
+  },
+  {
+    "q": "Hodiaŭ estas la dek-oka de junio kaj la naskiĝtago de Muiriel.",
+    "a": [
+      "ㅌㅗㄷㅏㅠ ㅣㅅ ㅈㅜㄴㅔ 18ㅌㅎ ㅏㄴㄷ ㅣㅌ ㅣㅅ ㅁㅜㅣㄹㅣㅔㄸ'ㅅ ㅂㅣㄹㅌㅎㄷㅏㅠ!"
+    ],
+    "t": "Today is June 18th and it is Muiriel's birthday!"
+  },
+  {
+    "q": "Kial diable vi vendis vian nove konstruitan domon?",
+    "a": [
+      "외ㅎㅠ ㅗㄴ ㅔㅏㄹㅌㅎ ㄷㅣㄷ ㅠㅗㅜ ㅅㅔㄸㄸ ㅠㅗㅜㄹ ㄴㅔ외ㄸㅠ ㅂㅜㅣㄸㅌ ㅎㅗㅜㅅㅔ?"
+    ],
+    "t": "Why on earth did you sell your newly built house?"
+  },
+  {
+    "q": "Bonvolu montri al mi vian pasporton.",
+    "a": [
+      "외ㅣㄸㄸ ㅠㅗㅜ ㅅㅎㅗ외 ㅁㅔ ㅠㅗㅜㄹ ㅍㅏㅅㅅㅍㅗㄹㅌ, ㅍㄸㅔㅏㅅㅔ?",
+      "ㅅㅎㅗ외 ㅁㅔ ㅠㅗㅜㄹ ㅍㅏㅅㅅㅍㅗㄹㅌ, ㅍㄸㅔㅏㅅㅔ.",
+      "ㅍㄸㅔㅏㅅㅔ ㅅㅎㅗ외 ㅁㅔ ㅠㅗㅜㄹ ㅍㅏㅅㅅㅍㅗㄹㅌ."
+    ],
+    "t": "Will you show me your passport, please? | Show me your passport, please. | Please show me your passport."
+  },
+  {
+    "q": "Vi pli bone fartas, ol mi.",
+    "a": [
+      "ㅠㅗㅜ'ㄹㅔ ㅣㄴ ㅂㅔㅌㅌㅔㄹ ㅅㅎㅏㅍㅔ ㅌㅎㅏㄴ ㅣ ㅏㅁ."
+    ],
+    "t": "You're in better shape than I am."
+  },
+  {
+    "q": "Mi estas tre danka al vi pro via konsilo.",
+    "a": [
+      "ㅣ ㅏㅁ ㅆㅔㄹㅠ ㅌㅎㅏㄴㅋㄲㅜㄸ ㅌㅗ ㅠㅗㅜ ㄲㅗㄹ ㅠㅗㅜㄹ ㅏㄷㅆㅣㅊㅔ."
+    ],
+    "t": "I am very thankful to you for your advice."
+  },
+  {
+    "q": "Tio kostos tridek eŭrojn.",
+    "a": [
+      "ㅌㅎㅣㅅ 외ㅣㄸㄸ ㅊㅗㅅㅌ €30.",
+      "ㅌㅎㅏㅌ 외ㅣㄸㄸ ㅊㅗㅅㅌ ㅌㅎㅣㄹㅌㅠ ㅔㅜㄹㅗㅅ."
+    ],
+    "t": "This will cost €30. | That will cost thirty euros."
+  },
+  {
+    "q": "Kies skribilo estas tio?",
+    "a": [
+      "외ㅎㅗㅅㅔ ㅍㅔㄴ ㅣㅅ ㅌㅎㅣㅅ?"
+    ],
+    "t": "Whose pen is this?"
+  },
+  {
+    "q": "Ĉu vi deziras pli da teo?",
+    "a": [
+      "외ㅣㄸㄸ ㅠㅗㅜ ㅎㅏㅆㅔ ㅅㅗㅁㅔ ㅁㅗㄹㅔ ㅌㅔㅏ?",
+      "ㅁㅗㄹㅔ ㅌㅔㅏ?"
+    ],
+    "t": "Will you have some more tea? | More tea?"
+  },
+  {
+    "q": "Mi perlaboras cent eŭrojn tage.",
+    "a": [
+      "ㅣ ㅁㅏㅋㅔ €100 ㅏ ㄷㅏㅠ."
+    ],
+    "t": "I make €100 a day."
+  },
+  {
+    "q": "Mi diros al li tiam, kiam li revenos.",
+    "a": [
+      "ㅣ 외ㅣㄸㄸ ㅌㅔㄸㄸ ㅎㅣㅁ ㅅㅗ 외ㅎㅔㄴ ㅎㅔ ㅊㅗㅁㅔㅅ ㅂㅏㅊㅋ."
+    ],
+    "t": "I will tell him so when he comes back."
+  },
+  {
+    "q": "Ĝi ne okazos.",
+    "a": [
+      "ㅌㅎㅏㅌ 외ㅗㄴ'ㅌ ㅎㅏㅍㅍㅔㄴ.",
+      "ㅣㅌ 외ㅣㄸㄸ ㄴㅗㅌ ㅎㅏㅍㅍㅔㄴ.",
+      "ㅣㅌ 외ㅗㄴ'ㅌ ㅎㅏㅍㅍㅔㄴ."
+    ],
+    "t": "That won't happen. | It will not happen. | It won't happen."
+  },
+  {
+    "q": "Multaj turistoj venas al tiu insulo ĉiu-jare.",
+    "a": [
+      "ㅁㅏㄴㅠ ㅌㅗㅜㄹㅣㅅㅌㅅ ㅊㅗㅁㅔ ㅌㅗ ㅌㅎㅣㅅ ㅣㅅㄸㅏㄴㄷ ㅔㅆㅔㄹㅠ ㅠㅔㅏㄹ."
+    ],
+    "t": "Many tourists come to this island every year."
+  },
+  {
+    "q": "Estis io stranga pri la akcidento.",
+    "a": [
+      "ㅌㅎㅔㄹㅔ 외ㅏㅅ ㅅㅗㅁㅔㅌㅎㅣㄴㄱ 외ㅔㅣㄹㄷ ㅏㅂㅗㅜㅌ ㅌㅎㅔ ㅣㄴㅊㅣㄷㅔㄴㅌ."
+    ],
+    "t": "There was something weird about the incident."
+  },
+  {
+    "q": "La knabeto estis perdita en la arbaro.",
+    "a": [
+      "ㅌㅎㅔ ㄸㅣㅌㅌㄸㅔ ㅂㅗㅠ 외ㅏㅅ ㄸㅗㅅㅌ ㅣㄴ ㅌㅎㅔ ㄲㅗㄹㅔㅅㅌ."
+    ],
+    "t": "The little boy was lost in the forest."
+  },
+  {
+    "q": "Kio estas la malsamo inter A kaj B?",
+    "a": [
+      "외ㅎㅏㅌ ㅣㅅ ㅌㅎㅔ ㄷㅣㄲㄲㅔㄹㅔㄴㅊㅔ ㅂㅔㅌ외ㅔㅔㄴ ㅏ ㅏㄴㄷ ㅂ?",
+      "외ㅎㅏㅌ'ㅅ ㅌㅎㅔ ㄷㅣㄲㄲㅔㄹㅔㄴㅊㅔ ㅂㅔㅌ외ㅔㅔㄴ ㅏ ㅏㄴㄷ ㅂ?"
+    ],
+    "t": "What is the difference between A and B? | What's the difference between A and B?"
+  },
+  {
+    "q": "Mi estos kun vi, tuj post kiam mi finos tiun laboron.",
+    "a": [
+      "ㅣ'ㄸㄸ ㅂㅔ 외ㅣㅌㅎ ㅠㅗㅜ ㅏㅅ ㅅㅗㅗㄴ ㅏㅅ ㅣ ㄲㅣㄴㅣㅅㅎ ㅌㅎㅣㅅ ㅈㅗㅂ."
+    ],
+    "t": "I'll be with you as soon as I finish this job."
+  },
+  {
+    "q": "Ĉar mi soifis, mi trinkis akvon.",
+    "a": [
+      "ㅅㅣㄴㅊㅔ ㅣ 외ㅏㅅ ㅌㅎㅣㄹㅅㅌㅠ, ㅣ ㄷㄹㅏㄴㅋ 외ㅏㅌㅔㄹ."
+    ],
+    "t": "Since I was thirsty, I drank water."
+  },
+  {
+    "q": "Malsano malebligis min iri eksterlanden.",
+    "a": [
+      "ㅣㄸㄸㄴㅔㅅㅅ ㅍㄹㅔㅆㅔㄴㅌㅔㄷ ㅁㅔ ㄲㄹㅗㅁ ㄱㅗㅣㄴㄱ ㅏㅂㄹㅗㅏㄷ."
+    ],
+    "t": "Illness prevented me from going abroad."
+  },
+  {
+    "q": "Ĉu vi legis la hodiaŭan gazeton?",
+    "a": [
+      "ㅎㅏㅆㅔ ㅠㅗㅜ ㄹㅔㅏㄷ ㅌㅗㄷㅏㅠ'ㅅ ㅍㅏㅍㅔㄹ?"
+    ],
+    "t": "Have you read today's paper?"
+  },
+  {
+    "q": "Mi lasis mian fratinon uzi mian novan komputilon.",
+    "a": [
+      "ㅣ ㄸㅔㅌ ㅁㅠ ㅅㅣㅅㅌㅔㄹ ㅜㅅㅔ ㅁㅠ ㄴㅔ외 ㅊㅗㅁㅍㅜㅌㅔㄹ."
+    ],
+    "t": "I let my sister use my new computer."
+  },
+  {
+    "q": "Ne, dankon. Mi nur rigardas.",
+    "a": [
+      "ㄴㅗ, ㅌㅎㅏㄴㅋ ㅠㅗㅜ. ㅣ ㅏㅁ ㅈㅜㅅㅌ ㄸㅗㅗㅋㅣㄴㄱ.",
+      "ㄴㅗ, ㅌㅎㅏㄴㅋ ㅠㅗㅜ. ㅣ'ㅁ ㅈㅜㅅㅌ ㄸㅗㅗㅋㅣㄴㄱ.",
+      "ㄴㅗ, ㅌㅎㅏㄴㅋㅅ. ㅣ'ㅁ ㅈㅜㅅㅌ ㅂㄹㅗ외ㅅㅣㄴㄱ."
+    ],
+    "t": "No, thank you. I am just looking. | No, thank you. I'm just looking. | No, thanks. I'm just browsing."
+  },
+  {
+    "q": "Kiam vi naskiĝis?",
+    "a": [
+      "외ㅎㅔㄴ 외ㅔㄹㅔ ㅠㅗㅜ ㅂㅗㄹㄴ?"
+    ],
+    "t": "When were you born?"
+  },
+  {
+    "q": "Bonvolu diri al mi kiam vi venos al Kobeo.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㄸㅔㅌ ㅁㅔ ㅋㄴㅗ외 외ㅎㅔㄴ ㅠㅗㅜ 외ㅣㄸㄸ ㅊㅗㅁㅔ ㅌㅗ ㅋㅗㅂㅔ."
+    ],
+    "t": "Please let me know when you will come to Kobe."
+  },
+  {
+    "q": "Diru al mi, kiam komenci.",
+    "a": [
+      "ㅌㅔㄸㄸ ㅁㅔ 외ㅎㅔㄴ ㅌㅗ ㅅㅌㅏㄹㅌ."
+    ],
+    "t": "Tell me when to start."
+  },
+  {
+    "q": "Kiam vi foriros?",
+    "a": [
+      "외ㅎㅔㄴ ㅏㄹㅔ ㅠㅗㅜ ㅗㄲㄲ?",
+      "외ㅎㅔㄴ 외ㅣㄸㄸ ㅠㅗㅜ ㄸㅔㅏㅆㅔ?",
+      "외ㅎㅔㄴ ㅏㄹㅔ ㅠㅗㅜ ㄸㅔㅏㅆㅣㄴㄱ?"
+    ],
+    "t": "When are you off? | When will you leave? | When are you leaving?"
+  },
+  {
+    "q": "Bonvolu diri al mi kiam komenci.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㅣㄴㄲㅗㄹㅁ ㅁㅔ 외ㅎㅔㄴ ㅌㅗ ㅅㅌㅏㄹㅌ."
+    ],
+    "t": "Please inform me when to start."
+  },
+  {
+    "q": "Mi ĝojas pri via sukceso.",
+    "a": [
+      "ㅣ ㄹㅔㅈㅗㅣㅊㅔ ㅣㄴ ㅠㅗㅜㄹ ㅅㅜㅊㅊㅔㅅㅅ.",
+      "ㅣ ㅏㅁ ㅍㄸㅔㅏㅅㅔㄷ ㅏㅌ ㅠㅗㅜㄹ ㅅㅜㅊㅊㅔㅅㅅ."
+    ],
+    "t": "I rejoice in your success. | I am pleased at your success."
+  },
+  {
+    "q": "Virino vizitis nin dum vi dormis.",
+    "a": [
+      "ㅏ 외ㅗㅁㅏㄴ ㅆㅣㅅㅣㅌㅔㄷ ㅜㅅ 외ㅎㅣㄸㅔ ㅠㅗㅜ 외ㅔㄹㅔ ㅅㄸㅔㅔㅍㅣㄴㄱ."
+    ],
+    "t": "A woman visited us while you were sleeping."
+  },
+  {
+    "q": "Ĉu vi jam vidis lin naĝi?",
+    "a": [
+      "ㅎㅏㅆㅔ ㅠㅗㅜ ㅔㅆㅔㄹ ㅅㅔㅔㄴ ㅎㅣㅁ ㅅ외ㅣㅁㅁㅣㄴㄱ?"
+    ],
+    "t": "Have you ever seen him swimming?"
+  },
+  {
+    "q": "La akcidento okazis antaŭ du jaroj.",
+    "a": [
+      "ㅌㅎㅔ ㅏㅊㅊㅣㄷㅔㄴㅌ ㅎㅏㅍㅍㅔㄴㅔㄷ ㅌ외ㅗ ㅠㅔㅏㄹㅅ ㅏㄱㅗ."
+    ],
+    "t": "The accident happened two years ago."
+  },
+  {
+    "q": "Ne timu.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅂㅔ ㅏㄲㄹㅏㅣㄷ.",
+      "ㄷㅗㄴ'ㅌ ㅂㅔ ㅅㅊㅏㄹㅔㄷ.",
+      "ㅎㅏㅆㅔ ㄴㅗ ㄲㅔㅏㄹ."
+    ],
+    "t": "Don't be afraid. | Don't be scared. | Have no fear."
+  },
+  {
+    "q": "Kio estis pruvenda.",
+    "a": [
+      "외ㅎㅣㅊㅎ 외ㅏㅅ ㅌㅗ ㅂㅔ ㅍㄹㅗㅆㅔㄴ.",
+      "ㅃ.ㅔ.ㄷ.",
+      "ㅃㅔㄷ."
+    ],
+    "t": "Which was to be proven. | Q.E.D. | QED."
+  },
+  {
+    "q": "Tiel forpasas la gloro de la mondo.",
+    "a": [
+      "ㅌㅎㅜㅅ ㅍㅏㅅㅅㅔㅅ ㅌㅎㅔ ㄱㄸㅗㄹㅠ ㅗㄲ ㅌㅎㅔ 외ㅗㄹㄸㄷ."
+    ],
+    "t": "Thus passes the glory of the world."
+  },
+  {
+    "q": "Kiu glavon uzas, tiun glavo pereigos.",
+    "a": [
+      "ㅎㅔ 외ㅎㅗ 외ㅗㅜㄴㄷㅅ ㅂㅠ ㅌㅎㅔ ㅅ외ㅗㄹㄷ, ㄷㅣㅔㅅ ㅂㅠ ㅌㅎㅔ ㅅ외ㅗㄹㄷ."
+    ],
+    "t": "He who wounds by the sword, dies by the sword."
+  },
+  {
+    "q": "Kie estas la necesejo?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㅣㅅ ㅌㅎㅔ ㅂㅏㅌㅎㄹㅗㅗㅁ?",
+      "외ㅎㅔㄹㅔ ㅣㅅ ㅌㅎㅔ ㅌㅗㅣㄸㅔㅌ?",
+      "외ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㅌㅗㅣㄸㅔㅌ?",
+      "외ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㅂㅏㅌㅎㄹㅗㅗㅁ?",
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅌㅎㅔ ㄹㅔㅅㅌㄹㅗㅗㅁㅅ?",
+      "외ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㄸㅗㅗ?",
+      "외ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㄹㅔㅅㅌㄹㅗㅗㅁ?",
+      "외ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㄸㅏㅆㅏㅌㅗㄹㅠ?",
+      "외ㅎㅔㄹㅔ'ㅅ ㅌㅎㅔ ㅂㅗㄱ?"
+    ],
+    "t": "Where is the bathroom? | Where is the toilet? | Where's the toilet? | Where's the bathroom? | Where are the restrooms? | Where's the loo? | Where's the restroom? | Where's the lavatory? | Where's the bog?"
+  },
+  {
+    "q": "Sud-Afriko estas malproksime.",
+    "a": [
+      "ㅅㅗㅜㅌㅎ ㅏㄲㄹㅣㅊㅏ ㅣㅅ ㄲㅏㄹ ㅏ외ㅏㅠ."
+    ],
+    "t": "South Africa is far away."
+  },
+  {
+    "q": "Mi petis de mia patrino veki min je la kvara.",
+    "a": [
+      "ㅣ ㅏㅅㅋㅔㄷ ㅁㅗㅌㅎㅔㄹ ㅌㅗ 외ㅏㅋㅔ ㅁㅔ ㅜㅍ ㅏㅌ ㄲㅗㅜㄹ."
+    ],
+    "t": "I asked Mother to wake me up at four."
+  },
+  {
+    "q": "Mi nomis la katidon Tamao.",
+    "a": [
+      "ㅣ ㄴㅏㅁㅔㄷ ㅌㅎㅔ ㅋㅣㅌㅌㅔㄴ ㅌㅏㅁㅏ."
+    ],
+    "t": "I named the kitten Tama."
+  },
+  {
+    "q": "Telefonu al mi hodiaŭ vespere.",
+    "a": [
+      "ㅊㅏㄸㄸ ㅁㅔ ㅌㅎㅣㅅ ㅔㅆㅔㄴㅣㄴㄱ."
+    ],
+    "t": "Call me this evening."
+  },
+  {
+    "q": "Telefonu al mi tiam, kiam vi alvenos.",
+    "a": [
+      "ㄷㄹㅗㅍ ㅁㅔ ㅏ ㄸㅣㄴㅔ 외ㅎㅔㄴ ㅠㅗㅜ ㄱㅔㅌ ㅌㅎㅔㄹㅔ.",
+      "ㅊㅏㄸㄸ ㅁㅔ ㅗㄴㅊㅔ ㅠㅗㅜ'ㅆㅔ ㅏㄹㄹㅣㅆㅔㄷ.",
+      "ㅍㅎㅗㄴㅔ ㅁㅔ ㅏㅅ ㅅㅗㅗㄴ ㅏㅅ ㅠㅗㅜ ㅏㄹㄹㅣㅆㅔ.",
+      "ㅊㅏㄸㄸ ㅁㅔ ㅏㅅ ㅅㅗㅗㄴ ㅏㅅ ㅠㅗㅜ ㅏㄹㄹㅣㅆㅔ.",
+      "ㄹㅣㄴㄱ ㅁㅔ ㅏㅅ ㅅㅗㅗㄴ ㅏㅅ ㅠㅗㅜ ㅏㄹㄹㅣㅆㅔ.",
+      "ㄱㅣㅆㅔ ㅁㅔ ㅏ ㅂㅔㄸㄸ ㅏㅅ ㅅㅗㅗㄴ ㅏㅅ ㅠㅗㅜ ㅏㄹㄹㅣㅆㅔ."
+    ],
+    "t": "Drop me a line when you get there. | Call me once you've arrived. | Phone me as soon as you arrive. | Call me as soon as you arrive. | Ring me as soon as you arrive. | Give me a bell as soon as you arrive."
+  },
+  {
+    "q": "Telefonu al la polico!",
+    "a": [
+      "ㅊㅏㄸㄸ ㅌㅎㅔ ㅍㅗㄸㅣㅊㅔ!",
+      "ㅊㅏㄸㄸ ㅌㅎㅔ ㅍㅗㄸㅣㅊㅔ."
+    ],
+    "t": "Call the police! | Call the police."
+  },
+  {
+    "q": "Bonvolu traduki tiun japanan tekston en la francan.",
+    "a": [
+      "ㅍㄸㅔㅏㅅㅔ ㅌㄹㅏㄴㅅㄸㅏㅌㅔ ㅌㅎㅣㅅ ㅈㅏㅍㅏㄴㅔㅅㅔ ㅌㅔㅉㅌ ㅣㄴㅌㅗ ㄲㄹㅔㄴㅊㅎ."
+    ],
+    "t": "Please translate this Japanese text into French."
+  },
+  {
+    "q": "Mi nomiĝas Iĉiro Tanakao.",
+    "a": [
+      "ㅁㅠ ㄴㅏㅁㅔ ㅣㅅ ㅣㅊㅎㅣㄹㅗ ㅌㅏㄴㅏㅋㅏ."
+    ],
+    "t": "My name is Ichiro Tanaka."
+  },
+  {
+    "q": "Kaj vi?",
+    "a": [
+      "ㅏㄴㄷ ㅠㅗㅜ?",
+      "ㅏㄴㄷ 외ㅎㅏㅌ ㅏㅂㅗㅜㅌ ㅠㅗㅜ?"
+    ],
+    "t": "And you? | And what about you?"
+  },
+  {
+    "q": "Mi faris alian teston.",
+    "a": [
+      "ㅣ ㄷㅣㄷ ㅏㄴㅗㅌㅎㅔㄹ ㅌㅔㅅㅌ."
+    ],
+    "t": "I did another test."
+  },
+  {
+    "q": "Lasu min prezenti al vi mian fratinon.",
+    "a": [
+      "ㄸㅔㅌ ㅁㅔ ㅣㄴㅌㄹㅗㄷㅜㅊㅔ ㅁㅠ ㅅㅣㅅㅌㅔㄹ."
+    ],
+    "t": "Let me introduce my sister."
+  },
+  {
+    "q": "Dio savu la reĝinon.",
+    "a": [
+      "ㄱㅗㄷ ㅅㅏㅆㅔ ㅌㅎㅔ ㅃㅜㅔㅔㄴ."
+    ],
+    "t": "God save the Queen."
+  },
+  {
+    "q": "La ĉefurbo de Japanio estas Tokio.",
+    "a": [
+      "ㅌㅎㅔ ㅊㅏㅍㅣㅌㅏㄸ ㅗㄲ ㅈㅏㅍㅏㄴ ㅣㅅ ㅌㅗㅋㅠㅗ.",
+      "ㅌㅗㅋㅠㅗ ㅣㅅ ㅌㅎㅔ ㅊㅏㅍㅣㅌㅏㄸ ㅗㄲ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "The capital of Japan is Tokyo. | Tokyo is the capital of Japan."
+  },
+  {
+    "q": "Li bonege fartas hodiaŭ.",
+    "a": [
+      "ㅎㅔ'ㅅ ㄷㅗㅣㄴㄱ ㅆㅔㄹㅠ 외ㅔㄸㄸ ㅌㅗㄷㅏㅠ."
+    ],
+    "t": "He's doing very well today."
+  },
+  {
+    "q": "Mi pripensas iri al Kanado en la venonta jaro.",
+    "a": [
+      "ㅣ'ㅁ ㅌㅎㅣㄴㅋㅣㄴㄱ ㅗㄲ ㄱㅗㅣㄴㄱ ㅌㅗ ㅊㅏㄴㅏㄷㅏ ㄴㅔㅉㅌ ㅠㅔㅏㄹ."
+    ],
+    "t": "I'm thinking of going to Canada next year."
+  },
+  {
+    "q": "Mi tien iras ĉiujare.",
+    "a": [
+      "ㅣ ㄱㅗ ㅌㅎㅔㄹㅔ ㅔㅆㅔㄹㅠ ㅠㅔㅏㄹ."
+    ],
+    "t": "I go there every year."
+  },
+  {
+    "q": "Mi ŝatas ĉokoladon.",
+    "a": [
+      "ㅣ ㄸㅣㅋㅔ ㅊㅎㅗㅊㅗㄸㅏㅌㅔ.",
+      "ㅣ ㄸㅗㅆㅔ ㅊㅎㅗㅊㅗㄸㅏㅌㅔ."
+    ],
+    "t": "I like chocolate. | I love chocolate."
+  },
+  {
+    "q": "Li skribis al mi hieraŭ.",
+    "a": [
+      "ㅎㅔ 외ㄹㅗㅌㅔ ㅌㅗ ㅁㅔ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ."
+    ],
+    "t": "He wrote to me yesterday."
+  },
+  {
+    "q": "Bone paroli la anglan estas malfacile.",
+    "a": [
+      "ㅌㅗ ㅅㅍㅔㅏㅋ ㅔㄴㄱㄸㅣㅅㅎ 외ㅔㄸㄸ ㅣㅅ ㄷㅣㄲㄲㅣㅊㅜㄸㅌ.",
+      "ㅅㅍㅔㅏㅋㅣㄴㄱ ㅔㄴㄱㄸㅣㅅㅎ 외ㅔㄸㄸ ㅣㅅ ㄷㅣㄲㄲㅣㅊㅜㄸㅌ.",
+      "ㅣㅌ'ㅅ ㄷㅣㄲㄲㅣㅊㅜㄸㅌ ㅌㅗ ㅅㅍㅔㅏㅋ ㅔㄴㄱㄸㅣㅅㅎ 외ㅔㄸㄸ."
+    ],
+    "t": "To speak English well is difficult. | Speaking English well is difficult. | It's difficult to speak English well."
+  },
+  {
+    "q": "Mi devas aĉeti tiun vortaron, eĉ se ĝi kostas dek mil enojn.",
+    "a": [
+      "ㅔㅆㅔㄴ ㅣㄲ ㅣㅌ ㅊㅗㅅㅌㅅ 10,000 ㅠㅔㄴ, ㅣ ㅁㅜㅅㅌ ㅂㅜㅠ ㅌㅎㅔ ㄷㅣㅊㅌㅣㅗㄴㅏㄹㅠ."
+    ],
+    "t": "Even if it costs 10,000 yen, I must buy the dictionary."
+  },
+  {
+    "q": "Li opinias, ke avioj pli sendanĝeras ol aŭtoj.",
+    "a": [
+      "ㅎㅔ ㅌㅎㅣㄴㅋㅅ ㅌㅎㅏㅌ ㅍㄸㅏㄴㅔㅅ ㅏㄹㅔ ㅅㅏㄲㅔㄹ ㅌㅎㅏㄴ ㅊㅏㄹㅅ."
+    ],
+    "t": "He thinks that planes are safer than cars."
+  },
+  {
+    "q": "Li ne konas min.",
+    "a": [
+      "ㅎㅔ ㄷㅗㅔㅅㄴ'ㅌ ㅋㄴㅗ외 ㅁㅔ."
+    ],
+    "t": "He doesn't know me."
+  },
+  {
+    "q": "Li estas mia malnova amiko.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅁㅠ ㅗㄸㄷ ㄲㄹㅣㅔㄴㄷ.",
+      "ㅎㅔ'ㅅ ㅏㄴ ㅗㄸㄷ ㄲㄹㅣㅔㄴㄷ ㅗㄲ ㅁㅣㄴㅔ."
+    ],
+    "t": "He is my old friend. | He's an old friend of mine."
+  },
+  {
+    "q": "Mi ne ŝatas tiun; montru al mi alian.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄸㅣㅋㅔ ㅌㅎㅣㅅ ㅗㄴㅔ; ㅅㅎㅗ외 ㅁㅔ ㅏㄴㅗㅌㅎㅔㄹ."
+    ],
+    "t": "I don't like this one; show me another."
+  },
+  {
+    "q": "Mi volas, ke vi diru al mi la veron.",
+    "a": [
+      "ㅣ 외ㅏㄴㅌ ㅠㅗㅜ ㅌㅗ ㅌㅔㄸㄸ ㅁㅔ ㅌㅎㅔ ㅌㄹㅜㅌㅎ."
+    ],
+    "t": "I want you to tell me the truth."
+  },
+  {
+    "q": "Mi ne scias kiam Bob venis al Japanio.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 외ㅎㅔㄴ ㅂㅗㅂ ㅊㅏㅁㅔ ㅌㅗ ㅈㅏㅍㅏㄴ."
+    ],
+    "t": "I don't know when Bob came to Japan."
+  },
+  {
+    "q": "Mi devas vin forlasi.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅌㅗ ㄸㅔㅏㅆㅔ ㅠㅗㅜ.",
+      "ㅣ ㅁㅜㅅㅌ ㄸㅔㅏㅆㅔ ㅠㅗㅜ."
+    ],
+    "t": "I have to leave you. | I must leave you."
+  },
+  {
+    "q": "Mi neniam forgesos vin.",
+    "a": [
+      "ㅣ'ㄸㄸ ㄴㅔㅆㅔㄹ ㄲㅗㄹㄱㅔㅌ ㅠㅗㅜ."
+    ],
+    "t": "I'll never forget you."
+  },
+  {
+    "q": "Kate vestas sian pupon.",
+    "a": [
+      "ㅋㅏㅌㅔ ㅣㅅ ㄷㄹㅔㅅㅅㅣㄴㄱ ㅎㅔㄹ ㄷㅗㄸㄸ."
+    ],
+    "t": "Kate is dressing her doll."
+  },
+  {
+    "q": "Frenezo devenas ofte el malriĉeco.",
+    "a": [
+      "ㅣㄸㄸㄴㅔㅅㅅ ㅗㄲㅌㅔㄴ ㄹㅔㅅㅜㄸㅌㅅ ㄲㄹㅗㅁ ㅍㅗㅆㅔㄹㅌㅠ."
+    ],
+    "t": "Illness often results from poverty."
+  },
+  {
+    "q": "Mi ne rememoras vian nomon.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄹㅔㅁㅔㅁㅂㅔㄹ ㅠㅗㅜㄹ ㄴㅏㅁㅔ."
+    ],
+    "t": "I don't remember your name."
+  },
+  {
+    "q": "Ĉio estas renversita.",
+    "a": [
+      "ㅔㅆㅔㄹㅠㅌㅎㅣㄴㄱ ㅣㅅ ㅜㅍㅅㅣㄷㅔ ㄷㅗ외ㄴ."
+    ],
+    "t": "Everything is upside down."
+  },
+  {
+    "q": "Li faris tion por mono.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅ ㄷㅗㄴㅔ ㅌㅎㅣㅅ ㄲㅗㄹ ㅍㄹㅗㄲㅣㅌ.",
+      "ㅎㅔ ㄷㅣㄷ ㅣㅌ ㄲㅗㄹ ㅌㅎㅔ ㅁㅗㄴㅔㅠ."
+    ],
+    "t": "He has done this for profit. | He did it for the money."
+  },
+  {
+    "q": "Bankista vivo estas malfacila.",
+    "a": [
+      "ㅏ ㅂㅏㄴㅋㅔㄹ'ㅅ ㄸㅣㄲㅔ ㅣㅅ ㄷㅣㄲㄲㅣㅊㅜㄸㅌ."
+    ],
+    "t": "A banker's life is difficult."
+  },
+  {
+    "q": "Karin estas aŭstrino.",
+    "a": [
+      "ㅋㅏㄹㅣㄴ ㅣㅅ ㅏㅜㅅㅌㄹㅣㅏㄴ."
+    ],
+    "t": "Karin is Austrian."
+  },
+  {
+    "q": "Matene la birdoj ekkantis.",
+    "a": [
+      "ㅣㄴ ㅌㅎㅔ ㅁㅗㄹㄴㅣㄴㄱ, ㅌㅎㅔ ㅂㅣㄹㄷㅅ ㅅㅌㅏㄹㅌㅔㄷ ㅌㅗ ㅅㅣㄴㄱ."
+    ],
+    "t": "In the morning, the birds started to sing."
+  },
+  {
+    "q": "Ĉiuvespere najtingalo kantis por ni.",
+    "a": [
+      "ㅔㅏㅊㅎ ㅔㅆㅔㄴㅣㄴㄱ, ㅏ ㄴㅣㄱㅎㅌㅣㄴㄱㅏㄸㅔ ㅅㅏㄴㄱ ㄲㅗㄹ ㅜㅅ."
+    ],
+    "t": "Each evening, a nightingale sang for us."
+  },
+  {
+    "q": "Ĉu vi partoprenis la diskutojn hieraŭ?",
+    "a": [
+      "ㄷㅣㄷ ㅠㅗㅜ ㅌㅏㅋㅔ ㅍㅏㄹㅌ ㅣㄴ ㅌㅎㅔ ㄷㅣㅅㅊㅜㅅㅅㅣㅗㄴ ㅠㅔㅅㅌㅔㄹㄷㅏㅠ?"
+    ],
+    "t": "Did you take part in the discussion yesterday?"
+  },
+  {
+    "q": "Ĉar lia patro laboris tie.",
+    "a": [
+      "ㅂㅔㅊㅏㅜㅅㅔ ㅎㅣㅅ ㄲㅏㅌㅎㅔㄹ 외ㅏㅅ 외ㅗㄹㅋㅣㄴㄱ ㅌㅎㅔㄹㅔ."
+    ],
+    "t": "Because his father was working there."
+  },
+  {
+    "q": "La maro estis vere trankvila.",
+    "a": [
+      "ㅌㅎㅔ ㅅㅔㅏ 외ㅏㅅ ㅌㄹㅜㄸㅠ ㅊㅏㄸㅁ."
+    ],
+    "t": "The sea was truly calm."
+  },
+  {
+    "q": "Mi ŝatus vidi lin morgaŭ posttagmeze.",
+    "a": [
+      "ㅣ'ㄷ ㄸㅣㅋㅔ ㅌㅗ ㅅㅔㅔ ㅎㅣㅁ ㅌㅗㅁㅗㄹㄹㅗ외 ㅏㄲㅌㅔㄹㄴㅗㅗㄴ."
+    ],
+    "t": "I'd like to see him tomorrow afternoon."
+  },
+  {
+    "q": "La angla alfabeto enhavas 26 literojn.",
+    "a": [
+      "ㅌㅎㅔ ㅔㄴㄱㄸㅣㅅㅎ ㅏㄸㅍㅎㅏㅂㅔㅌ ㅎㅏㅅ 26 ㄸㅔㅌㅌㅔㄹㅅ."
+    ],
+    "t": "The English alphabet has 26 letters."
+  },
+  {
+    "q": "Kiam vi venis al Japanio?",
+    "a": [
+      "외ㅎㅔㄴ ㄷㅣㄷ ㅠㅗㅜ ㅊㅗㅁㅔ ㅌㅗ ㅈㅏㅍㅏㄴ?"
+    ],
+    "t": "When did you come to Japan?"
+  },
+  {
+    "q": "Ĉu lia rakonto veras?",
+    "a": [
+      "ㅣㅅ ㅎㅣㅅ ㅅㅌㅗㄹㅠ ㅌㄹㅜㅔ?"
+    ],
+    "t": "Is his story true?"
+  },
+  {
+    "q": "Li naĝas en la naĝejo.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅅ외ㅣㅁㅁㅣㄴㄱ ㅣㄴ ㅌㅎㅔ ㅍㅗㅗㄸ."
+    ],
+    "t": "He is swimming in the pool."
+  },
+  {
+    "q": "Estis tro malfacile por mi.",
+    "a": [
+      "ㅣㅌ 외ㅏㅅ ㅌㅗㅗ ㄷㅣㄲㄲㅣㅊㅜㄸㅌ ㄲㅗㄹ ㅁㅔ."
+    ],
+    "t": "It was too difficult for me."
+  },
+  {
+    "q": "Ĉu vi scias, kiam ŝi venos?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅋㄴㅗ외 외ㅎㅔㄴ ㅅㅎㅔ 외ㅣㄸㄸ ㅊㅗㅁㅔ?"
+    ],
+    "t": "Do you know when she will come?"
+  },
+  {
+    "q": "Kio pri fari al mi tason da teo?",
+    "a": [
+      "ㅎㅗ외 ㅏㅂㅗㅜㅌ ㅁㅏㅋㅣㄴㄱ ㅁㅔ ㅏ ㅊㅜㅍ ㅗㄲ ㅌㅔㅏ?"
+    ],
+    "t": "How about making me a cup of tea?"
+  },
+  {
+    "q": "Patro konstruis novan domon por mi.",
+    "a": [
+      "ㄲㅏㅌㅎㅔㄹ ㅂㅜㅣㄸㅌ ㅁㅔ ㅏ ㄴㅔ외 ㅎㅗㅜㅅㅔ."
+    ],
+    "t": "Father built me a new house."
+  },
+  {
+    "q": "Ŝi metis la monon en la bankon.",
+    "a": [
+      "ㅅㅎㅔ ㅍㅜㅌ ㅌㅎㅔ ㅁㅗㄴㅔㅠ ㅣㄴ ㅌㅎㅔ ㅂㅏㄴㅋ."
+    ],
+    "t": "She put the money in the bank."
+  },
+  {
+    "q": "La birdoj flugas per siaj flugiloj.",
+    "a": [
+      "ㅂㅣㄹㄷㅅ ㄲㄸㅠ 외ㅣㅌㅎ ㅌㅎㅔㅣㄹ 외ㅣㄴㄱㅅ."
+    ],
+    "t": "Birds fly with their wings."
+  },
+  {
+    "q": "Ĉiuj tiuj libroj estas miaj.",
+    "a": [
+      "ㅏㄸㄸ ㅌㅎㅔㅅㅔ ㅂㅗㅗㅋㅅ ㅏㄹㅔ ㅁㅣㄴㅔ."
+    ],
+    "t": "All these books are mine."
+  },
+  {
+    "q": "Via scio surprizas min.",
+    "a": [
+      "ㅠㅗㅜㄹ ㅋㄴㅗ외ㄸㅔㄷㄱㅔ ㅅㅜㄹㅍㄹㅣㅅㅔㅅ ㅁㅔ."
+    ],
+    "t": "Your knowledge surprises me."
+  },
+  {
+    "q": "Ĉiu konstruaĵo havas nomon.",
+    "a": [
+      "ㅔㅏㅊㅎ ㅂㅜㅣㄸㄷㅣㄴㄱ ㅎㅏㅅ ㅏ ㄴㅏㅁㅔ."
+    ],
+    "t": "Each building has a name."
+  },
+  {
+    "q": "Kiam ajn mi vidas vin, mi pensas pri via patrino.",
+    "a": [
+      "ㅔㅆㅔㄹㅠ ㅌㅣㅁㅔ ㅣ ㅅㅔㅔ ㅠㅗㅜ, ㅣ ㅌㅎㅣㄴㅋ ㅗㄲ ㅠㅗㅜㄹ ㅁㅗㅌㅎㅔㄹ."
+    ],
+    "t": "Every time I see you, I think of your mother."
+  },
+  {
+    "q": "La laboro estas preskaŭ farita.",
+    "a": [
+      "ㅌㅎㅔ 외ㅗㄹㅋ ㅣㅅ ㅁㅗㅅㅌㄸㅠ ㄷㅗㄴㅔ."
+    ],
+    "t": "The work is mostly done."
+  },
+  {
+    "q": "Ĉu vi povas kanti tiun kanton?",
+    "a": [
+      "ㅊㅏㄴ ㅠㅗㅜ ㅅㅣㄴㄱ ㅌㅎㅣㅅ ㅅㅗㄴㄱ?"
+    ],
+    "t": "Can you sing this song?"
+  },
+  {
+    "q": "Kial vi ne manĝas legomojn?",
+    "a": [
+      "외ㅎㅠ ㄷㅗㄴ'ㅌ ㅠㅗㅜ ㅔㅏㅌ ㅆㅔㄱㅔㅌㅏㅂㄸㅔㅅ?"
+    ],
+    "t": "Why don't you eat vegetables?"
+  },
+  {
+    "q": "Li ne plu estas infano.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㄴㅗ ㄸㅗㄴㄱㅔㄹ ㅏ ㅊㅎㅣㄸㄷ."
+    ],
+    "t": "He is no longer a child."
+  },
+  {
+    "q": "Mi kutime samopinias kun ŝi.",
+    "a": [
+      "ㅣ ㅜㅅㅜㅏㄸㄸㅠ ㅏㄱㄹㅔㅔ 외ㅣㅌㅎ ㅎㅔㄹ."
+    ],
+    "t": "I usually agree with her."
+  },
+  {
+    "q": "Mi skribis leteron en la angla.",
+    "a": [
+      "ㅣ 외ㄹㅗㅌㅔ ㅏ ㄸㅔㅌㅌㅔㄹ ㅣㄴ ㅔㄴㄱㄸㅣㅅㅎ."
+    ],
+    "t": "I wrote a letter in English."
+  },
+  {
+    "q": "Mi intencas iĝi inĝeniero.",
+    "a": [
+      "ㅣ 외ㅏㄴㅌ ㅌㅗ ㅂㅔ ㅏㄴ ㅔㄴㄱㅣㄴㅔㅔㄹ."
+    ],
+    "t": "I want to be an engineer."
+  },
+  {
+    "q": "Li multon faris por sia firmao.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅ ㄷㅗㄴㅔ ㅁㅜㅊㅎ ㄲㅗㄹ ㅎㅣㅅ ㅊㅗㅁㅍㅏㄴㅠ."
+    ],
+    "t": "He has done much for his company."
+  },
+  {
+    "q": "La kunveno okazas dufoje en monato.",
+    "a": [
+      "ㅌㅎㅔ ㅁㅔㅔㅌㅣㄴㄱ ㅣㅅ ㅎㅔㄸㄷ ㅌ외ㅣㅊㅔ ㅏ ㅁㅗㄴㅌㅎ."
+    ],
+    "t": "The meeting is held twice a month."
+  },
+  {
+    "q": "Ĉi tiu lago estas unu el la plej profundaj de la lando.",
+    "a": [
+      "ㅌㅎㅣㅅ ㄸㅏㅋㅔ ㅣㅅ ㅏㅁㅗㄴㄱ ㅌㅎㅔ ㄷㅔㅔㅍㅔㅅㅌ ㅣㄴ ㅌㅎㅔ ㅊㅗㅜㄴㅌㄹㅠ."
+    ],
+    "t": "This lake is among the deepest in the country."
+  },
+  {
+    "q": "Mi ne aŭdis vin.",
+    "a": [
+      "ㅣ ㄷㅣㄷㄴ'ㅌ ㅎㅔㅏㄹ ㅠㅗㅜ.",
+      "ㅣ ㄷㅣㄷ ㄴㅗㅌ ㅎㅔㅏㄹ ㅠㅗㅜ."
+    ],
+    "t": "I didn't hear you. | I did not hear you."
+  },
+  {
+    "q": "Li flue parolas la ĉinan.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㄲㄸㅜㅔㄴㅌ ㅣㄴ ㅊㅎㅣㄴㅔㅅㅔ.",
+      "ㅎㅔ ㅅㅍㅔㅏㅋㅅ ㅊㅎㅣㄴㅔㅅㅔ ㄲㄸㅜㅔㄴㅌㄸㅠ."
+    ],
+    "t": "He is fluent in Chinese. | He speaks Chinese fluently."
+  },
+  {
+    "q": "Mi estas danka pro via helpo.",
+    "a": [
+      "ㅣ'ㅁ ㄱㄹㅏㅌㅔㄲㅜㄸ ㄲㅗㄹ ㅠㅗㅜㄹ ㅎㅔㄸㅍ.",
+      "ㅣ ㅏㅁ ㄱㄹㅏㅌㅔㄲㅜㄸ ㄲㅗㄹ ㅠㅗㅜㄹ ㅎㅔㄸㅍ."
+    ],
+    "t": "I'm grateful for your help. | I am grateful for your help."
+  },
+  {
+    "q": "Rapidu, alie vi estas maltrafonta vian trajnon.",
+    "a": [
+      "ㅎㅜㄹㄹㅠ ㅜㅍ, ㅗㄹ ㅠㅗㅜ 외ㅣㄸㄸ ㅁㅣㅅㅅ ㅌㅎㅔ ㅌㄹㅏㅣㄴ.",
+      "ㅎㅜㄹㄹㅠ ㅜㅍ, ㅗㄹ ㅠㅗㅜ'ㄸㄸ ㅁㅣㅅㅅ ㅌㅎㅔ ㅌㄹㅏㅣㄴ."
+    ],
+    "t": "Hurry up, or you will miss the train. | Hurry up, or you'll miss the train."
+  },
+  {
+    "q": "Pomoj estas ruĝaj.",
+    "a": [
+      "ㅏㅍㅍㄸㅔㅅ ㅏㄹㅔ ㄹㅔㄷ."
+    ],
+    "t": "Apples are red."
+  },
+  {
+    "q": "Vian nomon, bonvolu.",
+    "a": [
+      "ㅠㅗㅜㄹ ㄴㅏㅁㅔ, ㅍㄸㅔㅏㅅㅔ."
+    ],
+    "t": "Your name, please."
+  },
+  {
+    "q": "Pomoj estas ruĝaj aŭ verdaj.",
+    "a": [
+      "ㅏㅍㅍㄸㅔㅅ ㅏㄹㅔ ㄹㅔㄷ ㅗㄹ ㄱㄹㅔㅔㄴ."
+    ],
+    "t": "Apples are red or green."
+  },
+  {
+    "q": "Li sidis en la biblioteko, kiam mi lin vidis.",
+    "a": [
+      "ㅎㅔ 외ㅏㅅ ㅅㅣㅌㅌㅣㄴㄱ ㅣㄴ ㅌㅎㅔ ㄸㅣㅂㄹㅏㄹㅠ 외ㅎㅔㄴ ㅣ ㅅㅏ외 ㅎㅣㅁ."
+    ],
+    "t": "He was sitting in the library when I saw him."
+  },
+  {
+    "q": "Infanoj ŝategas kukojn.",
+    "a": [
+      "ㅊㅎㅣㄸㄷㄹㅔㄴ ㄸㅗㅆㅔ ㅊㅏㅋㅔㅅ.",
+      "ㅊㅎㅣㄸㄷㄹㅔㄴ ㅏㄹㅔ ㄲㅗㄴㄷ ㅗㄲ ㅊㅏㅋㅔ."
+    ],
+    "t": "Children love cakes. | Children are fond of cake."
+  },
+  {
+    "q": "Rigardu min, kiam mi parolas al vi!",
+    "a": [
+      "ㄸㅗㅗㅋ ㅏㅌ ㅁㅔ 외ㅎㅔㄴ ㅣ ㅌㅏㄸㅋ ㅌㅗ ㅠㅗㅜ!",
+      "ㄸㅗㅗㅋ ㅏㅌ ㅁㅔ 외ㅎㅔㄴ ㅣ ㅌㅏㄸㅋ ㅌㅗ ㅠㅗㅜ.",
+      "ㄸㅗㅗㅋ ㅏㅌ ㅁㅔ 외ㅎㅔㄴ ㅣ'ㅁ ㅌㅏㄸㅋㅣㄴㄱ ㅌㅗ ㅠㅗㅜ!"
+    ],
+    "t": "Look at me when I talk to you! | Look at me when I talk to you. | Look at me when I'm talking to you!"
+  },
+  {
+    "q": "Kio estus la mondo sen virinoj?",
+    "a": [
+      "외ㅎㅏㅌ 외ㅗㅜㄸㄷ ㅌㅎㅔ 외ㅗㄹㄸㄷ ㅂㅔ 외ㅣㅌㅎㅗㅜㅌ 외ㅗㅁㅔㄴ?"
+    ],
+    "t": "What would the world be without women?"
+  },
+  {
+    "q": "Mi provis forpasigi tempon.",
+    "a": [
+      "ㅣ 외ㅏㅅ ㅌㄹㅠㅣㄴㄱ ㅌㅗ ㅋㅣㄸㄸ ㅌㅣㅁㅔ.",
+      "ㅣ 외ㅏㅅ ㄸㅗㅗㅋㅣㄴㄱ ㅌㅗ ㅋㅣㄸㄸ ㅌㅣㅁㅔ."
+    ],
+    "t": "I was trying to kill time. | I was looking to kill time."
+  },
+  {
+    "q": "Mi estas laca.",
+    "a": [
+      "ㅣ'ㅁ ㅌㅣㄹㅔㄷ.",
+      "ㅣ ㅏㅁ ㅌㅣㄹㅔㄷ.",
+      "ㅣ'ㅁ ㅍㅗㅗㅍㅔㄷ."
+    ],
+    "t": "I'm tired. | I am tired. | I'm pooped."
+  },
+  {
+    "q": "Kiu volas varmegan trinkĉokoladon?",
+    "a": [
+      "외ㅎㅗ 외ㅏㄴㅌㅅ ㅅㅗㅁㅔ ㅎㅗㅌ ㅊㅎㅗㅊㅗㄸㅏㅌㅔ?"
+    ],
+    "t": "Who wants some hot chocolate?"
+  },
+  {
+    "q": "Miaj ŝuoj estas tro malgrandaj, mi bezonas novajn.",
+    "a": [
+      "ㅁㅠ ㅅㅎㅗㅔㅅ ㅏㄹㅔ ㅌㅗㅗ ㅅㅁㅏㄸㄸ. ㅣ ㄴㅔㅔㄷ ㄴㅔ외 ㅗㄴㅔㅅ."
+    ],
+    "t": "My shoes are too small. I need new ones."
+  },
+  {
+    "q": "Tion aŭdi ĝojigus lin.",
+    "a": [
+      "ㅎㅔ 외ㅗㅜㄸㄷ ㅂㅔ ㄱㄸㅏㄷ ㅌㅗ ㅎㅔㅏㄹ ㅌㅎㅏㅌ."
+    ],
+    "t": "He would be glad to hear that."
+  },
+  {
+    "q": "Ne demandu, kion ili pensas! Demandu, kion ili faras!",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅏㅅㅋ 외ㅎㅏㅌ ㅌㅎㅔㅠ ㅌㅎㅣㄴㅋ. ㅏㅅㅋ 외ㅎㅏㅌ ㅌㅎㅔㅠ ㄷㅗ."
+    ],
+    "t": "Don't ask what they think. Ask what they do."
+  },
+  {
+    "q": "Mi ŝatus doni al li donacon je lia naskiĝdatreveno.",
+    "a": [
+      "ㅣ 외ㅗㅜㄸㄷ ㄸㅣㅋㅔ ㅌㅗ ㄱㅣㅆㅔ ㅎㅣㅁ ㅏ ㅍㄹㅔㅅㅔㄴㅌ ㄲㅗㄹ ㅎㅣㅅ ㅂㅣㄹㅌㅎㄷㅏㅠ."
+    ],
+    "t": "I would like to give him a present for his birthday."
+  },
+  {
+    "q": "Mi estas mortanta pro malsato.",
+    "a": [
+      "ㅣ'ㅁ ㄷㅠㅣㄴㄱ ㅗㄲ ㅎㅜㄴㄱㅔㄹ.",
+      "ㅣ ㅏㅁ ㄷㅠㅣㄴㄱ ㅗㄲ ㅎㅜㄴㄱㅔㄹ."
+    ],
+    "t": "I'm dying of hunger. | I am dying of hunger."
+  },
+  {
+    "q": "Mi estas edziĝinta kaj havas du infanojn.",
+    "a": [
+      "ㅣ ㅏㅁ ㅁㅏㄹㄹㅣㅔㄷ ㅏㄴㄷ ㅎㅏㅆㅔ ㅌ외ㅗ ㅊㅎㅣㄸㄷㄹㅔㄴ."
+    ],
+    "t": "I am married and have two children."
+  },
+  {
+    "q": "Kial homoj vizitas kinejojn?",
+    "a": [
+      "외ㅎㅠ ㄷㅗ ㅍㅔㅗㅍㄸㅔ ㄱㅗ ㅌㅗ ㅌㅎㅔ ㅁㅗㅆㅣㅔㅅ?",
+      "외ㅎㅠ ㅏㄹㅔ ㅍㅔㅗㅍㄸㅔ ㄱㅗㅣㄴㄱ ㅌㅗ ㅌㅎㅔ ㅁㅗㅆㅣㅔㅅ?",
+      "외ㅎㅠ ㄷㅗ ㅍㅔㅗㅍㄸㅔ ㄱㅗ ㅌㅗ ㅌㅎㅔ ㅊㅣㄴㅔㅁㅏ?"
+    ],
+    "t": "Why do people go to the movies? | Why are people going to the movies? | Why do people go to the cinema?"
+  },
+  {
+    "q": "La vento kvietiĝis.",
+    "a": [
+      "ㅌㅎㅔ 외ㅣㄴㄷ ㅎㅏㅅ ㄷㅣㅔㄷ ㄷㅗ외ㄴ."
+    ],
+    "t": "The wind has died down."
+  },
+  {
+    "q": "La supo estas tro sala.",
+    "a": [
+      "ㅌㅎㅔ ㅅㅗㅜㅍ ㅣㅅ ㅌㅗㅗ ㅅㅏㄸㅌㅠ.",
+      "ㅌㅎㅔㄹㅔ'ㅅ ㅌㅗㅗ ㅁㅜㅊㅎ ㅅㅏㄸㅌ ㅣㄴ ㅌㅎㅔ ㅅㅗㅜㅍ."
+    ],
+    "t": "The soup is too salty. | There's too much salt in the soup."
+  },
+  {
+    "q": "Li eble neniam estos fama.",
+    "a": [
+      "ㅣㅌ ㅁㅏㅠ ㅂㅔ ㅌㅎㅏㅌ ㅎㅔ 외ㅣㄸㄸ ㄴㅔㅆㅔㄹ ㅂㅔ ㄲㅏㅁㅗㅜㅅ."
+    ],
+    "t": "It may be that he will never be famous."
+  },
+  {
+    "q": "Ĉiuj homoj estas egalaj antaŭ Dio.",
+    "a": [
+      "ㅏㄸㄸ ㅁㅔㄴ ㅏㄹㅔ ㅔㅃㅜㅏㄸ ㅂㅔㄲㅗㄹㅔ ㄱㅗㄷ."
+    ],
+    "t": "All men are equal before God."
+  },
+  {
+    "q": "Tio okazis inter la oka kaj la deka.",
+    "a": [
+      "ㅣㅌ ㅎㅏㅍㅍㅔㄴㅔㄷ ㅂㅔㅌ외ㅔㅔㄴ ㅔㅣㄱㅎㅌ ㅏㄴㄷ ㅌㅔㄴ."
+    ],
+    "t": "It happened between eight and ten."
+  },
+  {
+    "q": "Mi ne scias, ĉu li estas kuracisto.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 ㅣㄲ ㅎㅔ ㅣㅅ ㅏ ㄷㅗㅊㅌㅗㄹ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㅋㄴㅗ외 ㅣㄲ ㅎㅔ'ㅅ ㅏ ㄷㅗㅊㅌㅗㄹ."
+    ],
+    "t": "I don't know if he is a doctor. | I don't know if he's a doctor."
+  },
+  {
+    "q": "Mi vidis vin ĉe la stirilo de via nova aŭto.",
+    "a": [
+      "ㅣ ㅅㅏ외 ㅠㅗㅜ ㄷㄹㅣㅆㅣㄴㄱ ㅠㅗㅜㄹ ㄴㅔ외 ㅊㅏㄹ."
+    ],
+    "t": "I saw you driving your new car."
+  },
+  {
+    "q": "Lia konduto en la festo estis tiel amuza, ke mi ne povis reteni ridadon.",
+    "a": [
+      "ㅎㅣㅅ ㅂㅔㅎㅏㅆㅣㅗㄹ ㅏㅌ ㅌㅎㅔ ㅍㅏㄹㅌㅠ 외ㅏㅅ ㅅㅗ ㅎㅜㅁㅗㄹㅗㅜㅅ ㅌㅎㅏㅌ ㅣ ㅊㅗㅜㄸㄷ ㄴㅗㅌ ㅎㅔㄸㅍ ㄸㅏㅜㄱㅎㅣㄴㄱ."
+    ],
+    "t": "His behavior at the party was so humorous that I could not help laughing."
+  },
+  {
+    "q": "Mi min senvestigas.",
+    "a": [
+      "ㅣ'ㅁ ㅜㄴㄷㄹㅔㅅㅅㅣㄴㄱ."
+    ],
+    "t": "I'm undressing."
+  },
+  {
+    "q": "Kial oni diras \"Bonan tagon\", kiam tago ne estas bona?",
+    "a": [
+      "외ㅎㅠ ㄷㅗㅔㅅ ㅗㄴㅔ ㅅㅏㅠ \"ㄱㅗㅗㄷ ㄷㅏㅠ\" 외ㅎㅔㄴ ㅌㅎㅔ ㄷㅏㅠ ㅣㅅ ㄴㅗㅌ ㄱㅗㅗㄷ?"
+    ],
+    "t": "Why does one say \"Good day\" when the day is not good?"
+  },
+  {
+    "q": "La pasvorto estas \"Muiriel\".",
+    "a": [
+      "ㅌㅎㅔ ㅍㅏㅅㅅ외ㅗㄹㄷ ㅣㅅ \"ㅁㅜㅣㄹㅣㅔㄸ\"."
+    ],
+    "t": "The password is \"Muiriel\"."
+  },
+  {
+    "q": "Vi estas la granda amo de mia vivo.",
+    "a": [
+      "ㅠㅗㅜ ㅏㄹㅔ ㅌㅎㅔ ㄱㄹㅔㅏㅌ ㄸㅗㅆㅔ ㅗㄲ ㅁㅠ ㄸㅣㄲㅔ."
+    ],
+    "t": "You are the great love of my life."
+  },
+  {
+    "q": "Tio estas la vero pura.",
+    "a": [
+      "ㅌㅎㅏㅌ'ㅅ ㅌㅎㅔ ㅏㅂㅅㅗㄸㅜㅌㅔ ㅌㄹㅜㅌㅎ."
+    ],
+    "t": "That's the absolute truth."
+  },
+  {
+    "q": "Mi soifas.",
+    "a": [
+      "ㅣ'ㅁ ㅌㅎㅣㄹㅅㅌㅠ.",
+      "ㅣ ㅏㅁ ㅌㅎㅣㄹㅅㅌㅠ."
+    ],
+    "t": "I'm thirsty. | I am thirsty."
+  },
+  {
+    "q": "Kiam oni ne povas fari kion oni volas, oni faru kion oni povas.",
+    "a": [
+      "외ㅎㅔㄴ ㅠㅗㅜ ㅊㅏㄴ'ㅌ ㄷㅗ 외ㅎㅏㅌ ㅠㅗㅜ 외ㅏㄴㅌ, ㅠㅗㅜ ㄷㅗ 외ㅎㅏㅌ ㅠㅗㅜ ㅊㅏㄴ."
+    ],
+    "t": "When you can't do what you want, you do what you can."
+  },
+  {
+    "q": "Ĉu vi nenion diris al li?",
+    "a": [
+      "ㅠㅗㅜ ㄷㅣㄷㄴ'ㅌ ㅌㅔㄸㄸ ㅎㅣㅁ ㅏㄴㅠㅌㅎㅣㄴㄱ?"
+    ],
+    "t": "You didn't tell him anything?"
+  },
+  {
+    "q": "La cerbo estas nur kompleksa maŝino.",
+    "a": [
+      "ㅌㅎㅔ ㅂㄹㅏㅣㄴ ㅣㅅ ㅈㅜㅅㅌ ㅏ ㅊㅗㅁㅍㄸㅣㅊㅏㅌㅔㄷ ㅁㅏㅊㅎㅣㄴㅔ."
+    ],
+    "t": "The brain is just a complicated machine."
+  },
+  {
+    "q": "Ŝi vere estas inteligenta, ĉu ne?",
+    "a": [
+      "ㅅㅎㅔ'ㅅ ㄹㅔㅏㄸㄸㅠ ㅅㅁㅏㄹㅌ, ㅣㅅㄴ'ㅌ ㅅㅎㅔ?"
+    ],
+    "t": "She's really smart, isn't she?"
+  },
+  {
+    "q": "Tro malfrue.",
+    "a": [
+      "ㅌㅗㅗ ㄸㅏㅌㅔ."
+    ],
+    "t": "Too late."
+  },
+  {
+    "q": "Mi lastsemajne eklernis la ĉinan lingvon.",
+    "a": [
+      "ㅣ ㅅㅌㅏㄹㅌㅔㄷ ㄸㅔㅏㄹㄴㅣㄴㄱ ㅊㅎㅣㄴㅔㅅㅔ ㄸㅏㅅㅌ 외ㅔㅔㅋ."
+    ],
+    "t": "I started learning Chinese last week."
+  },
+  {
+    "q": "Pro la akcidento mi venis tro malfrue al la lernejo.",
+    "a": [
+      "ㅗㄴ ㅏㅊㅊㅗㅜㄴㅌ ㅗㄲ ㅏㄴ ㅏㅊㅊㅣㄷㅔㄴㅌ, ㅣ 외ㅏㅅ ㄸㅏㅌㅔ ㄲㅗㄹ ㅅㅊㅎㅗㅗㄸ.",
+      "ㅂㅔㅊㅏㅜㅅㅔ ㅗㄲ ㅌㅎㅔ ㅏㅊㅊㅣㄷㅔㄴㅌ ㅣ 외ㅔㄴㅌ ㅌㅗㅗ ㄸㅏㅌㅔ ㅌㅗ ㅅㅊㅎㅗㅗㄸ."
+    ],
+    "t": "On account of an accident, I was late for school. | Because of the accident I went too late to school."
+  },
+  {
+    "q": "Mi terure eraris.",
+    "a": [
+      "ㅣ ㅁㅏㄷㅔ ㅏ ㅌㅔㄹㄹㅣㅂㄸㅔ ㅁㅣㅅㅌㅏㅋㅔ.",
+      "ㅣ ㅁㅏㄷㅔ ㅏ ㄴㅣㄱㅎㅌㅁㅏㄹㅣㅅㅎ ㅁㅣㅅㅌㅏㅋㅔ."
+    ],
+    "t": "I made a terrible mistake. | I made a nightmarish mistake."
+  },
+  {
+    "q": "Ŝi malŝatas verdan pipron.",
+    "a": [
+      "ㅅㅎㅔ ㅎㅏㅌㅔㅅ ㄱㄹㅔㅔㄴ ㅍㅔㅍㅍㅔㄹㅅ.",
+      "ㅅㅎㅔ ㄷㅗㅔㅅ ㄴㅗㅌ ㄸㅣㅋㅔ ㄱㄹㅔㅔㄴ ㅍㅔㅍㅍㅔㄹㅅ."
+    ],
+    "t": "She hates green peppers. | She does not like green peppers."
+  },
+  {
+    "q": "Mi pensas, ke mi jam estis ĉi tie.",
+    "a": [
+      "ㅣ ㅌㅎㅣㄴㅋ ㅣ'ㅆㅔ ㅂㅔㅔㄴ ㅎㅔㄹㅔ ㅂㅔㄲㅗㄹㅔ."
+    ],
+    "t": "I think I've been here before."
+  },
+  {
+    "q": "Li feliĉigis siajn gepatrojn.",
+    "a": [
+      "ㅎㅔ ㅁㅏㄷㅔ ㅎㅣㅅ ㅍㅏㄹㅔㄴㅌㅅ ㅎㅏㅍㅍㅠ."
+    ],
+    "t": "He made his parents happy."
+  },
+  {
+    "q": "Li ne havas hejmon.",
+    "a": [
+      "ㅎㅔ ㅎㅏㅅ ㄴㅗ ㅎㅗㅜㅅㅔ ㅌㅗ ㄸㅣㅆㅔ ㅣㄴ."
+    ],
+    "t": "He has no house to live in."
+  },
+  {
+    "q": "Mi ekhavis bonan ideon.",
+    "a": [
+      "ㅏ ㄱㅗㅗㄷ ㅣㄷㅔㅏ ㅊㅏㅁㅔ ㅣㄴㅌㅗ ㅁㅠ ㅁㅣㄴㄷ.",
+      "ㅣ ㅎㅏㅆㅔ ㅈㅜㅅㅌ ㅎㅏㄷ ㅏ ㄱㅗㅗㄷ ㅣㄷㅔㅏ.",
+      "ㅣ'ㅆㅔ ㅈㅜㅅㅌ ㅎㅏㄷ ㅏ ㄱㅗㅗㄷ ㅣㄷㅔㅏ."
+    ],
+    "t": "A good idea came into my mind. | I have just had a good idea. | I've just had a good idea."
+  },
+  {
+    "q": "Mia domo estas granda.",
+    "a": [
+      "ㅁㅠ ㅎㅗㅜㅅㅔ ㅣㅅ ㅂㅣㄱ."
+    ],
+    "t": "My house is big."
+  },
+  {
+    "q": "Kancero estas granda malamiko de la homaro.",
+    "a": [
+      "ㅊㅏㄴㅊㅔㄹ ㅣㅅ ㅏ ㄱㄹㅔㅏㅌ ㅔㄴㅔㅁㅠ ㅗㄲ ㅎㅜㅁㅏㄴㅣㅌㅠ.",
+      "ㅊㅏㄴㅊㅔㄹ ㅣㅅ ㅏ ㄱㄹㅔㅏㅌ ㅔㄴㅔㅁㅠ ㅗㄲ ㅁㅏㄴㅋㅣㄴㄷ."
+    ],
+    "t": "Cancer is a great enemy of humanity. | Cancer is a great enemy of mankind."
+  },
+  {
+    "q": "Ŝi montris al mi sian ĉambron.",
+    "a": [
+      "ㅅㅎㅔ ㅅㅎㅗ외ㅔㄷ ㅁㅔ ㅎㅔㄹ ㄹㅗㅗㅁ.",
+      "ㅅㅎㅔ ㅎㅏㅅ ㅅㅎㅗ외ㄴ ㅎㅔㄹ ㄹㅗㅗㅁ ㅌㅗ ㅁㅔ."
+    ],
+    "t": "She showed me her room. | She has shown her room to me."
+  },
+  {
+    "q": "Ŝi estas mia samklasano.",
+    "a": [
+      "ㅅㅎㅔ'ㅅ ㅁㅠ ㅊㄸㅏㅅㅅㅁㅏㅌㅔ."
+    ],
+    "t": "She's my classmate."
+  },
+  {
+    "q": "Eĉ monstron admiras, kiu ame deliras.",
+    "a": [
+      "ㅗㄴㅔ 외ㅎㅗ ㅣㅅ ㅂㄸㅣㄴㄷㅔㄷ ㅂㅠ ㄸㅗㅆㅔ ㅏㄷㅁㅣㄹㅔㅅ ㅔㅆㅔㄴ ㅏ ㅁㅗㄴㅅㅌㅔㄹ."
+    ],
+    "t": "One who is blinded by love admires even a monster."
+  },
+  {
+    "q": "Ŝi tre ŝatas sian lernejon.",
+    "a": [
+      "ㅅㅎㅔ ㄸㅣㅋㅔㅅ ㅎㅔㄹ ㅅㅊㅎㅗㅗㄸ ㅏ ㄸㅗㅌ."
+    ],
+    "t": "She likes her school a lot."
+  },
+  {
+    "q": "Ĉiumatene li legas la gazeton.",
+    "a": [
+      "ㅎㅔ ㄹㅔㅏㄷㅅ ㅌㅎㅔ ㅍㅏㅍㅔㄹ ㅔㅆㅔㄹㅠ ㅁㅗㄹㄴㅣㄴㄱ.",
+      "ㅎㅔ ㄹㅔㅏㄷㅅ ㅌㅎㅔ ㄴㅔ외ㅅㅍㅏㅍㅔㄹ ㅔㅆㅔㄹㅠ ㅁㅗㄹㄴㅣㄴㄱ."
+    ],
+    "t": "He reads the paper every morning. | He reads the newspaper every morning."
+  },
+  {
+    "q": "Ĉiumatene ŝi legas la gazeton.",
+    "a": [
+      "ㅅㅎㅔ ㄹㅔㅏㄷㅅ ㅌㅎㅔ ㄴㅔ외ㅅㅍㅏㅍㅔㄹ ㅔㅆㅔㄹㅠ ㅁㅗㄹㄴㅣㄴㄱ.",
+      "ㅔㅆㅔㄹㅠ ㅁㅗㄹㄴㅣㄴㄱ ㅅㅎㅔ ㄹㅔㅏㄷㅅ ㅌㅎㅔ ㄴㅔ외ㅅㅍㅏㅍㅔㄹ."
+    ],
+    "t": "She reads the newspaper every morning. | Every morning she reads the newspaper."
+  },
+  {
+    "q": "Mi tre bedaŭras.",
+    "a": [
+      "ㅣ ㅏㅁ ㅆㅔㄹㅠ ㅅㅗㄹㄹㅠ.",
+      "ㅣ'ㅁ ㅆㅔㄹㅠ ㅅㅗㄹㄹㅠ."
+    ],
+    "t": "I am very sorry. | I'm very sorry."
+  },
+  {
+    "q": "Mi provos denove.",
+    "a": [
+      "ㅣ 외ㅣㄸㄸ ㅌㄹㅠ ㅏㄱㅏㅣㄴ."
+    ],
+    "t": "I will try again."
+  },
+  {
+    "q": "Kiam ŝi naskiĝis?",
+    "a": [
+      "외ㅎㅔㄴ 외ㅏㅅ ㅅㅎㅔ ㅂㅗㄹㄴ?"
+    ],
+    "t": "When was she born?"
+  },
+  {
+    "q": "Mi ne ŝatas lian parolmanieron.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄸㅣㅋㅔ ㅎㅣㅅ 외ㅏㅠ ㅗㄲ ㅌㅏㄸㅋㅣㄴㄱ."
+    ],
+    "t": "I don't like his way of talking."
+  },
+  {
+    "q": "Kiam vi edziĝis?",
+    "a": [
+      "외ㅎㅔㄴ ㄷㅣㄷ ㅠㅗㅜ ㄱㅔㅌ ㅁㅏㄹㄹㅣㅔㄷ?"
+    ],
+    "t": "When did you get married?"
+  },
+  {
+    "q": "La konstruaĵo estas konstruata.",
+    "a": [
+      "ㅌㅎㅔ ㅂㅜㅣㄸㄷㅣㄴㄱ ㅣㅅ ㅜㄴㄷㅔㄹ ㅊㅗㄴㅅㅌㄹㅜㅊㅌㅣㅗㄴ."
+    ],
+    "t": "The building is under construction."
+  },
+  {
+    "q": "Li timas erari.",
+    "a": [
+      "ㅎㅔ'ㅅ ㅏㄲㄹㅏㅣㄷ ㅗㄲ ㅁㅏㅋㅣㄴㄱ ㅁㅣㅅㅌㅏㅋㅔㅅ."
+    ],
+    "t": "He's afraid of making mistakes."
+  },
+  {
+    "q": "Li rehejmiĝis malfrue en la vespero.",
+    "a": [
+      "ㅎㅔ ㅊㅏㅁㅔ ㅎㅗㅁㅔ ㄸㅏㅌㅔ ㅣㄴ ㅌㅎㅔ ㅔㅆㅔㄴㅣㄴㄱ."
+    ],
+    "t": "He came home late in the evening."
+  },
+  {
+    "q": "Ŝi havas tri fratojn.",
+    "a": [
+      "ㅅㅎㅔ ㅎㅏㅅ ㅌㅎㄹㅔㅔ ㅂㄹㅗㅌㅎㅔㄹㅅ."
+    ],
+    "t": "She has three brothers."
+  },
+  {
+    "q": "Kion signifas ĉi tiu vorto?",
+    "a": [
+      "외ㅎㅏㅌ ㄷㅗㅔㅅ ㅌㅎㅣㅅ 외ㅗㄹㄷ ㅁㅔㅏㄴ?",
+      "외ㅎㅏㅌ ㅣㅅ ㅌㅎㅔ ㅁㅔㅏㄴㅣㄴㄱ ㅗㄲ ㅌㅎㅣㅅ 외ㅗㄹㄷ?",
+      "외ㅎㅏㅌ'ㅅ ㅌㅎㅔ ㅁㅔㅏㄴㅣㄴㄱ ㅗㄲ ㅌㅎㅣㅅ 외ㅗㄹㄷ?"
+    ],
+    "t": "What does this word mean? | What is the meaning of this word? | What's the meaning of this word?"
+  },
+  {
+    "q": "Ŝi estas malriĉa sed feliĉa.",
+    "a": [
+      "ㅅㅎㅔ ㅣㅅ ㅍㅗㅗㄹ, ㅂㅜㅌ ㅅㅎㅔ ㅣㅅ ㅎㅏㅍㅍㅠ."
+    ],
+    "t": "She is poor, but she is happy."
+  },
+  {
+    "q": "Ĉu vi eble havas bieron eksterlandan?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ ㅏ ㄲㅗㄹㅔㅣㄱㄴ ㅂㅔㅔㄹ?"
+    ],
+    "t": "Do you have a foreign beer?"
+  },
+  {
+    "q": "Vi aspektas kiel malsaĝulo.",
+    "a": [
+      "ㅠㅗㅜ ㄸㅗㅗㅋ ㄸㅣㅋㅔ ㅏㄴ ㅣㅁㅂㅔㅊㅣㄸㅔ."
+    ],
+    "t": "You look like an imbecile."
+  },
+  {
+    "q": "Vi devas iri.",
+    "a": [
+      "ㅠㅗㅜ ㅎㅏㅆㅔ ㅌㅗ ㄱㅗ.",
+      "ㅠㅗㅜ ㄴㅔㅔㄷ ㅌㅗ ㄱㅗ.",
+      "ㅠㅗㅜ ㄱㅜㅠㅅ ㅎㅏㅆㅔ ㅌㅗ ㄱㅗ.",
+      "ㅠㅗㅜ'ㅆㅔ ㄱㅗㅌ ㅌㅗ ㄱㅗ.",
+      "ㅠㅗㅜ ㅁㅜㅅㅌ ㄱㅗ."
+    ],
+    "t": "You have to go. | You need to go. | You guys have to go. | You've got to go. | You must go."
+  },
+  {
+    "q": "Ni estas feliĉaj.",
+    "a": [
+      "외ㅔ ㅏㄹㅔ ㅎㅏㅍㅍㅠ."
+    ],
+    "t": "We are happy."
+  },
+  {
+    "q": "La ĉielo estas blua.",
+    "a": [
+      "ㅌㅎㅔ ㅅㅋㅠ ㅣㅅ ㅂㄸㅜㅔ."
+    ],
+    "t": "The sky is blue."
+  },
+  {
+    "q": "Kie estas miaj okulvitroj?",
+    "a": [
+      "외ㅎㅔㄹㅔ ㅏㄹㅔ ㅁㅠ ㄱㄸㅏㅅㅅㅔㅅ?"
+    ],
+    "t": "Where are my glasses?"
+  },
+  {
+    "q": "Ne kalkulu je lia helpo.",
+    "a": [
+      "ㄷㅗㄴ'ㅌ ㅊㅗㅜㄴㅌ ㅗㄴ ㅎㅣㅅ ㅎㅔㄸㅍ."
+    ],
+    "t": "Don't count on his help."
+  },
+  {
+    "q": "Mi ne ŝatas tian muzikon.",
+    "a": [
+      "ㅣ ㄷㅗㄴ'ㅌ ㄸㅣㅋㅔ ㅌㅎㅏㅌ ㅋㅣㄴㄷ ㅗㄲ ㅁㅜㅅㅣㅊ.",
+      "ㅣ ㄷㅗㄴ'ㅌ ㄸㅣㅋㅔ ㅌㅎㅣㅅ ㅋㅣㄴㄷ ㅗㄲ ㅁㅜㅅㅣㅊ."
+    ],
+    "t": "I don't like that kind of music. | I don't like this kind of music."
+  },
+  {
+    "q": "Li ĉiam malfruas en la lernejo.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㅏㄸ외ㅏㅠㅅ ㄸㅏㅌㅔ ㄲㅗㄹ ㅅㅊㅎㅗㅗㄸ."
+    ],
+    "t": "He is always late for school."
+  },
+  {
+    "q": "Ili estas bona paro.",
+    "a": [
+      "ㅌㅎㅔㅠ ㅏㄹㅔ ㅏ ㄱㅗㅗㄷ ㅊㅗㅜㅍㄸㅔ."
+    ],
+    "t": "They are a good couple."
+  },
+  {
+    "q": "Ĉu vi ŝatas tenison?",
+    "a": [
+      "ㄷㅗ ㅠㅗㅜ ㄸㅣㅋㅔ ㅌㅔㄴㄴㅣㅅ?"
+    ],
+    "t": "Do you like tennis?"
+  },
+  {
+    "q": "Bonvenon ĉe Tatoeba.",
+    "a": [
+      "외ㅔㄸㅊㅗㅁㅔ ㅌㅗ ㅌㅏㅌㅗㅔㅂㅏ!"
+    ],
+    "t": "Welcome to Tatoeba!"
+  },
+  {
+    "q": "Lasu ĝin fermita.",
+    "a": [
+      "ㄸㅔㅏㅆㅔ ㅣㅌ ㅊㄸㅗㅅㅔㄷ."
+    ],
+    "t": "Leave it closed."
+  },
+  {
+    "q": "Ĉu vi iam estis en Parizo?",
+    "a": [
+      "ㅎㅏㅆㅔ ㅠㅗㅜ ㅔㅆㅔㄹ ㅂㅔㅔㄴ ㅌㅗ ㅍㅏㄹㅣㅅ?"
+    ],
+    "t": "Have you ever been to Paris?"
+  },
+  {
+    "q": "Ĉi tia teko estas havebla en neniu butiko.",
+    "a": [
+      "ㅌㅎㅣㅅ ㅂㅏㄱ ㅣㅅ ㄴㅗㅌ ㅏㅆㅏㅣㄸㅏㅂㄸㅔ ㅣㄴ ㅏㄴㅠ ㅅㅌㅗㄹㅔ."
+    ],
+    "t": "This bag is not available in any store."
+  },
+  {
+    "q": "Viaj ŝuoj ne harmonias kun tiu kostumo.",
+    "a": [
+      "ㅠㅗㅜㄹ ㅅㅎㅗㅔㅅ ㄷㅗ ㄴㅗㅌ ㄱㅗ 외ㅣㅌㅎ ㅌㅎㅔ ㅅㅜㅣㅌ.",
+      "ㅠㅗㅜㄹ ㅅㅎㅗㅔㅅ ㄷㅗㄴ'ㅌ ㄱㅗ 외ㅣㅌㅎ ㅌㅎㅏㅌ ㅗㅜㅌㄲㅣㅌ."
+    ],
+    "t": "Your shoes do not go with the suit. | Your shoes don't go with that outfit."
+  },
+  {
+    "q": "Mi havas kuraĝon kaj fortan volon.",
+    "a": [
+      "ㅣ ㅎㅏㅆㅔ ㅊㅗㅜㄹㅏㄱㅔ ㅏㄴㄷ ㅏ ㅅㅌㄹㅗㄴㄱ 외ㅣㄸㄸ."
+    ],
+    "t": "I have courage and a strong will."
+  },
+  {
+    "q": "Li tute ne interesiĝas pri arto.",
+    "a": [
+      "ㅎㅔ ㅣㅅ ㄴㅗㅌ ㅣㄴㅌㅔㄹㅔㅅㅌㅔㄷ ㅣㄴ ㅏㄹㅌ ㅏㅌ ㅏㄸㄸ."
+    ],
+    "t": "He is not interested in art at all."
+  },
+  {
+    "q": "Mono ŝanĝis lian vivon.",
+    "a": [
+      "ㅁㅗㄴㅔㅠ ㅎㅏㅅ ㅊㅎㅏㄴㄱㅔㄷ ㅎㅣㅅ ㄸㅣㄲㅔ."
+    ],
+    "t": "Money has changed his life."
+  },
+  {
+    "q": "He, vi! Kion vi faras?",
+    "a": [
+      "ㅎㅔㅠ, ㅠㅗㅜ! 외ㅎㅏㅌ ㅏㄹㅔ ㅠㅗㅜ ㄷㅗㅣㄴㄱ?"
+    ],
+    "t": "Hey, you! What are you doing?"
+  },
+  {
+    "q": "Ili atakis la malamikon.",
+    "a": [
+      "ㅌㅎㅔㅠ ㅏㅌㅌㅏㅊㅋㅔㄷ ㅌㅎㅔ ㅔㄴㅔㅁㅠ."
+    ],
+    "t": "They attacked the enemy."
+  },
+  {
+    "q": "Silentu!",
+    "a": [
+      "ㄷㅗ ㅂㅔ ㅃㅜㅣㅔㅌ.",
+      "ㅅㅎㅜㅌ ㅜㅍ!",
+      "ㅋㅔㅔㅍ ㅠㅗㅜㄹ ㅁㅗㅜㅌㅎ ㅅㅎㅜㅌ.",
+      "ㅂㅔ ㅃㅜㅣㅔㅌ."
+    ],
+    "t": "Do be quiet. | Shut up! | Keep your mouth shut. | Be quiet."
+  },
+  {
+    "q": "Unue ili vidis la rubon, post tio ili alrigardis unu la alian.",
+    "a": [
+      "ㄲㅣㄹㅅㅌ ㅌㅎㅔㅠ ㅅㅏ외 ㅌㅎㅔ ㄷㅔㅂㄹㅣㅅ ㅌㅎㅔㄴ ㅌㅎㅔㅠ ㄸㅗㅗㅋㅔㄷ ㅏㅌ ㅔㅏㅊㅎ ㅗㅌㅎㅔㄹ."
+    ],
+    "t": "First they saw the debris then they looked at each other."
+  },
+  {
+    "q": "Mi ne povas manĝi pli.",
+    "a": [
+      "ㅣ ㅊㅏㄴ'ㅌ ㅔㅏㅌ ㅁㅗㄹㅔ."
+    ],
+    "t": "I can't eat more."
+  },
+  {
+    "q": "Mi uzas Firefox.",
+    "a": [
+      "ㅣ ㅜㅅㅔ ㄲㅣㄹㅔㄲㅗㅉ."
+    ],
+    "t": "I use Firefox."
+  },
+  {
+    "q": "Sube de la letero li skribis, \"kun afablaj salutoj\", kaj poste subskribis per sia nomo.",
+    "a": [
+      "ㅏㅌ ㅌㅎㅔ ㅂㅗㅌㅌㅗㅁ ㅗㄲ ㅌㅎㅔ ㄸㅔㅌㅌㅔㄹ ㅎㅔ 외ㄹㅗㅌㅔ \"ㅋㅣㄴㄷ ㄹㅔㄱㅏㄹㄷㅅ,\" ㅌㅎㅔㄴ ㅅㅣㄱㄴㅔㄷ ㅎㅣㅅ ㄴㅏㅁㅔ."
+    ],
+    "t": "At the bottom of the letter he wrote \"Kind regards,\" then signed his name."
+  },
+  {
+    "q": "Mi formiĝadas ĉe Ford.",
+    "a": [
+      "ㅣ ㄷㅗ ㅏ ㅌㄹㅏㅣㄴㅣㄴㄱ ㅏㅌ ㄲㅗㄹㄷ."
+    ],
+    "t": "I do a training at Ford."
+  },
+  {
+    "q": "Ŝi estas malviva.",
+    "a": [
+      "ㅅㅎㅔ ㅣㅅ ㄷㅔㅏㄷ."
+    ],
+    "t": "She is dead."
+  },
+  {
+    "q": "Ĉu li havas multajn librojn?",
+    "a": [
+      "ㄷㅗㅔㅅ ㅎㅔ ㅎㅏㅆㅔ ㅁㅏㄴㅠ ㅂㅗㅗㅋㅅ?"
+    ],
+    "t": "Does he have many books?"
+  },
+  {
+    "q": "Kiom da libroj vi havas?",
+    "a": [
+      "ㅎㅗ외 ㅁㅏㄴㅠ ㅂㅗㅗㅋㅅ ㄷㅗ ㅠㅗㅜ ㅎㅏㅆㅔ?"
+    ],
+    "t": "How many books do you have?"
+  }
+]

@@ -1,6 +1,4 @@
-console.log(1)
-
-function loadLanguage() {
+export function load() {
   	const lang = document.documentElement.lang
 
   	fetch(`/templates/${lang}.json`).then(res => res.json()).then(data => {
@@ -18,10 +16,7 @@ function loadLanguage() {
         		}
 			)
 		}
-	).catch(err => {
-        	console.error("i18n error:", err)
-    	}
 	)
 }
 
-document.addEventListener('DOMContentLoaded', loadLanguage)
+document.addEventListener('DOMContentLoaded', load)

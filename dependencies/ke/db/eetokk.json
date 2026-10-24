@@ -1,0 +1,8964 @@
+[
+  {
+    "q": "la",
+    "a": [
+      "ㅌㅎㅔ"
+    ],
+    "t": "the"
+  },
+  {
+    "q": "de",
+    "a": [
+      "ㅂㅠ",
+      "ㄲㄹㅗㅁ",
+      "ㅗㄲ",
+      "ㅗㄴ",
+      "ㅅㅣㄴㅊㅔ"
+    ],
+    "t": "by, from, of, on, since"
+  },
+  {
+    "q": "kaj",
+    "a": [
+      "ㅏㄴㄷ"
+    ],
+    "t": "and"
+  },
+  {
+    "q": "en",
+    "a": [
+      "ㅣㄴ",
+      "ㅣㄴㅌㅗ",
+      "외ㅣㅌㅎㅣㄴ"
+    ],
+    "t": "in, into, within"
+  },
+  {
+    "q": "esti",
+    "a": [
+      "ㅌㅗ ㅂㅔ"
+    ],
+    "t": "to be"
+  },
+  {
+    "q": "al",
+    "a": [
+      "ㅏㅌ",
+      "ㅌㅗ",
+      "ㅌㅗ외ㅏㄹㄷ(ㅅ)"
+    ],
+    "t": "at, to, toward(s)"
+  },
+  {
+    "q": "mi",
+    "a": [
+      "ㅣ"
+    ],
+    "t": "I"
+  },
+  {
+    "q": "ne",
+    "a": [
+      "ㄴㅗ",
+      "ㄴㅗㅌ"
+    ],
+    "t": "no, not"
+  },
+  {
+    "q": "kiu",
+    "a": [
+      "ㅌㅎㅏㅌ",
+      "외ㅎㅣㅊㅎ (ㅗㄴㅔ)",
+      "외ㅎㅗ"
+    ],
+    "t": "that, which (one), who"
+  },
+  {
+    "q": "li",
+    "a": [
+      "ㅎㅔ"
+    ],
+    "t": "he"
+  },
+  {
+    "q": "ke",
+    "a": [
+      "ㅌㅎㅏㅌ"
+    ],
+    "t": "that"
+  },
+  {
+    "q": "por",
+    "a": [
+      "ㄲㅗㄹ",
+      "ㄲㅗㄹ ㅌㅎㅔ ㅅㅏㅋㅔ ㅗㄲ",
+      "ㅌㅗ",
+      "ㅣㄴ ㅗㄹㄷㅔㄹ ㅌㅗ",
+      "ㅍㅔㄹ",
+      "ㅅㅗ ㅏㅅ ㅌㅗ"
+    ],
+    "t": "for, for the sake of, to, in order to, per, so as to"
+  },
+  {
+    "q": "tiu",
+    "a": [
+      "ㅌㅎㅏㅌ (ㅗㄴㅔ)"
+    ],
+    "t": "that (one)"
+  },
+  {
+    "q": "pri",
+    "a": [
+      "ㅏㅂㅗㅜㅌ",
+      "ㅊㅗㄴㅊㅔㄹㄴㅣㄴㄱ",
+      "ㅜㅍㅗㄴ",
+      "ㅗㄴ"
+    ],
+    "t": "about, concerning, upon, on"
+  },
+  {
+    "q": "ili",
+    "a": [
+      "ㅌㅎㅔㅠ"
+    ],
+    "t": "they"
+  },
+  {
+    "q": "vi",
+    "a": [
+      "ㅠㅗㅜ"
+    ],
+    "t": "you"
+  },
+  {
+    "q": "sed",
+    "a": [
+      "ㅂㅜㅌ"
+    ],
+    "t": "but"
+  },
+  {
+    "q": "ĝi",
+    "a": [
+      "ㅣㅌ"
+    ],
+    "t": "it"
+  },
+  {
+    "q": "sia",
+    "a": [
+      "ㅣㅌㅅ",
+      "ㅌㅎㅔㅣㄹ",
+      "ㅎㅣㅅ",
+      "ㅎㅔㄹㅅ",
+      "ㅗㄴㅔ’ㅅ ㅗ외ㄴ"
+    ],
+    "t": "its, their, his, hers, one’s own"
+  },
+  {
+    "q": "kun",
+    "a": [
+      "외ㅣㅌㅎ"
+    ],
+    "t": "with"
+  },
+  {
+    "q": "kiel",
+    "a": [
+      "ㅏㅅ",
+      "ㄸㅣㅋㅔ",
+      "ㅅㅜㅊㅎ ㅏㅅ",
+      "ㅎㅗ외",
+      "ㅣㄴ 외ㅎㅏㅌ 외ㅏㅠ",
+      "ㅅㅜㅊㅎ ㅏ",
+      "외ㅎㅏㅌ ㅏ"
+    ],
+    "t": "as, like, such as, how, in what way, such a, what a"
+  },
+  {
+    "q": "tio",
+    "a": [
+      "ㅌㅎㅏㅌ ㅗㅆㅔㄹ ㅌㅎㅔㄹㅔ",
+      "ㅌㅎㅏㅌ",
+      "ㅌㅎㅗㅅㅔ"
+    ],
+    "t": "that over there, that, those"
+  },
+  {
+    "q": "el",
+    "a": [
+      "ㄲㄹㅗㅁ",
+      "(ㅗㅜㅌ) ㅗㄲ"
+    ],
+    "t": "from, (out) of"
+  },
+  {
+    "q": "ni",
+    "a": [
+      "외ㅔ"
+    ],
+    "t": "we"
+  },
+  {
+    "q": "pli",
+    "a": [
+      "ㅁㅗㄹㅔ"
+    ],
+    "t": "more"
+  },
+  {
+    "q": "ŝi",
+    "a": [
+      "ㅅㅎㅔ"
+    ],
+    "t": "she"
+  },
+  {
+    "q": "povi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㅂㄸㅔ",
+      "ㅊㅏㄴ"
+    ],
+    "t": "to be able, can"
+  },
+  {
+    "q": "oni",
+    "a": [
+      "ㅗㄴㅔ",
+      "ㅌㅎㅔㅠ",
+      "ㅍㅔㅗㅍㄸㅔ"
+    ],
+    "t": "one, they, people"
+  },
+  {
+    "q": "per",
+    "a": [
+      "ㅂㅠ ㅁㅔㅏㄴㅅ ㅗㄲ",
+      "ㅌㅎㄹㅗㅜㄱㅎ",
+      "외ㅣㅌㅎ"
+    ],
+    "t": "by means of, through, with"
+  },
+  {
+    "q": "diri",
+    "a": [
+      "ㅌㅗ ㅅㅏㅠ",
+      "ㅌㅔㄸㄸ",
+      "ㅅㅌㅏㅌㅔ"
+    ],
+    "t": "to say, tell, state"
+  },
+  {
+    "q": "ĉiu",
+    "a": [
+      "ㅏㄸㄸ ㅌㅎㅔ",
+      "ㅔㅏㅊㅎ",
+      "ㅔㅆㅔㄹㅠ",
+      "ㅔㅆㅔㄹㅠㅂㅗㄷㅠ",
+      "ㅔㅆㅔㄹㅠ ㅗㄴㅔ"
+    ],
+    "t": "all the, each, every, everybody, every one"
+  },
+  {
+    "q": "sur",
+    "a": [
+      "ㅗㄴ",
+      "ㅜㅍㅗㄴ",
+      "ㅗㄴㅌㅗ"
+    ],
+    "t": "on, upon, onto"
+  },
+  {
+    "q": "aŭ",
+    "a": [
+      "ㅔㅣㅌㅎㅔㄹ",
+      "ㅗㄹ"
+    ],
+    "t": "either, or"
+  },
+  {
+    "q": "mia",
+    "a": [
+      "ㅁㅠ",
+      "ㅁㅣㄴㅔ"
+    ],
+    "t": "my, mine"
+  },
+  {
+    "q": "da",
+    "a": [
+      "(ㅃㅜㅏㄴㅌㅣㅌㅠ) ㅗㄲ"
+    ],
+    "t": "(quantity) of"
+  },
+  {
+    "q": "nur",
+    "a": [
+      "ㅔㅉㅊㄸㅜㅅㅣㅆㅔㄸㅠ",
+      "ㅈㅜㅅㅌ",
+      "ㅗㄴㄸㅠ",
+      "ㅅㅣㅁㅍㄸㅠ"
+    ],
+    "t": "exclusively, just, only, simply"
+  },
+  {
+    "q": "havi",
+    "a": [
+      "ㅌㅗ ㅎㅏㅆㅔ",
+      "ㅗ외ㄴ"
+    ],
+    "t": "to have, own"
+  },
+  {
+    "q": "ankaŭ",
+    "a": [
+      "ㅏㄸㅅㅗ",
+      "ㄸㅣㅋㅔ외ㅣㅅㅔ",
+      "ㅌㅗㅗ",
+      "ㅁㅗㄹㅔㅗㅆㅔㄹ"
+    ],
+    "t": "also, likewise, too, moreover"
+  },
+  {
+    "q": "alia",
+    "a": [
+      "ㅗㅌㅎㅔㄹ",
+      "ㅏㄴㅗㅌㅎㅔㄹ (ㅗㄴㅔ)",
+      "ㄷㅣㄲㄲㅔㄹㅔㄴㅌ",
+      "ㅔㄸㅅㅔ"
+    ],
+    "t": "other, another (one), different, else"
+  },
+  {
+    "q": "ĉu",
+    "a": [
+      "ㅔㅣㅌㅎㅔㄹ",
+      "ㅣㄲ",
+      "ㅣㅅ ㅣㅌ",
+      "외ㅎㅔㅌㅎㅔㄹ",
+      "(ㅏㅅㅋㅅ ㅏ ㅃㅜㅔㅅㅌㅣㅗㄴ)"
+    ],
+    "t": "either, if, is it, whether, (asks a question)"
+  },
+  {
+    "q": "lia",
+    "a": [
+      "ㅎㅣㅅ"
+    ],
+    "t": "his"
+  },
+  {
+    "q": "kiam",
+    "a": [
+      "ㅏㅅ",
+      "외ㅎㅔㄴ"
+    ],
+    "t": "as, when"
+  },
+  {
+    "q": "dum",
+    "a": [
+      "ㄷㅜㄹㅣㄴㄱ",
+      "외ㅎㅣㄸㅔ",
+      "ㄲㅗㄹ",
+      "외ㅎㅔㄹㅔㅏㅅ",
+      "외ㅎㅣㄸㅅㅌ"
+    ],
+    "t": "during, while, for, whereas, whilst"
+  },
+  {
+    "q": "se",
+    "a": [
+      "ㅣㄲ",
+      "ㅍㄹㅗㅆㅣㄷㅔㄷ ㅌㅎㅏㅌ"
+    ],
+    "t": "if, provided that"
+  },
+  {
+    "q": "ĉi",
+    "a": [
+      "ㅎㅔㄹㅔ (ㄷㅔㄴㅗㅌㅔㅅ ㅍㄹㅗㅉㅣㅁㅣㅌㅠ)"
+    ],
+    "t": "here (denotes proximity)"
+  },
+  {
+    "q": "ĉar",
+    "a": [
+      "ㅏㅅ",
+      "ㅂㅔㅊㅏㅜㅅㅔ",
+      "ㄲㅗㄹ",
+      "ㅅㅣㄴㅊㅔ",
+      "외ㅎㅔㄹㅔㅏㅅ"
+    ],
+    "t": "as, because, for, since, whereas"
+  },
+  {
+    "q": "unu",
+    "a": [
+      "ㅗㄴㅔ"
+    ],
+    "t": "one"
+  },
+  {
+    "q": "si",
+    "a": [
+      "(ㄹㅔㄲㄸㅔㅉㅣㅆㅔ ㅍㄹㅗㄴㅗㅜㄴ)"
+    ],
+    "t": "(reflexive pronoun)"
+  },
+  {
+    "q": "kio",
+    "a": [
+      "ㅌㅎㅏㅌ",
+      "외ㅎㅣㅊㅎ"
+    ],
+    "t": "that, which"
+  },
+  {
+    "q": "plej",
+    "a": [
+      "ㅁㅗㅅㅌ"
+    ],
+    "t": "most"
+  },
+  {
+    "q": "pro",
+    "a": [
+      "ㅂㅔㅊㅏㅜㅅㅔ ㅗㄲ",
+      "ㄲㅗㄹ",
+      "ㄲㅗㄹ ㅅㅏㅋㅔ ㅗㄲ",
+      "ㅗㄴ ㅏㅊㅊㅗㅜㄴㅌ ㅗㄲ",
+      "ㅗ외ㅣㄴㄱ ㅌㅗ",
+      "ㅌㅎㄹㅗㅜㄱㅎ"
+    ],
+    "t": "because of, for, for sake of, on account of, owing to, through"
+  },
+  {
+    "q": "jaro",
+    "a": [
+      "ㅠㅔㅏㄹ",
+      "ㅆㅣㄴㅌㅏㄱㅔ (ㅗㄲ 외ㅣㄴㅔ)"
+    ],
+    "t": "year, vintage (of wine)"
+  },
+  {
+    "q": "post",
+    "a": [
+      "ㅏㄲㅌㅔㄹ",
+      "ㅂㅔㅎㅣㄴㄷ",
+      "ㅣㄴ"
+    ],
+    "t": "after, behind, in"
+  },
+  {
+    "q": "fari",
+    "a": [
+      "ㅌㅗ ㅏㅊㅎㅣㅔㅆㅔ",
+      "ㅏㅊㅌ",
+      "ㄷㅗ",
+      "ㅁㅏㅋㅔ",
+      "ㅍㅔㄹㄲㅗㄹㅁ",
+      "ㅂㅜㅣㄸㄷ"
+    ],
+    "t": "to achieve, act, do, make, perform, build"
+  },
+  {
+    "q": "ol",
+    "a": [
+      "ㅌㅎㅏㄴ"
+    ],
+    "t": "than"
+  },
+  {
+    "q": "devi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅗㅂㄸㅣㄱㅔㄷ ㅌㅗ",
+      "ㅎㅏㅆㅔ ㅌㅗ",
+      "ㅁㅜㅅㅌ",
+      "ㅗㅜㄱㅎㅌ ㅌㅗ",
+      "ㅅㅎㅗㅜㄸㄷ"
+    ],
+    "t": "to be obliged to, have to, must, ought to, should"
+  },
+  {
+    "q": "tiel",
+    "a": [
+      "ㅣㄴ ㅌㅎㅏㅌ 외ㅏㅠ",
+      "ㅅㅗ",
+      "ㅌㅎㅜㅅ",
+      "ㄸㅣㅋㅔ",
+      "ㅣㄴ ㅅㅜㅊㅎ ㅏ ㄲㅏㅅㅎㅣㅗㄴ",
+      "ㅣㄴ ㅌㅎㅏㅌ ㅁㅏㄴㄴㅔㄹ"
+    ],
+    "t": "in that way, so, thus, like, in such a fashion, in that manner"
+  },
+  {
+    "q": "ĉe",
+    "a": [
+      "ㅏㅌ (ㅎㅗㅜㅅㅔ ㅗㄲ)",
+      "ㅂㅔㅅㅣㄷㅔ",
+      "외ㅣㅌㅎ"
+    ],
+    "t": "at (house of), beside, with"
+  },
+  {
+    "q": "granda",
+    "a": [
+      "ㅂㅣㄱ",
+      "ㄱㄹㅔㅏㅌ",
+      "ㄸㅏㄹㄱㅔ",
+      "ㅌㅏㄸㄸ"
+    ],
+    "t": "big, great, large, tall"
+  },
+  {
+    "q": "via",
+    "a": [
+      "ㅠㅗㅜㄹ",
+      "ㅠㅗㅜㄹㅅ"
+    ],
+    "t": "your, yours"
+  },
+  {
+    "q": "eĉ",
+    "a": [
+      "ㅔㅆㅔㄴ"
+    ],
+    "t": "even"
+  },
+  {
+    "q": "jam",
+    "a": [
+      "ㅏㄸㄹㅔㅏㄷㅠ",
+      "ㅂㅠ ㄴㅗ외",
+      "ㅠㅔㅌ"
+    ],
+    "t": "already, by now, yet"
+  },
+  {
+    "q": "inter",
+    "a": [
+      "ㅏㅁㅗㄴㄱ",
+      "ㅂㅔㅌ외ㅔㅔㄴ"
+    ],
+    "t": "among, between"
+  },
+  {
+    "q": "homo",
+    "a": [
+      "ㅎㅜㅁㅏㄴ ㅂㅔㅣㄴㄱ",
+      "ㅁㅏㄴ"
+    ],
+    "t": "human being, man"
+  },
+  {
+    "q": "nun",
+    "a": [
+      "ㅏㅌ ㅍㄹㅔㅅㅔㄴㅌ",
+      "ㄴㅗ외"
+    ],
+    "t": "at present, now"
+  },
+  {
+    "q": "lingvo",
+    "a": [
+      "ㄸㅏㄴㄱㅜㅏㄱㅔ",
+      "ㅌㅗㄴㄱㅜㅔ"
+    ],
+    "t": "language, tongue"
+  },
+  {
+    "q": "nia",
+    "a": [
+      "ㅗㅜㄹ(ㅅ)"
+    ],
+    "t": "our(s)"
+  },
+  {
+    "q": "lando",
+    "a": [
+      "ㅊㅗㅜㄴㅌㄹㅠ",
+      "ㄸㅏㄴㄷ"
+    ],
+    "t": "country, land"
+  },
+  {
+    "q": "laŭ",
+    "a": [
+      "ㅏㅊㅊㅗㄹㄷㅣㄴㄱ ㅏㅅ",
+      "ㅏㅊㅊㅗㄹㄷㅣㄴㄱ ㅌㅗ",
+      "ㅏㅅ",
+      "ㅂㅠ",
+      "ㅏㄸㅗㄴㄱ",
+      "ㅣㄴ ㅏㅊㅊㅗㄹㄷㅏㄴㅊㅔ 외ㅣㅌㅎ"
+    ],
+    "t": "according as, according to, as, by, along, in accordance with"
+  },
+  {
+    "q": "antaŭ",
+    "a": [
+      "ㅏㅂㅗㅆㅔ",
+      "ㅏㅂㅗㅆㅔ",
+      "ㅂㅔㄲㅗㄹㅔ",
+      "ㅣㄴ ㄲㄹㅗㄴㅌ ㅗㄲ",
+      "ㅌㅗ",
+      "ㅏㄱㅗ"
+    ],
+    "t": "above, above, before, in front of, to, ago"
+  },
+  {
+    "q": "tre",
+    "a": [
+      "ㅃㅜㅣㅌㅔ",
+      "ㅆㅔㄹㅠ",
+      "ㅆㅔㄹㅠ ㅁㅜㅊㅎ"
+    ],
+    "t": "quite, very, very much"
+  },
+  {
+    "q": "esperanto",
+    "a": [
+      "ㅗㅍㅌㅣㅁㅣㅅㅌ"
+    ],
+    "t": "optimist"
+  },
+  {
+    "q": "tamen",
+    "a": [
+      "ㅂㅜㅌ",
+      "ㅎㅗ외ㅔㅆㅔㄹ",
+      "ㄴㅔㅆㅔㄹㅌㅎㅔㄸㅔㅅㅅ",
+      "ㅠㅔㅌ",
+      "ㄴㅗㅌ외ㅣㅌㅎㅅㅌㅏㄴㄷㅣㄴㄱ",
+      "ㅅㅌㅣㄸㄸ"
+    ],
+    "t": "but, however, nevertheless, yet, notwithstanding, still"
+  },
+  {
+    "q": "du",
+    "a": [
+      "ㅌ외ㅗ"
+    ],
+    "t": "two"
+  },
+  {
+    "q": "tie",
+    "a": [
+      "ㅌㅎㅔㄹㅔ",
+      "ㅣㄴ ㅌㅎㅏㅌ ㅍㄸㅏㅊㅔ",
+      "ㅗㅆㅔㄹ ㅌㅎㅔㄹㅔ",
+      "ㅠㅗㄴㄷㅔㄹ"
+    ],
+    "t": "there, in that place, over there, yonder"
+  },
+  {
+    "q": "nova",
+    "a": [
+      "ㄴㅔ외",
+      "ㄴㅗㅆㅔㄸ",
+      "ㄹㅔㅊㅔㄴㅌ"
+    ],
+    "t": "new, novel, recent"
+  },
+  {
+    "q": "do",
+    "a": [
+      "ㅏㅊㅊㅗㄹㄷㅣㄴㄱㄸㅠ",
+      "ㅅㅗ",
+      "ㅌㅎㅔㄴ",
+      "ㅌㅎㅔㄹㅔㄲㅗㄹㅔ; ㄴㅏㅁㅔ ㅗㄲ ㅌㅎㅔ ㄸㅔㅌㅌㅔㄹ ㄷ"
+    ],
+    "t": "accordingly, so, then, therefore; name of the letter D"
+  },
+  {
+    "q": "ĝis",
+    "a": [
+      "ㅌㅣㄸㄸ",
+      "ㅜㄴㅌㅣㄸ",
+      "ㅜㅍ ㅌㅗ",
+      "ㅏㅅ ㄲㅏㄹ ㅏㅅ"
+    ],
+    "t": "till, until, up to, as far as"
+  },
+  {
+    "q": "kontraŭ",
+    "a": [
+      "ㅏㅊㄹㅗㅅㅅ ㄲㄹㅗㅁ",
+      "ㅏㄱㅏㅣㄴㅅㅌ",
+      "ㅣㄴ ㅔㅉㅊㅎㅏㄴㄱㅔ ㄲㅗㄹ",
+      "ㅗㅍㅍㅗㅅㅔㄷ ㅌㅗ",
+      "ㅗㅍㅍㅗㅅㅣㅌㅔ",
+      "ㅜㅍㅗㄴ",
+      "ㅣㄴ ㄹㅔㅌㅜㄹㄴ ㄲㅗㄹ"
+    ],
+    "t": "across from, against, in exchange for, opposed to, opposite, upon, in return for"
+  },
+  {
+    "q": "vidi",
+    "a": [
+      "ㅌㅗ ㅅㅔㅔ",
+      "ㅆㅣㅔ외",
+      "ㅗㅂㅅㅔㄹㅆㅔ"
+    ],
+    "t": "to see, view, observe"
+  },
+  {
+    "q": "ilia",
+    "a": [
+      "ㅌㅎㅔㅣㄹ",
+      "ㅌㅎㅔㅣㄹㅅ"
+    ],
+    "t": "their, theirs"
+  },
+  {
+    "q": "je",
+    "a": [
+      "(ㅍㄹㅔㅍㅗㅅㅣㅌㅣㅗㄴ 외ㅣㅌㅎ ㄴㅗ ㄲㅣㅉㅔㄷ ㅁㅔㅏㄴㅣㄴㄱ)"
+    ],
+    "t": "(preposition with no fixed meaning)"
+  },
+  {
+    "q": "voli",
+    "a": [
+      "ㅌㅗ ㅂㅔ 외ㅣㄸㄸㅣㄴㄱ ㅌㅗ",
+      "외ㅏㄴㅌ",
+      "외ㅣㅅㅎ",
+      "외ㅣㄸㄸ"
+    ],
+    "t": "to be willing to, want, wish, will"
+  },
+  {
+    "q": "multa",
+    "a": [
+      "ㅏ ㄸㅗㅌ ㅗㄲ",
+      "ㅁㅜㅊㅎ",
+      "ㄴㅜㅁㅔㄹㅗㅜㅅ"
+    ],
+    "t": "a lot of, much, numerous"
+  },
+  {
+    "q": "tia",
+    "a": [
+      "ㅅㅜㅊㅎ",
+      "ㅅㅜㅊㅎ ㅏ",
+      "ㅌㅎㅏㅌ ㅋㅣㄴㄷ ㅗㄲ",
+      "ㅅㅗ"
+    ],
+    "t": "such, such a, that kind of, so"
+  },
+  {
+    "q": "scii",
+    "a": [
+      "ㅌㅗ ㅋㄴㅗ외",
+      "ㅋㄴㅗ외 ㅎㅗ외"
+    ],
+    "t": "to know, know how"
+  },
+  {
+    "q": "unua",
+    "a": [
+      "ㄲㅣㄹㅅㅌ",
+      "ㄲㅗㄹㅔㅁㅗㅅㅌ",
+      "ㅍㄹㅔㅁㅣㅔㄹ",
+      "ㅍㄹㅣㅁㅏㄹㅠ"
+    ],
+    "t": "first, foremost, premier, primary"
+  },
+  {
+    "q": "ĝia",
+    "a": [
+      "ㅣㅌㅅ"
+    ],
+    "t": "its"
+  },
+  {
+    "q": "tute",
+    "a": [
+      "ㅏㄸㅌㅗㄱㅔㅌㅎㅔㄹ",
+      "ㅏㅌ ㅏㄸㄸ",
+      "ㅔㄴㅌㅣㄹㅔㄸㅠ",
+      "ㅃㅜㅣㅌㅔ",
+      "외ㅎㅗㄸㄸㅠ",
+      "ㅜㅌㅌㅔㄹㄸㅠ",
+      "ㅊㅗㅁㅍㄸㅔㅌㅔㄸㅠ"
+    ],
+    "t": "altogether, at all, entirely, quite, wholly, utterly, completely"
+  },
+  {
+    "q": "kelka",
+    "a": [
+      "ㅏ ㄸㅣㅌㅌㄸㅔ",
+      "ㅅㅗㅁㅔ"
+    ],
+    "t": "a little, some"
+  },
+  {
+    "q": "veni",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅔ"
+    ],
+    "t": "to come"
+  },
+  {
+    "q": "okazi",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅔ ㅏㅂㅗㅜㅌ",
+      "ㅎㅏㅍㅍㅔㄴ",
+      "ㅗㅊㅊㅜㄹ",
+      "ㅂㅔㄲㅏㄸㄸ",
+      "ㅊㅎㅏㄴㅊㅔ",
+      "ㅎㅏㅍㅍㅔㄴ",
+      "ㅌㅏㅋㅔ ㅍㄸㅏㅊㅔ",
+      "ㅌㄹㅏㄴㅅㅍㅣㄹㅔ",
+      "ㅏㄹㄹㅏㄴㄱㅔ",
+      "ㅂㄹㅣㄴㄱ ㅏㅂㅗㅜㅌ"
+    ],
+    "t": "to come about, happen, occur, befall, chance, happen, take place, transpire, arrange, bring about"
+  },
+  {
+    "q": "mem",
+    "a": [
+      "ㅅㅔㄸㄲ",
+      "(ㅍㅜㅌㅅ ㅔㅁㅍㅎㅏㅅㅣㅅ ㅗㄴ ㅌㅎㅔ ㄴㅗㅜㄴ ㅗㄹ ㅍㄹㅗㄴㅗㅜㄴ ㅣㅌ ㄲㅗㄸㄸㅗ외ㅅ)"
+    ],
+    "t": "self, (puts emphasis on the noun or pronoun it follows)"
+  },
+  {
+    "q": "tuta",
+    "a": [
+      "ㅏㄸㄸ",
+      "ㅔㄴㅌㅣㄹㅔ",
+      "ㅗㅆㅔㄹㅏㄸㄸ",
+      "외ㅎㅗㄸㅔ",
+      "ㅌㅗㅌㅏㄸ",
+      "ㅊㅗㅁㅍㄸㅔㅌㅔ"
+    ],
+    "t": "all, entire, overall, whole, total, complete"
+  },
+  {
+    "q": "kie",
+    "a": [
+      "외ㅎㅔㄹㅔ"
+    ],
+    "t": "where"
+  },
+  {
+    "q": "iu",
+    "a": [
+      "ㅏㄴㅠㅂㅗㄷㅠ",
+      "ㅏㄴㅠㅗㄴㅔ",
+      "ㅅㅗㅁㅔㅂㅗㄷㅠ",
+      "ㅅㅗㅁㅔㅗㄴㅔ"
+    ],
+    "t": "anybody, anyone, somebody, someone"
+  },
+  {
+    "q": "ankoraŭ",
+    "a": [
+      "ㅏㄱㅏㅣㄴ",
+      "ㄴㅗㅌ ㅠㅔㅌ",
+      "ㅅㅌㅣㄸㄸ",
+      "ㅠㅔㅌ",
+      "ㅏㄴㅔ외"
+    ],
+    "t": "again, not yet, still, yet, anew"
+  },
+  {
+    "q": "tiam",
+    "a": [
+      "ㅌㅎㅔㄴ"
+    ],
+    "t": "then"
+  },
+  {
+    "q": "internacia",
+    "a": [
+      "ㅣㄴㅌㅔㄹㄴㅏㅌㅣㅗㄴㅏㄸ"
+    ],
+    "t": "international"
+  },
+  {
+    "q": "ja",
+    "a": [
+      "ㅊㅔㄹㅌㅏㅣㄴㄸㅠ",
+      "ㅣㄴㄷㅔㅔㄷ",
+      "ㄹㅏㅌㅎㅔㄹ",
+      "ㅅㅜㄹㅔㄸㅠ",
+      "ㅣㄴ ㄲㅏㅊㅌ"
+    ],
+    "t": "certainly, indeed, rather, surely, in fact"
+  },
+  {
+    "q": "mondo",
+    "a": [
+      "외ㅗㄹㄸㄷ"
+    ],
+    "t": "world"
+  },
+  {
+    "q": "tempo",
+    "a": [
+      "ㅌㅣㅁㅔ",
+      "ㅂㅔㅏㅌ",
+      "ㅌㅔㄴㅅㅔ"
+    ],
+    "t": "time, beat, tense"
+  },
+  {
+    "q": "afero",
+    "a": [
+      "ㅏㄲㄲㅏㅣㄹ",
+      "ㅂㅜㅅㅣㄴㅔㅅㅅ",
+      "ㄷㅔㅏㄸ",
+      "ㅊㅏㅅㅔ",
+      "ㅁㅏㅌㅌㅔㄹ",
+      "ㅌㅎㅣㄴㄱ",
+      "ㅗㅂㅈㅔㅊㅌ",
+      "(ㄱㅗㅗㄷ) ㅊㅏㅜㅅㅔ"
+    ],
+    "t": "affair, business, deal, case, matter, thing, object, (good) cause"
+  },
+  {
+    "q": "tago",
+    "a": [
+      "ㄷㅏㅠ"
+    ],
+    "t": "day"
+  },
+  {
+    "q": "doni",
+    "a": [
+      "ㅌㅗ ㄱㅣㅆㅔ",
+      "ㅏㄷㅁㅣㄴㅣㅅㅌㅔㄹ",
+      "ㅏㄲㄲㅗㄹㄷ",
+      "ㅏㄸㄸㅗ외",
+      "ㅊㅗㄴㄲㅔㄹ",
+      "ㄱㄹㅏㄴㅌ",
+      "ㅣㅁㅍㅏㄹㅌ",
+      "ㅍㄹㅗㅆㅣㄷㅔ",
+      "ㅅㅍㅏㄹㅔ",
+      "ㅠㅣㅔㄸㄷ"
+    ],
+    "t": "to give, administer, afford, allow, confer, grant, impart, provide, spare, yield"
+  },
+  {
+    "q": "iri",
+    "a": [
+      "ㅌㅗ ㄱㅗ",
+      "외ㅏㄸㅋ"
+    ],
+    "t": "to go, walk"
+  },
+  {
+    "q": "poste",
+    "a": [
+      "ㅏㄲㅌㅔㄹ외ㅏㄹㄷㅅ",
+      "ㄴㅔㅉㅌ",
+      "ㅅㅜㅂㅅㅔㅃㅜㅔㄴㅌㄸㅠ",
+      "ㅌㅎㅔㄴ"
+    ],
+    "t": "afterwards, next, subsequently, then"
+  },
+  {
+    "q": "ĉio",
+    "a": [
+      "ㅏㄸㄸ",
+      "ㅏㄸㅌㅗㄱㅔㅌㅎㅔㄹ",
+      "ㅔㅆㅔㄹㅠㅌㅎㅣㄴㄱ"
+    ],
+    "t": "all, altogether, everything"
+  },
+  {
+    "q": "iom",
+    "a": [
+      "ㅏ ㄸㅣㅌㅌㄸㅔ",
+      "ㄹㅏㅌㅎㅔㄹ",
+      "ㅅㅗㅁㅔ",
+      "ㅅㅗㅁㅔ외ㅎㅏㅌ",
+      "ㅌㅗ ㅅㅗㅁㅔ ㅔㅉㅌㅔㄴㅌ",
+      "ㅏ ㅂㅣㅌ"
+    ],
+    "t": "a little, rather, some, somewhat, to some extent, a bit"
+  },
+  {
+    "q": "vorto",
+    "a": [
+      "외ㅗㄹㄷ"
+    ],
+    "t": "word"
+  },
+  {
+    "q": "bona",
+    "a": [
+      "ㄱㅗㅗㄷ",
+      "ㄴㅣㅊㅔ",
+      "ㅗㅋㅏㅠ",
+      "ㅋㅣㄴㄷ",
+      "ㄴㅣㅊㅔ"
+    ],
+    "t": "good, nice, okay, kind, nice"
+  },
+  {
+    "q": "ŝia",
+    "a": [
+      "ㅎㅔㄹ",
+      "ㅎㅔㄹㅅ"
+    ],
+    "t": "her, hers"
+  },
+  {
+    "q": "sen",
+    "a": [
+      "외ㅣㅌㅎㅗㅜㅌ",
+      "ㄸㅔㅅㅅ"
+    ],
+    "t": "without, less"
+  },
+  {
+    "q": "paroli",
+    "a": [
+      "ㅌㅗ ㅅㅍㅔㅏㅋ",
+      "ㅌㅏㄸㅋ"
+    ],
+    "t": "to speak, talk"
+  },
+  {
+    "q": "vivo",
+    "a": [
+      "ㄸㅣㄲㅔ"
+    ],
+    "t": "life"
+  },
+  {
+    "q": "resti",
+    "a": [
+      "ㅌㅗ ㄹㅔㅁㅏㅣㄴ",
+      "ㅅㅌㅏㅠ",
+      "ㅂㅔ ㄸㅔㄲㅌ",
+      "ㅅㅌㅏㅠ ㅗㅆㅔㄹ",
+      "ㅅㅗㅈㅗㅜㄹㄴ",
+      "ㅅㅌㅗㅍ",
+      "ㄹㅔㅅㅌ"
+    ],
+    "t": "to remain, stay, be left, stay over, sojourn, stop, rest"
+  },
+  {
+    "q": "eble",
+    "a": [
+      "ㅁㅏㅠㅂㅔ",
+      "ㅁㅏㅠㅎㅏㅍ",
+      "ㅍㅔㄹㅊㅎㅏㄴㅊㅔ",
+      "ㅍㅔㄹㅎㅏㅍㅅ",
+      "ㅍㅗㅅㅅㅣㅂㄸㅠ"
+    ],
+    "t": "maybe, mayhap, perchance, perhaps, possibly"
+  },
+  {
+    "q": "fariĝi",
+    "a": [
+      "ㅌㅗ ㅂㅔㅊㅗㅁㅔ",
+      "ㅊㅗㅁㅔ ㅏㅂㅗㅜㅌ",
+      "ㄱㄹㅗ외",
+      "ㅎㅏㅍㅍㅔㄴ"
+    ],
+    "t": "to become, come about, grow, happen"
+  },
+  {
+    "q": "bone",
+    "a": [
+      "외ㅔㄸㄸ",
+      "ㅗㅋ",
+      "ㅏㄸㄹㅣㄱㅎㅌ",
+      "ㄲㅣㄴㅔ"
+    ],
+    "t": "well, ok, alright, fine"
+  },
+  {
+    "q": "jen",
+    "a": [
+      "ㅂㅔㅎㅗㄸㄷ",
+      "ㅎㅔㄹㅔ ㅣㅅ",
+      "ㅎㅔㄹㅔ ㅏㄹㅔ",
+      "ㄸㅗㅗㅋ",
+      "ㅌㅎㅔㄹㅔ"
+    ],
+    "t": "behold, here is, here are, look, there"
+  },
+  {
+    "q": "ĉiam",
+    "a": [
+      "ㅏㄸㄸ ㅌㅎㅔ ㅌㅣㅁㅔ",
+      "ㅏㄸ외ㅏㅠㅅ",
+      "ㅔㅆㅔㄹ"
+    ],
+    "t": "all the time, always, ever"
+  },
+  {
+    "q": "urbo",
+    "a": [
+      "ㅊㅣㅌㅠ",
+      "ㅌㅗ외ㄴ"
+    ],
+    "t": "city, town"
+  },
+  {
+    "q": "dio",
+    "a": [
+      "ㄷㅔㅣㅌㅠ",
+      "ㄷㅣㅆㅣㄴㅣㅌㅠ",
+      "ㄱㅗㄷ"
+    ],
+    "t": "deity, divinity, god"
+  },
+  {
+    "q": "trovi",
+    "a": [
+      "ㅌㅗ ㄲㅣㄴㄷ"
+    ],
+    "t": "to find"
+  },
+  {
+    "q": "neniu",
+    "a": [
+      "ㄴㅔㅣㅌㅎㅔㄹ",
+      "ㄴㅗㅂㅗㄷㅠ",
+      "ㄴㅗㄴㅔ",
+      "ㄴㅗ-ㅗㄴㅔ"
+    ],
+    "t": "neither, nobody, none, no-one"
+  },
+  {
+    "q": "respondi",
+    "a": [
+      "ㅌㅗ ㅏㄴㅅ외ㅔㄹ",
+      "ㄹㅔㅍㄸㅠ",
+      "ㄹㅔㅅㅍㅗㄴㄷ",
+      "ㄹㅔㅌㅗㄹㅌ"
+    ],
+    "t": "to answer, reply, respond, retort"
+  },
+  {
+    "q": "ricevi",
+    "a": [
+      "ㅌㅗ ㄱㅔㅌ",
+      "ㅎㅏㅆㅔ",
+      "ㄹㅔㅊㅔㅣㅆㅔ",
+      "ㄹㅔㅌㄹㅣㅔㅆㅔ"
+    ],
+    "t": "to get, have, receive, retrieve"
+  },
+  {
+    "q": "mano",
+    "a": [
+      "ㅎㅏㄴㄷ"
+    ],
+    "t": "hand"
+  },
+  {
+    "q": "aperi",
+    "a": [
+      "ㅌㅗ ㅏㅍㅍㅔㅏㄹ",
+      "ㅊㅗㅁㅔ ㅣㄴㅌㅗ ㅅㅣㄱㅎㅌ",
+      "ㅔㅁㅔㄹㄱㅔ",
+      "ㅁㅏㅌㅔㄹㅣㅏㄸㅣㅐㅔ",
+      "ㅍㅔㄹㄲㅗㄹㅁ",
+      "ㅂㅔ ㅍㅜㅂㄸㅣㅅㅎㅔㄷ"
+    ],
+    "t": "to appear, come into sight, emerge, materialize, perform, be published"
+  },
+  {
+    "q": "plu",
+    "a": [
+      "ㅔㄸㅅㅔ",
+      "ㄲㅜㄹㅌㅎㅔㄹ",
+      "ㅁㅗㄹㅔ",
+      "ㅗㄴ",
+      "ㅏㄴㅠ ㅁㅗㄹㅔ"
+    ],
+    "t": "else, further, more, on, any more"
+  },
+  {
+    "q": "multe",
+    "a": [
+      "ㅏ ㄸㅗㅌ",
+      "ㅁㅏㄴㅠ",
+      "ㅁㅜㅊㅎ"
+    ],
+    "t": "a lot, many, much"
+  },
+  {
+    "q": "sub",
+    "a": [
+      "ㅂㅔㄸㅗ외",
+      "ㅂㅔㄴㅔㅏㅌㅎ",
+      "ㅜㄴㄷㅔㄹ",
+      "ㅜㄴㄷㅔㄹㄴㅔㅏㅌㅎ"
+    ],
+    "t": "below, beneath, under, underneath"
+  },
+  {
+    "q": "parto",
+    "a": [
+      "ㅍㅏㄹㅌ",
+      "ㅅㅎㅏㄹㅔ",
+      "ㅍㅗㄹㅌㅣㅗㄴ",
+      "ㅅㅔㅊㅌㅣㅗㄴ",
+      "ㅃㅜㅗㅌㅏ",
+      "ㅂㅔㅎㅏㄸㄲ"
+    ],
+    "t": "part, share, portion, section, quota, behalf"
+  },
+  {
+    "q": "io",
+    "a": [
+      "ㅏㄴㅠㅌㅎㅣㄴㄱ",
+      "ㅅㅗㅁㅔㅌㅎㅣㄴㄱ"
+    ],
+    "t": "anything, something"
+  },
+  {
+    "q": "prezidanto",
+    "a": [
+      "ㅊㅎㅏㅣㄹㅁㅏㄴ",
+      "ㅍㄹㅔㅅㅣㄷㅔㄴㅌ",
+      "ㅊㅎㅏㅣㄹㅍㅔㄹㅅㅗㄴ"
+    ],
+    "t": "chairman, president, chairperson"
+  },
+  {
+    "q": "politika",
+    "a": [
+      "ㅍㅗㄸㅣㅌㅣㅊㅏㄸ"
+    ],
+    "t": "political"
+  },
+  {
+    "q": "domo",
+    "a": [
+      "ㅎㅗㅜㅅㅔ",
+      "ㅆㅣㄸㄸㅏ",
+      "ㅂㅜㅣㄸㄷㅣㄴㄱ",
+      "ㅎㅗㅁㅔ"
+    ],
+    "t": "house, villa, building, home"
+  },
+  {
+    "q": "tuj",
+    "a": [
+      "ㅏㅌ ㅗㄴㅊㅔ",
+      "ㅣㅁㅁㅔㄷㅣㅏㅌㅔㄸㅠ",
+      "ㅈㅜㅅㅌ",
+      "ㄹㅣㄱㅎㅌ ㅏ외ㅏㅠ",
+      "ㄹㅣㄱㅎㅌ ㄴㅗ외"
+    ],
+    "t": "at once, immediately, just, right away, right now"
+  },
+  {
+    "q": "tri",
+    "a": [
+      "ㅌㅎㄹㅔㅔ"
+    ],
+    "t": "three"
+  },
+  {
+    "q": "ekzisti",
+    "a": [
+      "ㅌㅗ ㅔㅉㅣㅅㅌ"
+    ],
+    "t": "to exist"
+  },
+  {
+    "q": "sama",
+    "a": [
+      "ㅅㅏㅁㅔ",
+      "ㄷㅣㅌㅌㅗ"
+    ],
+    "t": "same, ditto"
+  },
+  {
+    "q": "infano",
+    "a": [
+      "ㅊㅎㅣㄸㄷ",
+      "ㅣㄴㄲㅏㄴㅌ"
+    ],
+    "t": "child, infant"
+  },
+  {
+    "q": "rigardi",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅅㅣㄷㅔㄹ",
+      "ㄷㅔㅔㅁ",
+      "ㄸㅗㅗㅋ",
+      "ㄸㅗㅗㅋ ㅏㅌ",
+      "ㄹㅔㄱㅏㄹㄷ",
+      "ㅅㅔㅔ",
+      "ㅆㅣㅔ외",
+      "외ㅏㅌㅊㅎ"
+    ],
+    "t": "to consider, deem, look, look at, regard, see, view, watch"
+  },
+  {
+    "q": "popolo",
+    "a": [
+      "ㄲㅗㄸㅋ",
+      "ㄴㅏㅌㅣㅗㄴ",
+      "ㅍㅔㅗㅍㄸㅔ"
+    ],
+    "t": "folk, nation, people"
+  },
+  {
+    "q": "nek",
+    "a": [
+      "ㄴㅔㅣㅌㅎㅔㄹ",
+      "ㄴㅗㄹ"
+    ],
+    "t": "neither, nor"
+  },
+  {
+    "q": "neniam",
+    "a": [
+      "ㅏㅌ ㄴㅗ ㅌㅣㅁㅔ",
+      "ㄴㅔㅆㅔㄹ",
+      "ㄴㅗㅌ ㅔㅆㅔㄹ"
+    ],
+    "t": "at no time, never, not ever"
+  },
+  {
+    "q": "grava",
+    "a": [
+      "ㅣㅁㅍㅗㄹㅌㅏㄴㅌ",
+      "ㅅㅔㄹㅣㅗㅜㅅ",
+      "ㄱㄹㅏㅆㅔ",
+      "ㄴㅗㅌㅏㅂㄸㅔ",
+      "ㅣㅁㅍㅗㄹㅌㅏㄴㅌ"
+    ],
+    "t": "important, serious, grave, notable, important"
+  },
+  {
+    "q": "registaro",
+    "a": [
+      "ㅏㄷㅁㅣㄴㅣㅅㅌㄹㅏㅌㅣㅗㄴ",
+      "ㄱㅗㅆㅔㄹㄴㅁㅔㄴㅌ"
+    ],
+    "t": "administration, government"
+  },
+  {
+    "q": "nomo",
+    "a": [
+      "ㄴㅏㅁㅔ",
+      "ㅏㅍㅍㅔㄸㄸㅏㅌㅣㅗㄴ",
+      "ㄷㅔㄴㅗㅁㅣㄴㅏㅌㅣㅗㄴ",
+      "ㄴㅗㅜㄴ",
+      "ㅣㄷㅔㄴㅌㅣㄲㅣㅔㄹ"
+    ],
+    "t": "name, appellation, denomination, noun, identifier"
+  },
+  {
+    "q": "kvazaŭ",
+    "a": [
+      "ㅏㅅ ㅣㄲ",
+      "ㅏㅅ ㅌㅎㅗㅜㄱㅎ",
+      "ㅣㄴ ㅏ 외ㅏㅠ"
+    ],
+    "t": "as if, as though, in a way"
+  },
+  {
+    "q": "fine",
+    "a": [
+      "ㅏㅌ ㄸㅏㅅㅌ",
+      "ㄲㅣㄴㅏㄸㄸㅠ",
+      "ㅜㄸㅌㅣㅁㅏㅌㅔㄸㅠ",
+      "ㄲㅣㄴㅏㄸㄸㅠ",
+      "ㅣㄴ ㅌㅎㅔ ㄲㅣㄴㅏㄸ ㅏㄴㅏㄸㅠㅅㅣㅅ",
+      "외ㅎㅔㄴ ㅏㄸㄸ ㅣㅅ ㅅㅏㅣㄷ ㅏㄴㄷ ㄷㅗㄴㅔ"
+    ],
+    "t": "at last, finally, ultimately, finally, in the final analysis, when all is said and done"
+  },
+  {
+    "q": "ŝtato",
+    "a": [
+      "ㅅㅌㅏㅌㅔ"
+    ],
+    "t": "state"
+  },
+  {
+    "q": "kies",
+    "a": [
+      "ㅗㄲ 외ㅎㅣㅊㅎ",
+      "외ㅎㅣㅊㅎ ㅗㄴㅔ’ㅅ",
+      "외ㅎㅗㅅㅔ"
+    ],
+    "t": "of which, which one’s, whose"
+  },
+  {
+    "q": "demandi",
+    "a": [
+      "ㅌㅗ ㅏㅅㅋ",
+      "ㅣㄴㅃㅜㅣㄹㅔ",
+      "ㄷㅔㅁㅏㄴㄷ",
+      "ㅣㄴㅌㅔㄹㄹㅗㄱㅏㅌㅔ",
+      "ㅃㅜㅔㅅㅌㅣㅗㄴ"
+    ],
+    "t": "to ask, inquire, demand, interrogate, question"
+  },
+  {
+    "q": "ofte",
+    "a": [
+      "ㅊㅗㅁㅁㅗㄴㄸㅠ",
+      "ㄲㄹㅔㅃㅜㅔㄴㅌㄸㅠ",
+      "ㅗㄲㅌㅔㄴ",
+      "ㅗㄲㅌㅔㄴㅌㅣㅁㅔㅅ",
+      "ㄹㅔㄱㅜㄸㅏㄹㄸㅠ"
+    ],
+    "t": "commonly, frequently, often, oftentimes, regularly"
+  },
+  {
+    "q": "sinjoro",
+    "a": [
+      "ㄱㅔㄴㅌㄸㅔㅁㅏㄴ",
+      "ㄸㅗㄹㄷ",
+      "ㅁㄹ.",
+      "ㅅㅣㄹ"
+    ],
+    "t": "gentleman, lord, Mr., Sir"
+  },
+  {
+    "q": "virino",
+    "a": [
+      "외ㅗㅁㅏㄴ"
+    ],
+    "t": "woman"
+  },
+  {
+    "q": "preskaŭ",
+    "a": [
+      "ㅏㄸㅁㅗㅅㅌ",
+      "ㄴㅔㅏㄹㄸㅠ"
+    ],
+    "t": "almost, nearly"
+  },
+  {
+    "q": "montri",
+    "a": [
+      "ㅌㅗ ㅣㄴㄷㅣㅊㅏㅌㅔ",
+      "ㅍㅗㅣㄴㅌ ㅗㅜㅌ",
+      "ㅅㅎㅗ외",
+      "ㄷㅔㄴㅗㅌㅔ",
+      "ㅔㅉㅍㅗㅅㅔ",
+      "ㅆㅣㅔ외"
+    ],
+    "t": "to indicate, point out, show, denote, expose, view"
+  },
+  {
+    "q": "lasta",
+    "a": [
+      "ㅎㅣㄴㄷㅔㄹㅁㅗㅅㅌ",
+      "ㄸㅏㅅㅌ",
+      "ㅜㄸㅌㅣㅁㅏㅌㅔ"
+    ],
+    "t": "hindermost, last, ultimate"
+  },
+  {
+    "q": "kompreni",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅍㄹㅔㅎㅔㄴㄷ",
+      "ㄹㅔㅏㄸㅣㅐㅔ",
+      "ㅜㄴㄷㅔㄹㅅㅌㅏㄴㄷ"
+    ],
+    "t": "to comprehend, realize, understand"
+  },
+  {
+    "q": "ŝajni",
+    "a": [
+      "ㅌㅗ ㅏㅍㅍㅔㅏㄹ (ㅌㅗ ㅂㅔ)",
+      "ㄸㅗㅗㅋ",
+      "ㅅㅔㅔㅁ"
+    ],
+    "t": "to appear (to be), look, seem"
+  },
+  {
+    "q": "libro",
+    "a": [
+      "ㅂㅗㅗㅋ"
+    ],
+    "t": "book"
+  },
+  {
+    "q": "kvankam",
+    "a": [
+      "ㅏㄸㅂㅔㅣㅌ",
+      "ㅌㅎㅗㅜㄱㅎ",
+      "ㅏㄸㅌㅎㅗㅜㄱㅎ",
+      "외ㅎㅣㄸㅔ"
+    ],
+    "t": "albeit, though, although, while"
+  },
+  {
+    "q": "komenci",
+    "a": [
+      "ㅌㅗ ㅂㅔㄱㅣㄴ",
+      "ㅊㅗㅁㅁㅔㄴㅊㅔ",
+      "ㅅㅌㅏㄹㅌ"
+    ],
+    "t": "to begin, commence, start"
+  },
+  {
+    "q": "laboro",
+    "a": [
+      "ㅈㅗㅂ",
+      "외ㅗㄹㅋ",
+      "ㄸㅏㅂㅗㄹ",
+      "ㅌㅗㅣㄸ"
+    ],
+    "t": "job, work, labor, toil"
+  },
+  {
+    "q": "loko",
+    "a": [
+      "ㄸㅗㅊㅏㄸㅣㅌㅠ",
+      "ㄸㅗㅊㅏㅌㅣㅗㄴ",
+      "ㅍㄸㅏㅊㅔ",
+      "ㅅㅍㅗㅌ"
+    ],
+    "t": "locality, location, place, spot"
+  },
+  {
+    "q": "same",
+    "a": [
+      "ㅔㅃㅜㅏㄸㄸㅠ",
+      "ㄸㅣㅋㅔ외ㅣㅅㅔ"
+    ],
+    "t": "equally, likewise"
+  },
+  {
+    "q": "okulo",
+    "a": [
+      "ㅔㅠㅔ"
+    ],
+    "t": "eye"
+  },
+  {
+    "q": "usona",
+    "a": [
+      "ㅏㅁㅔㄹㅣㅊㅏㄴ"
+    ],
+    "t": "American"
+  },
+  {
+    "q": "filo",
+    "a": [
+      "ㅅㅗㄴ"
+    ],
+    "t": "son"
+  },
+  {
+    "q": "pensi",
+    "a": [
+      "ㅌㅗ ㅌㅎㅣㄴㅋ",
+      "ㄷㅔㅔㅁ"
+    ],
+    "t": "to think, deem"
+  },
+  {
+    "q": "esperantisto",
+    "a": [
+      "ㅔㅅㅍㅔㄹㅏㄴㅌㅣㅅㅌ"
+    ],
+    "t": "Esperantist"
+  },
+  {
+    "q": "diversa",
+    "a": [
+      "ㄷㅣㄲㄲㅔㄹㅔㄴㅌ",
+      "ㄷㅣㅆㅔㄹㅅㅔ",
+      "ㅆㅏㄹㅣㅔㄷ",
+      "ㅆㅏㄹㅣㅗㅜㅅ",
+      "ㅅㅜㄴㄷㄹㅠ",
+      "ㅁㅣㅅㅊㅔㄸㄸㅏㄴㅔㅗㅜㅅ"
+    ],
+    "t": "different, diverse, varied, various, sundry, miscellaneous"
+  },
+  {
+    "q": "troviĝi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㄲㅗㅜㄴㄷ",
+      "ㅂㅔ ㄸㅗㅊㅏㅌㅔㄷ",
+      "ㄲㅣㄴㄷ ㅗㄴㅔㅅㅔㄸㄲ"
+    ],
+    "t": "to be found, be located, find oneself"
+  },
+  {
+    "q": "jes",
+    "a": [
+      "ㅠㅔㅅ"
+    ],
+    "t": "yes"
+  },
+  {
+    "q": "tro",
+    "a": [
+      "ㅌㅗㅗ (ㅁㅜㅊㅎ",
+      "ㅁㅏㄴㅠ)"
+    ],
+    "t": "too (much, many)"
+  },
+  {
+    "q": "tra",
+    "a": [
+      "ㅌㅎㄹㅗㅜㄱㅎ"
+    ],
+    "t": "through"
+  },
+  {
+    "q": "nenio",
+    "a": [
+      "ㄴㅏㅜㄱㅎㅌ",
+      "ㄴㅗㄴㅔ",
+      "ㄴㅗㅌ ㅏㄴㅠ ㅌㅎㅣㄴㄱ",
+      "ㄴㅗㅌㅎㅣㄴㄱ"
+    ],
+    "t": "naught, none, not any thing, nothing"
+  },
+  {
+    "q": "uzi",
+    "a": [
+      "ㅌㅗ ㅔㅁㅍㄸㅗㅠ",
+      "ㅜㅅㅔ",
+      "ㅁㅏㅋㅔ ㅜㅅㅔ ㅗㄲ"
+    ],
+    "t": "to employ, use, make use of"
+  },
+  {
+    "q": "kial",
+    "a": [
+      "외ㅎㅏㅌ ㄲㅗㄹ",
+      "외ㅎㅠ",
+      "ㄲㅗㄹ 외ㅎㅏㅌ ㄹㅔㅏㅅㅗㄴ"
+    ],
+    "t": "what for, why, for what reason"
+  },
+  {
+    "q": "propra",
+    "a": [
+      "ㅗ외ㄴ",
+      "ㅍㅔㄹㅅㅗㄴㅏㄸ",
+      "ㅍㄹㅗㅍㅔㄹ",
+      "ㅊㅜㅅㅌㅗㅁ"
+    ],
+    "t": "own, personal, proper, custom"
+  },
+  {
+    "q": "dua",
+    "a": [
+      "ㅅㅔㅊㅗㄴㄷ (ㅗㄹㄷㅔㄹ)"
+    ],
+    "t": "second (order)"
+  },
+  {
+    "q": "partio",
+    "a": [
+      "ㄲㅏㅊㅌㅣㅗㄴ",
+      "ㅍㅏㄹㅌㅠ",
+      "ㅅㅣㄷㅔ",
+      "ㄱㅏㅁㅔ",
+      "ㅁㅏㅌㅊㅎ"
+    ],
+    "t": "faction, party, side, game, match"
+  },
+  {
+    "q": "tiom",
+    "a": [
+      "ㅏㅅ ㅁㅏㄴㅠ",
+      "ㅅㅗ ㅁㅏㄴㅠ",
+      "ㅅㅗ ㅁㅜㅊㅎ"
+    ],
+    "t": "as many, so many, so much"
+  },
+  {
+    "q": "malpli",
+    "a": [
+      "ㄲㅔ외ㅔㄹ",
+      "ㄸㅔㅅㅅ"
+    ],
+    "t": "fewer, less"
+  },
+  {
+    "q": "ekzemple",
+    "a": [
+      "ㄲㅗㄹ ㅔㅉㅏㅁㅍㄸㅔ"
+    ],
+    "t": "for example"
+  },
+  {
+    "q": "vere",
+    "a": [
+      "ㅏㅂㅅㅗㄸㅜㅌㅔㄸㅠ",
+      "ㄱㅔㄴㅜㅣㄴㅔㄸㅠ",
+      "ㅣㄴㄷㅔㅔㄷ",
+      "ㄹㅔㅏㄸㄸㅠ",
+      "ㅌㄹㅜㄸㅠ"
+    ],
+    "t": "absolutely, genuinely, indeed, really, truly"
+  },
+  {
+    "q": "viro",
+    "a": [
+      "ㅁㅏㄴ",
+      "ㅁㅏㄸㅔ"
+    ],
+    "t": "man, male"
+  },
+  {
+    "q": "patro",
+    "a": [
+      "ㄲㅏㅌㅎㅔㄹ",
+      "ㅍㅏㄹㅔㄴㅌ",
+      "ㅅㅣㄹㅔ"
+    ],
+    "t": "father, parent, sire"
+  },
+  {
+    "q": "franca",
+    "a": [
+      "ㄲㄹㅔㄴㅊㅎ"
+    ],
+    "t": "French"
+  },
+  {
+    "q": "juna",
+    "a": [
+      "ㅠㅗㅜㄴㄱ",
+      "ㅠㅗㅜㅌㅎㄲㅜㄸ",
+      "ㅈㅜㅆㅔㄴㅣㄸㅔ"
+    ],
+    "t": "young, youthful, juvenile"
+  },
+  {
+    "q": "milito",
+    "a": [
+      "외ㅏㄹ"
+    ],
+    "t": "war"
+  },
+  {
+    "q": "certe",
+    "a": [
+      "ㅊㅔㄹㅌㅏㅣㄴㄸㅠ",
+      "ㅅㅜㄹㅔㄸㅠ"
+    ],
+    "t": "certainly, surely"
+  },
+  {
+    "q": "ideo",
+    "a": [
+      "ㅣㄷㅔㅏ"
+    ],
+    "t": "idea"
+  },
+  {
+    "q": "nacia",
+    "a": [
+      "ㄴㅏㅌㅣㅗㄴㅏㄸ"
+    ],
+    "t": "national"
+  },
+  {
+    "q": "kia",
+    "a": [
+      "외ㅎㅏㅌ ㅏ",
+      "외ㅎㅏㅌ ㅋㅣㄴㄷ ㅗㄲ",
+      "외ㅎㅏㅌ ㅅㅗㄹㅌ ㅗㄲ"
+    ],
+    "t": "what a, what kind of, what sort of"
+  },
+  {
+    "q": "demando",
+    "a": [
+      "ㅣㄴㅃㅜㅣㄹㅠ",
+      "ㅃㅜㅔㄹㅠ",
+      "ㅃㅜㅔㅅㅌㅣㅗㄴ"
+    ],
+    "t": "inquiry, query, question"
+  },
+  {
+    "q": "tial",
+    "a": [
+      "ㅗㄴ ㅌㅎㅏㅌ ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㅌㅎㅔㄹㅔㄲㅗㄹㅔ",
+      "ㄲㅗㄹ ㅌㅎㅏㅌ ㄹㅔㅏㅅㅗㄴ",
+      "ㅅㅗ"
+    ],
+    "t": "on that account, therefore, for that reason, so"
+  },
+  {
+    "q": "malgranda",
+    "a": [
+      "ㄷㅣㅁㅣㄴㅜㅌㅣㅆㅔ",
+      "ㄸㅣㅌㅌㄸㅔ",
+      "ㅅㅁㅏㄸㄸ",
+      "ㅍㅜㄴㅠ"
+    ],
+    "t": "diminutive, little, small, puny"
+  },
+  {
+    "q": "vojo",
+    "a": [
+      "ㅊㅗㅜㄹㅅㅔ",
+      "ㅍㅏㅅㅅㅏㄱㅔ",
+      "ㅍㅏㅌㅎ",
+      "ㅍㅏㅌㅎ외ㅏㅠ",
+      "ㄹㅗㅏㄷ",
+      "ㄹㅗㅜㅌㅔ",
+      "외ㅏㅠ"
+    ],
+    "t": "course, passage, path, pathway, road, route, way"
+  },
+  {
+    "q": "sola",
+    "a": [
+      "ㅏㄸㅗㄴㅔ",
+      "ㅗㄴㄸㅠ",
+      "ㅅㅗㄸㅔ",
+      "ㅅㅗㄸㅣㅌㅏㄹㅠ",
+      "ㅅㅣㄴㄱㄸㅔ"
+    ],
+    "t": "alone, only, sole, solitary, single"
+  },
+  {
+    "q": "persono",
+    "a": [
+      "ㅊㅎㅏㄹㅏㅊㅌㅔㄹ",
+      "ㅍㅔㄹㅅㅗㄴ",
+      "ㅍㅔㄹㅅㅗㄴㅏㄱㅔ"
+    ],
+    "t": "character, person, personage"
+  },
+  {
+    "q": "ekde",
+    "a": [
+      "ㄲㄹㅗㅁ",
+      "ㅅㅣㄴㅊㅔ",
+      "ㄹㅣㄱㅎㅌ ㄲㄹㅗㅁ"
+    ],
+    "t": "from, since, right from"
+  },
+  {
+    "q": "problemo",
+    "a": [
+      "ㅍㄹㅗㅂㄸㅔㅁ",
+      "ㅌㄹㅗㅜㅂㄸㅔ"
+    ],
+    "t": "problem, trouble"
+  },
+  {
+    "q": "celo",
+    "a": [
+      "ㅏㅣㅁ",
+      "ㄱㅗㅏㄸ",
+      "ㅍㅜㄹㅍㅗㅅㅔ",
+      "ㅌㅏㄹㄱㅔㅌ",
+      "ㅍㅜㄹㅍㅗㅅㅔ",
+      "ㅗㅂㅈㅔㅊㅌㅣㅆㅔ",
+      "ㅏㅅㅍㅣㄹㅏㅌㅣㅗㄴ"
+    ],
+    "t": "aim, goal, purpose, target, purpose, objective, aspiration"
+  },
+  {
+    "q": "preni",
+    "a": [
+      "ㅌㅗ ㄱㅔㅌ",
+      "ㄸㅏㅠ ㅎㅗㄸㄷ ㅗㄲ",
+      "ㅍㅣㅊㅋ ㅜㅍ",
+      "ㅌㅏㅋㅔ"
+    ],
+    "t": "to get, lay hold of, pick up, take"
+  },
+  {
+    "q": "reĝo",
+    "a": [
+      "ㅋㅣㄴㄱ"
+    ],
+    "t": "king"
+  },
+  {
+    "q": "ajn",
+    "a": [
+      "ㅏㄴㅠ ㅋㅣㄴㄷ ㅗㄲ",
+      "외ㅎㅏㅌㅅㅗㅔㅆㅔㄹ",
+      "ㅏㄹㅂㅣㅌㄹㅏㄹㅠ"
+    ],
+    "t": "any kind of, whatsoever, arbitrary"
+  },
+  {
+    "q": "monato",
+    "a": [
+      "ㅁㅗㄴㅌㅎ"
+    ],
+    "t": "month"
+  },
+  {
+    "q": "grupo",
+    "a": [
+      "ㄱㄹㅗㅜㅍ"
+    ],
+    "t": "group"
+  },
+  {
+    "q": "kredi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㅏㅊㅊㄹㅔㄷㅣㅌ",
+      "ㅂㅔㄸㅣㅔㅆㅔ",
+      "ㄷㅔㅔㅁ"
+    ],
+    "t": "to account, accredit, believe, deem"
+  },
+  {
+    "q": "socia",
+    "a": [
+      "ㅊㅗㅁㅁㅜㄴㅏㄸ",
+      "ㅅㅗㅊㅣㅏㄸ"
+    ],
+    "t": "communal, social"
+  },
+  {
+    "q": "prezenti",
+    "a": [
+      "ㅌㅗ ㅍㄹㅔㅅㅔㄴㅌ",
+      "ㅗㄲㄲㅔㄹ",
+      "ㅌㅔㄴㄷㅔㄹ",
+      "ㄱㅣㅆㅔ",
+      "ㅍㅔㄹㄲㅗㄹㅁ",
+      "ㅅㅎㅗ외",
+      "ㅌㅔㄴㄷㅔㄹ",
+      "ㄹㅔㅍㄹㅔㅅㅔㄴㅌ"
+    ],
+    "t": "to present, offer, tender, give, perform, show, tender, represent"
+  },
+  {
+    "q": "bela",
+    "a": [
+      "ㅂㅔㅏㅜㅌㅣㄲㅜㄸ",
+      "ㄲㅣㄴㅔ",
+      "ㅎㅏㄴㄷㅅㅗㅁㅔ",
+      "ㄸㅗㅆㅔㄸㅠ",
+      "ㄱㅗㅗㄷ-ㄸㅗㅗㅋㅣㄴㄱ",
+      "ㅍㄹㅔㅌㅌㅠ"
+    ],
+    "t": "beautiful, fine, handsome, lovely, good-looking, pretty"
+  },
+  {
+    "q": "temi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㅂㅗㅜㅌ",
+      "ㅂㅔ ㅗㄴ ㅌㅎㅔ ㅅㅜㅂㅈㅔㅊㅌ ㅗㄲ",
+      "ㄷㅔㅏㄸ 외ㅣㅌㅎ",
+      "ㄹㅔㄲㅔㄹ ㅌㅗ"
+    ],
+    "t": "to be about, be on the subject of, deal with, refer to"
+  },
+  {
+    "q": "momento",
+    "a": [
+      "ㅣㄴㅅㅌㅏㄴㅌ",
+      "ㅁㅗㅁㅔㄴㅌ"
+    ],
+    "t": "instant, moment"
+  },
+  {
+    "q": "kongreso",
+    "a": [
+      "ㅊㅗㄴㄲㅔㄹㅔㄴㅊㅔ",
+      "ㅊㅗㄴㄱㄹㅔㅅㅅ",
+      "ㅊㅗㄴㅆㅔㄴㅌㅣㅗㄴ"
+    ],
+    "t": "conference, congress, convention"
+  },
+  {
+    "q": "ekonomia",
+    "a": [
+      "ㅔㅊㅗㄴㅗㅁㅣㅊ"
+    ],
+    "t": "economic"
+  },
+  {
+    "q": "antaŭe",
+    "a": [
+      "ㅏㅎㅔㅏㄷ",
+      "ㄲㅗㄹㅁㅔㄹㄸㅠ",
+      "ㅍㄹㅔㅆㅣㅗㅜㅅㄸㅠ",
+      "ㅂㅔㄲㅗㄹㅔ",
+      "ㅂㅔㄲㅗㄹㅔㅎㅏㄴㄷ",
+      "ㄲㅗㄹ외ㅏㄹㄷ",
+      "ㅣㄴ ㅏㄷㅆㅏㄴㅊㅔ",
+      "ㅣㄴ ㄲㄹㅗㄴㅌ"
+    ],
+    "t": "ahead, formerly, previously, before, beforehand, forward, in advance, in front"
+  },
+  {
+    "q": "aŭdi",
+    "a": [
+      "ㅌㅗ ㅎㅔㅏㄹ"
+    ],
+    "t": "to hear"
+  },
+  {
+    "q": "kapo",
+    "a": [
+      "ㅎㅔㅏㄷ",
+      "ㅊㅏㅍㅔ",
+      "ㅊㄹㅏㄴㅣㅜㅁ",
+      "ㅍㄹㅗㅁㅗㄴㅌㅗㄹㅠ"
+    ],
+    "t": "head, cape, cranium, promontory"
+  },
+  {
+    "q": "membro",
+    "a": [
+      "ㄸㅣㅁㅂ",
+      "ㅁㅔㅁㅂㅔㄹ",
+      "ㅌㅔㄹㅁ"
+    ],
+    "t": "limb, member, term"
+  },
+  {
+    "q": "senti",
+    "a": [
+      "ㅌㅗ ㅔㅉㅍㅔㄹㅣㅔㄴㅊㅔ",
+      "ㄲㅔㅔㄸ",
+      "ㅅㅔㄴㅅㅔ",
+      "ㅍㅔㄹㅊㅔㅣㅆㅔ"
+    ],
+    "t": "to experience, feel, sense, perceive"
+  },
+  {
+    "q": "vivi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㄸㅣㅆㅔ",
+      "ㄸㅣㅆㅔ"
+    ],
+    "t": "to be alive, live"
+  },
+  {
+    "q": "atingi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㅁㅍㄸㅣㅅㅎ",
+      "ㅏㅊㅎㅣㅔㅆㅔ",
+      "ㅏㅌㅌㅏㅣㄴ",
+      "ㄱㅔㅌ",
+      "ㄹㅔㅏㅊㅎ",
+      "ㅗㅆㅔㄹㅌㅏㅋㅔ",
+      "ㅗㅂㅌㅏㅣㄴ",
+      "ㅏㅊㅊㅔㅅㅅ (ㄷㅏㅌㅏㅂㅏㅅㅔ",
+      "ㄷㅣㅅㅋ)"
+    ],
+    "t": "to accomplish, achieve, attain, get, reach, overtake, obtain, access (database, disk)"
+  },
+  {
+    "q": "plura",
+    "a": [
+      "ㅍㄸㅜㄹㅏㄸ"
+    ],
+    "t": "plural"
+  },
+  {
+    "q": "voĉo",
+    "a": [
+      "ㅆㅗㅣㅊㅔ",
+      "ㅆㅗㅌㅔ"
+    ],
+    "t": "voice, vote"
+  },
+  {
+    "q": "tero",
+    "a": [
+      "ㅅㅗㅣㄸ",
+      "ㅔㅏㄹㅌㅎ",
+      "ㄸㅏㄴㄷ",
+      "ㄱㄹㅗㅜㄴㄷ"
+    ],
+    "t": "soil, earth, land, ground"
+  },
+  {
+    "q": "mono",
+    "a": [
+      "ㅊㅏㅅㅎ",
+      "ㅁㅗㄴㅔㅠ"
+    ],
+    "t": "cash, money"
+  },
+  {
+    "q": "alta",
+    "a": [
+      "ㅎㅣㄱㅎ",
+      "ㄸㅗㄲㅌㅠ",
+      "ㅌㅏㄸㄸ",
+      "ㅏㄸㅌㅗ"
+    ],
+    "t": "high, lofty, tall, alto"
+  },
+  {
+    "q": "longa",
+    "a": [
+      "ㄸㅗㄴㄱ"
+    ],
+    "t": "long"
+  },
+  {
+    "q": "stari",
+    "a": [
+      "ㅌㅗ ㅅㅌㅏㄴㄷ"
+    ],
+    "t": "to stand"
+  },
+  {
+    "q": "movado",
+    "a": [
+      "ㅁㅗㅆㅔㅁㅔㄴㅌ"
+    ],
+    "t": "movement"
+  },
+  {
+    "q": "historio",
+    "a": [
+      "ㅏㄴㄴㅏㄸㅅ",
+      "ㅎㅣㅅㅌㅗㄹㅠ",
+      "ㅅㅌㅗㄹㅠ"
+    ],
+    "t": "annals, history, story"
+  },
+  {
+    "q": "politiko",
+    "a": [
+      "ㅍㅗㄸㅣㅊㅠ",
+      "ㅍㅗㄸㅣㅌㅣㅊㅅ"
+    ],
+    "t": "policy, politics"
+  },
+  {
+    "q": "akcepti",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅔㅍㅌ",
+      "ㅏㅊㅊㄹㅔㄷㅣㅌ",
+      "ㅏㄷㅁㅣㅌ",
+      "ㄹㅔㅊㅔㅣㅆㅔ (ㄱㅜㅔㅅㅌㅅ)",
+      "ㅌㅏㅋㅔ (ㅣㄴ)",
+      "ㄹㅔㅊㅗㄱㄴㅣㅐㅔ"
+    ],
+    "t": "to accept, accredit, admit, receive (guests), take (in), recognize"
+  },
+  {
+    "q": "miliono",
+    "a": [
+      "ㅁㅣㄸㄸㅣㅗㄴ"
+    ],
+    "t": "million"
+  },
+  {
+    "q": "ia",
+    "a": [
+      "ㅏㄴㅠ",
+      "ㅅㅗㅁㅔ (ㅋㅣㄴㄷ ㅗㄲ)",
+      "(ㅏ) ㅊㅔㄹㅌㅏㅣㄴ"
+    ],
+    "t": "any, some (kind of), (a) certain"
+  },
+  {
+    "q": "nu",
+    "a": [
+      "ㄴㅗ외",
+      "외ㅔㄸㄸ (ㅌㅎㅔㄴ)"
+    ],
+    "t": "now, well (then)"
+  },
+  {
+    "q": "ĉirkaŭ",
+    "a": [
+      "ㅏㅂㅗㅜㅌ",
+      "ㄹㅗㅜㄴㄷ",
+      "ㅏㄹㅗㅜㄴㄷ",
+      "ㅌㅗ외ㅏㄹㄷㅅ",
+      "ㄹㅗㅜㄴㄷ",
+      "ㅊㅣㄹㅊㅏ"
+    ],
+    "t": "about, round, around, towards, round, circa"
+  },
+  {
+    "q": "helpi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㅁㅁㅗㄷㅏㅌㅔ",
+      "ㅏㅣㄷ",
+      "ㅏㅅㅅㅣㅅㅌ",
+      "ㅎㅔㄸㅍ"
+    ],
+    "t": "to accommodate, aid, assist, help"
+  },
+  {
+    "q": "rajto",
+    "a": [
+      "ㅔㄴㅌㅣㅌㄸㅔㅁㅔㄴㅌ",
+      "ㄹㅣㄱㅎㅌ",
+      "ㅏㅜㅌㅎㅗㄹㅣㅌㅠ"
+    ],
+    "t": "entitlement, right, authority"
+  },
+  {
+    "q": "verko",
+    "a": [
+      "외ㅗㄹㅋ (ㄸㅣㅌㅔㄹㅏㄹㅠ ㅗㄹ ㅏㄹㅌㅣㅅㅌㅣㅊ)"
+    ],
+    "t": "work (literary or artistic)"
+  },
+  {
+    "q": "denove",
+    "a": [
+      "ㅏㄱㅏㅣㄴ",
+      "ㅏㄴㅔ외",
+      "ㅗㄴㅊㅔ ㅏㄱㅏㅣㄴ"
+    ],
+    "t": "again, anew, once again"
+  },
+  {
+    "q": "ĉefa",
+    "a": [
+      "ㅁㅏㅣㄴ",
+      "ㅁㅏㅈㅗㄹ",
+      "ㅁㅏㅅㅌㅔㄹ",
+      "ㅍㄹㅣㅁㅏㄹㅠ",
+      "ㅊㅏㄹㄷㅣㄴㅏㄸ",
+      "ㅊㅎㅣㅔㄲ",
+      "ㅍㄹㅣㄴㅊㅣㅍㅏㄸ",
+      "ㅍㄹㅔㅁㅣㅔㄹ"
+    ],
+    "t": "main, major, master, primary, cardinal, chief, principal, premier"
+  },
+  {
+    "q": "publika",
+    "a": [
+      "ㅍㅜㅂㄸㅣㅊ",
+      "ㅍㅜㅂㄸㅣㅊ-ㄷㅗㅁㅏㅣㄴ"
+    ],
+    "t": "public, public-domain"
+  },
+  {
+    "q": "bezoni",
+    "a": [
+      "ㅌㅗ ㄴㅔㅔㄷ",
+      "ㄹㅔㅃㅜㅣㄹㅔ",
+      "외ㅏㄴㅌ"
+    ],
+    "t": "to need, require, want"
+  },
+  {
+    "q": "sufiĉe",
+    "a": [
+      "ㅔㄴㅗㅜㄱㅎ",
+      "ㅃㅜㅣㅌㅔ",
+      "ㄹㅏㅌㅎㅔㄹ",
+      "ㅅㅜㄲㄲㅣㅊㅣㅔㄴㅌㄸㅠ"
+    ],
+    "t": "enough, quite, rather, sufficiently"
+  },
+  {
+    "q": "vizaĝo",
+    "a": [
+      "ㄲㅏㅊㅔ",
+      "ㅆㅣㅅㅏㄱㅔ",
+      "ㅊㅗㅜㄴㅌㅔㄴㅏㄴㅊㅔ",
+      "ㄸㅗㅗㅋ"
+    ],
+    "t": "face, visage, countenance, look"
+  },
+  {
+    "q": "ĝuste",
+    "a": [
+      "ㅊㅗㄹㄹㅔㅊㅌㄸㅠ",
+      "ㅈㅜㅅㅌ",
+      "ㅔㅉㅏㅊㅌㄸㅠ",
+      "ㅗㅋㅏㅠ",
+      "ㄹㅣㄱㅎㅌ",
+      "ㅍㄹㅔㅊㅣㅅㅔㄸㅠ"
+    ],
+    "t": "correctly, just, exactly, okay, right, precisely"
+  },
+  {
+    "q": "koro",
+    "a": [
+      "ㅎㅔㅏㄹㅌ"
+    ],
+    "t": "heart"
+  },
+  {
+    "q": "peti",
+    "a": [
+      "ㅌㅗ ㅏㅅㅋ (ㄲㅗㄹ)",
+      "ㄹㅔㅃㅜㅔㅅㅌ",
+      "ㅅㅔㅔㅋ",
+      "ㅂㅣㄷ",
+      "ㅂㅔㄱ"
+    ],
+    "t": "to ask (for), request, seek, bid, beg"
+  },
+  {
+    "q": "deziri",
+    "a": [
+      "ㅌㅗ ㄷㅔㅅㅣㄹㅔ",
+      "외ㅣㅅㅎ",
+      "외ㅏㄴㅌ"
+    ],
+    "t": "to desire, wish, want"
+  },
+  {
+    "q": "sekvi",
+    "a": [
+      "ㅌㅗ ㅔㄴㅅㅜㅔ",
+      "ㄲㅗㄸㄸㅗ외",
+      "ㅅㅜㅊㅊㅔㅔㄷ (ㅗㄹㄷㅔㄹ)"
+    ],
+    "t": "to ensue, follow, succeed (order)"
+  },
+  {
+    "q": "sukcesi",
+    "a": [
+      "ㅌㅗ ㅅㅜㅊㅊㅔㅔㄷ"
+    ],
+    "t": "to succeed"
+  },
+  {
+    "q": "atendi",
+    "a": [
+      "ㅌㅗ ㅏㅂㅣㄷㅔ",
+      "ㅔㅉㅍㅔㅊㅌ",
+      "외ㅏㅣㅌ (ㄲㅗㄹ)",
+      "ㅏ외ㅏㅣㅌ"
+    ],
+    "t": "to abide, expect, wait (for), await"
+  },
+  {
+    "q": "projekto",
+    "a": [
+      "ㄷㅔㅅㅣㄱㄴ ㄷㅗㅊㅜㅁㅔㄴㅌ",
+      "ㄷㄹㅏㄲㅌ",
+      "ㅍㄸㅏㄴ",
+      "ㅍㄹㅗㅈㅔㅊㅌ",
+      "ㅅㅊㅎㅔㅁㅔ",
+      "ㅌㅔㅊㅎㄴㅣㅊㅏㄸ ㅅㅍㅔㅊㅣㄲㅣㅊㅏㅌㅣㅗㄴ"
+    ],
+    "t": "design document, draft, plan, project, scheme, technical specification"
+  },
+  {
+    "q": "temo",
+    "a": [
+      "ㅌㅎㅔㅁㅔ",
+      "ㅅㅜㅂㅈㅔㅊㅌ",
+      "ㅌㅗㅍㅣㅊ"
+    ],
+    "t": "theme, subject, topic"
+  },
+  {
+    "q": "reveni",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅔ ㅂㅏㅊㅋ",
+      "ㄹㅔㅌㅜㄹㄴ",
+      "ㅂㅗㅜㄴㅊㅔ (ㅂㅏㅊㅋ)"
+    ],
+    "t": "to come back, return, bounce (back)"
+  },
+  {
+    "q": "ambaŭ",
+    "a": [
+      "ㅂㅗㅌㅎ"
+    ],
+    "t": "both"
+  },
+  {
+    "q": "koni",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㅊㅃㅜㅏㅣㄴㅌㅔㄷ 외ㅣㅌㅎ",
+      "ㅋㄴㅗ외"
+    ],
+    "t": "to be acquainted with, know"
+  },
+  {
+    "q": "ĝenerala",
+    "a": [
+      "ㄱㅔㄴㅔㄹㅏㄸ",
+      "ㄱㅔㄴㅔㄹㅣㅊ",
+      "ㅜㅅㅜㅏㄸ",
+      "ㄹㅣㄲㅔ",
+      "ㅍㄹㅔㅆㅏㄸㅔㄴㅌ",
+      "외ㅣㄷㅔㅅㅍㄹㅔㅏㄷ"
+    ],
+    "t": "general, generic, usual, rife, prevalent, widespread"
+  },
+  {
+    "q": "partopreni",
+    "a": [
+      "ㅌㅗ ㅌㅏㅋㅔ ㅍㅏㄹㅌ",
+      "ㅅㅎㅏㄹㅔ",
+      "ㅍㅏㄹㅌㅏㅋㅔ",
+      "ㅍㅏㄹㅌㅣㅊㅣㅍㅏㅌㅔ"
+    ],
+    "t": "to take part, share, partake, participate"
+  },
+  {
+    "q": "artikolo",
+    "a": [
+      "ㅏㄹㅌㅣㅊㄸㅔ"
+    ],
+    "t": "article"
+  },
+  {
+    "q": "decidi",
+    "a": [
+      "ㅌㅗ ㅊㅎㅗㅗㅅㅔ",
+      "ㄷㅔㅊㅣㄷㅔ",
+      "ㄷㅔㅌㅔㄹㅁㅣㄴㅔ",
+      "ㄹㅔㅅㅗㄸㅆㅔ",
+      "ㅅㅔㅌㅌㄸㅔ"
+    ],
+    "t": "to choose, decide, determine, resolve, settle"
+  },
+  {
+    "q": "rilato",
+    "a": [
+      "ㅊㅗㄹㄹㅔㅅㅍㅗㄴㄷㅔㄴㅊㅔ",
+      "ㅃㅜㅗㅌㅣㅔㄴㅌ",
+      "ㄹㅏㅌㅣㅗ",
+      "ㄹㅔㄸㅏㅌㅣㅗㄴ",
+      "ㄹㅔㄸㅏㅌㅣㅗㄴㅅㅎㅣㅍ"
+    ],
+    "t": "correspondence, quotient, ratio, relation, relationship"
+  },
+  {
+    "q": "amiko",
+    "a": [
+      "ㄲㄹㅣㅔㄴㄷ"
+    ],
+    "t": "friend"
+  },
+  {
+    "q": "angla",
+    "a": [
+      "ㅔㄴㄱㄸㅣㅅㅎ"
+    ],
+    "t": "English"
+  },
+  {
+    "q": "asocio",
+    "a": [
+      "ㅏㅅㅅㅗㅊㅣㅏㅌㅣㅗㄴ"
+    ],
+    "t": "association"
+  },
+  {
+    "q": "hodiaŭ",
+    "a": [
+      "ㅌㅗㄷㅏㅠ"
+    ],
+    "t": "today"
+  },
+  {
+    "q": "necesi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㄴㅔㅔㄷㅔㄷ; ㅌㅗ ㅜㅅㅔ ㅌㅎㅔ ㅌㅗㅣㄸㅔㅌ"
+    ],
+    "t": "to be needed; to use the toilet"
+  },
+  {
+    "q": "vera",
+    "a": [
+      "ㄱㅔㄴㅜㅣㄴㅔ",
+      "ㅣㄴㅌㄹㅣㄴㅅㅣㅊ",
+      "ㅌㄹㅜㅔ",
+      "ㅆㅔㄹㅣㅌㅏㅂㄸㅔ",
+      "ㅏㅜㅌㅎㅔㄴㅌㅣㅊ"
+    ],
+    "t": "genuine, intrinsic, true, veritable, authentic"
+  },
+  {
+    "q": "dek",
+    "a": [
+      "ㅌㅔㄴ"
+    ],
+    "t": "ten"
+  },
+  {
+    "q": "labori",
+    "a": [
+      "ㅌㅗ ㄸㅏㅂㅗㄹ",
+      "외ㅗㄹㅋ"
+    ],
+    "t": "to labor, work"
+  },
+  {
+    "q": "patrino",
+    "a": [
+      "ㅁㅏㅌㄹㅗㄴ",
+      "ㅁㅗㅌㅎㅔㄹ"
+    ],
+    "t": "matron, mother"
+  },
+  {
+    "q": "forto",
+    "a": [
+      "ㄲㅗㄹㅊㅔ",
+      "ㅅㅌㄹㅔㄴㄱㅌㅎ",
+      "ㅆㅣㄱㅗㄹ",
+      "ㅍㅗ외ㅔㄹ"
+    ],
+    "t": "force, strength, vigor, power"
+  },
+  {
+    "q": "situacio",
+    "a": [
+      "ㅊㅣㄹㅊㅜㅁㅅㅌㅏㄴㅊㅔㅅ",
+      "ㅊㅗㄴㄷㅣㅌㅣㅗㄴ",
+      "ㅅㅣㅌㅜㅏㅌㅣㅗㄴ",
+      "ㅍㅗㅅㅣㅌㅣㅗㄴ",
+      "ㅅㅌㅏㅌㅣㅗㄴ",
+      "ㅅㅣㅌㅔ",
+      "ㅊㅗㄴㅌㅔㅉㅌ"
+    ],
+    "t": "circumstances, condition, situation, position, station, site, context"
+  },
+  {
+    "q": "rapide",
+    "a": [
+      "ㅏㅍㅏㅊㅔ",
+      "ㅔㅉㅍㅔㄷㅣㅌㅣㅗㅜㅅㄸㅠ",
+      "ㄲㅏㅅㅌ",
+      "ㅃㅜㅣㅊㅋㄸㅠ",
+      "ㅅ외ㅣㄲㅌㄸㅠ",
+      "ㅣㄴ ㅏ ㄹㅜㅅㅎ",
+      "ㄹㅏㅍㅣㄷㄸㅠ"
+    ],
+    "t": "apace, expeditiously, fast, quickly, swiftly, in a rush, rapidly"
+  },
+  {
+    "q": "meti",
+    "a": [
+      "ㅌㅗ ㄸㅏㅠ ㄷㅗ외ㄴ",
+      "ㅍㄸㅏㅊㅔ",
+      "ㅍㅜㅌ",
+      "ㅍㅜㅌ ㄷㅗ외ㄴ",
+      "ㅅㅔㅌ"
+    ],
+    "t": "to lay down, place, put, put down, set"
+  },
+  {
+    "q": "regiono",
+    "a": [
+      "ㄹㅔㄱㅣㅗㄴ",
+      "ㅅㅊㅗㅍㅔ",
+      "ㄷㅣㅅㅌㄹㅣㅊㅌ",
+      "ㅌㄹㅏㅊㅌ (ㅗㄲ ㄸㅏㄴㄷ)"
+    ],
+    "t": "region, scope, district, tract (of land)"
+  },
+  {
+    "q": "apud",
+    "a": [
+      "ㅏㅌ",
+      "ㅂㅔㅅㅣㄷㅔ",
+      "ㅂㅠ",
+      "ㄴㅔㅏㄹ (ㅌㅗ)",
+      "ㄴㅔㅏㄹㅂㅠ",
+      "ㄴㅔㅉㅌ ㅌㅗ"
+    ],
+    "t": "at, beside, by, near (to), nearby, next to"
+  },
+  {
+    "q": "precipe",
+    "a": [
+      "ㅏㅂㅗㅆㅔ ㅏㄸㄸ",
+      "ㅔㅅㅍㅔㅊㅣㅏㄸㄸㅠ",
+      "ㅊㅎㅣㅔㄲㄸㅠ",
+      "ㅁㅏㅣㄴㄸㅠ",
+      "ㅍㄹㅣㄴㅊㅣㅍㅏㄸㄸㅠ",
+      "ㅊㅎㅣㅔㄲㄸㅠ",
+      "ㅍㅏㄹㅌㅣㅊㅜㄸㅏㄹㄸㅠ"
+    ],
+    "t": "above all, especially, chiefly, mainly, principally, chiefly, particularly"
+  },
+  {
+    "q": "agado",
+    "a": [
+      "ㅏㅊㅌㅣㅗㄴ",
+      "ㅏㅊㅌㅣㅆㅣㅌㅠ"
+    ],
+    "t": "action, activity"
+  },
+  {
+    "q": "lasi",
+    "a": [
+      "ㅌㅗ ㅏㄸㄸㅗ외",
+      "ㄸㅔㅏㅆㅔ",
+      "ㄸㅔㅌ",
+      "ㄹㅔㄸㅔㅏㅅㅔ",
+      "ㅃㅜㅣㅌ"
+    ],
+    "t": "to allow, leave, let, release, quit"
+  },
+  {
+    "q": "super",
+    "a": [
+      "ㅏㅂㅗㅆㅔ",
+      "ㅗㅆㅔㄹ",
+      "ㅅㅜㅍㅔㄹㅣㅗㄹ"
+    ],
+    "t": "above, over, superior"
+  },
+  {
+    "q": "legi",
+    "a": [
+      "ㅌㅗ ㄹㅔㅏㄷ"
+    ],
+    "t": "to read"
+  },
+  {
+    "q": "provi",
+    "a": [
+      "ㅌㅗ ㅏㅌㅌㅔㅁㅍㅌ",
+      "ㅌㅔㅅㅌ",
+      "ㅌㄹㅠ",
+      "ㅔㅅㅅㅏㅠ"
+    ],
+    "t": "to attempt, test, try, essay"
+  },
+  {
+    "q": "samtempe",
+    "a": [
+      "ㅏㅌ ㅗㄴㅊㅔ",
+      "ㅏㅌ ㅌㅎㅔ ㅅㅏㅁㅔ ㅌㅣㅁㅔ"
+    ],
+    "t": "at once, at the same time"
+  },
+  {
+    "q": "ĉambro",
+    "a": [
+      "ㅊㅎㅏㅁㅂㅔㄹ",
+      "ㄹㅗㅗㅁ"
+    ],
+    "t": "chamber, room"
+  },
+  {
+    "q": "homa",
+    "a": [
+      "ㅎㅜㅁㅏㄴ"
+    ],
+    "t": "human"
+  },
+  {
+    "q": "klarigi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㅜㄴㅌ ㄲㅗㄹ",
+      "ㅊㄸㅏㄹㅣㄲㅠ",
+      "ㅔㅉㅍㄸㅏㅣㄴ",
+      "ㅔㄸㅜㅊㅣㄷㅏㅌㅔ",
+      "ㅁㅏㅋㅔ ㅊㄸㅔㅏㄹ"
+    ],
+    "t": "to account for, clarify, explain, elucidate, make clear"
+  },
+  {
+    "q": "horo",
+    "a": [
+      "ㅎㅗㅜㄹ",
+      "ㅗ’ㅊㄸㅗㅊㅋ",
+      "ㅌㅣㅁㅔ"
+    ],
+    "t": "hour, o’clock, time"
+  },
+  {
+    "q": "sistemo",
+    "a": [
+      "ㅅㅠㅅㅌㅔㅁ"
+    ],
+    "t": "system"
+  },
+  {
+    "q": "kiom",
+    "a": [
+      "ㅎㅗ외 ㅁㅏㄴㅠ",
+      "ㅎㅗ외 ㅁㅜㅊㅎ"
+    ],
+    "t": "how many, how much"
+  },
+  {
+    "q": "nombro",
+    "a": [
+      "ㅏㅁㅗㅜㄴㅌ",
+      "ㄴㅜㅁㅂㅔㄹ",
+      "ㅃㅜㅏㄴㅌㅣㅌㅠ"
+    ],
+    "t": "amount, number, quantity"
+  },
+  {
+    "q": "familio",
+    "a": [
+      "ㄲㅏㅁㅣㄸㅠ"
+    ],
+    "t": "family"
+  },
+  {
+    "q": "akvo",
+    "a": [
+      "외ㅏㅌㅔㄹ"
+    ],
+    "t": "water"
+  },
+  {
+    "q": "lingva",
+    "a": [
+      "ㄸㅣㄴㄱㅜㅣㅅㅌㅣㅊ"
+    ],
+    "t": "linguistic"
+  },
+  {
+    "q": "iam",
+    "a": [
+      "ㅏㅌ ㅏㄴㅠ ㅌㅣㅁㅔ",
+      "ㅏㅌ ㅅㅗㅁㅔ ㅌㅣㅁㅔ",
+      "ㅔㅆㅔㄹ",
+      "ㅅㅗㅁㅔㅌㅣㅁㅔ",
+      "ㅗㄴㅊㅔ ㅜㅍㅗㄴ ㅏ ㅌㅣㅁㅔ",
+      "ㄲㅗㄹㅁㅔㄹㄸㅠ"
+    ],
+    "t": "at any time, at some time, ever, sometime, once upon a time, formerly"
+  },
+  {
+    "q": "almenaŭ",
+    "a": [
+      "ㅏㅌ (ㅌㅎㅔ ㅆㅔㄹㅠ) ㄸㅔㅏㅅㅌ",
+      "ㅣㄲ ㄴㅗㅌㅎㅣㄴㄱ ㅔㄸㅅㅔ"
+    ],
+    "t": "at (the very) least, if nothing else"
+  },
+  {
+    "q": "programo",
+    "a": [
+      "ㅍㄹㅗㄱㄹㅏㅁ",
+      "ㅅㅌㅏㅌㅔㅁㅔㄴㅌ ㅗㄲ ㅍㅗㄸㅣㅊㅠ",
+      "ㄷㅔㅊㄸㅏㄹㅏㅌㅣㅗㄴ ㅗㄲ ㅍㅗㄸㅣㅊㅠ",
+      "ㅍㄸㅏㅌㄲㅗㄹㅁ"
+    ],
+    "t": "program, statement of policy, declaration of policy, platform"
+  },
+  {
+    "q": "krom",
+    "a": [
+      "ㅏㅍㅏㄹㅌ ㄲㄹㅗㅁ",
+      "ㅂㅔㅅㅣㄷㅔㅅ",
+      "ㅔㅉㅊㅔㅍㅌ",
+      "ㅔㅉㅊㅔㅍㅌ ㄲㅗㄹ"
+    ],
+    "t": "apart from, besides, except, except for"
+  },
+  {
+    "q": "eniri",
+    "a": [
+      "ㅌㅗ ㅔㄴㅌㅔㄹ",
+      "ㄱㅗ ㅣㄴ"
+    ],
+    "t": "to enter, go in"
+  },
+  {
+    "q": "kune",
+    "a": [
+      "ㅈㅗㅣㄴㅌㄸㅠ",
+      "ㅌㅗㄱㅔㅌㅎㅔㄹ"
+    ],
+    "t": "jointly, together"
+  },
+  {
+    "q": "leĝo",
+    "a": [
+      "ㄸㅏ외",
+      "ㅍㄹㅣㄴㅊㅣㅍㄸㅔ"
+    ],
+    "t": "law, principle"
+  },
+  {
+    "q": "morti",
+    "a": [
+      "ㅌㅗ ㄷㅣㅔ",
+      "ㅔㅉㅍㅣㄹㅔ",
+      "ㅍㅏㅅㅅ ㅏ외ㅏㅠ"
+    ],
+    "t": "to die, expire, pass away"
+  },
+  {
+    "q": "ebli",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅍㅗㅅㅅㅣㅂㄸㅔ"
+    ],
+    "t": "to be possible"
+  },
+  {
+    "q": "formo",
+    "a": [
+      "ㄲㅗㄹㅁ",
+      "ㅅㅎㅏㅍㅔ",
+      "ㄲㅗㄹㅁㅏㅌㅣㅗㄴ"
+    ],
+    "t": "form, shape, formation"
+  },
+  {
+    "q": "ties",
+    "a": [
+      "ㅌㅎㅏㅌ ㅗㄴㅔ’ㅅ",
+      "ㅗㄲ ㅌㅎㅏㅌ ㅗㄴㅔ",
+      "ㅌㅎㅔ ㄸㅏㅌㅌㅔㄹ’ㅅ"
+    ],
+    "t": "that one’s, of that one, the latter’s"
+  },
+  {
+    "q": "rakonti",
+    "a": [
+      "ㅌㅗ ㄴㅏㄹㄹㅏㅌㅔ",
+      "ㄹㅔㄸㅏㅌㅔ",
+      "ㅌㅔㄸㄸ",
+      "ㄹㅔㅊㅗㅜㄴㅌ",
+      "ㄹㅔㄸㅏㅌㅔ"
+    ],
+    "t": "to narrate, relate, tell, recount, relate"
+  },
+  {
+    "q": "bildo",
+    "a": [
+      "ㅣㅁㅏㄱㅔ",
+      "ㅍㅣㅊㅌㅜㄹㅔ"
+    ],
+    "t": "image, picture"
+  },
+  {
+    "q": "sendi",
+    "a": [
+      "ㅌㅗ ㄲㅗㄹ외ㅏㄹㄷ",
+      "ㄹㅔㅁㅣㅌ",
+      "ㅅㅔㄴㄷ",
+      "ㅌㄹㅏㄴㅅㅁㅣㅌ",
+      "ㅅㅜㅂㅁㅣㅌ"
+    ],
+    "t": "to forward, remit, send, transmit, submit"
+  },
+  {
+    "q": "nomi",
+    "a": [
+      "ㅌㅗ ㅏㅍㅍㅗㅣㄴㅌ",
+      "ㄴㅗㅁㅣㄴㅏㅌㅔ",
+      "ㅊㅏㄸㄸ",
+      "ㅁㅔㄴㅌㅣㅗㄴ",
+      "ㄴㅏㅁㅔ",
+      "ㄷㅔㅅㅣㄱㄴㅏㅌㅔ"
+    ],
+    "t": "to appoint, nominate, call, mention, name, designate"
+  },
+  {
+    "q": "unio",
+    "a": [
+      "ㅜㄴㅣㅗㄴ"
+    ],
+    "t": "union"
+  },
+  {
+    "q": "kvar",
+    "a": [
+      "ㄲㅗㅜㄹ"
+    ],
+    "t": "four"
+  },
+  {
+    "q": "plena",
+    "a": [
+      "ㅊㅗㅁㅍㄸㅔㅌㅔ",
+      "ㄲㅜㄸㄸ",
+      "ㅣㄴㅌㅔㄱㄹㅏㄸ",
+      "ㅍㄸㅔㄴㅏㄹㅠ",
+      "ㅌㅎㅗㄹㅗㅜㄱㅎ",
+      "외ㅎㅗㄸㅔ"
+    ],
+    "t": "complete, full, integral, plenary, thorough, whole"
+  },
+  {
+    "q": "eŭro",
+    "a": [
+      "ㅔㅜㄹㅗ"
+    ],
+    "t": "euro"
+  },
+  {
+    "q": "postuli",
+    "a": [
+      "ㅌㅗ ㄷㅔㅁㅏㄴㄷ",
+      "ㅍㅗㅅㅌㅜㄸㅏㅌㅔ",
+      "ㄹㅔㅃㅜㅣㄹㅔ",
+      "ㅔㅉㅏㅊㅌ"
+    ],
+    "t": "to demand, postulate, require, exact"
+  },
+  {
+    "q": "loka",
+    "a": [
+      "ㄸㅗㅊㅏㄸ",
+      "ㅗㄲㄲㄸㅣㄴㅔ (ㅗㄲㄲ ㅌㅎㅔ 외ㅔㅂ)"
+    ],
+    "t": "local, offline (off the web)"
+  },
+  {
+    "q": "kvin",
+    "a": [
+      "ㄲㅣㅆㅔ"
+    ],
+    "t": "five"
+  },
+  {
+    "q": "jarcento",
+    "a": [
+      "ㅊㅔㄴㅌㅔㄴㄴㅣㅏㄸ",
+      "ㅊㅔㄴㅌㅜㄹㅠ"
+    ],
+    "t": "centennial, century"
+  },
+  {
+    "q": "entrepreno",
+    "a": [
+      "ㅔㄴㅌㅔㄹㅍㄹㅣㅅㅔ",
+      "ㅜㄴㄷㅔㄹㅌㅏㅋㅣㄴㄱ"
+    ],
+    "t": "enterprise, undertaking"
+  },
+  {
+    "q": "kulturo",
+    "a": [
+      "ㅊㅜㄸㅌㅜㄹㅔ"
+    ],
+    "t": "culture"
+  },
+  {
+    "q": "malnova",
+    "a": [
+      "ㅗㄸㄷ (ㄴㅗㅌ ㄴㅔ외)"
+    ],
+    "t": "old (not new)"
+  },
+  {
+    "q": "socio",
+    "a": [
+      "ㅅㅗㅊㅣㅔㅌㅠ"
+    ],
+    "t": "society"
+  },
+  {
+    "q": "nuna",
+    "a": [
+      "ㅏㅊㅌㅜㅏㄸ",
+      "ㅊㅜㄹㄹㅔㄴㅌ",
+      "ㅍㄹㅔㅅㅔㄴㅌ"
+    ],
+    "t": "actual, current, present"
+  },
+  {
+    "q": "edzino",
+    "a": [
+      "외ㅣㄲㅔ"
+    ],
+    "t": "wife"
+  },
+  {
+    "q": "fino",
+    "a": [
+      "ㅔㄴㄷ",
+      "ㅔㄴㄷㅣㄴㄱ"
+    ],
+    "t": "end, ending"
+  },
+  {
+    "q": "forta",
+    "a": [
+      "ㅅㅌㄹㅗㄴㄱ",
+      "ㅍㄹㅗㄴㅗㅜㄴㅊㅔㄷ"
+    ],
+    "t": "strong, pronounced"
+  },
+  {
+    "q": "signifi",
+    "a": [
+      "ㅌㅗ ㅣㅁㅍㄸㅠ",
+      "ㅁㅔㅏㄴ",
+      "ㅅㅣㄱㄴㅣㄲㅠ"
+    ],
+    "t": "to imply, mean, signify"
+  },
+  {
+    "q": "pordo",
+    "a": [
+      "ㄷㅗㅗㄹ",
+      "ㄱㅏㅌㅔ",
+      "ㅍㅗㄹㅌ"
+    ],
+    "t": "door, gate, port"
+  },
+  {
+    "q": "mil",
+    "a": [
+      "ㅌㅎㅗㅜㅅㅏㄴㄷ",
+      "ㅗㄴㅔ ㅌㅎㅗㅜㅅㅏㄴㄷ"
+    ],
+    "t": "thousand, one thousand"
+  },
+  {
+    "q": "sidi",
+    "a": [
+      "ㅌㅗ ㅅㅣㅌ",
+      "ㅂㅔ ㅅㅔㅏㅌㅔㄷ"
+    ],
+    "t": "to sit, be seated"
+  },
+  {
+    "q": "frato",
+    "a": [
+      "ㅂㄹㅗㅌㅎㅔㄹ",
+      "ㅅㅣㅂㄸㅣㄴㄱ"
+    ],
+    "t": "brother, sibling"
+  },
+  {
+    "q": "fojo",
+    "a": [
+      "ㅗㅊㅊㅏㅅㅣㅗㄴ",
+      "ㅌㅣㅁㅔ"
+    ],
+    "t": "occasion, time"
+  },
+  {
+    "q": "skribi",
+    "a": [
+      "ㅌㅗ 외ㄹㅣㅌㅔ"
+    ],
+    "t": "to write"
+  },
+  {
+    "q": "ebligi",
+    "a": [
+      "ㅌㅗ ㅔㄴㅏㅂㄸㅔ",
+      "ㄹㅔㄴㄷㅔㄹ ㅍㅗㅅㅅㅣㅂㄸㅔ"
+    ],
+    "t": "to enable, render possible"
+  },
+  {
+    "q": "monda",
+    "a": [
+      "ㅁㅜㄴㄷㅏㄴㅔ",
+      "ㅅㅔㅊㅜㄸㅏㄹ",
+      "ㅌㅔㅁㅍㅗㄹㅏㄸ",
+      "외ㅗㄹㄸㄷㄸㅠ",
+      "ㅔㅏㄹㅌㅎㄸㅠ",
+      "외ㅗㄹㄸㄷ외ㅣㄷㅔ"
+    ],
+    "t": "mundane, secular, temporal, worldly, earthly, worldwide"
+  },
+  {
+    "q": "cetere",
+    "a": [
+      "ㅏㅅ ㄲㅗㄹ ㅌㅎㅔ ㄹㅔㅅㅌ",
+      "ㅂㅔㅅㅣㄷㅔㅅ",
+      "ㄲㅗㄹ ㅌㅎㅔ ㄹㅔㅅㅌ",
+      "ㅁㅗㄹㅔㅗㅆㅔㄹ",
+      "외ㅎㅏㅌ’ㅅ ㅁㅗㄹㅔ",
+      "ㅗㅌㅎㅔㄹ외ㅣㅅㅔ",
+      "ㅏㅅㅣㄷㅔ ㄲㄹㅗㅁ ㅌㅎㅏㅌ",
+      "ㅣ ㅁㅣㄱㅎㅌ ㅏㄷㄷ"
+    ],
+    "t": "as for the rest, besides, for the rest, moreover, what’s more, otherwise, aside from that, I might add"
+  },
+  {
+    "q": "efektive",
+    "a": [
+      "ㅏㅂㅅㅗㄸㅜㅌㅔㄸㅠ",
+      "ㅏㅊㅌㅜㅏㄸㄸㅠ",
+      "ㅣㄴ ㄲㅏㅊㅌ",
+      "ㅔㄲㄲㅔㅊㅌㅣㅆㅔㄸㅠ",
+      "ㄹㅔㅏㄸㄸㅠ",
+      "ㅏㅅ ㅏ ㅁㅏㅌㅌㅔㄹ ㅗㄲ ㄲㅏㅊㅌ"
+    ],
+    "t": "absolutely, actually, in fact, effectively, really, as a matter of fact"
+  },
+  {
+    "q": "malgraŭ",
+    "a": [
+      "ㄷㅔㅅㅍㅣㅌㅔ",
+      "ㅣㄴ ㅅㅍㅣㅌㅔ ㅗㄲ",
+      "ㄴㅗㅌ외ㅣㅌㅎㅅㅌㅏㄴㄷㅣㄴㄱ"
+    ],
+    "t": "despite, in spite of, notwithstanding"
+  },
+  {
+    "q": "unue",
+    "a": [
+      "ㄲㅣㄹㅅㅌ",
+      "ㄲㅣㄹㅅㅌㄸㅠ",
+      "ㄲㅣㄹㅅㅌ ㅗㄲ ㅏㄸㄸ"
+    ],
+    "t": "first, firstly, first of all"
+  },
+  {
+    "q": "kompreneble",
+    "a": [
+      "ㅗㄲ ㅊㅗㅜㄹㅅㅔ",
+      "ㄴㅏㅌㅜㄹㅏㄸㄸㅠ"
+    ],
+    "t": "of course, naturally"
+  },
+  {
+    "q": "morto",
+    "a": [
+      "ㄷㅔㅏㅌㅎ",
+      "ㄷㅔㅁㅣㅅㅔ"
+    ],
+    "t": "death, demise"
+  },
+  {
+    "q": "nacio",
+    "a": [
+      "ㄴㅏㅌㅣㅗㄴ",
+      "ㄴㅏㅌㅣㅗㄴㅏㄸㅣㅌㅠ"
+    ],
+    "t": "nation, nationality"
+  },
+  {
+    "q": "komuna",
+    "a": [
+      "ㅊㅗㅁㅁㅗㄴ",
+      "ㅈㅗㅣㄴㅌ",
+      "ㅅㅎㅏㄹㅔㄷ",
+      "ㄱㅔㄴㅔㄹㅣㅊ"
+    ],
+    "t": "common, joint, shared, generic"
+  },
+  {
+    "q": "fakto",
+    "a": [
+      "ㄲㅏㅊㅌ"
+    ],
+    "t": "fact"
+  },
+  {
+    "q": "revuo",
+    "a": [
+      "ㅈㅗㅜㄹㄴㅏㄸ",
+      "ㅁㅏㄱㅏㅐㅣㄴㅔ",
+      "ㅍㅔㄹㅣㅗㄷㅣㅊㅏㄸ",
+      "ㄹㅔㅆㅣㅔ외"
+    ],
+    "t": "journal, magazine, periodical, review"
+  },
+  {
+    "q": "krei",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅍㅗㅅㅔ",
+      "ㅊㄹㅔㅏㅌㅔ",
+      "ㅍㄹㅗㄷㅜㅊㅔ",
+      "ㅁㅏㅋㅔ"
+    ],
+    "t": "to compose, create, produce, make"
+  },
+  {
+    "q": "eliri",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅔ ㅗㅜㅌ",
+      "ㅁㅏㅋㅔ ㅗㄴㅔ’ㅅ ㄷㅔㅂㅜㅌ",
+      "ㄱㅗ ㅗㅜㅌ",
+      "ㅔㅉㅣㅌ"
+    ],
+    "t": "to come out, make one’s debut, go out, exit"
+  },
+  {
+    "q": "fakte",
+    "a": [
+      "ㅏㅊㅌㅜㅏㄸㄸㅠ",
+      "ㅏㅅ ㅏ ㅁㅏㅌㅌㅔㄹ ㅗㄲ ㄲㅏㅊㅌ",
+      "ㅣㄴㄷㅔㅔㄷ",
+      "ㅣㄴ ㄲㅏㅊㅌ"
+    ],
+    "t": "actually, as a matter of fact, indeed, in fact"
+  },
+  {
+    "q": "longe",
+    "a": [
+      "ㅏ ㄸㅗㄴㄱ ㅌㅣㅁㅔ",
+      "ㄲㅗㄹ ㅏ ㄸㅗㄴㄱ ㅌㅣㅁㅔ",
+      "ㄸㅗㄴㄱ"
+    ],
+    "t": "a long time, for a long time, long"
+  },
+  {
+    "q": "servo",
+    "a": [
+      "ㅅㅔㄹㅆㅣㅊㅔ"
+    ],
+    "t": "service"
+  },
+  {
+    "q": "proponi",
+    "a": [
+      "ㅌㅗ ㅍㄹㅗㅍㅗㅅㅔ",
+      "ㅗㄲㄲㅔㄹ",
+      "ㅏㄷㅆㅗㅊㅏㅌㅔ",
+      "ㅅㅜㄱㄱㅔㅅㅌ"
+    ],
+    "t": "to propose, offer, advocate, suggest"
+  },
+  {
+    "q": "junulo",
+    "a": [
+      "ㄸㅏㄷ",
+      "ㅠㅗㅜㄴㄱ ㅍㅔㄹㅅㅗㄴ",
+      "ㅠㅗㅜㄴㄱㅅㅌㅔㄹ",
+      "ㅠㅗㅜㅌㅎ",
+      "ㅠㅗㅜㄴㄱ ㅁㅏㄴ"
+    ],
+    "t": "lad, young person, youngster, youth, young man"
+  },
+  {
+    "q": "subite",
+    "a": [
+      "ㅏㄸㄸ ㅗㄲ ㅏ ㅅㅜㄷㄷㅔㄴ",
+      "ㅅㅜㄷㄷㅔㄴㄸㅠ"
+    ],
+    "t": "all of a sudden, suddenly"
+  },
+  {
+    "q": "potenco",
+    "a": [
+      "ㄷㅗㅁㅣㄴㅏㅌㅣㅗㄴ",
+      "ㅁㅣㄱㅎㅌ",
+      "ㅍㅗㅌㅔㄴㅊㅠ",
+      "ㅍㅗ외ㅔㄹ"
+    ],
+    "t": "domination, might, potency, power"
+  },
+  {
+    "q": "aŭtoro",
+    "a": [
+      "ㅏㅜㅌㅎㅗㄹ"
+    ],
+    "t": "author"
+  },
+  {
+    "q": "informo",
+    "a": [
+      "ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㅣㄴㄲㅗㄹㅁㅏㅌㅣㅗㄴ"
+    ],
+    "t": "account, information"
+  },
+  {
+    "q": "francio",
+    "a": [
+      "ㄲㄹㅏㄴㅊㅣㅜㅁ"
+    ],
+    "t": "francium"
+  },
+  {
+    "q": "baldaŭ",
+    "a": [
+      "ㅅㅗㅗㄴ"
+    ],
+    "t": "soon"
+  },
+  {
+    "q": "aparte",
+    "a": [
+      "ㅏㅍㅏㄹㅌ",
+      "ㅅㅔㅍㅏㄹㅏㅌㅔㄸㅠ",
+      "ㅏㅅㅣㄷㅔ",
+      "ㅏㅅㅜㄴㄷㅔㄹ",
+      "ㅍㅏㄹㅌㅣㅊㅜㄸㅏㄹㄸㅠ"
+    ],
+    "t": "apart, separately, aside, asunder, particularly"
+  },
+  {
+    "q": "opinio",
+    "a": [
+      "ㅗㅍㅣㄴㅣㅗㄴ",
+      "ㅅㅔㄴㅌㅣㅁㅔㄴㅌ"
+    ],
+    "t": "opinion, sentiment"
+  },
+  {
+    "q": "aŭskulti",
+    "a": [
+      "ㅌㅗ ㄸㅣㅅㅌㅔㄴ (ㅌㅗ)"
+    ],
+    "t": "to listen (to)"
+  },
+  {
+    "q": "rimedo",
+    "a": [
+      "ㅁㅔㅏㄴㅅ",
+      "ㄹㅔㅁㅔㄷㅠ",
+      "ㄹㅔㅅㅗㅜㄹㅊㅔㅅ"
+    ],
+    "t": "means, remedy, resources"
+  },
+  {
+    "q": "ktp",
+    "a": [
+      "ㅏㄴㄷ ㅅㅗ ㅗㄴ"
+    ],
+    "t": "and so on"
+  },
+  {
+    "q": "forlasi",
+    "a": [
+      "ㅌㅗ ㅏㅂㅏㄴㄷㅗㄴ",
+      "ㄲㅗㄹㅅㅏㅋㅔ",
+      "ㄷㅔㅅㅔㄹㅌ",
+      "ㄸㅔㅏㅆㅔ",
+      "ㅃㅜㅣㅌ",
+      "ㄱㅣㅆㅔ ㅜㅍ",
+      "ㄹㅔㄸㅣㄴㅃㅜㅣㅅㅎ",
+      "ㅆㅏㅊㅏㅌㅔ",
+      "ㄷㅣㅅㅗ외ㄴ",
+      "ㄹㅔㄴㅗㅜㄴㅊㅔ"
+    ],
+    "t": "to abandon, forsake, desert, leave, quit, give up, relinquish, vacate, disown, renounce"
+  },
+  {
+    "q": "opinii",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㄷㅔㅔㅁ",
+      "ㅗㅍㅣㄴㅔ",
+      "ㅌㅎㅣㄴㅋ",
+      "ㅂㅔㄸㅣㅔㅆㅔ",
+      "ㅎㅏㅆㅔ ㅏㄴ ㅗㅍㅣㄴㅣㅗㄴ"
+    ],
+    "t": "to account, deem, opine, think, believe, have an opinion"
+  },
+  {
+    "q": "elekto",
+    "a": [
+      "ㅏㅍㅍㅗㅣㄴㅌㅁㅔㄴㅌ",
+      "ㅊㅎㅗㅣㅊㅔ",
+      "ㅔㄸㅔㅊㅌㅣㅗㄴ"
+    ],
+    "t": "appointment, choice, election"
+  },
+  {
+    "q": "letero",
+    "a": [
+      "ㅔㅍㅣㅅㅌㄸㅔ",
+      "ㄸㅔㅌㅌㅔㄹ",
+      "ㅁㅣㅅㅅㅣㅆㅔ"
+    ],
+    "t": "epistle, letter, missive"
+  },
+  {
+    "q": "certa",
+    "a": [
+      "ㅊㅔㄹㅌㅏㅣㄴ",
+      "ㅅㅜㄹㅔ",
+      "ㅜㄴㅔㄹㄹㅣㄴㄱ"
+    ],
+    "t": "certain, sure, unerring"
+  },
+  {
+    "q": "lerni",
+    "a": [
+      "ㅌㅗ ㄸㅔㅏㄹㄴ"
+    ],
+    "t": "to learn"
+  },
+  {
+    "q": "pastro",
+    "a": [
+      "ㅊㄸㅔㄹㄱㅠㅁㅏㄴ",
+      "ㅍㅏㅅㅌㅗㄹ",
+      "ㅍㄹㅣㅔㅅㅌ",
+      "ㅁㅣㄴㅣㅅㅌㅔㄹ",
+      "ㅍㅏㄹㅅㅗㄴ"
+    ],
+    "t": "clergyman, pastor, priest, minister, parson"
+  },
+  {
+    "q": "fali",
+    "a": [
+      "ㅌㅗ ㄷㄹㅗㅍ",
+      "ㄲㅏㄸㄸ",
+      "ㅌㅗㅍㅍㄸㅔ"
+    ],
+    "t": "to drop, fall, topple"
+  },
+  {
+    "q": "krome",
+    "a": [
+      "ㅂㅔㅅㅣㄷㅔㅅ",
+      "ㅣㄴ ㅏㄷㄷㅣㅌㅣㅗㄴ",
+      "ㅁㅗㄹㅔㅗㅆㅔㄹ",
+      "ㄲㅜㄹㅌㅎㅔㄹㅁㅗㄹㅔ"
+    ],
+    "t": "besides, in addition, moreover, furthermore"
+  },
+  {
+    "q": "loĝantaro",
+    "a": [
+      "ㅍㅗㅍㅜㄸㅏㅌㅣㅗㄴ"
+    ],
+    "t": "population"
+  },
+  {
+    "q": "lernejo",
+    "a": [
+      "ㅅㅊㅎㅗㅗㄸ"
+    ],
+    "t": "school"
+  },
+  {
+    "q": "konata",
+    "a": [
+      "(외ㅔㄸㄸ) ㅋㄴㅗ외ㄴ"
+    ],
+    "t": "(well) known"
+  },
+  {
+    "q": "ĉina",
+    "a": [
+      "ㅊㅎㅣㄴㅔㅅㅔ"
+    ],
+    "t": "Chinese"
+  },
+  {
+    "q": "loĝi",
+    "a": [
+      "ㅌㅗ ㄷ외ㅔㄸㄸ",
+      "ㄸㅣㅆㅔ",
+      "ㅣㄴㅎㅏㅂㅣㅌ",
+      "ㄹㅔㅅㅣㄷㅔ"
+    ],
+    "t": "to dwell, live, inhabit, reside"
+  },
+  {
+    "q": "timi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㄲㄹㅏㅣㄷ ㅗㄲ",
+      "ㄲㅔㅏㄹ"
+    ],
+    "t": "to be afraid of, fear"
+  },
+  {
+    "q": "simila",
+    "a": [
+      "ㅏㄸㅣㅋㅔ",
+      "ㅅㅣㅁㅣㄸㅏㄹ",
+      "ㄸㅣㅋㅔ"
+    ],
+    "t": "alike, similar, like"
+  },
+  {
+    "q": "ĉefe",
+    "a": [
+      "ㅊㅎㅣㅔㄲㄸㅠ",
+      "ㅁㅏㅣㄴㄸㅠ"
+    ],
+    "t": "chiefly, mainly"
+  },
+  {
+    "q": "facile",
+    "a": [
+      "ㅔㅏㅅㅣㄸㅠ"
+    ],
+    "t": "easily"
+  },
+  {
+    "q": "organizaĵo",
+    "a": [
+      "ㅗㄹㄱㅏㄴㅣㅐㅏㅌㅣㅗㄴ"
+    ],
+    "t": "organization"
+  },
+  {
+    "q": "penso",
+    "a": [
+      "ㅌㅎㅗㅜㄱㅎㅌ"
+    ],
+    "t": "thought"
+  },
+  {
+    "q": "serĉi",
+    "a": [
+      "ㅌㅗ ㄲㅣㄴㄷ",
+      "ㅅㅔㅏㄹㅊㅎ",
+      "ㅅㅔㅔㅋ",
+      "ㅌㄹㅏㅊㅋ ㄷㅗ외ㄴ"
+    ],
+    "t": "to find, search, seek, track down"
+  },
+  {
+    "q": "armeo",
+    "a": [
+      "ㅏㄹㅁㅠ"
+    ],
+    "t": "army"
+  },
+  {
+    "q": "intereso",
+    "a": [
+      "ㅣㄴㅌㅔㄹㅔㅅㅌ"
+    ],
+    "t": "interest"
+  },
+  {
+    "q": "ekonomio",
+    "a": [
+      "ㅔㅊㅗㄴㅗㅁㅣㅊㅅ",
+      "ㅔㅊㅗㄴㅗㅁㅠ"
+    ],
+    "t": "economics, economy"
+  },
+  {
+    "q": "universitato",
+    "a": [
+      "ㅜㄴㅣㅆㅔㄹㅅㅣㅌㅠ"
+    ],
+    "t": "university"
+  },
+  {
+    "q": "rolo",
+    "a": [
+      "ㅊㅎㅏㄹㅏㅊㅌㅔㄹ",
+      "ㅍㅏㄹㅌ",
+      "ㄹㅗㄸㅔ",
+      "ㄹôㄸㅔ (ㅏㅊㅌㅣㄴㄱ)"
+    ],
+    "t": "character, part, role, rôle (acting)"
+  },
+  {
+    "q": "rezulto",
+    "a": [
+      "ㄹㅔㅅㅜㄸㅌ"
+    ],
+    "t": "result"
+  },
+  {
+    "q": "verŝajne",
+    "a": [
+      "ㅏㅍㅍㅏㄹㅔㄴㅌㄸㅠ",
+      "ㅍㄹㅗㅂㅏㅂㄸㅠ",
+      "ㄸㅣㅋㅔㄸㅠ",
+      "ㅂㅠ ㅏㄸㄸ ㅏㅊㅊㅗㅜㄴㅌㅅ"
+    ],
+    "t": "apparently, probably, likely, by all accounts"
+  },
+  {
+    "q": "konduki",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㄷㅜㅊㅌ",
+      "ㄱㅜㅣㄷㅔ",
+      "ㄸㅔㅏㄷ",
+      "ㄷㄹㅣㅆㅔ (ㅆㅔㅎㅣㅊㄸㅔ)"
+    ],
+    "t": "to conduct, guide, lead, drive (vehicle)"
+  },
+  {
+    "q": "des",
+    "a": [
+      "ㅏㄸㄸ ㅌㅎㅔ ㅁㅗㄹㅔ",
+      "ㅅㅗ ㅁㅜㅊㅎ ㅌㅎㅔ ㅁㅗㄹㅔ"
+    ],
+    "t": "all the more, so much the more"
+  },
+  {
+    "q": "kultura",
+    "a": [
+      "ㅊㅜㄸㅌㅜㄹㅏㄸ"
+    ],
+    "t": "cultural"
+  },
+  {
+    "q": "okazo",
+    "a": [
+      "ㅏㅊㅊㅣㄷㅔㄴㅌ",
+      "ㅊㅎㅏㄴㅊㅔ",
+      "ㅔㅆㅔㄴㅌ",
+      "ㅗㅊㅊㅜㄹㄹㅔㄴㅊㅔ",
+      "ㅗㅍㅍㅗㄹㅌㅜㄴㅣㅌㅠ",
+      "ㅗㅊㅊㅏㅅㅣㅗㄴ"
+    ],
+    "t": "accident, chance, event, occurrence, opportunity, occasion"
+  },
+  {
+    "q": "maniero",
+    "a": [
+      "ㄲㅏㅅㅎㅣㅗㄴ",
+      "ㅁㅏㄴㄴㅔㄹ",
+      "ㅁㅗㄷㅔ",
+      "외ㅏㅠ"
+    ],
+    "t": "fashion, manner, mode, way"
+  },
+  {
+    "q": "perdi",
+    "a": [
+      "ㅌㅗ ㄸㅗㅅㅔ"
+    ],
+    "t": "to lose"
+  },
+  {
+    "q": "daŭrigi",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅌㅣㄴㅜㅔ",
+      "ㅊㅏㄹㄹㅠ ㅗㄴ",
+      "ㄱㅗ ㅗㄴ",
+      "ㅍㄹㅗㅊㅔㅔㄷ 외ㅣㅌㅎ",
+      "ㅍㅔㄹㅍㅔㅌㅜㅏㅌㅔ",
+      "ㄹㅔㅅㅜㅁㅔ",
+      "ㅊㅗㄴㅌㅣㄴㅜㅔ",
+      "ㅍㄹㅗㄸㅗㄴㄱ"
+    ],
+    "t": "to continue, carry on, go on, proceed with, perpetuate, resume, continue, prolong"
+  },
+  {
+    "q": "decido",
+    "a": [
+      "ㄷㅔㅊㅣㅅㅣㅗㄴ"
+    ],
+    "t": "decision"
+  },
+  {
+    "q": "elekti",
+    "a": [
+      "ㅌㅗ ㅊㅎㅗㅗㅅㅔ",
+      "ㅔㄸㅔㅊㅌ",
+      "ㅍㅣㅊㅋ (ㅗㅜㅌ)",
+      "ㅅㅔㄸㅔㅊㅌ"
+    ],
+    "t": "to choose, elect, pick (out), select"
+  },
+  {
+    "q": "ŝati",
+    "a": [
+      "ㅌㅗ ㅏㅍㅍㄹㅔㅊㅣㅏㅌㅔ",
+      "ㄸㅣㅋㅔ",
+      "ㅍㄹㅣㅐㅔ",
+      "ㅆㅏㄸㅜㅔ",
+      "ㅔㅅㅌㅔㅔㅁ",
+      "ㅌㅎㅣㄴㅋ ㅎㅣㄱㅎㄸㅠ ㅗㄲ",
+      "ㄹㅔㄸㅣㅅㅎ"
+    ],
+    "t": "to appreciate, like, prize, value, esteem, think highly of, relish"
+  },
+  {
+    "q": "flanko",
+    "a": [
+      "ㄲㄸㅏㄴㅋ",
+      "ㅅㅣㄷㅔ",
+      "ㄸㅏㅌㅔㄹㅏㄸ ㅅㅜㄹㄲㅏㅊㅔ"
+    ],
+    "t": "flank, side, lateral surface"
+  },
+  {
+    "q": "teksto",
+    "a": [
+      "ㄸㅠㄹㅣㅊㅅ",
+      "ㅌㅔㅉㅌ"
+    ],
+    "t": "lyrics, text"
+  },
+  {
+    "q": "ami",
+    "a": [
+      "ㅌㅗ ㄸㅗㅆㅔ",
+      "ㅊㅎㅔㄹㅣㅅㅎ"
+    ],
+    "t": "to love, cherish"
+  },
+  {
+    "q": "rusa",
+    "a": [
+      "ㄹㅜㅅㅅㅣㅏㄴ"
+    ],
+    "t": "Russian"
+  },
+  {
+    "q": "apenaŭ",
+    "a": [
+      "ㅂㅏㄹㅔㄸㅠ",
+      "ㅎㅏㄹㄷㄸㅠ",
+      "ㅗㄴㄸㅠ ㅈㅜㅅㅌ",
+      "ㅅㅊㅏㄹㅊㅔㄸㅠ",
+      "ㄴㅗ ㅁㅗㄹㅔ ㅌㅎㅏㄴ"
+    ],
+    "t": "barely, hardly, only just, scarcely, no more than"
+  },
+  {
+    "q": "pagi",
+    "a": [
+      "ㅌㅗ ㅍㅏㅠ"
+    ],
+    "t": "to pay"
+  },
+  {
+    "q": "anstataŭ",
+    "a": [
+      "ㅣㄴ ㄸㅣㅔㅜ ㅗㄲ",
+      "ㅣㄴ ㅍㄸㅏㅊㅔ ㅗㄲ",
+      "ㅣㄴㅅㅌㅔㅏㄷ ㅗㄲ"
+    ],
+    "t": "in lieu of, in place of, instead of"
+  },
+  {
+    "q": "ludi",
+    "a": [
+      "ㅌㅗ ㅍㄸㅏㅠ",
+      "ㅔㄴㅏㅊㅌ",
+      "ㅍㅔㄹㄲㅗㄹㅁ"
+    ],
+    "t": "to play, enact, perform"
+  },
+  {
+    "q": "sento",
+    "a": [
+      "ㄲㅔㅔㄸ",
+      "ㄲㅔㅔㄸㅣㄴㄱ",
+      "ㅅㅔㄴㅅㅏㅌㅣㅗㄴ",
+      "ㅍㅔㄹㅊㅔㅍㅌㅣㅗㄴ",
+      "ㅅㅔㄴㅌㅣㅁㅔㄴㅌ"
+    ],
+    "t": "feel, feeling, sensation, perception, sentiment"
+  },
+  {
+    "q": "financa",
+    "a": [
+      "ㄲㅣㄴㅏㄴㅊㅣㅏㄸ"
+    ],
+    "t": "financial"
+  },
+  {
+    "q": "ĉia",
+    "a": [
+      "ㅏㄸㄸ",
+      "ㅔㅆㅔㄹㅠ ㅋㅣㄴㄷ ㅗㄲ",
+      "ㅔㅏㅊㅎ"
+    ],
+    "t": "all, every kind of, each"
+  },
+  {
+    "q": "kampo",
+    "a": [
+      "ㄲㅣㅔㄸㄷ"
+    ],
+    "t": "field"
+  },
+  {
+    "q": "manki",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㄸㅏㅊㅋㅣㄴㄱ",
+      "ㅂㅔ ㅁㅣㅅㅅㅣㄴㄱ",
+      "ㄲㅏㅣㄸ",
+      "ㅁㅣㅅㅅ"
+    ],
+    "t": "to be lacking, be missing, fail, miss"
+  },
+  {
+    "q": "permesi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㄹㄷ",
+      "ㅏㄷㅁㅣㅌ",
+      "ㅏㄲㄲㅗㄹㄷ",
+      "ㅏㄸㄸㅗ외",
+      "ㅍㅔㄹㅁㅣㅌ",
+      "ㅏㅜㅌㅎㅗㄹㅣㅐㅔ",
+      "ㄱㄹㅏㄴㅌ"
+    ],
+    "t": "to accord, admit, afford, allow, permit, authorize, grant"
+  },
+  {
+    "q": "rimarki",
+    "a": [
+      "ㅌㅗ ㄴㅗㅌㅔ",
+      "ㄴㅗㅌㅣㅊㅔ",
+      "ㅗㅂㅅㅔㄹㅆㅔ",
+      "ㄹㅔㅁㅏㄹㅋ"
+    ],
+    "t": "to note, notice, observe, remark"
+  },
+  {
+    "q": "viziti",
+    "a": [
+      "ㅌㅗ ㅏㅌㅌㅔㄴㄷ",
+      "ㅊㅏㄸㄸ ㅗㄴ",
+      "ㅅㅔㅔ",
+      "ㅆㅣㅅㅣㅌ"
+    ],
+    "t": "to attend, call on, see, visit"
+  },
+  {
+    "q": "dolaro",
+    "a": [
+      "ㄷㅗㄸㄸㅏㄹ"
+    ],
+    "t": "dollar"
+  },
+  {
+    "q": "malbona",
+    "a": [
+      "ㅂㅏㄷ",
+      "ㅁㅣㅅㅔㄹㅏㅂㄸㅔ",
+      "ㄴㅏㅅㅌㅠ",
+      "ㅍㅗㅗㄹ",
+      "ㄴㅏㅜㄱㅎㅌㅠ",
+      "ㅔㅆㅣㄸ",
+      "외ㅣㅊㅋㅔㄷ"
+    ],
+    "t": "bad, miserable, nasty, poor, naughty, evil, wicked"
+  },
+  {
+    "q": "porti",
+    "a": [
+      "ㅌㅗ ㅂㅔㅏㄹ",
+      "ㅊㅏㄹㄹㅠ",
+      "외ㅔㅏㄹ",
+      "ㅂㄹㅣㄴㄱ",
+      "ㅍㅗㄹㅌ (ㅌㅗ ㅏㄴㅗㅌㅎㅔㄹ ㅗㅍㅔㄹㅏㅌㅣㄴㄱ ㅅㅠㅅㅌㅔㅁ)"
+    ],
+    "t": "to bear, carry, wear, bring, port (to another operating system)"
+  },
+  {
+    "q": "konsideri",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㅊㅗㄴㅅㅣㄷㅔㄹ",
+      "ㅔㅅㅌㅔㅔㅁ",
+      "ㄹㅔㄱㅏㄹㄷ",
+      "ㅌㅏㅋㅔ ㅣㄴㅌㅗ ㅏㅊㅊㅗㅜㄴㅌ"
+    ],
+    "t": "to account, consider, esteem, regard, take into account"
+  },
+  {
+    "q": "gazeto",
+    "a": [
+      "ㄱㅏㅐㅔㅌㅌㅔ",
+      "ㅁㅏㄱㅏㅐㅣㄴㅔ",
+      "ㄴㅔ외ㅅㅍㅏㅍㅔㄹ",
+      "ㅍㅔㄹㅣㅗㄷㅣㅊㅏㄸ"
+    ],
+    "t": "gazette, magazine, newspaper, periodical"
+  },
+  {
+    "q": "kuŝi",
+    "a": [
+      "ㅌㅗ ㄸㅣㅔ",
+      "ㄹㅔㅊㄸㅣㄴㅔ",
+      "ㄹㅔㅅㅌ ㅗㄴ"
+    ],
+    "t": "to lie, recline, rest on"
+  },
+  {
+    "q": "maro",
+    "a": [
+      "ㅅㅔㅏ"
+    ],
+    "t": "sea"
+  },
+  {
+    "q": "helpo",
+    "a": [
+      "ㅏㅣㄷ",
+      "ㅎㅔㄸㅍ",
+      "ㅏㅅㅅㅣㅅㅌㅏㄴㅊㅔ",
+      "ㄹㅔㄸㅣㅔㄲ"
+    ],
+    "t": "aid, help, assistance, relief"
+  },
+  {
+    "q": "tria",
+    "a": [
+      "ㅌㅎㅣㄹㄷ"
+    ],
+    "t": "third"
+  },
+  {
+    "q": "sinjorino",
+    "a": [
+      "ㄸㅏㄷㅠ",
+      "ㅁㅏㄷㅏㅁ",
+      "ㅁㄹㅅ."
+    ],
+    "t": "lady, madam, Mrs."
+  },
+  {
+    "q": "oficiala",
+    "a": [
+      "ㅗㄲㄲㅣㅊㅔㄹ",
+      "ㅗㄲㄲㅣㅊㅣㅏㄸ"
+    ],
+    "t": "officer, official"
+  },
+  {
+    "q": "krizo",
+    "a": [
+      "ㅊㄹㅣㅅㅣㅅ",
+      "ㄷㅔㅍㄹㅔㅅㅅㅣㅗㄴ",
+      "ㅔㅁㅔㄹㄱㅔㄴㅊㅠ",
+      "ㄷㅔㅍㄹㅔㅅㅅㅣㅗㄴ",
+      "ㅊㄹㅣㅌㅣㅊㅏㄸ ㅅㅣㅌㅜㅏㅌㅣㅗㄴ"
+    ],
+    "t": "crisis, depression, emergency, depression, critical situation"
+  },
+  {
+    "q": "raporto",
+    "a": [
+      "ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㄹㅔㅊㅗㄹㄷ",
+      "ㄹㅔㅍㅗㄹㅌ",
+      "ㅅㅌㅏㅌㅔㅁㅔㄴㅌ"
+    ],
+    "t": "account, record, report, statement"
+  },
+  {
+    "q": "regi",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅌㄹㅗㄸ",
+      "ㄱㅗㅆㅔㄹㄴ",
+      "ㄹㅔㅅㅌㄹㅏㅣㄴ",
+      "ㄹㅜㄸㅔ",
+      "ㄹㅔㅣㄱㄴ"
+    ],
+    "t": "to control, govern, restrain, rule, reign"
+  },
+  {
+    "q": "simpla",
+    "a": [
+      "ㅅㅣㅁㅍㄸㅔ",
+      "ㅅㅌㄹㅏㅣㄱㅎㅌㄲㅗㄹ외ㅏㄹㄷ",
+      "ㅜㄴㅏㄲㄲㅔㅊㅌㅔㄷ",
+      "ㅜㄴㅆㅏㄹㄴㅣㅅㅎㅔㄷ",
+      "ㅍㄸㅏㅣㄴ",
+      "ㅜㄴㅍㄹㅔㅌㅔㄴㄷㅣㄴㄱ"
+    ],
+    "t": "simple, straightforward, unaffected, unvarnished, plain, unpretending"
+  },
+  {
+    "q": "sankta",
+    "a": [
+      "ㅎㅗㄸㅠ",
+      "ㅅㅏㅊㄹㅔㄷ",
+      "ㅅㅏㅣㄴㅌㄸㅠ"
+    ],
+    "t": "holy, sacred, saintly"
+  },
+  {
+    "q": "eta",
+    "a": [
+      "ㅌㅣㄴㅠ"
+    ],
+    "t": "tiny"
+  },
+  {
+    "q": "daŭre",
+    "a": [
+      "ㅊㅗㄴㅅㅌㅏㄴㅌㄸㅠ",
+      "ㅊㅗㄴㅌㅣㄴㅜㅏㄸㄸㅠ",
+      "ㅊㅗㄴㅌㅣㄴㅜㅗㅜㅅㄸㅠ"
+    ],
+    "t": "constantly, continually, continuously"
+  },
+  {
+    "q": "batalo",
+    "a": [
+      "ㅏㅊㅌㅣㅗㄴ",
+      "ㅂㅏㅌㅌㄸㅔ",
+      "ㅅㅊㅜㄲㄲㄸㅔ",
+      "ㅅㅌㄹㅜㄱㄱㄸㅔ",
+      "ㅊㅗㅁㅂㅏㅌ",
+      "ㄲㄹㅏㅠ",
+      "ㄲㅣㄱㅎㅌ; ㅅ외ㅔㅔㅌ ㅍㅗㅌㅏㅌㅗ",
+      "ㅠㅏㅁ"
+    ],
+    "t": "action, battle, scuffle, struggle, combat, fray, fight; sweet potato, yam"
+  },
+  {
+    "q": "gvidanto",
+    "a": [
+      "ㄸㅔㅏㄷㅔㄹ (ㅍㅔㄹㅅㅗㄴ)"
+    ],
+    "t": "leader (person)"
+  },
+  {
+    "q": "memori",
+    "a": [
+      "ㅌㅗ ㄹㅔㅊㅏㄸㄸ",
+      "ㄹㅔㅊㅗㄸㄸㅔㅊㅌ",
+      "ㄹㅔㅁㅔㅁㅂㅔㄹ"
+    ],
+    "t": "to recall, recollect, remember"
+  },
+  {
+    "q": "kurso",
+    "a": [
+      "ㅊㄸㅏㅅㅅ",
+      "ㅊㅗㅜㄹㅅㅔ",
+      "ㄹㅗㅜㅌㅔ"
+    ],
+    "t": "class, course, route"
+  },
+  {
+    "q": "farita",
+    "a": [
+      "ㄷㅗㄴㅔ",
+      "ㅁㅏㄷㅔ"
+    ],
+    "t": "done, made"
+  },
+  {
+    "q": "kreski",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㄹㅜㅔ",
+      "ㄱㄹㅗ외",
+      "ㅣㄴㅊㄹㅔㅏㅅㅔ",
+      "ㅏㅅㅊㅔㄴㄷ"
+    ],
+    "t": "to accrue, grow, increase, ascend"
+  },
+  {
+    "q": "interna",
+    "a": [
+      "ㅂㅏㅊㅋ-ㅔㄴㄷ",
+      "ㅣㄴㅌㅔㄹㄴㅏㄸ",
+      "ㄷㅗㅁㅔㅅㅌㅣㅊ",
+      "ㅣㄴㄴㅔㄹ",
+      "ㅣㄴㅅㅣㄷㅔ"
+    ],
+    "t": "back-end, internal, domestic, inner, inside"
+  },
+  {
+    "q": "manĝi",
+    "a": [
+      "ㅌㅗ ㅔㅏㅌ",
+      "ㄲㅔㅔㄷ"
+    ],
+    "t": "to eat, feed"
+  },
+  {
+    "q": "amo",
+    "a": [
+      "ㅏㄲㄲㅔㅊㅌㅣㅗㄴ",
+      "ㄸㅗㅆㅔ"
+    ],
+    "t": "affection, love"
+  },
+  {
+    "q": "laboristo",
+    "a": [
+      "ㄸㅏㅂㅗㄹㅔㄹ",
+      "ㅗㅍㅔㄹㅏㅌㅣㅆㅔ",
+      "외ㅗㄹㅋㅔㄹ",
+      "외ㅗㄹㅋㅣㄴㄱ ㅁㅏㄴ",
+      "외ㅗㄹㅋㅁㅏㄴ"
+    ],
+    "t": "laborer, operative, worker, working man, workman"
+  },
+  {
+    "q": "aserti",
+    "a": [
+      "ㅌㅗ ㅏㄲㄲㅣㄹㅁ",
+      "ㅏㄸㄸㅔㄱㅔ",
+      "ㅏㅅㅅㅔㄹㅌ",
+      "ㅏㅆㅔㄹ",
+      "ㅊㄸㅏㅣㅁ",
+      "ㅅㅌㅏㅌㅔ"
+    ],
+    "t": "to affirm, allege, assert, aver, claim, state"
+  },
+  {
+    "q": "agi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅌ",
+      "ㅁㅗㅆㅔ",
+      "ㅌㅏㅋㅔ ㅏㅊㅌㅣㅗㄴ",
+      "ㄷㅗ"
+    ],
+    "t": "to act, move, take action, do"
+  },
+  {
+    "q": "banko",
+    "a": [
+      "ㅂㅏㄴㅋ"
+    ],
+    "t": "bank"
+  },
+  {
+    "q": "komunumo",
+    "a": [
+      "ㅊㅗㅁㅁㅜㄴㅔ",
+      "ㅊㅗㅁㅁㅜㄴㅣㅌㅠ"
+    ],
+    "t": "commune, community"
+  },
+  {
+    "q": "animo",
+    "a": [
+      "ㅅㅗㅜㄸ",
+      "ㅅㅍㅣㄹㅣㅌ"
+    ],
+    "t": "soul, spirit"
+  },
+  {
+    "q": "knabo",
+    "a": [
+      "ㅂㅗㅠ",
+      "ㄸㅏㄷ"
+    ],
+    "t": "boy, lad"
+  },
+  {
+    "q": "nokto",
+    "a": [
+      "ㄴㅣㄱㅎㅌ"
+    ],
+    "t": "night"
+  },
+  {
+    "q": "starigi",
+    "a": [
+      "ㅌㅗ ㅔㄹㅔㅊㅌ",
+      "ㅅㅔㅌ ㅜㅍ",
+      "ㅅㅌㅏㄴㄷ"
+    ],
+    "t": "to erect, set up, stand"
+  },
+  {
+    "q": "forgesi",
+    "a": [
+      "ㅌㅗ ㄲㅗㄹㄱㅔㅌ"
+    ],
+    "t": "to forget"
+  },
+  {
+    "q": "okcidenta",
+    "a": [
+      "외ㅔㅅㅌㅔㄹㄸㅠ",
+      "외ㅔㅅㅌㅔㄹㄴ",
+      "ㅗㅊㅊㅣㄷㅔㄴㅌㅏㄸ"
+    ],
+    "t": "westerly, western, occidental"
+  },
+  {
+    "q": "foriri",
+    "a": [
+      "ㅌㅗ ㅏㅂㅅㅔㄴㅌ ㅗㄴㅔㅅㅔㄸㄲ",
+      "ㄷㅔㅍㅏㄹㅌ",
+      "ㄱㅗ ㅏ외ㅏㅠ",
+      "ㄸㅔㅏㅆㅔ",
+      "ㅅㅔㅌ ㅗㅜㅌ"
+    ],
+    "t": "to absent oneself, depart, go away, leave, set out"
+  },
+  {
+    "q": "loĝanto",
+    "a": [
+      "ㄷ외ㅔㄸㄸㅔㄹ",
+      "ㅣㄴㅎㅏㅂㅣㅌㅏㄴㅌ",
+      "ㅣㄴㅁㅏㅌㅔ",
+      "ㄹㅔㅅㅣㄷㅔㄴㅌ",
+      "ㅗㅊㅊㅜㅍㅏㄴㅌ"
+    ],
+    "t": "dweller, inhabitant, inmate, resident, occupant"
+  },
+  {
+    "q": "sekve",
+    "a": [
+      "ㅏㅊㅊㅗㄹㄷㅣㄴㄱㄸㅠ",
+      "ㅊㅗㄴㅅㅔㅃㅜㅔㄴㅌㄸㅠ",
+      "ㅅㅗ",
+      "ㅅㅜㅂㅅㅔㅃㅜㅔㄴㅌㄸㅠ",
+      "ㅌㅎㅜㅅ",
+      "ㅌㅎㅔㄴ",
+      "ㅣㄴ ㅌㅎㅏㅌ ㅊㅏㅅㅔ"
+    ],
+    "t": "accordingly, consequently, so, subsequently, thus, then, in that case"
+  },
+  {
+    "q": "pasi",
+    "a": [
+      "ㅌㅗ ㅍㅏㅅㅅ"
+    ],
+    "t": "to pass"
+  },
+  {
+    "q": "aparteni",
+    "a": [
+      "ㅌㅗ ㅂㅔㄸㅗㄴㄱ ㅌㅗ"
+    ],
+    "t": "to belong to"
+  },
+  {
+    "q": "merkato",
+    "a": [
+      "ㅁㅏㄹㅋㅔㅌ",
+      "ㅅㅏㄸㅔㅅ ㅏㅊㅌㅣㅆㅣㅌㅠ"
+    ],
+    "t": "market, sales activity"
+  },
+  {
+    "q": "libera",
+    "a": [
+      "ㅔㅉㅔㅁㅍㅌ",
+      "ㄲㄹㅔㅔ",
+      "ㅜㄴㄹㅔㅅㅌㄹㅏㅣㄴㅔㄷ",
+      "ㅅㅍㅏㄹㅔ",
+      "ㅜㄴㅊㅎㅔㅊㅋㅔㄷ"
+    ],
+    "t": "exempt, free, unrestrained, spare, unchecked"
+  },
+  {
+    "q": "respondo",
+    "a": [
+      "ㅏㄴㅅ외ㅔㄹ",
+      "ㄹㅔㅍㄸㅠ",
+      "ㄹㅔㅅㅍㅗㄴㅅㅔ"
+    ],
+    "t": "answer, reply, response"
+  },
+  {
+    "q": "strato",
+    "a": [
+      "ㄹㅗㅏㄷ",
+      "ㅅㅌㄹㅔㅔㅌ"
+    ],
+    "t": "road, street"
+  },
+  {
+    "q": "ĵus",
+    "a": [
+      "ㅈㅜㅅㅌ (ㄴㅗ외)",
+      "ㅏ ㅁㅗㅁㅔㄴㅌ ㅏㄱㅗ"
+    ],
+    "t": "just (now), a moment ago"
+  },
+  {
+    "q": "leviĝi",
+    "a": [
+      "ㅌㅗ ㅏㄹㅣㅅㅔ",
+      "ㅏㅅㅊㅔㄴㄷ",
+      "ㄱㅔㅌ ㅜㅍ",
+      "ㄱㅗ ㅜㅍ",
+      "ㄸㅣㄲㅌ",
+      "ㄹㅣㅅㅔ",
+      "ㅏㄹㅣㅅㅔ"
+    ],
+    "t": "to arise, ascend, get up, go up, lift, rise, arise"
+  },
+  {
+    "q": "aĉeti",
+    "a": [
+      "ㅌㅗ ㅏㅊㅃㅜㅣㄹㅔ",
+      "ㅂㅜㅠ",
+      "ㅍㅜㄹㅊㅎㅏㅅㅔ",
+      "ㅌㅏㅋㅔ ㅗㅆㅔㄹ"
+    ],
+    "t": "to acquire, buy, purchase, take over"
+  },
+  {
+    "q": "alporti",
+    "a": [
+      "ㅌㅗ ㅂㄹㅣㄴㄱ",
+      "ㄲㅔㅌㅊㅎ",
+      "ㅊㅗㄴㅆㅔㅠ"
+    ],
+    "t": "to bring, fetch, convey"
+  },
+  {
+    "q": "rilate",
+    "a": [
+      "ㅏㅅ ㅌㅗ",
+      "ㅏㅅ ㄹㅔㄱㅏㄹㄷㅅ",
+      "ㅊㅗㄴㅊㅔㄹㄴㅣㄴㄱ",
+      "외ㅣㅌㅎ ㄹㅔㅅㅍㅔㅊㅌ ㅌㅗ"
+    ],
+    "t": "as to, as regards, concerning, with respect to"
+  },
+  {
+    "q": "tasko",
+    "a": [
+      "ㅈㅗㅂ",
+      "ㅌㅏㅅㅋ"
+    ],
+    "t": "job, task"
+  },
+  {
+    "q": "for",
+    "a": [
+      "ㅏ외ㅏㅠ",
+      "ㄷㅣㅅㅌㅏㄴㅌ",
+      "ㄲㅏㄹ (ㅗㄲㄲ",
+      "ㅏ외ㅏㅠ)",
+      "ㄲㅗㄹㅌㅎ",
+      "ㄱㅗㄴㅔ"
+    ],
+    "t": "away, distant, far (off, away), forth, gone"
+  },
+  {
+    "q": "iĝi",
+    "a": [
+      "ㅌㅗ ㅂㅔㅊㅗㅁㅔ",
+      "ㄱㅔㅌ",
+      "ㄱㄹㅗ외"
+    ],
+    "t": "to become, get, grow"
+  },
+  {
+    "q": "blanka",
+    "a": [
+      "ㅂㄸㅏㄴㅋ",
+      "외ㅎㅣㅌㅔ"
+    ],
+    "t": "blank, white"
+  },
+  {
+    "q": "celi",
+    "a": [
+      "ㅌㅗ ㅏㅣㅁ (ㅏㅌ",
+      "ㄲㅗㄹ)",
+      "ㅁㅔㅏㄴ (ㅌㅗ ㅅㅏㅠ)",
+      "ㅌㅏㄹㄱㅔㅌ",
+      "ㅣㄴㅌㅔㄴㄷ",
+      "ㅏㅅㅍㅣㄹㅔ",
+      "ㅅㅌㄹㅏㅣㄴ ㅏㄲㅌㅔㄹ"
+    ],
+    "t": "to aim (at, for), mean (to say), target, intend, aspire, strain after"
+  },
+  {
+    "q": "nepre",
+    "a": [
+      "ㅏㅂㅅㅗㄸㅜㅌㅔㄸㅠ",
+      "ㄷㅔㄲㅣㄴㅣㅌㅔㄸㅠ",
+      "외ㅣㅌㅎㅗㅜㅌ ㄲㅏㅣㄸ",
+      "ㅊㅔㄹㅌㅏㅣㄴㄸㅠ",
+      "ㅅㅜㄹㅔㄸㅠ"
+    ],
+    "t": "absolutely, definitely, without fail, certainly, surely"
+  },
+  {
+    "q": "korpo",
+    "a": [
+      "ㅂㅗㄷㅠ"
+    ],
+    "t": "body"
+  },
+  {
+    "q": "valoro",
+    "a": [
+      "ㅆㅏㄸㅜㅔ",
+      "외ㅗㄹㅌㅎ"
+    ],
+    "t": "value, worth"
+  },
+  {
+    "q": "fare",
+    "a": [
+      "ㅣㄴ ㄷㅗㅣㄴㄱ",
+      "ㅎㅏㅆㅣㄴㄱ ㅂㅔㅔㄴ ㄷㅗㄴㅔ",
+      "ㅎㅏㅆㅣㄴㄱ ㅂㅔㅔㄴ ㅁㅏㄷㅔ"
+    ],
+    "t": "in doing, having been done, having been made"
+  },
+  {
+    "q": "miliardo",
+    "a": [
+      "ㅂㅣㄸㄸㅣㅗㄴ (10^9)"
+    ],
+    "t": "billion (10^9)"
+  },
+  {
+    "q": "foje",
+    "a": [
+      "ㅗㄴ ㅗㅊㅊㅏㅅㅣㅗㄴ",
+      "ㅅㅗㅁㅔㅌㅣㅁㅔㅅ"
+    ],
+    "t": "on occasion, sometimes"
+  },
+  {
+    "q": "paco",
+    "a": [
+      "ㅍㅔㅏㅊㅔ"
+    ],
+    "t": "peace"
+  },
+  {
+    "q": "esprimi",
+    "a": [
+      "ㅌㅗ ㅔㅉㅍㄹㅔㅅㅅ",
+      "ㅅㅌㅏㅌㅔ"
+    ],
+    "t": "to express, state"
+  },
+  {
+    "q": "centra",
+    "a": [
+      "ㅊㅔㄴㅌㄹㅏㄸ"
+    ],
+    "t": "central"
+  },
+  {
+    "q": "antaŭa",
+    "a": [
+      "ㅏㄷㅆㅏㄴㅊㅔ",
+      "ㅏㄷㅆㅏㄴㅊㅔㄷ",
+      "ㅏㄴㅌㅔㅊㅔㄷㅔㄴㅌ",
+      "ㅏㄴㅌㅔㄹㅣㅗㄹ",
+      "ㅔㅏㄹㄸㅣㅔㄹ",
+      "ㄲㅗㄹㅁㅔㄹ",
+      "ㄲㅗㄹ외ㅏㄹㄷ",
+      "ㅍㅏㅅㅌ",
+      "ㅍㄹㅔㅊㅔㄷㅣㄴㄱ",
+      "ㅍㄹㅔㅆㅣㅗㅜㅅ",
+      "ㅍㄹㅣㅗㄹ"
+    ],
+    "t": "advance, advanced, antecedent, anterior, earlier, former, forward, past, preceding, previous, prior"
+  },
+  {
+    "q": "moderna",
+    "a": [
+      "ㅁㅗㄷㅔㄹㄴ",
+      "ㄸㅔㅏㄷㅣㄴㄱ ㅔㄷㄱㅔ",
+      "ㅏㄷㅆㅏㄴㅊㅔㄷ"
+    ],
+    "t": "modern, leading edge, advanced"
+  },
+  {
+    "q": "universala",
+    "a": [
+      "ㄱㅔㄴㅔㄹㅏㄸ",
+      "ㅜㄴㅣㅆㅔㄹㅅㅏㄸ",
+      "외ㅗㄹㄸㄷ외ㅣㄷㅔ"
+    ],
+    "t": "general, universal, worldwide"
+  },
+  {
+    "q": "knabino",
+    "a": [
+      "ㄱㅣㄹㄸ",
+      "ㄸㅏㅅㅅ"
+    ],
+    "t": "girl, lass"
+  },
+  {
+    "q": "alveni",
+    "a": [
+      "ㅌㅗ ㅏㄹㄹㅣㅆㅔ",
+      "ㅔㄴㄷ ㅜㅍ",
+      "ㄱㅔㅌ"
+    ],
+    "t": "to arrive, end up, get"
+  },
+  {
+    "q": "rajti",
+    "a": [
+      "ㅌㅗ ㅎㅏㅆㅔ ㅌㅎㅔ ㄹㅣㄱㅎㅌ ㅌㅗ",
+      "ㅂㅔ ㅔㄴㅌㅣㅌㄸㅔㄷ ㅌㅗ"
+    ],
+    "t": "to have the right to, be entitled to"
+  },
+  {
+    "q": "turni",
+    "a": [
+      "ㅌㅗ ㄹㅔㅆㅗㄸㅆㅔ",
+      "ㅌㅜㄹㄴ (ㅏㄹㅗㅜㄴㄷ)",
+      "ㄹㅗㅌㅏㅌㅔ"
+    ],
+    "t": "to revolve, turn (around), rotate"
+  },
+  {
+    "q": "akiri",
+    "a": [
+      "ㅌㅗ ㅏㅊㅎㅣㅔㅆㅔ",
+      "ㅏㅊㅃㅜㅣㄹㅔ",
+      "ㅏㅌㅌㅏㅣㄴ",
+      "ㄱㅔㅌ",
+      "ㅗㅂㅌㅏㅣㄴ"
+    ],
+    "t": "to achieve, acquire, attain, get, obtain"
+  },
+  {
+    "q": "ŝanĝi",
+    "a": [
+      "ㅌㅗ ㅊㅎㅏㄴㄱㅔ",
+      "ㅌㅜㄹㄴ",
+      "ㅁㅗㄷㅣㄲㅠ",
+      "ㅁㅏㅋㅔ ㅊㅎㅏㄴㄱㅔㅅ"
+    ],
+    "t": "to change, turn, modify, make changes"
+  },
+  {
+    "q": "plenumi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅊㅗㅁㅍㄸㅣㅅㅎ",
+      "ㅏㅊㅎㅣㅔㅆㅔ",
+      "ㅋㅔㅔㅍ",
+      "ㅗㅂㅅㅔㄹㅆㅔ",
+      "ㅍㅔㄹㄲㅗㄹㅁ",
+      "ㄲㅜㄸㄲㅣㄸㄸ",
+      "ㅏㅂㅣㄷㅔ ㅂㅠ",
+      "ㅔㅉㅔㅊㅜㅌㅔ"
+    ],
+    "t": "to accomplish, achieve, keep, observe, perform, fulfill, abide by, execute"
+  },
+  {
+    "q": "klare",
+    "a": [
+      "ㅊㄸㅔㅏㄹㄸㅠ",
+      "ㅍㄸㅏㅣㄴㄸㅠ"
+    ],
+    "t": "clearly, plainly"
+  },
+  {
+    "q": "malfermi",
+    "a": [
+      "ㅌㅗ ㅗㅍㅔㄴ (ㅜㅍ)",
+      "ㅜㄴㅂㅏㄹ"
+    ],
+    "t": "to open (up), unbar"
+  },
+  {
+    "q": "mortigi",
+    "a": [
+      "ㅌㅗ ㅋㅣㄸㄸ",
+      "ㄸㅣㅃㅜㅣㄷㅏㅌㅔ",
+      "ㅅㄸㅏㅠ",
+      "ㅁㅜㄹㄷㅔㄹ"
+    ],
+    "t": "to kill, liquidate, slay, murder"
+  },
+  {
+    "q": "organizo",
+    "a": [
+      "ㅗㄹㄱㅏㄴㅣㅐㅏㅌㅣㅗㄴ"
+    ],
+    "t": "organization"
+  },
+  {
+    "q": "simple",
+    "a": [
+      "ㅅㅣㅁㅍㄸㅠ",
+      "ㅍㄸㅏㅣㄴㄸㅠ"
+    ],
+    "t": "simply, plainly"
+  },
+  {
+    "q": "levi",
+    "a": [
+      "ㅌㅗ ㄸㅔㅆㅔㄹ",
+      "ㄸㅣㄲㅌ",
+      "ㄹㅏㅣㅅㅔ"
+    ],
+    "t": "to lever, lift, raise"
+  },
+  {
+    "q": "fama",
+    "a": [
+      "ㄲㅏㅁㅗㅜㅅ",
+      "ㅊㅔㄸㅔㅂㄹㅏㅌㅔㄷ",
+      "ㅣㄸㄸㅜㅅㅌㄹㅣㅗㅜㅅ",
+      "ㄴㅗㅌㅏㅂㄸㅔ"
+    ],
+    "t": "famous, celebrated, illustrious, notable"
+  },
+  {
+    "q": "aldoni",
+    "a": [
+      "ㅌㅗ ㅏㄷㄷ (ㅌㅗ)",
+      "ㅏㅍㅍㅔㄴㄷ",
+      "ㅅㅜㅍㅍㄸㅔㅁㅔㄴㅌ"
+    ],
+    "t": "to add (to), append, supplement"
+  },
+  {
+    "q": "plia",
+    "a": [
+      "ㅏㄴㅗㅌㅎㅔㄹ",
+      "ㅗㄴㅔ ㅁㅗㄹㅔ",
+      "ㅔㅉㅌㄹㅏ"
+    ],
+    "t": "another, one more, extra"
+  },
+  {
+    "q": "prezo",
+    "a": [
+      "ㅍㄹㅣㅊㅔ"
+    ],
+    "t": "price"
+  },
+  {
+    "q": "komisiono",
+    "a": [
+      "ㅊㅗㅁㅁㅣㅅㅅㅣㅗㄴ"
+    ],
+    "t": "commission"
+  },
+  {
+    "q": "semajno",
+    "a": [
+      "외ㅔㅔㅋ"
+    ],
+    "t": "week"
+  },
+  {
+    "q": "muro",
+    "a": [
+      "외ㅏㄸㄸ"
+    ],
+    "t": "wall"
+  },
+  {
+    "q": "publiko",
+    "a": [
+      "ㅍㅜㅂㄸㅣㅊ"
+    ],
+    "t": "public"
+  },
+  {
+    "q": "kaŭzi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅌㅣㅆㅏㅌㅔ",
+      "ㅊㅏㅜㅅㅔ",
+      "ㄱㅣㅆㅔ ㄹㅣㅅㅔ ㅌㅗ"
+    ],
+    "t": "to activate, cause, give rise to"
+  },
+  {
+    "q": "forte",
+    "a": [
+      "ㅅㅌㄹㅗㄴㄱㄸㅠ",
+      "ㅔㅏㄹㄴㅔㅅㅌㄸㅠ"
+    ],
+    "t": "strongly, earnestly"
+  },
+  {
+    "q": "parolado",
+    "a": [
+      "ㄷㅣㅅㅊㅗㅜㄹㅅㅔ",
+      "ㅎㅏㄹㅏㄴㄱㅜㅔ",
+      "ㄸㅔㅊㅌㅜㄹㅔ",
+      "ㅗㄹㅏㅌㅣㅗㄴ",
+      "ㅅㅍㅔㅔㅊㅎ"
+    ],
+    "t": "discourse, harangue, lecture, oration, speech"
+  },
+  {
+    "q": "aparta",
+    "a": [
+      "ㅏㄸㅗㅗㄲ",
+      "ㅏㅍㅏㄹㅌ",
+      "ㄷㅣㅅㅌㅣㄴㅊㅌ",
+      "ㄷㅣㅅㅌㅣㄴㅊㅌㅣㅆㅔ",
+      "ㅗ외ㄴ",
+      "ㅍㅏㄹㅌㅣㅊㅜㄸㅏㄹ",
+      "ㅅㅔㅍㅏㄹㅏㅌㅔ",
+      "ㅅㅍㅔㅊㅣㅏㄸ"
+    ],
+    "t": "aloof, apart, distinct, distinctive, own, particular, separate, special"
+  },
+  {
+    "q": "ĉielo",
+    "a": [
+      "ㅎㅔㅏㅆㅔㄴ",
+      "ㅅㅋㅠ"
+    ],
+    "t": "heaven, sky"
+  },
+  {
+    "q": "piedo",
+    "a": [
+      "ㄲㅗㅗㅌ",
+      "ㅍㅏ외",
+      "ㄹㅗㅗㅌ (ㅗㄲ ㄷㅠㅔㄷ ㅎㅏㅣㄹ)"
+    ],
+    "t": "foot, paw, root (of dyed hair)"
+  },
+  {
+    "q": "espero",
+    "a": [
+      "ㅎㅗㅍㅔ"
+    ],
+    "t": "hope"
+  },
+  {
+    "q": "edzo",
+    "a": [
+      "ㅎㅜㅅㅂㅏㄴㄷ",
+      "ㅁㅏㅌㅔ",
+      "ㅅㅍㅗㅜㅅㅔ"
+    ],
+    "t": "husband, mate, spouse"
+  },
+  {
+    "q": "vero",
+    "a": [
+      "ㄹㅔㅏㄸㅣㅌㅠ",
+      "ㅌㄹㅜㅌㅎ"
+    ],
+    "t": "reality, truth"
+  },
+  {
+    "q": "teni",
+    "a": [
+      "ㅌㅗ ㅎㅏㄴㄱ ㅗㄴㅌㅗ",
+      "ㅎㅗㄸㄷ",
+      "ㅋㅔㅔㅍ",
+      "ㄹㅔㅌㅏㅣㄴ"
+    ],
+    "t": "to hang onto, hold, keep, retain"
+  },
+  {
+    "q": "ŝipo",
+    "a": [
+      "ㅅㅎㅣㅍ",
+      "ㅂㅗㅏㅌ",
+      "ㅆㅔㅅㅅㅔㄸ"
+    ],
+    "t": "ship, boat, vessel"
+  },
+  {
+    "q": "foto",
+    "a": [
+      "ㅍㅎㅗㅌㅗ",
+      "ㅍㅎㅗㅌㅗㄱㄹㅏㅍㅎ"
+    ],
+    "t": "photo, photograph"
+  },
+  {
+    "q": "nivelo",
+    "a": [
+      "ㄸㅔㅆㅔㄸ"
+    ],
+    "t": "level"
+  },
+  {
+    "q": "interesa",
+    "a": [
+      "ㅣㄴㅌㅔㄹㅔㅅㅌㅣㄴㄱ"
+    ],
+    "t": "interesting"
+  },
+  {
+    "q": "centro",
+    "a": [
+      "ㅊㅔㄴㅌㅔㄹ"
+    ],
+    "t": "center"
+  },
+  {
+    "q": "nigra",
+    "a": [
+      "ㅂㄸㅏㅊㅋ"
+    ],
+    "t": "black"
+  },
+  {
+    "q": "komenco",
+    "a": [
+      "ㅂㅔㄱㅣㄴㄴㅣㄴㄱ",
+      "ㅊㅗㅁㅁㅔㄴㅊㅔㅁㅔㄴㅌ",
+      "ㅅㅌㅏㄹㅌ",
+      "ㄷㅔㅂㅜㅌ",
+      "ㅗㅜㅌㅅㅔㅌ"
+    ],
+    "t": "beginning, commencement, start, debut, outset"
+  },
+  {
+    "q": "kapti",
+    "a": [
+      "ㅌㅗ ㅊㅏㅍㅌㅜㄹㅔ",
+      "ㅊㅏㅌㅊㅎ",
+      "ㄱㄹㅏㅍㅍㄸㅔ",
+      "ㅌㄹㅏㅍ",
+      "ㅔㄴㅅㄴㅏㄹㅔ",
+      "ㅊㄸㅜㅌㅊㅎ",
+      "ㄱㄹㅏㅅㅍ",
+      "ㄱㄹㅏㅂ"
+    ],
+    "t": "to capture, catch, grapple, trap, ensnare, clutch, grasp, grab"
+  },
+  {
+    "q": "sufiĉi",
+    "a": [
+      "ㅌㅗ ㅅㅜㄲㄲㅣㅊㅔ",
+      "ㅂㅔ ㅔㄴㅗㅜㄱㅎ"
+    ],
+    "t": "to suffice, be enough"
+  },
+  {
+    "q": "kara",
+    "a": [
+      "ㅂㅔㄸㅗㅆㅔㄷ",
+      "ㅊㅎㅔㄹㅣㅅㅎㅔㄷ",
+      "ㄷㅔㅏㄹ",
+      "ㅔㅉㅍㅔㄴㅅㅣㅆㅔ",
+      "ㅆㅏㄸㅜㅏㅂㄸㅔ",
+      "ㅍㄹㅔㅊㅣㅗㅜㅅ",
+      "ㅊㅗㅅㅌㄸㅠ",
+      "ㅎㅣㄱㅎ-ㅍㄹㅣㅊㅔㄷ"
+    ],
+    "t": "beloved, cherished, dear, expensive, valuable, precious, costly, high-priced"
+  },
+  {
+    "q": "subteni",
+    "a": [
+      "ㅌㅗ ㅏㅂㅔㅌ",
+      "ㅅㅜㅍㅍㅗㄹㅌ",
+      "ㅅㅜㅅㅌㅏㅣㄴ",
+      "ㅁㅏㅣㄴㅌㅏㅣㄴ",
+      "ㅅㅎㅗㄹㅔ ㅜㅍ",
+      "ㅜㄴㄷㅔㄹㄸㅣㅔ"
+    ],
+    "t": "to abet, support, sustain, maintain, shore up, underlie"
+  },
+  {
+    "q": "esperi",
+    "a": [
+      "ㅌㅗ ㅎㅗㅍㅔ"
+    ],
+    "t": "to hope"
+  },
+  {
+    "q": "privata",
+    "a": [
+      "ㅍㄹㅣㅆㅏㅌㅔ"
+    ],
+    "t": "private"
+  },
+  {
+    "q": "malaperi",
+    "a": [
+      "ㅌㅗ ㄷㅣㅅㅏㅍㅍㅔㅏㄹ"
+    ],
+    "t": "to disappear"
+  },
+  {
+    "q": "soldato",
+    "a": [
+      "ㅍㅏ외ㄴ",
+      "ㅅㅗㄸㄷㅣㅔㄹ"
+    ],
+    "t": "pawn, soldier"
+  },
+  {
+    "q": "vespero",
+    "a": [
+      "ㅔㅆㅔㄴㅣㄴㄱ",
+      "ㅔㅆㅔ"
+    ],
+    "t": "evening, eve"
+  },
+  {
+    "q": "nome",
+    "a": [
+      "ㄴㅏㅁㅔㄸㅠ",
+      "ㅆㅣㅐ.",
+      "ㅌㅎㅏㅌ ㅣㅅ",
+      "ㅌㅗ ㅂㅔ ㅍㄹㅔㅊㅣㅅㅔ"
+    ],
+    "t": "namely, viz., that is, to be precise"
+  },
+  {
+    "q": "filino",
+    "a": [
+      "ㄷㅏㅜㄱㅎㅌㅔㄹ"
+    ],
+    "t": "daughter"
+  },
+  {
+    "q": "periodo",
+    "a": [
+      "ㅍㅔㄹㅣㅗㄷ"
+    ],
+    "t": "period"
+  },
+  {
+    "q": "paĝo",
+    "a": [
+      "ㅍㅏㄱㅔ (ㅂㅗㅗㅋ",
+      "ㅔㅌㅊ.)"
+    ],
+    "t": "page (book, etc.)"
+  },
+  {
+    "q": "nenia",
+    "a": [
+      "ㄴㅗ ㅋㅣㄴㄷ ㅗㄲ",
+      "ㄴㅗ . . . 외ㅎㅏㅌㅅㅗㅔㅆㅔㄹ"
+    ],
+    "t": "no kind of, no . . . whatsoever"
+  },
+  {
+    "q": "solvo",
+    "a": [
+      "ㄷㅣㅅㅅㅗㄸㅜㅌㅣㅗㄴ",
+      "ㅅㅗㄸㅜㅌㅣㅗㄴ"
+    ],
+    "t": "dissolution, solution"
+  },
+  {
+    "q": "komence",
+    "a": [
+      "ㅏㅌ ㄲㅣㄹㅅㅌ",
+      "ㅏㅌ ㅌㅎㅔ ㅗㅜㅌㅅㅔㅌ",
+      "ㅣㄴ ㅌㅎㅔ ㅂㅔㄱㅣㄴㄴㅣㄴㄱ",
+      "ㅌㅗ ㅂㅔㄱㅣㄴ 외ㅣㅌㅎ"
+    ],
+    "t": "at first, at the outset, in the beginning, to begin with"
+  },
+  {
+    "q": "stranga",
+    "a": [
+      "ㅗㄷㄷ",
+      "ㅍㅔㅊㅜㄸㅣㅏㄹ",
+      "ㅅㅌㄹㅏㄴㄱㅔ",
+      "ㅊㅜㄹㅣㅗㅜㅅ",
+      "ㅔㅊㅊㅔㄴㅌㄹㅣㅊ",
+      "ㅃㅜㅔㅔㄹ"
+    ],
+    "t": "odd, peculiar, strange, curious, eccentric, queer"
+  },
+  {
+    "q": "ordoni",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅁㅏㄴㄷ",
+      "ㅗㄹㄷㅔㄹ",
+      "ㅌㅔㄸㄸ",
+      "ㄷㅣㄹㅔㅊㅌ",
+      "ㅍㄹㅔㅅㅊㄹㅣㅂㅔ"
+    ],
+    "t": "to command, order, tell, direct, prescribe"
+  },
+  {
+    "q": "ĝenerale",
+    "a": [
+      "ㄱㅔㄴㅔㄹㅏㄸㄸㅠ",
+      "ㅣㄴ ㄱㅔㄴㅔㄹㅏㄸ"
+    ],
+    "t": "generally, in general"
+  },
+  {
+    "q": "principo",
+    "a": [
+      "ㅍㄹㅣㄴㅊㅣㅍㄸㅔ"
+    ],
+    "t": "principle"
+  },
+  {
+    "q": "plimulto",
+    "a": [
+      "ㅁㅏㅈㅗㄹㅣㅌㅠ"
+    ],
+    "t": "majority"
+  },
+  {
+    "q": "hejme",
+    "a": [
+      "ㄷㅗㅁㅔㅅㅌㅣㅊㅏㄸㄸㅠ",
+      "ㅏㅌ ㅎㅗㅁㅔ"
+    ],
+    "t": "domestically, at home"
+  },
+  {
+    "q": "kanto",
+    "a": [
+      "ㅅㅗㄴㄱ"
+    ],
+    "t": "song"
+  },
+  {
+    "q": "konstrui",
+    "a": [
+      "ㅌㅗ ㅂㅜㅣㄸㄷ",
+      "ㅊㅗㄴㅅㅌㄹㅜㅊㅌ",
+      "ㅊㄹㅏㄲㅌ",
+      "ㅔㄹㅔㅊㅌ",
+      "ㅔㅅㅌㅏㅂㄸㅣㅅㅎ"
+    ],
+    "t": "to build, construct, craft, erect, establish"
+  },
+  {
+    "q": "rifuzi",
+    "a": [
+      "ㅌㅗ ㄷㅔㅊㄸㅣㄴㅔ",
+      "ㄹㅔㄲㅜㅅㅔ",
+      "ㄹㅔㅈㅔㅊㅌ"
+    ],
+    "t": "to decline, refuse, reject"
+  },
+  {
+    "q": "ses",
+    "a": [
+      "ㅅㅣㅉ"
+    ],
+    "t": "six"
+  },
+  {
+    "q": "ministro",
+    "a": [
+      "ㅁㅣㄴㅣㅅㅌㅔㄹ (ㅎㅔㅏㄷ ㅗㄲ ㄱㅗㅆㅌ. ㄷㅔㅍㅌ.)"
+    ],
+    "t": "minister (head of govt. dept.)"
+  },
+  {
+    "q": "propono",
+    "a": [
+      "ㅗㄲㄲㅔㄹ",
+      "ㅍㄹㅔㅅㅔㄴㅌㅏㅌㅣㅗㄴ",
+      "ㅍㄹㅗㅍㅗㅅㅏㄸ",
+      "ㅌㅔㄴㄷㅔㄹ",
+      "ㅅㅜㄱㄱㅔㅅㅌㅣㅗㄴ"
+    ],
+    "t": "offer, presentation, proposal, tender, suggestion"
+  },
+  {
+    "q": "riĉa",
+    "a": [
+      "ㅏㄲㄲㄸㅜㅔㄴㅌ",
+      "ㄹㅣㅊㅎ",
+      "외ㅔㅏㄸㅌㅎㅠ",
+      "외ㅔㄸㄸ-ㅗㄲㄲ",
+      "외ㅔㄸㄸ-ㅌㅗ-ㄷㅗ"
+    ],
+    "t": "affluent, rich, wealthy, well-off, well-to-do"
+  },
+  {
+    "q": "ĵeti",
+    "a": [
+      "ㅌㅗ ㅊㅏㅅㅌ",
+      "ㄲㄸㅣㄴㄱ",
+      "ㅌㅎㄹㅗ외",
+      "ㅌㅗㅅㅅ",
+      "ㅍㅣㅌㅊㅎ"
+    ],
+    "t": "to cast, fling, throw, toss, pitch"
+  },
+  {
+    "q": "maljuna",
+    "a": [
+      "ㅏㄱㅔㄷ",
+      "ㅗㄸㄷ"
+    ],
+    "t": "aged, old"
+  },
+  {
+    "q": "montriĝi",
+    "a": [
+      "ㅌㅗ ㅏㅍㅍㅔㅏㄹ",
+      "ㅅㅎㅗ외 ㅗㄴㅔㅅㅔㄸㄲ",
+      "ㅌㅜㄹㄴ ㅗㅜㅌ ㅌㅗ ㅂㅔ"
+    ],
+    "t": "to appear, show oneself, turn out to be"
+  },
+  {
+    "q": "renkonti",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅔ ㅏㅊㄹㅗㅅㅅ",
+      "ㅔㄴㅊㅗㅜㄴㅌㅔㄹ",
+      "ㅁㅔㅔㅌ",
+      "ㅅㅔㅔ"
+    ],
+    "t": "to come across, encounter, meet, see"
+  },
+  {
+    "q": "demokratio",
+    "a": [
+      "ㄷㅔㅁㅗㅊㄹㅏㅊㅠ"
+    ],
+    "t": "democracy"
+  },
+  {
+    "q": "reĝimo",
+    "a": [
+      "ㅁㅗㄷㅔ",
+      "ㄹㅔㄱㅣㅁㅔ",
+      "ㄹㅔㄱㅣㅁㅔㄴ"
+    ],
+    "t": "mode, regime, regimen"
+  },
+  {
+    "q": "deklari",
+    "a": [
+      "ㅌㅗ ㄷㅔㅊㄸㅏㄹㅔ",
+      "ㅅㅌㅏㅌㅔ",
+      "ㅍㄹㅗㅊㄸㅏㅣㅁ"
+    ],
+    "t": "to declare, state, proclaim"
+  },
+  {
+    "q": "dudek",
+    "a": [
+      "ㅌ외ㅔㄴㅌㅠ"
+    ],
+    "t": "twenty"
+  },
+  {
+    "q": "daŭri",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅌㅣㄴㅜㅔ",
+      "ㅔㄴㄷㅜㄹㅔ",
+      "ㅋㅔㅔㅍ ㅗㄴ",
+      "ㄸㅏㅅㅌ",
+      "ㄱㅗ ㅗㄴ",
+      "ㅍㅔㄹㅅㅣㅅㅌ"
+    ],
+    "t": "to continue, endure, keep on, last, go on, persist"
+  },
+  {
+    "q": "eksterlanda",
+    "a": [
+      "ㅏㄸㅣㅔㄴ",
+      "ㄲㅗㄹㅔㅣㄱㄴ"
+    ],
+    "t": "alien, foreign"
+  },
+  {
+    "q": "rekte",
+    "a": [
+      "ㄷㅣㄹㅔㅊㅌㄸㅠ",
+      "ㅅㅌㄹㅏㅣㄱㅎㅌ ㅏㅎㅔㅏㄷ",
+      "ㅜㅍㄹㅣㄱㅎㅌㄸㅠ"
+    ],
+    "t": "directly, straight ahead, uprightly"
+  },
+  {
+    "q": "supre",
+    "a": [
+      "ㅏㅂㅗㅆㅔ",
+      "ㅗㄴ ㅌㅗㅍ",
+      "ㅗㅆㅔㄹㅎㅔㅏㄷ",
+      "ㅜㅍㅅㅌㅏㅣㄹㅅ",
+      "ㅏㄸㅗㄲㅌ",
+      "ㅜㅍ",
+      "ㅜㅍㅅㅌㅏㅣㄹㅅ"
+    ],
+    "t": "above, on top, overhead, upstairs, aloft, up, upstairs"
+  },
+  {
+    "q": "ekster",
+    "a": [
+      "ㅏㅅㅣㄷㅔ ㄲㄹㅗㅁ",
+      "ㅏㅍㅏㄹㅌ ㄲㄹㅗㅁ",
+      "ㅗㅜㅌ",
+      "ㅗㅜㅌㅅㅣㄷㅔ (ㅗㄲ)",
+      "ㅂㅔㅠㅗㄴㄷ"
+    ],
+    "t": "aside from, apart from, out, outside (of), beyond"
+  },
+  {
+    "q": "aŭgusto",
+    "a": [
+      "ㅏㅜㄱㅜㅅㅌ",
+      "ㅏㅜㄱㅜㅅㅌㅜㅅ"
+    ],
+    "t": "August, Augustus"
+  },
+  {
+    "q": "necesa",
+    "a": [
+      "ㄴㅔㅊㅔㅅㅅㅏㄹㅠ",
+      "ㄴㅔㅔㄷㄲㅜㄸ",
+      "ㄹㅔㅃㅜㅣㅅㅣㅌㅔ"
+    ],
+    "t": "necessary, needful, requisite"
+  },
+  {
+    "q": "interkonsento",
+    "a": [
+      "ㅏㅊㅊㅗㅁㅁㅗㄷㅏㅌㅣㅗㄴ",
+      "ㅏㅊㅊㅗㄹㄷ",
+      "ㅏㄱㄹㅔㅔㅁㅔㄴㅌ",
+      "ㅊㅗㅆㅔㄴㅏㄴㅌ",
+      "ㅌㄹㅏㄴㅅㅏㅊㅌㅣㅗㄴ",
+      "ㅊㅗㄴㅆㅔㄴㅌㅣㅗㄴ"
+    ],
+    "t": "accommodation, accord, agreement, covenant, transaction, convention"
+  },
+  {
+    "q": "naskiĝi",
+    "a": [
+      "ㅌㅗ ㅏㄹㅣㅅㅔ",
+      "ㅂㅔ ㅂㅗㄹㄴ"
+    ],
+    "t": "to arise, be born"
+  },
+  {
+    "q": "traduko",
+    "a": [
+      "ㅌㄹㅏㄴㅅㄸㅏㅌㅣㅗㄴ",
+      "ㅆㅔㄹㅅㅣㅗㄴ"
+    ],
+    "t": "translation, version"
+  },
+  {
+    "q": "spirito",
+    "a": [
+      "ㅁㅣㄴㄷ",
+      "ㅅㅍㅣㄹㅣㅌ"
+    ],
+    "t": "mind, spirit"
+  },
+  {
+    "q": "vesto",
+    "a": [
+      "ㅏㅍㅍㅏㄹㅔㄸ",
+      "ㅊㅗㅏㅌ",
+      "ㄱㅏㄹㅂ",
+      "ㄱㅏㄹㅁㅔㄴㅌ",
+      "ㅊㄸㅗㅌㅎㅣㄴㄱ",
+      "ㄷㄹㅔㅅㅅ"
+    ],
+    "t": "apparel, coat, garb, garment, clothing, dress"
+  },
+  {
+    "q": "manko",
+    "a": [
+      "ㅏㅂㅅㅔㄴㅊㅔ",
+      "ㄸㅏㅊㅋ",
+      "ㅅㅎㅗㄹㅌㅏㄱㅔ",
+      "ㅅㅎㅗㄹㅌㅊㅗㅁㅣㄴㄱ",
+      "ㄱㅏㅍ",
+      "ㄸㅏㅍㅅㅔ"
+    ],
+    "t": "absence, lack, shortage, shortcoming, gap, lapse"
+  },
+  {
+    "q": "suno",
+    "a": [
+      "ㅅㅜㄴ"
+    ],
+    "t": "sun"
+  },
+  {
+    "q": "eviti",
+    "a": [
+      "ㅌㅗ ㅏㅆㅗㅣㄷ",
+      "ㅔㅆㅏㄷㅔ",
+      "ㅔㅅㅊㅎㅔ외",
+      "ㅋㅔㅔㅍ ㅏㄸㅗㅗㄲ",
+      "ㅅㅎㅣㄹㅋ",
+      "ㅅㅎㅜㄴ"
+    ],
+    "t": "to avoid, evade, eschew, keep aloof, shirk, shun"
+  },
+  {
+    "q": "leganto",
+    "a": [
+      "ㄹㅔㅏㄷㅔㄹ"
+    ],
+    "t": "reader"
+  },
+  {
+    "q": "ŝtata",
+    "a": [
+      "ㄱㅗㅆㅔㄹㄴㅁㅔㄴㅌ",
+      "ㅅㅌㅏㅌㅔ-ㄹㅜㄴ",
+      "ㅅㅌㅏㅌㅔ"
+    ],
+    "t": "government, state-run, state"
+  },
+  {
+    "q": "posedi",
+    "a": [
+      "ㅌㅗ ㅗ외ㄴ",
+      "ㅍㅗㅅㅅㅔㅅㅅ"
+    ],
+    "t": "to own, possess"
+  },
+  {
+    "q": "reto",
+    "a": [
+      "ㄴㅔㅌ",
+      "ㄴㅔㅌ외ㅗㄹㅋ",
+      "외ㅔㅂ"
+    ],
+    "t": "net, network, web"
+  },
+  {
+    "q": "servi",
+    "a": [
+      "ㅌㅗ ㅏㅌㅌㅔㄴㄷ",
+      "ㅅㅔㄹㅆㅔ",
+      "외ㅏㅣㅌ ㅗㄴ"
+    ],
+    "t": "to attend, serve, wait on"
+  },
+  {
+    "q": "kunveno",
+    "a": [
+      "ㅏㅅㅅㅔㅁㅂㄸㅏㄱㅔ",
+      "ㄱㅏㅌㅎㅔㄹㅣㄴㄱ",
+      "ㅁㅔㅔㅌㅣㄴㄱ",
+      "ㅏㅅㅅㅔㅁㅂㄸㅠ"
+    ],
+    "t": "assemblage, gathering, meeting, assembly"
+  },
+  {
+    "q": "ĉesi",
+    "a": [
+      "ㅌㅗ ㅊㅔㅏㅅㅔ",
+      "ㅅㅌㅗㅍ",
+      "ㄸㅔㅏㅆㅔ ㅗㄲㄲ",
+      "ㄷㅔㅅㅣㅅㅌ",
+      "ㅃㅜㅣㅌ",
+      "ㅔㄴㄷ"
+    ],
+    "t": "to cease, stop, leave off, desist, quit, end"
+  },
+  {
+    "q": "civitano",
+    "a": [
+      "ㅊㅣㅌㅣㅐㅔㄴ"
+    ],
+    "t": "citizen"
+  },
+  {
+    "q": "funkcii",
+    "a": [
+      "ㅌㅗ ㄲㅜㄴㅊㅌㅣㅗㄴ",
+      "ㅗㅍㅔㄹㅏㅌㅔ",
+      "ㄹㅜㄴ",
+      "외ㅗㄹㅋ"
+    ],
+    "t": "to function, operate, run, work"
+  },
+  {
+    "q": "verki",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅍㅗㅅㅔ",
+      "ㅊㄹㅔㅏㅌㅔ",
+      "외ㄹㅣㅌㅔ"
+    ],
+    "t": "to compose, create, write"
+  },
+  {
+    "q": "ŝanĝo",
+    "a": [
+      "ㅏㅂㅗㅜㅌ-ㄲㅏㅊㅔ",
+      "ㅏㄸㅌㅔㄹㅏㅌㅣㅗㄴ",
+      "ㅊㅎㅏㄴㄱㅔ",
+      "ㅊㅗㄴㅆㅔㄹㅅㅣㅗㄴ",
+      "ㅌㄹㅏㄴㅅㄲㅗㄹㅁㅏㅌㅣㅗㄴ",
+      "ㅆㅏㄹㅣㅏㅌㅣㅗㄴ"
+    ],
+    "t": "about-face, alteration, change, conversion, transformation, variation"
+  },
+  {
+    "q": "tablo",
+    "a": [
+      "ㅌㅏㅂㄸㅔ"
+    ],
+    "t": "table"
+  },
+  {
+    "q": "salajro",
+    "a": [
+      "ㅅㅏㄸㅏㄹㅠ",
+      "외ㅏㄱㅔ",
+      "외ㅏㄱㅔㅅ",
+      "ㅅㅌㅣㅍㅔㄴㄷ"
+    ],
+    "t": "salary, wage, wages, stipend"
+  },
+  {
+    "q": "sukceso",
+    "a": [
+      "ㅏㅊㅎㅣㅔㅆㅔㅁㅔㄴㅌ",
+      "ㅅㅜㅊㅊㅔㅅㅅ"
+    ],
+    "t": "achievement, success"
+  },
+  {
+    "q": "konflikto",
+    "a": [
+      "ㅊㄸㅏㅅㅎ",
+      "ㅊㅗㄴㄲㄸㅣㅊㅌ",
+      "ㅏㄴㅌㅏㄱㅗㄴㅣㅅㅁ"
+    ],
+    "t": "clash, conflict, antagonism"
+  },
+  {
+    "q": "scienco",
+    "a": [
+      "ㅅㅊㅣㅔㄴㅊㅔ"
+    ],
+    "t": "science"
+  },
+  {
+    "q": "sep",
+    "a": [
+      "ㅅㅔㅆㅔㄴ"
+    ],
+    "t": "seven"
+  },
+  {
+    "q": "princo",
+    "a": [
+      "ㅍㄹㅣㄴㅊㅔ"
+    ],
+    "t": "prince"
+  },
+  {
+    "q": "ekstera",
+    "a": [
+      "ㅔㅉㅌㅔㄹㄴㅏㄸ",
+      "ㅗㅜㅌㅔㄹ",
+      "ㅗㅜㅌㅅㅣㄷㅔ"
+    ],
+    "t": "external, outer, outside"
+  },
+  {
+    "q": "institucio",
+    "a": [
+      "ㅣㄴㅅㅌㅣㅌㅜㅌㅣㅗㄴ"
+    ],
+    "t": "institution"
+  },
+  {
+    "q": "komenciĝi",
+    "a": [
+      "ㅌㅗ ㅂㅔㄱㅣㄴ",
+      "ㅊㅗㅁㅁㅔㄴㅊㅔ",
+      "ㅅㅌㅏㄹㅌ"
+    ],
+    "t": "to begin, commence, start"
+  },
+  {
+    "q": "vilaĝo",
+    "a": [
+      "ㅆㅣㄸㄸㅏㄱㅔ"
+    ],
+    "t": "village"
+  },
+  {
+    "q": "ĝui",
+    "a": [
+      "ㅌㅗ ㄷㅔㄸㅣㄱㅎㅌ ㅣㄴ",
+      "ㅔㄴㅈㅗㅠ",
+      "ㄹㅔㄸㅣㅅㅎ"
+    ],
+    "t": "to delight in, enjoy, relish"
+  },
+  {
+    "q": "arbo",
+    "a": [
+      "ㅌㄹㅔㅔ"
+    ],
+    "t": "tree"
+  },
+  {
+    "q": "sperto",
+    "a": [
+      "ㅔㅉㅍㅔㄹㅣㅔㄴㅊㅔ"
+    ],
+    "t": "experience"
+  },
+  {
+    "q": "popola",
+    "a": [
+      "ㅍㅗㅍㅜㄸㅏㄹ",
+      "ㄲㅗㄸㅋ",
+      "ㅍㅗㅍㅜㄸㅗㅜㅅ"
+    ],
+    "t": "popular, folk, populous"
+  },
+  {
+    "q": "sociala",
+    "a": [
+      "ㅊㅗㅁㅁㅜㄴㅏㄸ",
+      "ㅅㅗㅊㅣㅏㄸ"
+    ],
+    "t": "communal, social"
+  },
+  {
+    "q": "ekzemplo",
+    "a": [
+      "ㅊㅗㅍㅠ",
+      "ㅔㅉㅏㅁㅍㄸㅔ",
+      "ㅣㄴㅅㅌㅏㄴㅊㅔ"
+    ],
+    "t": "copy, example, instance"
+  },
+  {
+    "q": "brako",
+    "a": [
+      "ㅏㄹㅁ (ㅗㄲ ㅌㅎㅔ ㅂㅗㄷㅠ)",
+      "ㅜㅍㅍㅔㄹ ㅏㄹㅁ"
+    ],
+    "t": "arm (of the body), upper arm"
+  },
+  {
+    "q": "ekkrii",
+    "a": [
+      "ㅌㅗ ㅊㅏㄸㄸ ㅗㅜㅌ",
+      "ㅊㄹㅠ ㅗㅜㅌ",
+      "ㅔㅉㅊㄸㅏㅣㅁ",
+      "ㅅㅎㅗㅜㅌ ㅗㅜㅌ"
+    ],
+    "t": "to call out, cry out, exclaim, shout out"
+  },
+  {
+    "q": "rigardo",
+    "a": [
+      "ㄸㅗㅗㅋ"
+    ],
+    "t": "look"
+  },
+  {
+    "q": "oficejo",
+    "a": [
+      "ㅂㅜㄹㅔㅏㅜ",
+      "ㅗㄲㄲㅣㅊㅔ",
+      "ㅍㄸㅏㅊㅔ ㅗㄲ 외ㅗㄹㅋ",
+      "외ㅗㄹㅋㅍㄸㅏㅊㅔ",
+      "ㅗㄲㄲㅣㅊㅔ ㅅㅍㅏㅊㅔ"
+    ],
+    "t": "bureau, office, place of work, workplace, office space"
+  },
+  {
+    "q": "malfacile",
+    "a": [
+      "ㅎㅏㄹㄷㄸㅠ",
+      "ㄴㅗㅌ ㅔㅏㅅㅣㄸㅠ",
+      "외ㅣㅌㅎ ㄷㅣㄲㄲㅣㅊㅜㄸㅌㅠ"
+    ],
+    "t": "hardly, not easily, with difficulty"
+  },
+  {
+    "q": "estraro",
+    "a": [
+      "ㅂㅗㅏㄹㄷ ㅗㄲ ㄷㅣㄹㅔㅊㅌㅗㄹㅅ",
+      "ㅅㅌㅏㄲㄲ",
+      "ㅏㅜㅌㅎㅗㄹㅣㅌㅠ",
+      "ㅏㅜㅌㅎㅗㄹㅣㅌㅣㅔㅅ"
+    ],
+    "t": "board of directors, staff, authority, authorities"
+  },
+  {
+    "q": "imagi",
+    "a": [
+      "ㅌㅗ ㄲㅏㄴㅊㅠ",
+      "ㅣㅁㅏㄱㅣㄴㅔ"
+    ],
+    "t": "to fancy, imagine"
+  },
+  {
+    "q": "komitato",
+    "a": [
+      "ㅊㅗㅁㅁㅣㅌㅌㅔㅔ"
+    ],
+    "t": "committee"
+  },
+  {
+    "q": "besto",
+    "a": [
+      "ㅏㄴㅣㅁㅏㄸ",
+      "ㅂㅔㅏㅅㅌ"
+    ],
+    "t": "animal, beast"
+  },
+  {
+    "q": "konferenco",
+    "a": [
+      "ㅊㅗㄴㄲㅔㄹㅔㄴㅊㅔ"
+    ],
+    "t": "conference"
+  },
+  {
+    "q": "kapabli",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㅂㄸㅔ",
+      "ㅂㅔ ㅏㅂㄸㅔ ㅌㅗ"
+    ],
+    "t": "to be able, be able to"
+  },
+  {
+    "q": "rakonto",
+    "a": [
+      "ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㄴㅏㄹㄹㅏㅌㅣㅆㅔ",
+      "ㅅㅌㅗㄹㅠ",
+      "ㅌㅏㄸㅔ",
+      "ㄹㅔㅊㅣㅌㅏㄸ"
+    ],
+    "t": "account, narrative, story, tale, recital"
+  },
+  {
+    "q": "japana",
+    "a": [
+      "ㅈㅏㅍㅏㄴㅔㅅㅔ"
+    ],
+    "t": "Japanese"
+  },
+  {
+    "q": "instrui",
+    "a": [
+      "ㅌㅗ ㅣㄴㅅㅌㄹㅜㅊㅌ",
+      "ㅌㅔㅏㅊㅎ",
+      "ㅌㄹㅏㅣㄴ"
+    ],
+    "t": "to instruct, teach, train"
+  },
+  {
+    "q": "direktoro",
+    "a": [
+      "ㄷㅣㄹㅔㅊㅌㅗㄹ",
+      "ㅁㅏㄴㅏㄱㅔㄹ"
+    ],
+    "t": "director, manager"
+  },
+  {
+    "q": "evento",
+    "a": [
+      "ㅔㅆㅔㄴㅌ"
+    ],
+    "t": "event"
+  },
+  {
+    "q": "konsisti",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅅㅣㅅㅌ"
+    ],
+    "t": "to consist"
+  },
+  {
+    "q": "brita",
+    "a": [
+      "ㅂㄹㅣㅌㅣㅅㅎ"
+    ],
+    "t": "British"
+  },
+  {
+    "q": "ago",
+    "a": [
+      "ㅏㅊㅎㅣㅔㅆㅔㅁㅔㄴㅌ",
+      "ㅏㅊㅌ",
+      "ㅏㅊㅌㅣㅗㄴ"
+    ],
+    "t": "achievement, act, action"
+  },
+  {
+    "q": "grandega",
+    "a": [
+      "ㅊㅗㄴㅅㅣㄷㅔㄹㅏㅂㄸㅔ",
+      "ㅔㄴㅗㄹㅁㅗㅜㅅ",
+      "ㅎㅜㄱㅔ",
+      "ㅣㅁㅁㅔㄴㅅㅔ",
+      "ㅌㄹㅔㅁㅔㄴㄷㅗㅜㅅ"
+    ],
+    "t": "considerable, enormous, huge, immense, tremendous"
+  },
+  {
+    "q": "duono",
+    "a": [
+      "ㅎㅏㄸㄲ"
+    ],
+    "t": "half"
+  },
+  {
+    "q": "limo",
+    "a": [
+      "ㅂㅗㅜㄴㄷ",
+      "ㅂㅗㅜㄴㄷㅏㄹㅠ",
+      "ㄲㄹㅗㄴㅌㅣㅔㄹ",
+      "ㄸㅣㅁㅣㅌ"
+    ],
+    "t": "bound, boundary, frontier, limit"
+  },
+  {
+    "q": "respubliko",
+    "a": [
+      "ㅊㅗㅁㅁㅗㄴ외ㅔㅏㄸㅌㅎ",
+      "ㄹㅔㅍㅜㅂㄸㅣㅊ"
+    ],
+    "t": "commonwealth, republic"
+  },
+  {
+    "q": "gajni",
+    "a": [
+      "ㅌㅗ ㄱㅏㅣㄴ",
+      "ㅔㅏㄹㄴ",
+      "ㅍㄹㅗㄲㅣㅌ",
+      "외ㅣㄴ"
+    ],
+    "t": "to gain, earn, profit, win"
+  },
+  {
+    "q": "parlamento",
+    "a": [
+      "ㅍㅏㄹㄸㅣㅏㅁㅔㄴㅌ"
+    ],
+    "t": "parliament"
+  },
+  {
+    "q": "scienca",
+    "a": [
+      "ㅅㅊㅣㅔㄴㅌㅣㄲㅣㅊ"
+    ],
+    "t": "scientific"
+  },
+  {
+    "q": "kondiĉo",
+    "a": [
+      "ㅊㅗㄴㄷㅣㅌㅣㅗㄴ",
+      "ㅅㅌㅣㅍㅜㄸㅏㅌㅣㅗㄴ",
+      "ㅌㅔㄹㅁㅅ"
+    ],
+    "t": "condition, stipulation, terms"
+  },
+  {
+    "q": "paŝo",
+    "a": [
+      "ㅍㅏㅊㅔ",
+      "ㅅㅌㅔㅍ",
+      "ㅅㅌㄹㅣㄷㅔ"
+    ],
+    "t": "pace, step, stride"
+  },
+  {
+    "q": "verda",
+    "a": [
+      "ㄱㄹㅔㅔㄴ"
+    ],
+    "t": "green"
+  },
+  {
+    "q": "deziro",
+    "a": [
+      "ㄷㅔㅅㅣㄹㅔ",
+      "외ㅏㄴㅌ",
+      "외ㅣㅅㅎ"
+    ],
+    "t": "desire, want, wish"
+  },
+  {
+    "q": "sendube",
+    "a": [
+      "ㄷㅗㅜㅂㅌㄸㅔㅅㅅㄸㅠ",
+      "ㄴㅗ ㄷㅗㅜㅂㅌ",
+      "ㅜㄴㄷㅗㅜㅂㅌㅔㄷㄸㅠ"
+    ],
+    "t": "doubtlessly, no doubt, undoubtedly"
+  },
+  {
+    "q": "kazo",
+    "a": [
+      "ㅏㄲㄲㅏㅣㄹ",
+      "ㅊㅏㅅㅔ",
+      "ㅁㅏㅌㅌㅔㄹ"
+    ],
+    "t": "affair, case, matter"
+  },
+  {
+    "q": "ondo",
+    "a": [
+      "외ㅏㅆㅔ"
+    ],
+    "t": "wave"
+  },
+  {
+    "q": "lumo",
+    "a": [
+      "ㄸㅣㄱㅎㅌ"
+    ],
+    "t": "light"
+  },
+  {
+    "q": "buŝo",
+    "a": [
+      "ㅁㅗㅜㅌㅎ",
+      "ㅗㄹㅣㄲㅣㅊㅔ"
+    ],
+    "t": "mouth, orifice"
+  },
+  {
+    "q": "teritorio",
+    "a": [
+      "ㅌㅔㄹㄹㅣㅌㅗㄹㅠ"
+    ],
+    "t": "territory"
+  },
+  {
+    "q": "konstati",
+    "a": [
+      "ㅌㅗ ㅏㅅㅊㅔㄹㅌㅏㅣㄴ ㅌㅗ ㅂㅔ ㅌㄹㅜㅔ (ㅏ ㄲㅏㅊㅌ)",
+      "ㅔㅅㅌㅏㅂㄸㅣㅅㅎ",
+      "ㅌㅏㅋㅔ ㄴㅗㅌㅔ",
+      "ㅍㄹㅗㅆㅔ"
+    ],
+    "t": "to ascertain to be true (a fact), establish, take note, prove"
+  },
+  {
+    "q": "tradicia",
+    "a": [
+      "ㅌㄹㅏㄷㅣㅌㅣㅗㄴㅏㄸ"
+    ],
+    "t": "traditional"
+  },
+  {
+    "q": "konservi",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅅㅔㄹㅆㅔ",
+      "ㅋㅔㅔㅍ",
+      "ㅁㅏㅣㄴㅌㅏㅣㄴ",
+      "ㅍㄹㅔㅅㅔㄹㅆㅔ",
+      "ㅅㅌㅗㄹㅔ",
+      "ㅅㅏㅆㅔ (ㅏ ㄲㅣㄸㅔ)"
+    ],
+    "t": "to conserve, keep, maintain, preserve, store, save (a file)"
+  },
+  {
+    "q": "suferi",
+    "a": [
+      "ㅌㅗ ㅏㅂㅣㄷㅔ",
+      "ㅂㅔㅏㄹ",
+      "ㅔㄴㄷㅜㄹㅔ",
+      "ㅍㅜㅌ ㅜㅍ 외ㅣㅌㅎ",
+      "ㅅㅜㄲㄲㅔㄹ",
+      "ㅜㄴㄷㅔㄹㄱㅗ"
+    ],
+    "t": "to abide, bear, endure, put up with, suffer, undergo"
+  },
+  {
+    "q": "evoluo",
+    "a": [
+      "ㄷㅔㅆㅔㄸㅗㅍㅁㅔㄴㅌ",
+      "ㅔㅆㅗㄸㅜㅌㅣㅗㄴ"
+    ],
+    "t": "development, evolution"
+  },
+  {
+    "q": "igi",
+    "a": [
+      "ㅌㅗ ㅊㅏㅜㅅㅔ ㅌㅗ ㅂㅔㅊㅗㅁㅔ",
+      "ㄱㅔㅌ",
+      "ㅁㅏㅋㅔ"
+    ],
+    "t": "to cause to become, get, make"
+  },
+  {
+    "q": "plano",
+    "a": [
+      "ㄷㅔㅅㅣㄱㄴ",
+      "ㄷㅣㅏㄱㄹㅏㅁ",
+      "ㅍㄸㅏㄴ",
+      "ㅂㄸㅜㅔㅍㄹㅣㄴㅌ"
+    ],
+    "t": "design, diagram, plan, blueprint"
+  },
+  {
+    "q": "speciala",
+    "a": [
+      "ㅏㄷㅆㅏㄴㅊㅔㄷ",
+      "ㅍㅏㄹㅌㅣㅊㅜㄸㅏㄹ",
+      "ㅅㅍㅔㅊㅣㅏㄸ"
+    ],
+    "t": "advanced, particular, special"
+  },
+  {
+    "q": "ŝajne",
+    "a": [
+      "ㅏㅍㅍㅏㄹㅔㄴㅌㄸㅠ",
+      "ㅅㅔㅔㅁㅣㄴㄱㄸㅠ"
+    ],
+    "t": "apparently, seemingly"
+  },
+  {
+    "q": "finfine",
+    "a": [
+      "ㅏㄲㅌㅔㄹ ㅏㄸㄸ",
+      "ㅏㅌ ㄸㅏㅅㅌ",
+      "ㅏㅌ ㄸㅗㄴㄱ ㄸㅏㅅㅌ",
+      "외ㅎㅔㄴ ㅏㄸㄸ ㅣㅅ ㅅㅏㅣㄷ ㅏㄴㄷ ㄷㅗㄴㅔ"
+    ],
+    "t": "after all, at last, at long last, when all is said and done"
+  },
+  {
+    "q": "unuiĝinta",
+    "a": [
+      "ㅜㄴㅣㅌㅔㄷ"
+    ],
+    "t": "united"
+  },
+  {
+    "q": "tutmonda",
+    "a": [
+      "ㄱㄸㅗㅂㅏㄸ",
+      "외ㅗㄹㄸㄷ외ㅣㄷㅔ"
+    ],
+    "t": "global, worldwide"
+  },
+  {
+    "q": "kutime",
+    "a": [
+      "ㅗㄹㄷㅣㄴㅏㄹㅣㄸㅠ",
+      "ㅜㅅㅜㅏㄸㄸㅠ"
+    ],
+    "t": "ordinarily, usually"
+  },
+  {
+    "q": "timo",
+    "a": [
+      "ㄲㅔㅏㄹ",
+      "ㄲㄹㅣㄱㅎㅌ",
+      "ㄷㄹㅔㅏㄷ",
+      "ㅏㅍㅍㄹㅔㅎㅔㄴㅅㅣㅗㄴ"
+    ],
+    "t": "fear, fright, dread, apprehension"
+  },
+  {
+    "q": "konsenti",
+    "a": [
+      "ㅌㅗ ㅏㄱㄹㅔㅔ",
+      "ㅊㅗㄴㅅㅔㄴㅌ",
+      "ㅊㅗㄴㅊㅜㄹ",
+      "ㅏㄷㅁㅣㅌ",
+      "ㅏㅍㅍㄹㅗㅆㅔ",
+      "ㅂㅔ ㅣㄴ ㅏㅊㅊㅗㄹㄷ (외ㅣㅌㅎ)",
+      "ㅂㅔ ㅣㄴ ㅎㅏㄹㅁㅗㄴㅠ 외ㅣㅌㅎ",
+      "ㅊㅗㅁㅍㄸㅠ 외ㅣㅌㅎ"
+    ],
+    "t": "to agree, consent, concur, admit, approve, be in accord (with), be in harmony with, comply with"
+  },
+  {
+    "q": "malamiko",
+    "a": [
+      "ㅏㄷㅆㅔㄹㅅㅏㄹㅠ",
+      "ㅔㄴㅔㅁㅠ",
+      "ㄲㅗㅔ"
+    ],
+    "t": "adversary, enemy, foe"
+  },
+  {
+    "q": "kresko",
+    "a": [
+      "ㅏㅊㅊㄹㅔㅌㅣㅗㄴ",
+      "ㄱㄹㅗ외ㅌㅎ",
+      "ㅅㅌㅏㅌㅜㄹㅔ"
+    ],
+    "t": "accretion, growth, stature"
+  },
+  {
+    "q": "aranĝo",
+    "a": [
+      "ㅏㅊㅊㅗㅁㅁㅗㄷㅏㅌㅣㅗㄴ",
+      "ㅏㄷㅈㅜㅅㅌㅁㅔㄴㅌ",
+      "ㅏㄹㄹㅏㄴㄱㅔㅁㅔㄴㅌ",
+      "ㄸㅏㅠㅗㅜㅌ",
+      "ㄲㅗㄹㅁㅏㅌ"
+    ],
+    "t": "accommodation, adjustment, arrangement, layout, format"
+  },
+  {
+    "q": "organizi",
+    "a": [
+      "ㅌㅗ ㅗㄹㄱㅏㄴㅣㅐㅔ"
+    ],
+    "t": "to organize"
+  },
+  {
+    "q": "anonci",
+    "a": [
+      "ㅌㅗ ㅏㄷㅆㅔㄹㅌㅣㅅㅔ",
+      "ㅏㄴㄴㅗㅜㄴㅊㅔ",
+      "ㄱㅣㅆㅔ ㄴㅗㅌㅣㅊㅔ",
+      "ㅍㄹㅗㄲㅔㅅㅅ"
+    ],
+    "t": "to advertise, announce, give notice, profess"
+  },
+  {
+    "q": "kaŝi",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅊㅔㅏㄸ",
+      "ㅎㅣㄷㅔ",
+      "ㅆㅔㅣㄸ"
+    ],
+    "t": "to conceal, hide, veil"
+  },
+  {
+    "q": "krii",
+    "a": [
+      "ㅌㅗ ㅊㅏㄸㄸ (ㅗㅜㅌ)",
+      "ㅊㄹㅠ (ㅗㅜㅌ)",
+      "ㅅㅊㄹㅔㅏㅁ",
+      "ㅅㅎㅗㅜㅌ"
+    ],
+    "t": "to call (out), cry (out), scream, shout"
+  },
+  {
+    "q": "komerca",
+    "a": [
+      "ㅁㅔㄹㅊㅏㄴㅌㅣㄸㅔ",
+      "ㅍㄹㅗㅍㄹㅣㅔㅌㅏㄹㅠ"
+    ],
+    "t": "mercantile, proprietary"
+  },
+  {
+    "q": "terura",
+    "a": [
+      "ㅌㅔㄹㄹㅣㅂㄸㅔ",
+      "ㄷㄹㅔㅏㄷㄲㅜㄸ",
+      "ㄱㄹㅜㅔㅅㅗㅁㅔ",
+      "ㅎㅗㄹㄹㅣㅂㄸㅔ",
+      "ㅏ외ㄲㅜㄸ",
+      "ㄷㅣㄹㅔ",
+      "ㄲㄹㅣㄱㅎㅌㄲㅜㄸ"
+    ],
+    "t": "terrible, dreadful, gruesome, horrible, awful, dire, frightful"
+  },
+  {
+    "q": "amaso",
+    "a": [
+      "ㅏㅊㅊㅜㅁㅜㄸㅏㅌㅣㅗㄴ",
+      "ㅂㅗㄷㅠ",
+      "ㅊㄹㅗ외ㄷ",
+      "ㅎㅔㅏㅍ",
+      "ㅁㅏㅅㅅ",
+      "ㅁㅜㄸㅌㅣㅌㅜㄷㅔ",
+      "ㅍㅣㄸㅔ",
+      "ㅅ외ㅏㄹㅁ",
+      "ㅎㅗㅏㄹㄷ",
+      "ㅁㅗㅂ",
+      "ㅌㅎㄹㅗㄴㄱ",
+      "ㅌㄹㅗㅗㅍ"
+    ],
+    "t": "accumulation, body, crowd, heap, mass, multitude, pile, swarm, hoard, mob, throng, troop"
+  },
+  {
+    "q": "kontribui",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅌㄹㅣㅂㅜㅌㅔ"
+    ],
+    "t": "to contribute"
+  },
+  {
+    "q": "ege",
+    "a": [
+      "ㅔㅉㅌㄹㅔㅁㅔㄸㅠ",
+      "ㄱㄹㅔㅏㅌㄸㅠ"
+    ],
+    "t": "extremely, greatly"
+  },
+  {
+    "q": "ruĝa",
+    "a": [
+      "ㄹㅔㄷ",
+      "ㄹㅜㄷㄷㅠ",
+      "ㄹㅗㅅㅠ",
+      "ㅂㄸㅜㅅㅎㅣㄴㄱ"
+    ],
+    "t": "red, ruddy, rosy, blushing"
+  },
+  {
+    "q": "instruisto",
+    "a": [
+      "ㅣㄴㅅㅌㄹㅜㅊㅌㅗㄹ",
+      "ㅌㅔㅏㅊㅎㅔㄹ",
+      "ㅅㅊㅎㅗㅗㄸㅁㅏㅅㅌㅔㄹ"
+    ],
+    "t": "instructor, teacher, schoolmaster"
+  },
+  {
+    "q": "klaso",
+    "a": [
+      "ㅊㄸㅏㅅㅅ"
+    ],
+    "t": "class"
+  },
+  {
+    "q": "proksima",
+    "a": [
+      "ㅊㄸㅗㅅㅔ",
+      "ㄴㅔㅏㄹ",
+      "ㄴㅔㅏㄹㅂㅠ",
+      "ㄴㅔㅉㅌ",
+      "ㅍㄹㅗㅉㅣㅁㅏㅌㅔ"
+    ],
+    "t": "close, near, nearby, next, proximate"
+  },
+  {
+    "q": "aspekti",
+    "a": [
+      "ㅌㅗ ㅏㅍㅍㅔㅏㄹ",
+      "ㄸㅗㅗㅋ",
+      "ㅅㅔㅔㅁ"
+    ],
+    "t": "to appear, look, seem"
+  },
+  {
+    "q": "vasta",
+    "a": [
+      "ㅔㅉㅌㅔㄴㅅㅣㅆㅔ",
+      "ㅅㅍㅏㅊㅣㅗㅜㅅ",
+      "ㅆㅏㅅㅌ",
+      "외ㅣㄷㅔ",
+      "ㅣㅁㅁㅔㄴㅅㅔ",
+      "ㄹㅗㅗㅁㅠ",
+      "외ㅣㄷㅔㅅㅍㄹㅔㅏㄷ"
+    ],
+    "t": "extensive, spacious, vast, wide, immense, roomy, widespread"
+  },
+  {
+    "q": "revolucio",
+    "a": [
+      "ㄹㅔㅆㅗㄸㅜㅌㅣㅗㄴ"
+    ],
+    "t": "revolution"
+  },
+  {
+    "q": "senco",
+    "a": [
+      "ㅁㅔㅏㄴㅣㄴㄱ",
+      "ㅅㅔㄴㅅㅔ"
+    ],
+    "t": "meaning, sense"
+  },
+  {
+    "q": "literaturo",
+    "a": [
+      "ㄸㅣㅌㅔㄹㅏㅌㅜㄹㅔ"
+    ],
+    "t": "literature"
+  },
+  {
+    "q": "produkto",
+    "a": [
+      "ㅍㄹㅗㄷㅜㅊㅌ",
+      "ㅍㄹㅗㄷㅜㅊㅌㅣㅗㄴ"
+    ],
+    "t": "product, production"
+  },
+  {
+    "q": "okupi",
+    "a": [
+      "ㅌㅗ ㅗㅊㅊㅜㅍㅠ",
+      "ㅔㅁㅍㄸㅗㅠ",
+      "ㅔㄴㄱㅏㄱㅔ",
+      "ㅏㄸㄸㅗㅊㅏㅌㅔ"
+    ],
+    "t": "to occupy, employ, engage, allocate"
+  },
+  {
+    "q": "religia",
+    "a": [
+      "ㄹㅔㄸㅣㄱㅣㅗㅜㅅ"
+    ],
+    "t": "religious"
+  },
+  {
+    "q": "profunda",
+    "a": [
+      "ㄷㅔㅔㅍ",
+      "ㅍㄹㅗㄲㅗㅜㄴㄷ"
+    ],
+    "t": "deep, profound"
+  },
+  {
+    "q": "dokumento",
+    "a": [
+      "ㄷㅗㅊㅜㅁㅔㄴㅌ",
+      "ㅍㅏㅍㅔㄹ",
+      "ㅊㅔㄹㅌㅣㄲㅣㅊㅏㅌㅔ"
+    ],
+    "t": "document, paper, certificate"
+  },
+  {
+    "q": "minuto",
+    "a": [
+      "ㅁㅣㄴㅜㅌㅔ (ㅌㅣㅁㅔ)"
+    ],
+    "t": "minute (time)"
+  },
+  {
+    "q": "ligo",
+    "a": [
+      "ㅊㅗㄴㄴㅔㅊㅌㅣㅗㄴ",
+      "ㄸㅔㅏㄱㅜㅔ"
+    ],
+    "t": "connection, league"
+  },
+  {
+    "q": "meze",
+    "a": [
+      "ㅏㅁㅣㄷ",
+      "ㅏㅁㅣㄷㅅㅌ",
+      "ㄹㅏㅌㅎㅔㄹ"
+    ],
+    "t": "amid, amidst, rather"
+  },
+  {
+    "q": "natura",
+    "a": [
+      "ㄴㅏㅌㅜㄹㅏㄸ"
+    ],
+    "t": "natural"
+  },
+  {
+    "q": "pozicio",
+    "a": [
+      "ㄸㅗㅊㅏㅌㅣㅗㄴ",
+      "ㅍㄸㅏㅊㅔ",
+      "ㅍㅗㅅㅣㅌㅣㅗㄴ",
+      "ㅍㅗㅅㅔ",
+      "ㅍㅗㅅㅌ",
+      "ㅅㅣㅌㅜㅏㅌㅣㅗㄴ",
+      "ㅅㅌㅏㄴㅊㅔ",
+      "ㅅㅌㅏㅌㅜㅅ",
+      "ㅍㅗㅅㅌㅜㄹㅔ",
+      "ㄹㅏㄴㅋ"
+    ],
+    "t": "location, place, position, pose, post, situation, stance, status, posture, rank"
+  },
+  {
+    "q": "religio",
+    "a": [
+      "ㄹㅔㄸㅣㄱㅣㅗㄴ"
+    ],
+    "t": "religion"
+  },
+  {
+    "q": "kaŭzo",
+    "a": [
+      "ㅊㅏㅜㅅㅔ",
+      "ㄹㅔㅏㅅㅗㄴ",
+      "ㅣㄴㅊㅔㄴㅌㅣㅆㅔ",
+      "ㅁㅗㅌㅣㅆㅔ"
+    ],
+    "t": "cause, reason, incentive, motive"
+  },
+  {
+    "q": "kialo",
+    "a": [
+      "ㅏㅊㅊㅗㅜㄴㅌ",
+      "ㄹㅔㅏㅅㅗㄴ"
+    ],
+    "t": "account, reason"
+  },
+  {
+    "q": "intenci",
+    "a": [
+      "ㅌㅗ ㅣㄴㅌㅔㄴㄷ",
+      "ㅁㅔㅏㄴ",
+      "ㅍㅜㄹㅍㅗㅅㅔ"
+    ],
+    "t": "to intend, mean, purpose"
+  },
+  {
+    "q": "dirante",
+    "a": [
+      "외ㅎㅣㄸㅔ ㅅㅏㅠㅣㄴㄱ"
+    ],
+    "t": "while saying"
+  },
+  {
+    "q": "historia",
+    "a": [
+      "ㅎㅣㅅㅌㅗㄹㅣㅊㅏㄸ"
+    ],
+    "t": "historical"
+  },
+  {
+    "q": "kandidato",
+    "a": [
+      "ㅏㅍㅍㄸㅣㅊㅏㄴㅌ",
+      "ㅏㅅㅍㅣㄹㅏㄴㅌ",
+      "ㅊㅏㄴㄷㅣㄷㅏㅌㅔ"
+    ],
+    "t": "applicant, aspirant, candidate"
+  },
+  {
+    "q": "reprezentanto",
+    "a": [
+      "ㅏㄱㅔㄴㅌ",
+      "ㄹㅔㅍㄹㅔㅅㅔㄴㅌㅏㅌㅣㅆㅔ",
+      "ㅔㅁㅣㅅㅅㅏㄹㅠ"
+    ],
+    "t": "agent, representative, emissary"
+  },
+  {
+    "q": "esprimo",
+    "a": [
+      "ㅔㅉㅍㄹㅔㅅㅅㅣㅗㄴ"
+    ],
+    "t": "expression"
+  },
+  {
+    "q": "gravi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅅㅔㄹㅣㅗㅜㅅ",
+      "ㅂㅔ ㅣㅁㅍㅗㄹㅌㅏㄴㅌ"
+    ],
+    "t": "to be serious, be important"
+  },
+  {
+    "q": "okaze",
+    "a": [
+      "ㅂㅠ ㅊㅎㅏㄴㅊㅔ",
+      "ㅗㄴ ㅗㅊㅊㅏㅅㅣㅗㄴ",
+      "ㅊㅏㅅㅜㅏㄸㄸㅠ",
+      "ㅣㄴ ㅌㅎㅏㅌ ㅊㅏㅅㅔ",
+      "ㅗㅊㅊㅏㅅㅣㅗㄴㅏㄸㄸㅠ",
+      "ㅅㅗㅁㅔㅌㅣㅁㅔㅅ"
+    ],
+    "t": "by chance, on occasion, casually, in that case, occasionally, sometimes"
+  },
+  {
+    "q": "objekto",
+    "a": [
+      "ㅏㄹㅌㅣㅊㄸㅔ",
+      "ㅗㅂㅈㅔㅊㅌ",
+      "ㅌㅎㅣㄴㄱ",
+      "ㅅㅜㅂㅈㅔㅊㅌ"
+    ],
+    "t": "article, object, thing, subject"
+  },
+  {
+    "q": "romano",
+    "a": [
+      "ㄴㅗㅆㅔㄸ (ㄹㅗㅁㅏㄴㅊㅔ); ㄹㅗㅁㅏㄴ"
+    ],
+    "t": "novel (romance); Roman"
+  },
+  {
+    "q": "monto",
+    "a": [
+      "ㅁㅗㅜㄴㅌㅏㅣㄴ"
+    ],
+    "t": "mountain"
+  },
+  {
+    "q": "aspekto",
+    "a": [
+      "ㅏㅍㅍㅔㅏㄹㅏㄴㅊㅔ",
+      "ㅏㅅㅍㅔㅊㅌ",
+      "ㄸㅗㅗㅋ",
+      "ㅅㅣㄱㅎㅌ",
+      "ㅆㅣㅔ외",
+      "ㅍㄹㅔㅆㅣㅔ외"
+    ],
+    "t": "appearance, aspect, look, sight, view, preview"
+  },
+  {
+    "q": "vidpunkto",
+    "a": [
+      "ㅍㅗㅣㄴㅌ ㅗㄲ ㅆㅣㅔ외",
+      "ㅆㅣㅔ외ㅍㅗㅣㄴㅌ"
+    ],
+    "t": "point of view, viewpoint"
+  },
+  {
+    "q": "enhavi",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅍㄹㅣㅅㅔ",
+      "ㅊㅗㄴㅌㅏㅣㄴ",
+      "ㅣㄴㅊㄸㅜㄷㅔ",
+      "ㅎㅗㄸㄷ"
+    ],
+    "t": "to comprise, contain, include, hold"
+  },
+  {
+    "q": "malhelpi",
+    "a": [
+      "ㅌㅗ ㅂㅏㄹ",
+      "ㅎㅣㄴㄷㅔㄹ",
+      "ㅣㄴㅎㅣㅂㅣㅌ",
+      "ㅍㄹㅔㅆㅔㄴㅌ",
+      "ㅊㅗㄴㄲㄸㅣㅊㅌ 외ㅣㅌㅎ",
+      "ㅊㅗㅜㄴㅌㅔㄹㅏㅊㅌ",
+      "ㄷㅔㅌㅔㄹ",
+      "ㄲㄹㅜㅅㅌㄹㅏㅌㅔ",
+      "ㄷㅔㅌㅏㅣㄴ",
+      "ㅎㅏㅁㅍㅔㄹ",
+      "ㅌㅎ외ㅏㄹㅌ",
+      "ㅣㅁㅍㅔㄷㅔ"
+    ],
+    "t": "to bar, hinder, inhibit, prevent, conflict with, counteract, deter, frustrate, detain, hamper, thwart, impede"
+  },
+  {
+    "q": "cent",
+    "a": [
+      "ㅎㅜㄴㄷㄹㅔㄷ",
+      "ㅗㄴㅔ ㅎㅜㄴㄷㄹㅔㄷ"
+    ],
+    "t": "hundred, one hundred"
+  },
+  {
+    "q": "ludo",
+    "a": [
+      "ㄱㅏㅁㅔ"
+    ],
+    "t": "game"
+  },
+  {
+    "q": "vojaĝo",
+    "a": [
+      "ㅈㅗㅜㄹㄴㅔㅠ",
+      "ㅌㄹㅣㅍ",
+      "ㅆㅗㅠㅏㄱㅔ",
+      "ㅌㅗㅜㄹ",
+      "ㅍㅏㅅㅅㅏㄱㅔ"
+    ],
+    "t": "journey, trip, voyage, tour, passage"
+  },
+  {
+    "q": "ordo",
+    "a": [
+      "ㅗㄹㄷㅔㄹ",
+      "ㅗㄹㄷㅔㄹㅣㄴㄱ",
+      "ㅅㅔㅃㅜㅔㄴㅊㅔ",
+      "ㅏㄹㄹㅏㄴㄱㅔㅁㅔㄴㅌ"
+    ],
+    "t": "order, ordering, sequence, arrangement"
+  },
+  {
+    "q": "savi",
+    "a": [
+      "ㅌㅗ ㅋㅔㅔㅍ",
+      "ㅅㅏㅆㅔ",
+      "ㄹㅔㅅㅊㅜㅔ"
+    ],
+    "t": "to keep, save, rescue"
+  },
+  {
+    "q": "kontakto",
+    "a": [
+      "ㅊㅗㄴㅌㅏㅊㅌ"
+    ],
+    "t": "contact"
+  },
+  {
+    "q": "aliflanke",
+    "a": [
+      "ㅗㄴ ㅌㅎㅔ ㅗㅌㅎㅔㄹ ㅎㅏㄴㄷ",
+      "ㅗㄴ ㅌㅎㅔ ㅗㅌㅎㅔㄹ ㅅㅣㄷㅔ"
+    ],
+    "t": "on the other hand, on the other side"
+  },
+  {
+    "q": "fajro",
+    "a": [
+      "ㄲㅣㄹㅔ",
+      "ㅏㄹㄷㅗㄹ",
+      "ㅔㄴㅌㅎㅜㅅㅣㅏㅅㅁ",
+      "ㄲㅔㄹㅆㅗㄹ"
+    ],
+    "t": "fire, ardor, enthusiasm, fervor"
+  },
+  {
+    "q": "subteno",
+    "a": [
+      "ㅍㅣㄸㅔ",
+      "ㅅㅜㅍㅍㅗㄹㅌ",
+      "ㅍㄹㅗㅍ",
+      "ㅅㅌㅏㄴㅊㅎㅣㅗㄴ",
+      "ㅅㅌㅏㅠ"
+    ],
+    "t": "pile, support, prop, stanchion, stay"
+  },
+  {
+    "q": "bazo",
+    "a": [
+      "ㅂㅏㅅㅔ",
+      "ㅂㅏㅅㅣㅅ",
+      "ㄲㅗㅗㅌㅣㄴㄱ",
+      "ㄱㄹㅗㅜㄴㄷ",
+      "ㅍㄸㅏㅌㄲㅗㄹㅁ",
+      "ㅅㅌㅔㅁ",
+      "ㄹㅏㄷㅣㅉ"
+    ],
+    "t": "base, basis, footing, ground, platform, stem, radix"
+  },
+  {
+    "q": "muziko",
+    "a": [
+      "ㅁㅜㅅㅣㅊ"
+    ],
+    "t": "music"
+  },
+  {
+    "q": "ĵurnalisto",
+    "a": [
+      "ㅈㅗㅜㄹㄴㅏㄸㅣㅅㅌ"
+    ],
+    "t": "journalist"
+  },
+  {
+    "q": "fremda",
+    "a": [
+      "ㅏㄸㅣㅔㄴ",
+      "ㄲㅗㄹㅔㅣㄱㄴ",
+      "ㅅㅌㄹㅏㄴㄱㅔ"
+    ],
+    "t": "alien, foreign, strange"
+  },
+  {
+    "q": "sperti",
+    "a": [
+      "ㅌㅗ ㅔㅉㅍㅔㄹㅣㅔㄴㅊㅔ",
+      "ㄱㅗ ㅌㅎㄹㅗㅜㄱㅎ",
+      "ㄸㅣㅆㅔ ㅌㅗ ㅅㅔㅔ"
+    ],
+    "t": "to experience, go through, live to see"
+  },
+  {
+    "q": "libereco",
+    "a": [
+      "ㄲㄹㅔㅔㄷㅗㅁ",
+      "ㄸㅣㅂㅔㄹㅌㅠ"
+    ],
+    "t": "freedom, liberty"
+  },
+  {
+    "q": "vortaro",
+    "a": [
+      "ㄷㅣㅊㅌㅣㅗㄴㅏㄹㅠ",
+      "ㅆㅗㅊㅏㅂㅜㄸㅏㄹㅠ"
+    ],
+    "t": "dictionary, vocabulary"
+  },
+  {
+    "q": "aliĝi",
+    "a": [
+      "ㅌㅗ ㅈㅗㅣㄴ",
+      "ㅔㄴㄹㅗㄸㄸ",
+      "ㅂㅔㅊㅗㅁㅔ ㅏㄲㄲㅣㄸㅣㅏㅌㅔㄷ"
+    ],
+    "t": "to join, enroll, become affiliated"
+  },
+  {
+    "q": "plene",
+    "a": [
+      "ㅊㅗㅁㅍㄸㅔㅌㅔㄸㅠ",
+      "ㄲㅜㄸㄸㅠ"
+    ],
+    "t": "completely, fully"
+  },
+  {
+    "q": "ĉefo",
+    "a": [
+      "ㅂㅗㅅㅅ",
+      "ㅊㅎㅣㅔㄲ",
+      "ㄸㅔㅏㄷㅔㄹ",
+      "ㅎㅔㅏㄷㅁㅏㄴ",
+      "ㅊㅎㅣㅔㄲㅌㅏㅣㄴ"
+    ],
+    "t": "boss, chief, leader, headman, chieftain"
+  },
+  {
+    "q": "ĉefurbo",
+    "a": [
+      "ㅊㅏㅍㅣㅌㅏㄸ (ㅊㅣㅌㅠ)",
+      "ㅁㅔㅌㄹㅗㅍㅗㄸㅣㅅ"
+    ],
+    "t": "capital (city), metropolis"
+  },
+  {
+    "q": "male",
+    "a": [
+      "(ㅗㄴ ㅌㅎㅔ) ㅊㅗㄴㅌㄹㅏㄹㅠ",
+      "ㅊㅗㄴㅆㅔㄹㅅㅔㄸㅠ",
+      "ㅆㅣㅊㅔ ㅆㅔㄹㅅㅏ"
+    ],
+    "t": "(on the) contrary, conversely, vice versa"
+  },
+  {
+    "q": "frazo",
+    "a": [
+      "ㅔㅉㅍㄹㅔㅅㅅㅣㅗㄴ",
+      "ㅅㅔㄴㅌㅔㄴㅊㅔ",
+      "ㅅㅌㅏㅌㅔㅁㅔㄴㅌ",
+      "ㅍㅎㄹㅏㅅㅔ"
+    ],
+    "t": "expression, sentence, statement, phrase"
+  },
+  {
+    "q": "renkontiĝo",
+    "a": [
+      "ㅁㅔㅔㅌㅣㄴㄱ"
+    ],
+    "t": "meeting"
+  },
+  {
+    "q": "efiko",
+    "a": [
+      "ㅔㄲㄲㅔㅊㅌ",
+      "ㄹㅔㅅㅜㄸㅌ"
+    ],
+    "t": "effect, result"
+  },
+  {
+    "q": "ligita",
+    "a": [
+      "ㅂㅗㅜㄴㄷ",
+      "ㅌㅣㅔㄷ ㅜㅍ"
+    ],
+    "t": "bound, tied up"
+  },
+  {
+    "q": "komerco",
+    "a": [
+      "ㅂㅜㅅㅣㄴㅔㅅㅅ",
+      "ㅊㅗㅁㅁㅔㄹㅊㅔ",
+      "ㅌㄹㅏㄷㅔ"
+    ],
+    "t": "business, commerce, trade"
+  },
+  {
+    "q": "titolo",
+    "a": [
+      "ㅎㅔㅏㄷㅣㄴㄱ",
+      "ㅌㅣㅌㄸㅔ",
+      "ㅊㅏㅍㅌㅣㅗㄴ",
+      "ㄷㅔㄱㄹㅔㅔ",
+      "ㄷㅔㅅㅣㄱㄴㅏㅌㅣㅗㄴ",
+      "ㅅㅌㅠㄸㅔ"
+    ],
+    "t": "heading, title, caption, degree, designation, style"
+  },
+  {
+    "q": "stato",
+    "a": [
+      "ㅊㅗㄴㄷㅣㅌㅣㅗㄴ",
+      "ㅅㅌㅏㅌㅔ",
+      "ㅅㅣㅌㅜㅏㅌㅣㅗㄴ",
+      "ㅅㅌㅏㅌㅣㅗㄴ (ㅗㄲ ㄸㅣㄲㅔ)",
+      "ㅅㅌㅏㅌㅜㅅ"
+    ],
+    "t": "condition, state, situation, station (of life), status"
+  },
+  {
+    "q": "esperantista",
+    "a": [
+      "ㅔㅅㅍㅔㄹㅏㄴㅌㅣㅅㅌ"
+    ],
+    "t": "Esperantist"
+  },
+  {
+    "q": "kelkfoje",
+    "a": [
+      "ㅅㅔㅆㅔㄹㅏㄸ ㅌㅣㅁㅔㅅ",
+      "ㅅㅗㅁㅔㅌㅣㅁㅔㅅ"
+    ],
+    "t": "several times, sometimes"
+  },
+  {
+    "q": "arbaro",
+    "a": [
+      "ㄲㅗㄹㅔㅅㅌ",
+      "외ㅗㅗㄷㅅ"
+    ],
+    "t": "forest, woods"
+  },
+  {
+    "q": "preferi",
+    "a": [
+      "ㅌㅗ ㅍㄹㅔㄲㅔㄹ",
+      "ㄸㅣㅋㅔ ㅂㅔㅅㅌ"
+    ],
+    "t": "to prefer, like best"
+  },
+  {
+    "q": "epoko",
+    "a": [
+      "ㅏㄱㅔ",
+      "ㅔㅍㅗㅊㅎ",
+      "ㅔㄹㅏ",
+      "ㅍㅔㄹㅣㅗㄷ"
+    ],
+    "t": "age, epoch, era, period"
+  },
+  {
+    "q": "islama",
+    "a": [
+      "ㅣㅅㄸㅏㅁㅣㅊ"
+    ],
+    "t": "Islamic"
+  },
+  {
+    "q": "plaĉi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅍㄸㅔㅏㅅㅣㄴㄱ",
+      "ㅍㄸㅔㅏㅅㅔ"
+    ],
+    "t": "to be pleasing, please"
+  },
+  {
+    "q": "modelo",
+    "a": [
+      "ㅁㅗㄷㅔㄸ",
+      "ㅅㅍㅔㅊㅣㅁㅔㄴ",
+      "ㅅㅌㅏㄴㄷㅏㄹㄷ",
+      "ㅌㅠㅍㅔ",
+      "ㅍㅏㅌㅌㅔㄹㄴ",
+      "ㅁㅏㅅㅌㅔㄹ"
+    ],
+    "t": "model, specimen, standard, type, pattern, master"
+  },
+  {
+    "q": "traktato",
+    "a": [
+      "ㅍㅏㅊㅌ",
+      "ㅌㄹㅏㅊㅌ",
+      "ㅌㄹㅔㅏㅌㅣㅅㅔ",
+      "ㅌㄹㅔㅏㅌㅠ",
+      "ㅁㅗㄴㅗㄱㄹㅏㅍㅎ"
+    ],
+    "t": "pact, tract, treatise, treaty, monograph"
+  },
+  {
+    "q": "feliĉa",
+    "a": [
+      "ㄲㅗㄹㅌㅜㄴㅏㅌㅔ",
+      "ㅎㅏㅍㅍㅠ",
+      "ㄸㅜㅊㅋㅠ"
+    ],
+    "t": "fortunate, happy, lucky"
+  },
+  {
+    "q": "regulo",
+    "a": [
+      "ㄹㅜㄸㅔ",
+      "ㅔㄴㅏㅊㅌㅁㅔㄴㅌ",
+      "ㄹㅔㄱㅜㄸㅏㅌㅣㅗㄴ",
+      "ㅅㅌㅏㅌㅜㅌㅔ",
+      "ㄸㅏ외"
+    ],
+    "t": "rule, enactment, regulation, statute, law"
+  },
+  {
+    "q": "societo",
+    "a": [
+      "ㅏㅅㅅㅗㅊㅣㅏㅌㅣㅗㄴ",
+      "ㅊㅣㄹㅊㄸㅔ",
+      "ㅊㄸㅜㅂ",
+      "ㅅㅗㅊㅣㅔㅌㅠ",
+      "ㅊㅗㅁㅍㅏㄴㅠ"
+    ],
+    "t": "association, circle, club, society, company"
+  },
+  {
+    "q": "sklavo",
+    "a": [
+      "ㅅㄸㅏㅆㅔ"
+    ],
+    "t": "slave"
+  },
+  {
+    "q": "entute",
+    "a": [
+      "ㅏㄸㅌㅗㄱㅔㅌㅎㅔㄹ",
+      "ㅏㅅ ㅏ 외ㅎㅗㄸㅔ",
+      "ㅗㄴ ㅌㅎㅔ 외ㅎㅗㄸㅔ",
+      "ㅣㄴ ㅅㅎㅗㄹㅌ"
+    ],
+    "t": "altogether, as a whole, on the whole, in short"
+  },
+  {
+    "q": "insulo",
+    "a": [
+      "ㅣㅅㄸㅏㄴㄷ",
+      "ㅣㅅㄸㅔ"
+    ],
+    "t": "island, isle"
+  },
+  {
+    "q": "evidente",
+    "a": [
+      "ㅏㅍㅍㅏㄹㅔㄴㅌㄸㅠ",
+      "ㅗㅂㅆㅣㅗㅜㅅㄸㅠ",
+      "ㅔㅆㅣㄷㅔㄴㅌㄸㅠ"
+    ],
+    "t": "apparently, obviously, evidently"
+  },
+  {
+    "q": "numero",
+    "a": [
+      "ㄴㅜㅁㅂㅔㄹ",
+      "ㅎㅗㅜㅅㅔ ㄴㅜㅁㅂㅔㄹ",
+      "ㅣㅅㅅㅜㅔ ㄴㅜㅁㅂㅔㄹ",
+      "ㄴㅜㅁㅂㅔㄹ ㅣㄴ ㅏ ㅅㅔㄹㅣㅔㅅ",
+      "ㄴㅜㅁㅔㄹㅏㄸ"
+    ],
+    "t": "number, house number, issue number, number in a series, numeral"
+  },
+  {
+    "q": "povo",
+    "a": [
+      "ㅏㅂㅣㄸㅣㅌㅠ",
+      "ㅍㅗ외ㅔㄹ"
+    ],
+    "t": "ability, power"
+  },
+  {
+    "q": "defendi",
+    "a": [
+      "ㅌㅗ ㄷㅔㄲㅔㄴㄷ"
+    ],
+    "t": "to defend"
+  },
+  {
+    "q": "signo",
+    "a": [
+      "ㅊㅎㅏㄹㅏㅊㅌㅔㄹ",
+      "ㅁㅏㄹㅋ",
+      "ㅅㅣㄱㄴ",
+      "ㅅㅣㄱㄴㅏㄸ",
+      "ㅌㅗㅋㅔㄴ",
+      "ㅏㅊㅊㅔㄴㅌ"
+    ],
+    "t": "character, mark, sign, signal, token, accent"
+  },
+  {
+    "q": "prelego",
+    "a": [
+      "ㄸㅔㅊㅌㅜㄹㅔ",
+      "ㅌㅏㄸㅋ"
+    ],
+    "t": "lecture, talk"
+  },
+  {
+    "q": "ĝojo",
+    "a": [
+      "ㄱㄸㅏㄷㄴㅔㅅㅅ",
+      "ㅈㅗㅠ",
+      "ㄱㄸㅔㅔ"
+    ],
+    "t": "gladness, joy, glee"
+  },
+  {
+    "q": "araba",
+    "a": [
+      "ㅏㄹㅏㅂㅣㅏㄴ",
+      "ㅏㄹㅏㅂ",
+      "ㅏㄹㅏㅂㅣㅊ"
+    ],
+    "t": "Arabian, Arab, Arabic"
+  },
+  {
+    "q": "elektita",
+    "a": [
+      "ㅔㄸㅔㅊㅌㅔㄷ"
+    ],
+    "t": "elected"
+  },
+  {
+    "q": "ĉeesti",
+    "a": [
+      "ㅌㅗ ㅏㅌㅌㅔㄴㄷ",
+      "ㅂㅔ ㅍㄹㅔㅅㅔㄴㅌ",
+      "외ㅣㅌㄴㅔㅅㅅ"
+    ],
+    "t": "to attend, be present, witness"
+  },
+  {
+    "q": "armilo",
+    "a": [
+      "ㅏㄹㅁㅏㅁㅔㄴㅌ",
+      "외ㅔㅏㅍㅗㄴ"
+    ],
+    "t": "armament, weapon"
+  },
+  {
+    "q": "sango",
+    "a": [
+      "ㅂㄸㅗㅗㄷ"
+    ],
+    "t": "blood"
+  },
+  {
+    "q": "itala",
+    "a": [
+      "ㅣㅌㅏㄸㅣㅏㄴ"
+    ],
+    "t": "Italian"
+  },
+  {
+    "q": "zorgi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㄴㅉㅣㅗㅜㅅ",
+      "ㅂㅔ ㅊㅗㄴㅊㅔㄹㄴㅔㄷ",
+      "(ㅌㅏㅋㅔ) ㅊㅏㄹㅔ",
+      "ㅅㅔㅔ (ㅌㅗ)",
+      "외ㅗㄹㄹㅠ"
+    ],
+    "t": "to be anxious, be concerned, (take) care, see (to), worry"
+  },
+  {
+    "q": "fraŭlino",
+    "a": [
+      "ㅁㅏㅣㄷㅔㄴ",
+      "ㅁㅣㅅㅅ",
+      "ㅜㄴㅁㅏㄹㄹㅣㅔㄷ 외ㅗㅁㅏㄴ",
+      "ㅠㅗㅜㄴㄱ ㄸㅏㄷㅠ"
+    ],
+    "t": "maiden, Miss, unmarried woman, young lady"
+  },
+  {
+    "q": "sekureco",
+    "a": [
+      "ㅅㅏㄲㅔㅌㅠ",
+      "ㅅㅔㅊㅜㄹㅣㅌㅠ"
+    ],
+    "t": "safety, security"
+  },
+  {
+    "q": "demokratia",
+    "a": [
+      "ㄷㅔㅁㅗㅊㄹㅏㅌㅣㅊ"
+    ],
+    "t": "democratic"
+  },
+  {
+    "q": "medio",
+    "a": [
+      "ㅔㄴㅆㅣㄹㅗㄴㅁㅔㄴㅌ",
+      "ㅁㅔㄷㅣㅜㅁ"
+    ],
+    "t": "environment, medium"
+  },
+  {
+    "q": "ekscii",
+    "a": [
+      "ㅌㅗ ㄱㅔㅌ ㅌㅗ ㅋㄴㅗ외",
+      "ㄲㅣㄴㄷ ㅗㅜㅌ",
+      "ㄸㅔㅏㄹㄴ",
+      "ㄹㅔㅏㄸㅣㅐㅔ"
+    ],
+    "t": "to get to know, find out, learn, realize"
+  },
+  {
+    "q": "proksimume",
+    "a": [
+      "ㅏㅂㅗㅜㅌ",
+      "ㅏㅍㅍㄹㅗㅉㅣㅁㅏㅌㅔㄸㅠ"
+    ],
+    "t": "about, approximately"
+  },
+  {
+    "q": "instruado",
+    "a": [
+      "ㅔㄷㅜㅊㅏㅌㅣㅗㄴ",
+      "ㅣㄴㅅㅌㄹㅜㅊㅌㅣㅗㄴ",
+      "ㅌㅔㅏㅊㅎㅣㄴㄱ"
+    ],
+    "t": "education, instruction, teaching"
+  },
+  {
+    "q": "fenestro",
+    "a": [
+      "외ㅣㄴㄷㅗ외",
+      "ㅍㅏㄴㅔ"
+    ],
+    "t": "window, pane"
+  },
+  {
+    "q": "afrika",
+    "a": [
+      "ㅏㄲㄹㅣㅊㅏㄴ"
+    ],
+    "t": "African"
+  },
+  {
+    "q": "kapablo",
+    "a": [
+      "ㅏㅂㅣㄸㅣㅌㅠ",
+      "ㅊㅏㅍㅏㅂㅣㄸㅣㅌㅠ",
+      "ㅊㅏㅍㅏㅊㅣㅌㅠ",
+      "ㅊㅗㅁㅍㅔㅌㅔㄴㅊㅔ",
+      "ㅊㅗㅁㅍㅔㅌㅔㄴㅊㅠ",
+      "ㄲㅏㅊㅜㄸㅌㅠ",
+      "ㅅㅋㅣㄸㄸ"
+    ],
+    "t": "ability, capability, capacity, competence, competency, faculty, skill"
+  },
+  {
+    "q": "mallonga",
+    "a": [
+      "ㅂㄹㅣㅔㄲ",
+      "ㅅㅎㅗㄹㅌ",
+      "ㅊㅗㄴㅊㅣㅅㅔ",
+      "ㅊㅜㄹㅌ",
+      "ㅅㅜㅊㅊㅣㄴㅊㅌ"
+    ],
+    "t": "brief, short, concise, curt, succinct"
+  },
+  {
+    "q": "viktimo",
+    "a": [
+      "ㅅㅏㅊㄹㅣㄲㅣㅊㅔ",
+      "ㅆㅣㅊㅌㅣㅁ"
+    ],
+    "t": "sacrifice, victim"
+  },
+  {
+    "q": "ree",
+    "a": [
+      "ㅏㄲㄹㅔㅅㅎ",
+      "ㅏㄱㅏㅣㄴ",
+      "ㅗㄴㅊㅔ ㅁㅗㄹㅔ",
+      "ㅏㄴㅔ외"
+    ],
+    "t": "afresh, again, once more, anew"
+  },
+  {
+    "q": "malfacila",
+    "a": [
+      "ㄷㅣㄲㄲㅣㅊㅜㄸㅌ",
+      "ㅎㅏㄹㄷ",
+      "ㅣㄴㅊㅗㄴㅆㅔㄴㅣㅔㄴㅌ",
+      "ㅌㄹㅗㅜㅂㄸㅔㅅㅗㅁㅔ"
+    ],
+    "t": "difficult, hard, inconvenient, troublesome"
+  },
+  {
+    "q": "punkto",
+    "a": [
+      "ㄷㅗㅌ",
+      "ㅍㅔㄹㅣㅗㄷ",
+      "ㅍㅗㅣㄴㅌ",
+      "ㅅㅍㅗㅌ"
+    ],
+    "t": "dot, period, point, spot"
+  },
+  {
+    "q": "orienta",
+    "a": [
+      "ㅔㅏㅅㅌㅔㄹㄸㅠ",
+      "ㅔㅏㅅㅌㅔㄹㄴ",
+      "ㅗㄹㅣㅔㄴㅌㅏㄸ"
+    ],
+    "t": "easterly, eastern, Oriental"
+  },
+  {
+    "q": "naturo",
+    "a": [
+      "ㅊㅎㅏㄹㅏㅊㅌㅔㄹ",
+      "ㄴㅏㅌㅜㄹㅔ"
+    ],
+    "t": "character, nature"
+  },
+  {
+    "q": "venonta",
+    "a": [
+      "ㅊㅗㅁㅣㄴㄱ",
+      "ㄴㅔㅉㅌ"
+    ],
+    "t": "coming, next"
+  },
+  {
+    "q": "ĉefministro",
+    "a": [
+      "ㅍㄹㅔㅁㅣㅔㄹ",
+      "ㅍㄹㅣㅁㅔ ㅁㅣㄴㅣㅅㅌㅔㄹ"
+    ],
+    "t": "premier, prime minister"
+  },
+  {
+    "q": "gvidi",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㄷㅜㅊㅌ",
+      "ㄷㅣㄹㅔㅊㅌ",
+      "ㄷㄹㅣㅆㅔ",
+      "ㄱㅜㅣㄷㅔ",
+      "ㄸㅔㅏㄷ",
+      "ㅅㅎㅗ외 ㅌㅎㅔ 외ㅏㅠ"
+    ],
+    "t": "to conduct, direct, drive, guide, lead, show the way"
+  },
+  {
+    "q": "dormi",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅏㅅㄸㅔㅔㅍ",
+      "ㅅㄸㅔㅔㅍ"
+    ],
+    "t": "to be asleep, sleep"
+  },
+  {
+    "q": "atento",
+    "a": [
+      "ㅏㄷㅆㅔㄹㅌㅔㄴㅊㅠ",
+      "ㅏㅌㅌㅔㄴㅌㅣㅗㄴ",
+      "ㅏㅍㅍㄸㅣㅊㅏㅌㅣㅗㄴ"
+    ],
+    "t": "advertency, attention, application"
+  },
+  {
+    "q": "rivero",
+    "a": [
+      "ㄹㅣㅆㅔㄹ"
+    ],
+    "t": "river"
+  },
+  {
+    "q": "ĉie",
+    "a": [
+      "ㅏㄸㄸ ㅏㅂㅗㅜㅌ",
+      "ㅔㅆㅔㄹㅠ외ㅎㅔㄹㅔ"
+    ],
+    "t": "all about, everywhere"
+  },
+  {
+    "q": "gepatro",
+    "a": [
+      "ㅍㅏㄹㅔㄴㅌ"
+    ],
+    "t": "parent"
+  },
+  {
+    "q": "nuntempe",
+    "a": [
+      "ㅏㅌ ㅍㄹㅔㅅㅔㄴㅌ",
+      "ㅏㅌ ㅌㅎㅔ ㅍㄹㅔㅅㅔㄴㅌ ㅌㅣㅁㅔ",
+      "ㅊㅜㄹㄹㅔㄴㅌㄸㅠ",
+      "ㄴㅗ외ㅏㄷㅏㅠㅅ",
+      "ㅌㅎㅔㅅㅔ ㄷㅏㅠㅅ"
+    ],
+    "t": "at present, at the present time, currently, nowadays, these days"
+  },
+  {
+    "q": "halti",
+    "a": [
+      "ㅌㅗ ㅎㅏㄸㅌ",
+      "ㅊㅗㅁㅔ ㅌㅗ ㅏ ㅎㅏㄸㅌ",
+      "ㅅㅌㅗㅍ"
+    ],
+    "t": "to halt, come to a halt, stop"
+  },
+  {
+    "q": "sektoro",
+    "a": [
+      "ㅣㄴㄷㅜㅅㅌㄹㅠ",
+      "ㅅㅔㅊㅌㅗㄹ"
+    ],
+    "t": "industry, sector"
+  },
+  {
+    "q": "finiĝi",
+    "a": [
+      "ㅌㅗ ㅔㄴㄷ ㅜㅍ",
+      "ㅊㅗㅁㅔ ㅌㅗ ㅏㄴ ㅔㄴㄷ",
+      "ㅔㅉㅍㅣㄹㅔ",
+      "외ㅣㄴㄷ ㅜㅍ"
+    ],
+    "t": "to end up, come to an end, expire, wind up"
+  },
+  {
+    "q": "preta",
+    "a": [
+      "ㄲㅣㄴㅣㅅㅎㅔㄷ",
+      "ㄹㅔㅏㄷㅠ",
+      "ㅌㅎㄹㅗㅜㄱㅎ",
+      "ㅍㄹㅔㅍㅏㄹㅔㄷ"
+    ],
+    "t": "finished, ready, through, prepared"
+  },
+  {
+    "q": "gasto",
+    "a": [
+      "ㄱㅜㅔㅅㅌ",
+      "ㅅㅗㅈㅗㅜㄹㄴㅔㄹ"
+    ],
+    "t": "guest, sojourner"
+  },
+  {
+    "q": "malalta",
+    "a": [
+      "ㄸㅗ외 (ㄴㅗㅌ ㅎㅣㄱㅎ)"
+    ],
+    "t": "low (not high)"
+  },
+  {
+    "q": "bezono",
+    "a": [
+      "ㄴㅔㅔㄷ",
+      "외ㅏㄴㅌ",
+      "ㄸㅏㅊㅋ",
+      "ㄹㅔㅃㅜㅣㄹㅔㅁㅔㄴㅌ"
+    ],
+    "t": "need, want, lack, requirement"
+  },
+  {
+    "q": "filmo",
+    "a": [
+      "ㄲㅣㄸㅁ",
+      "ㅁㅗㅌㅣㅗㄴ ㅍㅣㅊㅌㅜㄹㅔ",
+      "ㅁㅗㅆㅣㅔ"
+    ],
+    "t": "film, motion picture, movie"
+  },
+  {
+    "q": "frue",
+    "a": [
+      "ㅔㅏㄹㄸㅠ",
+      "ㅅㅎㅗㄹㅌㄸㅠ",
+      "ㅅㅗㅗㄴ"
+    ],
+    "t": "early, shortly, soon"
+  },
+  {
+    "q": "fonto",
+    "a": [
+      "ㄲㅗㅜㄴㅌㅏㅣㄴ",
+      "ㄲㅗㅜㄴㅌ",
+      "ㅅㅗㅜㄹㅊㅔ",
+      "ㅅㅍㄹㅣㄴㄱ",
+      "ㅅㅔㅔㄷㅔㄹ (ㅌㅗㄹㄹㅔㄴㅌ)"
+    ],
+    "t": "fountain, fount, source, spring, seeder (torrent)"
+  },
+  {
+    "q": "jardeko",
+    "a": [
+      "ㄷㅔㅊㅏㄷㅔ"
+    ],
+    "t": "decade"
+  },
+  {
+    "q": "rekoni",
+    "a": [
+      "ㅌㅗ ㄹㅔㅊㅗㄱㄴㅣㅐㅔ"
+    ],
+    "t": "to recognize"
+  },
+  {
+    "q": "bedaŭrinde",
+    "a": [
+      "ㅏㄸㅏㅅ",
+      "ㄹㅔㄱㄹㅔㅌㅌㅏㅂㄸㅠ",
+      "ㅜㄴㄲㅗㄹㅌㅜㄴㅏㅌㅔㄸㅠ"
+    ],
+    "t": "alas, regrettably, unfortunately"
+  },
+  {
+    "q": "diferenco",
+    "a": [
+      "ㄷㅣㄲㄲㅔㄹㅔㄴㅊㅔ"
+    ],
+    "t": "difference"
+  },
+  {
+    "q": "estro",
+    "a": [
+      "ㅂㅗㅅㅅ",
+      "ㅊㅎㅣㅔㄲ",
+      "ㄸㅔㅏㄷㅔㄹ",
+      "ㅁㅏㄴㅏㄱㅔㄹ",
+      "ㅎㅔㅏㄷ"
+    ],
+    "t": "boss, chief, leader, manager, head"
+  },
+  {
+    "q": "malsano",
+    "a": [
+      "ㅏㅣㄸㅁㅔㄴㅌ",
+      "ㄷㅣㅅㅔㅏㅅㅔ",
+      "ㅣㄸㄸㄴㅔㅅㅅ",
+      "ㅁㅏㄸㅏㄷㅠ",
+      "ㅅㅣㅊㅋㄴㅔㅅㅅ"
+    ],
+    "t": "ailment, disease, illness, malady, sickness"
+  },
+  {
+    "q": "koncepto",
+    "a": [
+      "ㅊㅗㄴㅊㅔㅍㅌ",
+      "ㅣㄷㅔㅏ"
+    ],
+    "t": "concept, idea"
+  },
+  {
+    "q": "promesi",
+    "a": [
+      "ㅌㅗ ㅍㄹㅗㅁㅣㅅㅔ",
+      "ㅆㅗ외"
+    ],
+    "t": "to promise, vow"
+  },
+  {
+    "q": "forigi",
+    "a": [
+      "ㅌㅗ ㄷㅗ ㅏ외ㅏㅠ 외ㅣㅌㅎ",
+      "ㄱㅔㅌ ㄹㅣㄷ ㅗㄲ",
+      "ㄹㅔㅁㅗㅆㅔ",
+      "ㅔㅅㅌㄹㅏㄴㄱㅔ",
+      "ㄷㅣㅅㅊㅏㄹㄷ",
+      "외ㅔㅏㄴ",
+      "ㄷㅔㄸㅔㅌㅔ",
+      "ㅗㅁㅣㅌ",
+      "ㅍㅜㅌ ㅏ외ㅏㅠ",
+      "ㅔㄸㅣㅁㅣㄴㅏㅌㅔ",
+      "ㄹㅔㅁㅗㅆㅔ",
+      "ㅅㅜㅍㅍㄹㅔㅅㅅ",
+      "ㅍㅜㄹㄱㅔ"
+    ],
+    "t": "to do away with, get rid of, remove, estrange, discard, wean, delete, omit, put away, eliminate, remove, suppress, purge"
+  },
+  {
+    "q": "postulo",
+    "a": [
+      "ㄷㅔㅁㅏㄴㄷ",
+      "ㄹㅔㅃㅜㅣㄹㅔㅁㅔㄴㅌ"
+    ],
+    "t": "demand, requirement"
+  },
+  {
+    "q": "lito",
+    "a": [
+      "ㅂㅔㄷ",
+      "ㅊㅗㅜㅊㅎ"
+    ],
+    "t": "bed, couch"
+  },
+  {
+    "q": "regiona",
+    "a": [
+      "ㄹㅔㄱㅣㅗㄴㅏㄸ"
+    ],
+    "t": "regional"
+  },
+  {
+    "q": "vendi",
+    "a": [
+      "ㅌㅗ ㅅㅔㄸㄸ",
+      "ㅆㅔㄴㄷ"
+    ],
+    "t": "to sell, vend"
+  },
+  {
+    "q": "loĝejo",
+    "a": [
+      "ㅏㅂㅗㄷㅔ",
+      "ㅏㅊㅊㅗㅁㅁㅗㄷㅏㅌㅣㅗㄴ",
+      "ㄷ외ㅔㄸㄸㅣㄴㄱ",
+      "ㄹㅔㅅㅣㄷㅔㄴㅊㅔ",
+      "ㄷㅗㅁㅣㅊㅣㄸㅔ",
+      "ㄷ외ㅔㄸㄸㅣㄴㄱ",
+      "ㅎㅏㅂㅣㅌㅏㅌㅣㅗㄴ",
+      "ㄸㅗㄷㄱㅣㄴㄱㅅ"
+    ],
+    "t": "abode, accommodation, dwelling, residence, domicile, dwelling, habitation, lodgings"
+  },
+  {
+    "q": "sekretario",
+    "a": [
+      "ㅅㅔㅊㄹㅔㅌㅏㄹㅠ"
+    ],
+    "t": "secretary"
+  },
+  {
+    "q": "cetera",
+    "a": [
+      "ㅏㄷㄷㅣㅌㅣㅗㄴㅏㄸ",
+      "ㄹㅔㅁㅏㅣㄴㅣㄴㄱ",
+      "ㄹㅔㅅㅌ ㅗㄲ"
+    ],
+    "t": "additional, remaining, rest of"
+  },
+  {
+    "q": "mencii",
+    "a": [
+      "ㅌㅗ ㅁㅔㄴㅌㅣㅗㄴ"
+    ],
+    "t": "to mention"
+  },
+  {
+    "q": "hejmo",
+    "a": [
+      "ㅎㅗㅁㅔ"
+    ],
+    "t": "home"
+  },
+  {
+    "q": "klara",
+    "a": [
+      "ㅊㄸㅔㅏㄹ",
+      "ㄷㅣㅅㅌㅣㄴㅊㅌ",
+      "ㅍㄸㅏㅣㄴ",
+      "ㅔㅉㅍㄸㅣㅊㅣㅌ",
+      "ㄸㅜㅊㅣㄷ",
+      "ㅁㅏㄴㅣㄲㅔㅅㅌ"
+    ],
+    "t": "clear, distinct, plain, explicit, lucid, manifest"
+  },
+  {
+    "q": "kanti",
+    "a": [
+      "ㅌㅗ ㅅㅣㄴㄱ"
+    ],
+    "t": "to sing"
+  },
+  {
+    "q": "radio",
+    "a": [
+      "ㅂㅔㅏㅁ",
+      "ㄹㅏㄷㅣㅗ",
+      "ㄹㅏㄷㅣㅜㅅ",
+      "ㄹㅏㅠ",
+      "외ㅣㄹㅔㄸㅔㅅㅅ",
+      "ㅅㅍㅗㅋㅔ (ㅗㄲ 외ㅎㅔㅔㄸ)"
+    ],
+    "t": "beam, radio, radius, ray, wireless, spoke (of wheel)"
+  },
+  {
+    "q": "volo",
+    "a": [
+      "외ㅣㄸㄸ",
+      "외ㅣㄸㄸㅣㄴㄱㄴㅔㅅㅅ",
+      "외ㅣㅅㅎ"
+    ],
+    "t": "will, willingness, wish"
+  },
+  {
+    "q": "ĉiutage",
+    "a": [
+      "ㄷㅏㅣㄸㅠ",
+      "ㅔㅆㅔㄹㅠ ㄷㅏㅠ"
+    ],
+    "t": "daily, every day"
+  },
+  {
+    "q": "estonteco",
+    "a": [
+      "ㄲㅜㅌㅜㄹㅔ"
+    ],
+    "t": "future"
+  },
+  {
+    "q": "influo",
+    "a": [
+      "ㅏㅊㅌㅣㅗㄴ",
+      "ㅣㄴㄲㄸㅜㅔㄴㅊㅔ"
+    ],
+    "t": "action, influence"
+  },
+  {
+    "q": "milo",
+    "a": [
+      "ㅌㅎㅗㅜㅅㅏㄴㄷ"
+    ],
+    "t": "thousand"
+  },
+  {
+    "q": "diskuto",
+    "a": [
+      "ㄷㅣㅅㅊㅜㅅㅅㅣㅗㄴ"
+    ],
+    "t": "discussion"
+  },
+  {
+    "q": "ĉevalo",
+    "a": [
+      "ㅎㅗㄹㅅㅔ",
+      "ㅅㅌㅔㅔㄷ"
+    ],
+    "t": "horse, steed"
+  },
+  {
+    "q": "vento",
+    "a": [
+      "외ㅣㄴㄷ"
+    ],
+    "t": "wind"
+  },
+  {
+    "q": "ĝusta",
+    "a": [
+      "ㅊㅗㄹㄹㅔㅊㅌ",
+      "ㅔㅉㅏㅊㅌ",
+      "ㅍㄹㅗㅍㅔㄹ",
+      "ㄹㅣㄱㅎㅌ"
+    ],
+    "t": "correct, exact, proper, right"
+  },
+  {
+    "q": "potenca",
+    "a": [
+      "ㄷㅗㅁㅣㄴㅏㄴㅌ",
+      "ㅁㅣㄱㅎㅌㅠ",
+      "ㅍㅗㅌㅔㄴㅌ",
+      "ㅍㅗ외ㅔㄹㄲㅜㄸ"
+    ],
+    "t": "dominant, mighty, potent, powerful"
+  },
+  {
+    "q": "ebleco",
+    "a": [
+      "ㅍㅗㅅㅅㅣㅂㅣㄸㅣㅌㅠ",
+      "ㅏㅂㅣㄸㅣㅌㅠ",
+      "ㄲㅔㅏㅌㅜㄹㅔ"
+    ],
+    "t": "possibility, ability, feature"
+  },
+  {
+    "q": "debato",
+    "a": [
+      "ㄷㅔㅂㅏㅌㅔ"
+    ],
+    "t": "debate"
+  },
+  {
+    "q": "malriĉa",
+    "a": [
+      "ㅣㄴㄷㅣㄱㅔㄴㅌ",
+      "ㅁㅣㅅㅔㄹㅏㅂㄸㅔ",
+      "ㅍㅗㅗㄹ",
+      "ㄴㅔㅔㄷㅠ"
+    ],
+    "t": "indigent, miserable, poor, needy"
+  },
+  {
+    "q": "malmulte",
+    "a": [
+      "ㄸㅣㅌㅌㄸㅔ",
+      "ㄴㅗㅌ ㅁㅜㅊㅎ"
+    ],
+    "t": "little, not much"
+  },
+  {
+    "q": "studento",
+    "a": [
+      "ㅅㅌㅜㄷㅔㄴㅌ (ㅜㄴㅣㅆㅔㄹㅅㅣㅌㅠ)"
+    ],
+    "t": "student (university)"
+  },
+  {
+    "q": "po",
+    "a": [
+      "ㅏ",
+      "ㅏㅌ",
+      "ㅏㅌ ㅌㅎㅔ ㄹㅏㅌㅔ ㅗㄲ",
+      "ㅍㅔㄹ",
+      "ㅔㅏㅊㅎ",
+      "ㅏㅍㅣㅔㅊㅔ"
+    ],
+    "t": "a, at, at the rate of, per, each, apiece"
+  },
+  {
+    "q": "polico",
+    "a": [
+      "ㅍㅗㄸㅣㅊㅔ"
+    ],
+    "t": "police"
+  },
+  {
+    "q": "kuracisto",
+    "a": [
+      "ㄷㅗㅊㅌㅗㄹ",
+      "ㅍㅎㅠㅅㅣㅊㅣㅏㄴ"
+    ],
+    "t": "doctor, physician"
+  },
+  {
+    "q": "trafi",
+    "a": [
+      "ㅌㅗ ㅏㅌㅌㅏㅣㄴ",
+      "ㅊㅏㅌㅊㅎ",
+      "ㅔㄴㅊㅗㅜㄴㅌㅔㄹ",
+      "ㄲㅣㄴㄷ",
+      "ㅎㅣㅌ",
+      "ㄹㅜㄴ ㅏㅊㄹㅗㅅㅅ",
+      "ㅅㅊㅗㄹㅔ",
+      "ㅅㅌㄹㅣㅋㅔ"
+    ],
+    "t": "to attain, catch, encounter, find, hit, run across, score, strike"
+  },
+  {
+    "q": "sorto",
+    "a": [
+      "ㄷㅔㅅㅌㅣㄴㅠ",
+      "ㄲㅏㅌㅔ",
+      "ㄲㅗㄹㅌㅜㄴㅔ",
+      "ㄸㅜㅊㅋ",
+      "ㄸㅗㅌ"
+    ],
+    "t": "destiny, fate, fortune, luck, lot"
+  },
+  {
+    "q": "malmulta",
+    "a": [
+      "ㄸㅣㅌㅌㄸㅔ"
+    ],
+    "t": "little"
+  },
+  {
+    "q": "danĝero",
+    "a": [
+      "ㄷㅏㄴㄱㅔㄹ",
+      "ㅎㅏㅐㅏㄹㄷ",
+      "ㅈㅔㅗㅍㅏㄹㄷㅠ",
+      "ㅍㅔㄹㅣㄸ"
+    ],
+    "t": "danger, hazard, jeopardy, peril"
+  },
+  {
+    "q": "edukado",
+    "a": [
+      "ㅔㄷㅜㅊㅏㅌㅣㅗㄴ",
+      "ㅜㅍㅂㄹㅣㄴㄱㅣㄴㄱ"
+    ],
+    "t": "education, upbringing"
+  },
+  {
+    "q": "ora",
+    "a": [
+      "ㄱㅗㄸㄷㅔㄴ"
+    ],
+    "t": "golden"
+  },
+  {
+    "q": "trinki",
+    "a": [
+      "ㅌㅗ ㄷㄹㅣㄴㅋ"
+    ],
+    "t": "to drink"
+  },
+  {
+    "q": "instigi",
+    "a": [
+      "ㅌㅗ ㅔㄴㅊㅗㅜㄹㅏㄱㅔ",
+      "ㅣㅁㅍㅔㄸ",
+      "ㅣㄴㅅㅌㅣㄱㅏㅌㅔ",
+      "ㅅㅍㅜㄹ ㅗㄴ",
+      "ㅅㅌㅣㅁㅜㄸㅏㅌㅔ",
+      "ㅜㄹㄱㅔ",
+      "ㅣㄴㅊㅣㅌㅔ"
+    ],
+    "t": "to encourage, impel, instigate, spur on, stimulate, urge, incite"
+  },
+  {
+    "q": "pola",
+    "a": [
+      "ㅍㅗㄸㅣㅅㅎ"
+    ],
+    "t": "Polish"
+  },
+  {
+    "q": "firmao",
+    "a": [
+      "ㅊㅗㅁㅍㅏㄴㅠ",
+      "ㄲㅣㄹㅁ"
+    ],
+    "t": "company, firm"
+  },
+  {
+    "q": "listo",
+    "a": [
+      "ㄸㅣㅅㅌ"
+    ],
+    "t": "list"
+  },
+  {
+    "q": "pere",
+    "a": [
+      "ㅣㄴㄷㅣㄹㅔㅊㅌㄸㅠ (ㅌㅎㄹㅗㅜㄱㅎ ㅏㄴ ㅣㄴㅌㅔㄹㅁㅔㄷㅣㅏㄹㅠ)"
+    ],
+    "t": "indirectly (through an intermediary)"
+  },
+  {
+    "q": "templo",
+    "a": [
+      "ㅌㅔㅁㅍㄸㅔ (외ㅗㄹㅅㅎㅣㅍ)"
+    ],
+    "t": "temple (worship)"
+  },
+  {
+    "q": "ebla",
+    "a": [
+      "ㅍㅗㅅㅅㅣㅂㄸㅔ"
+    ],
+    "t": "possible"
+  },
+  {
+    "q": "veturi",
+    "a": [
+      "ㅌㅗ ㄷㄹㅣㅆㅔ (ㅏ ㅆㅔㅎㅣㅊㄸㅔ)",
+      "ㄱㅗ",
+      "ㄹㅣㄷㅔ",
+      "ㅌㄹㅏㅆㅔㄸ"
+    ],
+    "t": "to drive (a vehicle), go, ride, travel"
+  },
+  {
+    "q": "fini",
+    "a": [
+      "ㅌㅗ ㅔㄴㄷ",
+      "ㄲㅣㄴㅣㅅㅎ",
+      "ㅌㅔㄹㅁㅣㄴㅏㅌㅔ",
+      "ㅊㄸㅗㅅㅔ",
+      "ㅊㅗㄴㅊㄸㅜㄷㅔ"
+    ],
+    "t": "to end, finish, terminate, close, conclude"
+  },
+  {
+    "q": "poemo",
+    "a": [
+      "ㅍㅗㅔㅁ"
+    ],
+    "t": "poem"
+  },
+  {
+    "q": "spaco",
+    "a": [
+      "ㄹㅗㅗㅁ",
+      "ㅅㅍㅏㅊㅔ"
+    ],
+    "t": "room, space"
+  },
+  {
+    "q": "pasinta",
+    "a": [
+      "ㅔㄸㅏㅍㅅㅔㄷ",
+      "ㅍㄹㅔㅆㅣㅗㅜㅅ",
+      "ㄸㅏㅅㅌ"
+    ],
+    "t": "elapsed, previous, last"
+  },
+  {
+    "q": "premio",
+    "a": [
+      "ㅏ외ㅏㄹㄷ",
+      "ㅍㄹㅔㅁㅣㅜㅁ",
+      "ㅍㄹㅣㅐㅔ",
+      "ㄹㅔ외ㅏㄹㄷ"
+    ],
+    "t": "award, premium, prize, reward"
+  },
+  {
+    "q": "reformo",
+    "a": [
+      "ㄹㅔㄲㅗㄹㅁ",
+      "ㄹㅔㄲㅗㄹㅁㅏㅌㅣㅗㄴ"
+    ],
+    "t": "reform, reformation"
+  },
+  {
+    "q": "adreso",
+    "a": [
+      "ㅏㄷㄷㄹㅔㅅㅅ"
+    ],
+    "t": "address"
+  },
+  {
+    "q": "kompanio",
+    "a": [
+      "ㅊㅗㅁㅍㅏㄴㅠ"
+    ],
+    "t": "company"
+  },
+  {
+    "q": "vizito",
+    "a": [
+      "ㅆㅣㅅㅣㅌ"
+    ],
+    "t": "visit"
+  },
+  {
+    "q": "kuri",
+    "a": [
+      "ㅌㅗ ㄹㅜㄴ"
+    ],
+    "t": "to run"
+  },
+  {
+    "q": "junulara",
+    "a": [
+      "ㅠㅗㅜㅌㅎ"
+    ],
+    "t": "youth"
+  },
+  {
+    "q": "partoprenanto",
+    "a": [
+      "ㅍㅏㄹㅌㅣㅊㅣㅍㅏㄴㅌ",
+      "ㅍㅏㄹㅌㄴㅔㄹ"
+    ],
+    "t": "participant, partner"
+  },
+  {
+    "q": "verkisto",
+    "a": [
+      "ㅏㅜㅌㅎㅗㄹ",
+      "외ㄹㅣㅌㅔㄹ",
+      "ㅊㅗㅁㅍㅗㅅㅔㄹ"
+    ],
+    "t": "author, writer, composer"
+  },
+  {
+    "q": "ordono",
+    "a": [
+      "ㅊㅗㅁㅁㅏㄴㄷ",
+      "ㅗㄹㄷㅔㄹ",
+      "ㅊㅗㅁㅁㅏㄴㄷㅁㅔㄴㅌ",
+      "ㅔㄷㅣㅊㅌ",
+      "ㅗㄹㄷㅣㄴㅏㄴㅊㅔ",
+      "ㅍㄹㅔㅊㅔㅍㅌ"
+    ],
+    "t": "command, order, commandment, edict, ordinance, precept"
+  },
+  {
+    "q": "venki",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅃㅜㅔㄹ",
+      "ㄷㅔㄲㅔㅏㅌ",
+      "외ㅣㄴ ㅗㅆㅔㄹ",
+      "ㅗㅆㅔㄹㅊㅗㅁㅔ",
+      "ㅆㅏㄴㅃㅜㅣㅅㅎ",
+      "ㅅㅜㅂㄷㅜㅔ"
+    ],
+    "t": "to conquer, defeat, win over, overcome, vanquish, subdue"
+  },
+  {
+    "q": "certigi",
+    "a": [
+      "ㅌㅗ ㅏㅅㅅㅜㄹㅔ",
+      "ㅏㄲㄲㅣㄹㅁ",
+      "ㅏㅅㅅㅔㄹㅌ",
+      "ㅊㅔㄹㅌㅣㄲㅠ",
+      "ㅁㅏㅋㅔ ㅊㅔㄹㅌㅏㅣㄴ",
+      "ㅊㅔㄹㅌㅣㄲㅠ",
+      "ㅅㅜㅍㅍㅗㄹㅌ"
+    ],
+    "t": "to assure, affirm, assert, certify, make certain, certify, support"
+  },
+  {
+    "q": "kosto",
+    "a": [
+      "ㅊㅎㅏㄹㄱㅔ",
+      "ㅍㄹㅣㅊㅔ",
+      "ㅊㅗㅅㅌ"
+    ],
+    "t": "charge, price, cost"
+  },
+  {
+    "q": "danke",
+    "a": [
+      "ㅌㅎㅏㄴㅋㄲㅜㄸㄸㅠ"
+    ],
+    "t": "thankfully"
+  },
+  {
+    "q": "iel",
+    "a": [
+      "ㅏㄴㅠㅎㅗ외",
+      "ㅏㄴㅠ외ㅏㅠ",
+      "ㅅㅗㅁㅔㅎㅗ외",
+      "ㅅㅗㅁㅔ 외ㅏㅠ"
+    ],
+    "t": "anyhow, anyway, somehow, some way"
+  },
+  {
+    "q": "iama",
+    "a": [
+      "ㅗㄲ ㅏ ㅌㅣㅁㅔ",
+      "ㄲㅗㄹㅁㅔㄹ",
+      "ㅍㄹㅔㅆㅣㅗㅜㅅ",
+      "ㅗㄴㅔ-ㅌㅣㅁㅔ"
+    ],
+    "t": "of a time, former, previous, one-time"
+  },
+  {
+    "q": "aero",
+    "a": [
+      "ㅏㅣㄹ"
+    ],
+    "t": "air"
+  },
+  {
+    "q": "urba",
+    "a": [
+      "ㅊㅣㅆㅣㅊ",
+      "ㅁㅜㄴㅣㅊㅣㅍㅏㄸ",
+      "ㅜㄹㅂㅏㄴ"
+    ],
+    "t": "civic, municipal, urban"
+  },
+  {
+    "q": "taksi",
+    "a": [
+      "ㅌㅗ ㅏㅍㅍㄹㅏㅣㅅㅔ",
+      "ㅔㅅㅌㅣㅁㅏㅌㅔ",
+      "ㄹㅏㅌㅔ",
+      "ㅏㅅㅅㅔㅅㅅ",
+      "ㅌㅏㅉ",
+      "ㅆㅏㄸㅜㅔ",
+      "ㅔㅆㅏㄸㅜㅏㅌㅔ"
+    ],
+    "t": "to appraise, estimate, rate, assess, tax, value, evaluate"
+  },
+  {
+    "q": "ĝardeno",
+    "a": [
+      "ㄱㅏㄹㄷㅔㄴ"
+    ],
+    "t": "garden"
+  },
+  {
+    "q": "enspezo",
+    "a": [
+      "ㅣㄴㅊㅗㅁㅔ",
+      "ㄹㅔㅆㅔㄴㅜㅔ",
+      "ㅍㄹㅗㅊㅔㅔㄷㅅ"
+    ],
+    "t": "income, revenue, proceeds"
+  },
+  {
+    "q": "atenti",
+    "a": [
+      "ㅌㅗ ㅍㅏㅠ ㅏㅌㅌㅔㄴㅌㅣㅗㄴ (ㅌㅗ)",
+      "외ㅏㅌㅊㅎ ㅗㅜㅌ ㄲㅗㄹ",
+      "ㅎㅔㅔㄷ",
+      "ㅁㅣㄴㄷ"
+    ],
+    "t": "to pay attention (to), watch out for, heed, mind"
+  },
+  {
+    "q": "donaco",
+    "a": [
+      "ㄱㅣㄲㅌ",
+      "ㅍㄹㅔㅅㅔㄴㅌ",
+      "ㄷㅗㄴㅏㅌㅣㅗㄴ",
+      "ㄱㅣㅆㅔㅏ외ㅏㅠ"
+    ],
+    "t": "gift, present, donation, giveaway"
+  },
+  {
+    "q": "kapitalo",
+    "a": [
+      "ㅊㅏㅍㅣㅌㅏㄸ (ㅁㅗㄴㅔㅠ)"
+    ],
+    "t": "capital (money)"
+  },
+  {
+    "q": "eksa",
+    "a": [
+      "ㄲㅗㄹㅁㅔㄹ",
+      "ㅔㅉ-"
+    ],
+    "t": "former, ex-"
+  },
+  {
+    "q": "tuŝi",
+    "a": [
+      "ㅌㅗ ㅌㅗㅜㅊㅎ"
+    ],
+    "t": "to touch"
+  },
+  {
+    "q": "interreto",
+    "a": [
+      "ㅣㄴㅌㅔㄹㄴㅔㅌ",
+      "외ㅗㄹㄸㄷ-외ㅣㄷㅔ 외ㅔㅂ"
+    ],
+    "t": "internet, world-wide web"
+  },
+  {
+    "q": "karaktero",
+    "a": [
+      "ㅊㅎㅏㄹㅏㅊㅌㅔㄹ",
+      "ㄴㅏㅌㅜㄹㅔ",
+      "ㅍㅔㄹㅅㅗㄴㅏㄸㅣㅌㅠ",
+      "ㅌㅔㅁㅍㅔㄹ",
+      "ㅎㅏㅂㅣㅌㅜㅏㄸ ㅊㅗㄴㄷㅜㅊㅌ",
+      "ㅣㄴㄷㅣㅆㅣㄷㅜㅏㄸㅣㅌㅠ",
+      "ㅁㅗㄹㅏㄸ ㅅㅌㄹㅔㄴㄱㅌㅎ",
+      "ㅍㅔㄹㅅㅗㄴㅏㄸㅣㅌㅠ",
+      "ㄹㅔㅍㅜㅌㅏㅌㅣㅗㄴ"
+    ],
+    "t": "character, nature, personality, temper, habitual conduct, individuality, moral strength, personality, reputation"
+  },
+  {
+    "q": "hispana",
+    "a": [
+      "ㅅㅍㅏㄴㅣㅅㅎ"
+    ],
+    "t": "Spanish"
+  },
+  {
+    "q": "krimo",
+    "a": [
+      "ㅊㄹㅣㅁㅔ",
+      "ㄲㅔㄸㅗㄴㅠ",
+      "ㅗㄲㄲㅔㄴㅅㅔ"
+    ],
+    "t": "crime, felony, offense"
+  },
+  {
+    "q": "milita",
+    "a": [
+      "ㅁㅣㄸㅣㅌㅏㄴㅌ",
+      "ㅁㅣㄸㅣㅌㅏㄹㅠ"
+    ],
+    "t": "militant, military"
+  },
+  {
+    "q": "persona",
+    "a": [
+      "ㅍㅔㄹㅅㅗㄴㅏㄸ"
+    ],
+    "t": "personal"
+  },
+  {
+    "q": "arto",
+    "a": [
+      "ㅏㄹㅌ"
+    ],
+    "t": "art"
+  },
+  {
+    "q": "taŭga",
+    "a": [
+      "ㄲㅣㅌㅌㅣㄴㄱ",
+      "ㅅㅜㅣㅌㅏㅂㄸㅔ"
+    ],
+    "t": "fitting, suitable"
+  },
+  {
+    "q": "speco",
+    "a": [
+      "ㅋㅣㄴㄷ",
+      "ㅅㅗㄹㅌ",
+      "ㄲㅗㄹㅁ",
+      "ㅅㅍㅔㅊㅣㅔㅅ"
+    ],
+    "t": "kind, sort, form, species"
+  },
+  {
+    "q": "ene",
+    "a": [
+      "ㅣㄴㅅㅣㄷㅔ",
+      "외ㅣㅌㅎㅣㄴ"
+    ],
+    "t": "inside, within"
+  },
+  {
+    "q": "simili",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㅅㅣㅁㅣㄸㅏㄹ",
+      "ㄹㅔㅅㅔㅁㅂㄸㅔ"
+    ],
+    "t": "to be similar, resemble"
+  },
+  {
+    "q": "interalie",
+    "a": [
+      "ㅏㅁㅗㄴㄱ ㅗㅌㅎㅔㄹㅅ",
+      "ㅣㄴㅌㅔㄹ ㅏㄸㅣㅏ"
+    ],
+    "t": "among others, inter alia"
+  },
+  {
+    "q": "profiti",
+    "a": [
+      "ㅌㅗ ㅍㄹㅗㄲㅣㅌ"
+    ],
+    "t": "to profit"
+  },
+  {
+    "q": "pruvi",
+    "a": [
+      "ㅌㅗ ㄷㅔㅁㅗㄴㅅㅌㄹㅏㅌㅔ",
+      "ㅍㄹㅗㅆㅔ",
+      "ㅅㅜㅂㅅㅌㅏㄴㅌㅣㅏㅌㅔ"
+    ],
+    "t": "to demonstrate, prove, substantiate"
+  },
+  {
+    "q": "scio",
+    "a": [
+      "ㅋㄴㅗ외ㄸㅔㄷㄱㅔ"
+    ],
+    "t": "knowledge"
+  },
+  {
+    "q": "reala",
+    "a": [
+      "ㅏㅊㅌㅜㅏㄸ",
+      "ㅍㄹㅏㅊㅌㅣㅊㅏㄸ",
+      "ㄹㅔㅏㄸ"
+    ],
+    "t": "actual, practical, real"
+  },
+  {
+    "q": "energio",
+    "a": [
+      "ㅔㄴㅔㄹㄱㅠ",
+      "ㅅㅍㅣㄹㅣㅌ"
+    ],
+    "t": "energy, spirit"
+  },
+  {
+    "q": "malkovri",
+    "a": [
+      "ㅌㅗ ㄷㅣㅅㅊㅗㅆㅔㄹ",
+      "ㅜㄴㅊㅗㅆㅔㄹ",
+      "ㄸㅏㅠ ㅗㅍㅔㄴ",
+      "ㅜㄴㅂㅜㄹㄷㅔㄴ",
+      "ㄹㅔㅆㅔㅏㄸ",
+      "ㅌㅔㄸㄸ"
+    ],
+    "t": "to discover, uncover, lay open, unburden, reveal, tell"
+  },
+  {
+    "q": "risko",
+    "a": [
+      "ㅎㅏㅐㅏㄹㄷ",
+      "ㄹㅣㅅㅋ",
+      "ㅆㅔㄴㅌㅜㄹㅔ"
+    ],
+    "t": "hazard, risk, venture"
+  },
+  {
+    "q": "malproksime",
+    "a": [
+      "ㅏㄲㅏㄹ",
+      "ㄲㅏㄹ",
+      "ㄲㅏㄹ ㅏ외ㅏㅠ",
+      "ㄹㅔㅁㅗㅌㅔㄸㅠ",
+      "ㅣㄴ ㅌㅎㅔ ㄷㅣㅅㅌㅏㄴㅊㅔ"
+    ],
+    "t": "afar, far, far away, remotely, in the distance"
+  },
+  {
+    "q": "generacio",
+    "a": [
+      "ㄱㅔㄴㅔㄹㅏㅌㅣㅗㄴ"
+    ],
+    "t": "generation"
+  },
+  {
+    "q": "konstruaĵo",
+    "a": [
+      "ㅂㅜㅣㄸㄷㅣㄴㄱ",
+      "ㅅㅌㄹㅜㅊㅌㅜㄹㅔ",
+      "ㅊㅗㄴㅅㅌㄹㅜㅊㅌㅣㅗㄴ",
+      "ㅔㄷㅣㄲㅣㅊㅔ"
+    ],
+    "t": "building, structure, construction, edifice"
+  },
+  {
+    "q": "supozi",
+    "a": [
+      "ㅌㅗ ㅏㅅㅅㅜㅁㅔ",
+      "ㄱㅜㅔㅅㅅ",
+      "ㅍㄹㅔㅅㅜㅁㅔ",
+      "ㅅㅜㅍㅍㅗㅅㅔ",
+      "ㅅㅜㄹㅁㅣㅅㅔ"
+    ],
+    "t": "to assume, guess, presume, suppose, surmise"
+  },
+  {
+    "q": "plezuro",
+    "a": [
+      "ㄲㅜㄴ",
+      "ㅍㄸㅔㅏㅅㅜㄹㅔ"
+    ],
+    "t": "fun, pleasure"
+  },
+  {
+    "q": "devigi",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅍㅔㄸ",
+      "ㄲㅗㄹㅊㅔ",
+      "ㅊㅗㅔㄹㅊㅔ",
+      "ㅗㅂㄸㅣㄱㅔ"
+    ],
+    "t": "to compel, force, coerce, oblige"
+  },
+  {
+    "q": "malsupre",
+    "a": [
+      "ㅂㅔㄸㅗ외",
+      "ㄷㅗ외ㄴㅅㅌㅏㅣㄹㅅ",
+      "ㅜㄴㄷㅔㄹㄴㅔㅏㅌㅎ"
+    ],
+    "t": "below, downstairs, underneath"
+  },
+  {
+    "q": "profesoro",
+    "a": [
+      "ㅍㄹㅗㄲㅔㅅㅅㅗㄹ"
+    ],
+    "t": "professor"
+  },
+  {
+    "q": "ŝanĝiĝi",
+    "a": [
+      "ㅌㅗ ㅏㄸㅌㅔㄹ",
+      "ㅊㅎㅏㄴㄱㅔ"
+    ],
+    "t": "to alter, change"
+  },
+  {
+    "q": "batali",
+    "a": [
+      "ㅌㅗ (ㄷㅗ) ㅂㅏㅌㅌㄸㅔ",
+      "ㅊㅗㅁㅂㅏㅌ",
+      "ㅊㅗㄴㅌㅔㄴㄷ",
+      "ㄲㅣㄱㅎㅌ",
+      "ㅅㅌㄹㅜㄱㄱㄸㅔ",
+      "ㅔㄴㄱㅏㄱㅔ ㅣㄴ ㅊㅗㅁㅂㅏㅌ"
+    ],
+    "t": "to (do) battle, combat, contend, fight, struggle, engage in combat"
+  },
+  {
+    "q": "regno",
+    "a": [
+      "ㄷㅗㅁㅣㄴㅣㅗㄴ",
+      "ㄹㅔㅏㄸㅁ",
+      "ㅅㅌㅏㅌㅔ",
+      "ㅅㅗㅆㅔㄹㅔㅣㄱㄴ ㅊㅗㅜㄴㅌㄹㅠ",
+      "ㅋㅣㄴㄱㄷㅗㅁ"
+    ],
+    "t": "dominion, realm, state, sovereign country, kingdom"
+  },
+  {
+    "q": "venko",
+    "a": [
+      "ㅊㅗㄴㅃㅜㅔㅅㅌ",
+      "ㅆㅣㅊㅌㅗㄹㅠ"
+    ],
+    "t": "conquest, victory"
+  },
+  {
+    "q": "malsama",
+    "a": [
+      "ㄷㅣㄲㄲㅔㄹㅔㄴㅌ",
+      "ㄷㅣㅅㅅㅣㅁㅣㄸㅏㄹ",
+      "ㄷㅣㅅㅌㅣㄴㅊㅌ"
+    ],
+    "t": "different, dissimilar, distinct"
+  },
+  {
+    "q": "uzo",
+    "a": [
+      "ㅊㅗㄴㅅㅜㅁㅍㅌㅣㅗㄴ",
+      "ㅜㅅㅏㄱㅔ",
+      "ㅜㅅㅔ"
+    ],
+    "t": "consumption, usage, use"
+  },
+  {
+    "q": "oficisto",
+    "a": [
+      "ㄲㅜㄴㅊㅌㅣㅗㄴㅏㄹㅠ",
+      "ㅗㄲㄲㅣㅊㅔㄹ",
+      "ㅗㄲㄲㅣㅊㅣㅏㄸ",
+      "ㅗㄲㄲㅣㅊㅔ-ㅎㅗㄸㄷㅔㄹ",
+      "ㅗㅆㅔㄹㅅㅔㅔㄹ"
+    ],
+    "t": "functionary, officer, official, office-holder, overseer"
+  },
+  {
+    "q": "ŝtono",
+    "a": [
+      "ㅅㅌㅗㄴㅔ"
+    ],
+    "t": "stone"
+  },
+  {
+    "q": "homaro",
+    "a": [
+      "ㅎㅜㅁㅏㄴ ㄹㅏㅊㅔ",
+      "ㅁㅏㄴㅋㅣㄴㄷ",
+      "ㅎㅜㅁㅏㄴㅣㅌㅠ"
+    ],
+    "t": "human race, mankind, humanity"
+  },
+  {
+    "q": "iomete",
+    "a": [
+      "ㅏ ㄸㅣㅌㅌㄸㅔ",
+      "ㄹㅏㅌㅎㅔㄹ"
+    ],
+    "t": "a little, rather"
+  },
+  {
+    "q": "atako",
+    "a": [
+      "ㅏㅌㅌㅏㅊㅋ",
+      "ㅏㅅㅅㅏㅜㄸㅌ",
+      "ㄲㅣㅌ",
+      "ㅗㄴㅅㅔㅌ"
+    ],
+    "t": "attack, assault, fit, onset"
+  },
+  {
+    "q": "proksime",
+    "a": [
+      "ㅊㄸㅗㅅㅔ",
+      "ㄴㅔㅏㄹ",
+      "ㄴㅔㅏㄹㅂㅠ"
+    ],
+    "t": "close, near, nearby"
+  },
+  {
+    "q": "transdoni",
+    "a": [
+      "ㅌㅗ ㅊㅗㄴㅆㅔㅠ",
+      "ㅎㅏㄴㄷ",
+      "ㅎㅏㄴㄷ ㅗㅆㅔㄹ",
+      "ㅍㅏㅅㅅ",
+      "ㄱㅣㅆㅔ ㅗㅆㅔㄹ",
+      "ㅌㄹㅏㄴㅅㄲㅔㄹ"
+    ],
+    "t": "to convey, hand, hand over, pass, give over, transfer"
+  },
+  {
+    "q": "memoro",
+    "a": [
+      "ㅁㅔㅁㅗㄹㅠ",
+      "ㄹㅔㅊㅗㄸㄸㅔㅊㅌㅣㅗㄴ",
+      "ㅅㅌㅗㄹㅏㄱㅔ"
+    ],
+    "t": "memory, recollection, storage"
+  },
+  {
+    "q": "literatura",
+    "a": [
+      "ㄸㅣㅌㅔㄹㅏㄹㅠ"
+    ],
+    "t": "literary"
+  },
+  {
+    "q": "koncerne",
+    "a": [
+      "ㅏㅂㅗㅜㅌ",
+      "ㅊㅗㄴㅊㅔㄹㄴㅣㄴㄱ",
+      "ㅏㅅ ㅌㅗ"
+    ],
+    "t": "about, concerning, as to"
+  },
+  {
+    "q": "parte",
+    "a": [
+      "ㅍㅏㄹㅌㅣㅏㄸㄸㅠ",
+      "ㅍㅏㄹㅌㄸㅠ"
+    ],
+    "t": "partially, partly"
+  },
+  {
+    "q": "novaĵo",
+    "a": [
+      "ㄴㅔ외ㅅ",
+      "ㄴㅗㅆㅔㄸㅌㅠ",
+      "ㅅㅗㅁㅔㅌㅎㅣㄴㄱ ㄴㅔ외",
+      "ㄴㅔ외ㅅ ㄲㄸㅏㅅㅎ"
+    ],
+    "t": "news, novelty, something new, news flash"
+  },
+  {
+    "q": "aĝo",
+    "a": [
+      "ㅏㄱㅔ (ㅎㅗ외 ㅗㄸㄷ ㅅㅗㅁㅔㅗㄴㅔ ㅗㄹ ㅅㅗㅁㅔㅌㅎㅣㄴㄱ ㅣㅅ)"
+    ],
+    "t": "age (how old someone or something is)"
+  },
+  {
+    "q": "norda",
+    "a": [
+      "ㄴㅗㄹㅌㅎㅔㄹㄸㅠ",
+      "ㄴㅗㄹㅌㅎㅔㄹㄴ"
+    ],
+    "t": "northerly, northern"
+  },
+  {
+    "q": "orelo",
+    "a": [
+      "ㅔㅏㄹ"
+    ],
+    "t": "ear"
+  },
+  {
+    "q": "metodo",
+    "a": [
+      "ㅁㅔㅌㅎㅗㄷ"
+    ],
+    "t": "method"
+  },
+  {
+    "q": "esploro",
+    "a": [
+      "ㅔㅉㅍㄸㅗㄹㅏㅌㅣㅗㄴ",
+      "ㅣㄴㅆㅔㅅㅌㅣㄱㅏㅌㅣㅗㄴ",
+      "ㄹㅔㅅㅔㅏㄹㅊㅎ"
+    ],
+    "t": "exploration, investigation, research"
+  },
+  {
+    "q": "dependi",
+    "a": [
+      "ㅌㅗ ㄷㅔㅍㅔㄴㄷ"
+    ],
+    "t": "to depend"
+  },
+  {
+    "q": "ok",
+    "a": [
+      "ㅔㅣㄱㅎㅌ"
+    ],
+    "t": "eight"
+  },
+  {
+    "q": "elcento",
+    "a": [
+      "ㅍㅔㄹㅊㅔㄴㅌ",
+      "ㅍㅔㄹㅊㅔㄴㅌㅏㄱㅔ"
+    ],
+    "t": "percent, percentage"
+  },
+  {
+    "q": "klopodi",
+    "a": [
+      "ㅌㅗ ㅏㅣㅁ",
+      "ㅏㅌㅌㅔㅁㅍㅌ",
+      "ㅔㄴㄷㅔㅏㅆㅗㄹ",
+      "ㅌㅏㅋㅔ ㅅㅌㅔㅍㅅ",
+      "ㅜㄴㄷㅔㄹㅌㅏㅋㅔ",
+      "ㅌㄹㅠ"
+    ],
+    "t": "to aim, attempt, endeavor, take steps, undertake, try"
+  },
+  {
+    "q": "konkurso",
+    "a": [
+      "ㅂㅗㅜㅌ",
+      "ㅊㅗㅁㅍㅔㅌㅣㅌㅣㅗㄴ",
+      "ㅊㅗㄴㅌㅔㅅㅌ",
+      "ㅁㅏㅌㅊㅎ"
+    ],
+    "t": "bout, competition, contest, match"
+  },
+  {
+    "q": "pura",
+    "a": [
+      "ㅊㄸㅔㅏㄴ",
+      "ㅍㅜㄹㅔ",
+      "ㄴㅔㅏㅌ",
+      "ㅜㄴㅏㄷㅜㄸㅌㅔㄹㅏㅌㅔㄷ"
+    ],
+    "t": "clean, pure, neat, unadulterated"
+  },
+  {
+    "q": "precize",
+    "a": [
+      "ㅔㅉㅏㅊㅌㄸㅠ",
+      "ㅅㅎㅏㄹㅍ",
+      "ㅍㄹㅔㅊㅣㅅㅔㄸㅠ"
+    ],
+    "t": "exactly, sharp, precisely"
+  },
+  {
+    "q": "konstanta",
+    "a": [
+      "ㅊㅗㄴㅅㅌㅏㄴㅌ",
+      "ㅊㅗㄴㅌㅣㄴㅜㅏㄸ",
+      "ㅍㅔㄹㅁㅏㄴㅔㄴㅌ",
+      "ㅅㅜㅅㅌㅏㅣㄴㅔㄷ",
+      "ㅅㅌㅔㅏㄷㄲㅏㅅㅌ"
+    ],
+    "t": "constant, continual, permanent, sustained, steadfast"
+  },
+  {
+    "q": "poeto",
+    "a": [
+      "ㅍㅗㅔㅌ"
+    ],
+    "t": "poet"
+  },
+  {
+    "q": "kovri",
+    "a": [
+      "ㅌㅗ ㅊㅗㅆㅔㄹ",
+      "ㅆㅔㅣㄸ",
+      "외ㄹㅏㅍ",
+      "ㅊㅗㅆㅔㄹ"
+    ],
+    "t": "to cover, veil, wrap, cover"
+  },
+  {
+    "q": "inviti",
+    "a": [
+      "ㅌㅗ ㅣㄴㅆㅣㅌㅔ"
+    ],
+    "t": "to invite"
+  },
+  {
+    "q": "signifo",
+    "a": [
+      "ㅁㅔㅏㄴㅣㄴㄱ",
+      "ㅅㅣㄱㄴㅣㄲㅣㅊㅏㅌㅣㅗㄴ"
+    ],
+    "t": "meaning, signification"
+  },
+  {
+    "q": "ĝoji",
+    "a": [
+      "ㅌㅗ ㅂㅔ ㄱㄸㅏㄷ",
+      "ㅔㄴㅈㅗㅠ",
+      "ㄹㅔㅈㅗㅣㅊㅔ"
+    ],
+    "t": "to be glad, enjoy, rejoice"
+  },
+  {
+    "q": "inkluzive",
+    "a": [
+      "ㅣㄴㅊㄸㅜㄷㅣㄴㄱ",
+      "ㅣㄴㅊㄸㅜㅅㅣㅆㅔㄸㅠ"
+    ],
+    "t": "including, inclusively"
+  },
+  {
+    "q": "diskuti",
+    "a": [
+      "ㅌㅗ ㄷㅣㅅㅊㅜㅅㅅ"
+    ],
+    "t": "to discuss"
+  },
+  {
+    "q": "eldono",
+    "a": [
+      "ㅔㄷㅣㅌㅣㅗㄴ",
+      "ㅣㅅㅅㅜㅔ (ㅍㅜㅂㄸㅣㅅㅎㅔㄷ ㅣㅌㅔㅁ)",
+      "ㄹㅔㄸㅔㅏㅅㅔ",
+      "ㅆㅔㄹㅅㅣㅗㄴ"
+    ],
+    "t": "edition, issue (published item), release, version"
+  },
+  {
+    "q": "produkti",
+    "a": [
+      "ㅌㅗ ㅏㄲㄲㅗㄹㄷ",
+      "ㅂㅔㅏㄹ",
+      "ㅍㄹㅗㄷㅜㅊㅔ",
+      "ㄱㅔㄴㅔㄹㅏㅌㅔ"
+    ],
+    "t": "to afford, bear, produce, generate"
+  },
+  {
+    "q": "informi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅃㅜㅏㅣㄴㅌ",
+      "ㅣㄴㄲㅗㄹㅁ",
+      "ㄹㅔㅍㅗㄹㅌ",
+      "ㅁㅏㅋㅔ ㅋㄴㅗ외ㄴ"
+    ],
+    "t": "to acquaint, inform, report, make known"
+  },
+  {
+    "q": "kadro",
+    "a": [
+      "ㅂㅏㅊㅋㄷㄹㅗㅍ",
+      "ㅊㅏㄷㄹㅔ",
+      "ㄲㄹㅏㅁㅔ",
+      "ㄲㄹㅏㅁㅔ외ㅗㄹㅋ",
+      "ㅅㅔㅌㅌㅣㄴㄱ"
+    ],
+    "t": "backdrop, cadre, frame, framework, setting"
+  },
+  {
+    "q": "suda",
+    "a": [
+      "ㅅㅗㅜㅌㅎ",
+      "ㅅㅗㅜㅌㅎㅔㄹㄴ",
+      "ㅅㅗㅜㅌㅎㅔㄹㄸㅠ"
+    ],
+    "t": "south, southern, southerly"
+  },
+  {
+    "q": "strategio",
+    "a": [
+      "ㅅㅌㄹㅏㅌㅔㄱㅠ"
+    ],
+    "t": "strategy"
+  },
+  {
+    "q": "eblo",
+    "a": [
+      "ㅍㅗㅅㅅㅣㅂㅣㄸㅣㅌㅠ",
+      "ㄲㅔㅏㅌㅜㄹㅔ",
+      "ㅏㅂㅣㄸㅣㅌㅠ"
+    ],
+    "t": "possibility, feature, ability"
+  },
+  {
+    "q": "originala",
+    "a": [
+      "ㅗㄹㅣㄱㅣㄴㅏㄸ",
+      "ㅍㄹㅣㅁㅣㅌㅣㅆㅔ"
+    ],
+    "t": "original, primitive"
+  },
+  {
+    "q": "forumo",
+    "a": [
+      "ㄲㅗㄹㅜㅁ",
+      "ㄴㅔ외ㅅㄱㄹㅗㅜㅍ"
+    ],
+    "t": "forum, newsgroup"
+  },
+  {
+    "q": "sidiĝi",
+    "a": [
+      "ㅌㅗ ㅂㅔㅊㅗㅁㅔ ㅅㅔㅏㅌㅔㄷ",
+      "ㅅㅣㅌ ㄷㅗ외ㄴ"
+    ],
+    "t": "to become seated, sit down"
+  },
+  {
+    "q": "neniel",
+    "a": [
+      "ㅂㅠ ㄴㅗ ㅁㅔㅏㄴㅅ",
+      "ㅣㄴ ㄴㅗ 외ㅏㅠ",
+      "ㄴㅗㅌ ㅏㅌ ㅏㄸㄸ",
+      "ㄴㅗㅌ ㅗㄴ ㅏㄴㅠ ㅏㅊㅊㅗㅜㄴㅌ"
+    ],
+    "t": "by no means, in no way, not at all, not on any account"
+  },
+  {
+    "q": "eraro",
+    "a": [
+      "ㅏㅂㅔㄹㄹㅏㅌㅣㅗㄴ",
+      "ㅔㄹㄹㅗㄹ",
+      "ㅁㅣㅅㅌㅏㅋㅔ",
+      "ㅔㄹㄹㅏㅌㅜㅁ",
+      "ㄲㅏㅜㄸㅌ",
+      "ㅂㅜㄱ"
+    ],
+    "t": "aberration, error, mistake, erratum, fault, bug"
+  },
+  {
+    "q": "prepari",
+    "a": [
+      "ㅌㅗ ㅍㄹㅔㅍㅏㄹㅔ"
+    ],
+    "t": "to prepare"
+  },
+  {
+    "q": "ŝuldo",
+    "a": [
+      "ㄷㅔㅂㅌ"
+    ],
+    "t": "debt"
+  },
+  {
+    "q": "veki",
+    "a": [
+      "ㅌㅗ 외ㅏㅋㅔ (ㅜㅍ)",
+      "ㅏ외ㅏㅋㅔㄴ",
+      "ㅏㄹㅗㅜㅅㅔ"
+    ],
+    "t": "to wake (up), awaken, arouse"
+  },
+  {
+    "q": "malantaŭ",
+    "a": [
+      "ㅂㅔㅎㅣㄴㄷ",
+      "ㅏㄲㅌㅔㄹ",
+      "ㅍㅗㅅㅌㅔㄹㅣㅗㄹ"
+    ],
+    "t": "behind, after, posterior"
+  },
+  {
+    "q": "serioza",
+    "a": [
+      "ㅔㅏㄹㄴㅔㅅㅌ",
+      "ㅅㅔㄹㅣㅗㅜㅅ",
+      "ㅅㅌㅏㅣㄷ",
+      "ㅅㅗㅂㅔㄹ"
+    ],
+    "t": "earnest, serious, staid, sober"
+  },
+  {
+    "q": "trans",
+    "a": [
+      "ㅏㅊㄹㅗㅅㅅ",
+      "ㅂㅔㅠㅗㄴㄷ",
+      "ㅗㄴ ㅌㅎㅔ ㅗㅌㅎㅔㄹ ㅅㅣㄷㅔ ㅗㄲ"
+    ],
+    "t": "across, beyond, on the other side of"
+  },
+  {
+    "q": "dume",
+    "a": [
+      "ㅏㄸㄸ ㅌㅎㅔ ㅌㅣㅁㅔ",
+      "ㅣㄴ ㅌㅎㅔ ㅁㅔㅏㄴㅌㅣㅁㅔ",
+      "ㅁㅔㅏㄴ외ㅎㅣㄸㅔ",
+      "외ㅎㅣㄸㅔ",
+      "ㄲㅗㄹ ㅌㅎㅔ ㅌㅣㅁㅔ ㅂㅔㅣㄴㄱ"
+    ],
+    "t": "all the time, in the meantime, meanwhile, while, for the time being"
+  },
+  {
+    "q": "posteno",
+    "a": [
+      "ㅈㅗㅂ",
+      "ㅍㅗㅅㅣㅌㅣㅗㄴ",
+      "ㅍㅗㅅㅌ"
+    ],
+    "t": "job, position, post"
+  },
+  {
+    "q": "stelo",
+    "a": [
+      "ㅅㅌㅏㄹ"
+    ],
+    "t": "star"
+  },
+  {
+    "q": "zono",
+    "a": [
+      "ㅅㅎㅣㄴㄱㄸㅔㅅ (ㄷㅣㅅㅔㅏㅅㅔ)",
+      "ㅎㅔㄹㅍㅔㅅ ㅐㅗㅅㅌㅔㄹ; 외ㅏㅣㅅㅌ",
+      "ㅂㅔㄸㅌ",
+      "ㄱㅣㄹㄷㄸㅔ; ㅐㅗㄴㅔ",
+      "ㅏㄹㅔㅏ",
+      "ㅅㅔㄸㅔㅊㅌㅣㅗㄴ"
+    ],
+    "t": "shingles (disease), herpes zoster; waist, belt, girdle; zone, area, selection"
+  },
+  {
+    "q": "klubo",
+    "a": [
+      "ㅊㄸㅜㅂ",
+      "ㅅㅗㅊㅣㅔㅌㅠ"
+    ],
+    "t": "club, society"
+  },
+  {
+    "q": "profito",
+    "a": [
+      "ㅏㄷㅆㅏㄴㅌㅏㄱㅔ",
+      "ㄱㅏㅣㄴ",
+      "ㅍㄹㅗㄲㅣㅌ",
+      "ㅂㅔㄴㅔㄲㅣㅌ"
+    ],
+    "t": "advantage, gain, profit, benefit"
+  },
+  {
+    "q": "aranĝi",
+    "a": [
+      "ㅌㅗ ㅏㄹㄹㅏㄴㄱㅔ",
+      "ㅏㄷㅈㅜㅅㅌ",
+      "ㅏㄹㄹㅏㅠ",
+      "ㄲㅣㅉ ㅜㅍ"
+    ],
+    "t": "to arrange, adjust, array, fix up"
+  },
+  {
+    "q": "produktado",
+    "a": [
+      "ㅍㄹㅗㄷㅜㅊㅌㅣㅗㄴ"
+    ],
+    "t": "production"
+  },
+  {
+    "q": "tridek",
+    "a": [
+      "ㅌㅎㅣㄹㅌㅠ"
+    ],
+    "t": "thirty"
+  },
+  {
+    "q": "enhavo",
+    "a": [
+      "ㅊㅗㄴㅌㅔㄴㅌ",
+      "ㅊㅗㄴㅌㅔㄴㅌㅅ",
+      "ㅍㄹㅗㅍㅔㄹㅌㅠ",
+      "ㅏㅅㅅㅔㅌ(ㅅ)"
+    ],
+    "t": "content, contents, property, asset(s)"
+  },
+  {
+    "q": "fratino",
+    "a": [
+      "ㅅㅣㅅㅌㅔㄹ"
+    ],
+    "t": "sister"
+  },
+  {
+    "q": "ordinara",
+    "a": [
+      "ㅊㅗㅁㅁㅗㄴ",
+      "ㅗㄹㄷㅣㄴㅏㄹㅠ",
+      "ㅜㅅㅜㅏㄸ"
+    ],
+    "t": "common, ordinary, usual"
+  },
+  {
+    "q": "profunde",
+    "a": [
+      "ㄷㅔㅔㅍㄸㅠ",
+      "ㅍㄹㅗㄲㅗㅜㄴㄷㄸㅠ"
+    ],
+    "t": "deeply, profoundly"
+  },
+  {
+    "q": "regado",
+    "a": [
+      "ㅊㅗㄴㅌㄹㅗㄸ",
+      "ㄹㅔㅣㄱㄴ",
+      "ㄹㅜㄸㅔ",
+      "ㅁㅏㄴㅏㄱㅔㅁㅔㄴㅌ"
+    ],
+    "t": "control, reign, rule, management"
+  },
+  {
+    "q": "faraono",
+    "a": [
+      "ㅍㅎㅏㄹㅏㅗㅎ"
+    ],
+    "t": "pharaoh"
+  },
+  {
+    "q": "ĉapitro",
+    "a": [
+      "ㅊㅎㅏㅍㅌㅔㄹ"
+    ],
+    "t": "chapter"
+  },
+  {
+    "q": "sano",
+    "a": [
+      "ㅎㅔㅏㄸㅌㅎ"
+    ],
+    "t": "health"
+  },
+  {
+    "q": "baza",
+    "a": [
+      "ㅂㅏㅅㅣㅊ"
+    ],
+    "t": "basic"
+  },
+  {
+    "q": "kampanjo",
+    "a": [
+      "ㅊㅏㅁㅍㅏㅣㄱㄴ",
+      "ㄷㄹㅣㅆㅔ"
+    ],
+    "t": "campaign, drive"
+  },
+  {
+    "q": "kolekti",
+    "a": [
+      "ㅌㅗ ㅊㅗㄸㄸㅔㅊㅌ",
+      "ㄱㅏㅌㅎㅔㄹ",
+      "ㅍㅣㅊㅋ ㅜㅍ",
+      "ㅊㅗㄴㄱㄹㅔㄱㅏㅌㅔ",
+      "ㄹㅏㄸㄸㅠ",
+      "ㅏㅅㅅㅔㅁㅂㄸㅔ",
+      "ㅏㄱㄱㄹㅔㄱㅏㅌㅔ"
+    ],
+    "t": "to collect, gather, pick up, congregate, rally, assemble, aggregate"
+  },
+  {
+    "q": "reĝino",
+    "a": [
+      "ㅃㅜㅔㅔㄴ"
+    ],
+    "t": "queen"
+  },
+  {
+    "q": "danki",
+    "a": [
+      "ㅌㅗ ㅌㅎㅏㄴㅋ"
+    ],
+    "t": "to thank"
+  },
+  {
+    "q": "kolero",
+    "a": [
+      "ㅏㄴㄱㅔㄹ",
+      "ㅣㄹㅔ",
+      "ㄹㅔㅅㅔㄴㅌㅁㅔㄴㅌ",
+      "외ㄹㅏㅌㅎ"
+    ],
+    "t": "anger, ire, resentment, wrath"
+  },
+  {
+    "q": "traduki",
+    "a": [
+      "ㅌㅗ ㅣㄴㅌㅔㄹㅍㄹㅔㅌ",
+      "ㅌㄹㅏㄴㅅㄸㅏㅌㅔ",
+      "ㅊㅗㅁㅍㅣㄸㅔ"
+    ],
+    "t": "to interpret, translate, compile"
+  },
+  {
+    "q": "floro",
+    "a": [
+      "ㅂㄸㅗㅗㅁ",
+      "ㄲㄸㅗ외ㅔㄹ"
+    ],
+    "t": "bloom, flower"
+  },
+  {
+    "q": "konfesi",
+    "a": [
+      "ㅌㅗ ㅏㅊㅋㄴㅗ외ㄸㅔㄷㄱㅔ",
+      "ㅏㄷㅁㅣㅌ",
+      "ㅊㅗㄴㄲㅔㅅㅅ",
+      "ㅍㄹㅗㄲㅔㅅㅅ",
+      "ㅏㅆㅗ외"
+    ],
+    "t": "to acknowledge, admit, confess, profess, avow"
+  },
+  {
+    "q": "voki",
+    "a": [
+      "ㅌㅗ ㅊㅏㄸㄸ",
+      "ㅅㅜㅁㅁㅗㄴ"
+    ],
+    "t": "to call, summon"
+  },
+  {
+    "q": "ekvidi",
+    "a": [
+      "ㅌㅗ ㅊㅏㅌㅊㅎ ㅅㅣㄱㅎㅌ ㅗㄲ",
+      "ㅍㅔㄹㅊㅔㅣㅆㅔ",
+      "ㅅㅍㅠ"
+    ],
+    "t": "to catch sight of, perceive, spy"
+  },
+  {
+    "q": "pasigi",
+    "a": [
+      "ㅌㅗ ㅊㅏㅜㅅㅔ ㅌㅗ ㅍㅏㅅㅅ",
+      "ㅁㅏㅋㅔ ㅍㅏㅅㅅ ㅂㅠ"
+    ],
+    "t": "to cause to pass, make pass by"
+  },
+  {
+    "q": "alie",
+    "a": [
+      "ㄷㅣㄲㄲㅔㄹㅔㄴㅌㄸㅠ",
+      "ㅔㄸㅅㅔ",
+      "ㅗㅌㅎㅔㄹ외ㅣㅅㅔ",
+      "ㅣㄴ ㅏㄴㅗㅌㅎㅔㄹ 외ㅏㅠ",
+      "(ㅗㄹ) ㅔㄸㅅㅔ"
+    ],
+    "t": "differently, else, otherwise, in another way, (or) else"
+  },
+  {
+    "q": "memorigi",
+    "a": [
+      "ㅌㅗ ㅊㅗㅁㅁㅔㅁㅗㄹㅏㅌㅔ",
+      "ㅁㅏㅋㅔ ㄹㅔㅁㅔㅁㅂㅔㄹ",
+      "ㄹㅔㅁㅣㄴㄷ"
+    ],
+    "t": "to commemorate, make remember, remind"
+  },
+  {
+    "q": "faka",
+    "a": [
+      "ㅅㅍㅔㅊㅣㅏㄸㅣㅐㅔㄷ",
+      "ㄷㅔㅍㅏㄹㅌㅁㅔㄴㅌㅏㄸ"
+    ],
+    "t": "specialized, departmental"
+  }
+]

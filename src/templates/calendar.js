@@ -40,11 +40,9 @@ async function renderMonth(html, date) {
 		date.day = num
 	}
 
-	html.monthDisplay.innerHTML = date.month
-
-	// const monthDiv = document.createElement("div")
-	// monthDiv.id = `month${date.month}`
-	// html.monthDisplay.appendChild(monthDiv)
+	const monthDiv = document.createElement("div")
+	monthDiv.id = `month${date.month}`
+	html.monthDisplay.replaceChildren(monthDiv)
 
 	await renderDays(html, date)
 }
@@ -113,7 +111,10 @@ async function renderDays(html, date) {
 				planCount = plans[i].length
 			}
 
-			day.innerHTML = `<div class = "calendarDay"> ${i} </div>\n<div class = "planCount"> ${planCount} </div>`
+			day.innerHTML = `
+				<div class = "calendarDay"> ${i} </div>
+				<div class = "planCount"> ${planCount} </div>
+			`
 
 			daysRow.appendChild(day)
 
@@ -126,10 +127,9 @@ async function renderDays(html, date) {
 	if (plans[date.day]) {
 		plans[date.day].forEach((p, index) => {
 				const item = document.createElement("div")
-				console.log(p.timeFrom, p.timeTo)
-				item.innerHTML = `${p.text} <button id = "removePlan${index}"> </button> ${p.timeFrom} - ${p.timeTo}`
+				item.innerHTML = `${p.text} <button id = "removeDayPlan"> </button> ${p.timeFrom} - ${p.timeTo}`
 				
-				const del = item.querySelector(`#removePlan${index}`)
+				const del = item.querySelector(`#removeDayPlan`)
 				del.addEventListener("click", async () => {
 						await fetch(`/api/plans/delete?id=${p.id}`, {method: "DELETE"})
 
@@ -151,6 +151,8 @@ async function renderDays(html, date) {
 	html.week.appendChild(fragmentWeek)
 	html.days.appendChild(fragmentDays)
 	html.dayPlan.appendChild(fragmentDayPlan)
+
+	import("./i18n.js").then((module) => {module.load();})
 }
 
 async function renderCalendar() {

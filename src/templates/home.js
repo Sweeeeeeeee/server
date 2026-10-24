@@ -1,6 +1,8 @@
 function optionsBind() {
 	const formOptions = [
-		{id: "optionsCalendar", path: "/calendar"}
+		{id: "optionCalendar", path: "/calendar"},
+		{id: "todo", path: "/todo"},
+		{id: "optionKe", path: "/ke"}
 	]
 
 	formOptions.forEach(option => {

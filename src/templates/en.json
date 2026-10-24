@@ -1,6 +1,6 @@
 {
 	"logout": "Logout",
-	"mainPage": "Main",
+	"mainPage": "Home",
 
 	"prevHour": "-",
 	"nextHour": "+",
@@ -9,7 +9,9 @@
 
 	"home": {
 		"optionsTitle": "Tools",
-    	"optionsCalendar": "Calendar"
+    	"optionCalendar": "Calendar",
+    	"todo": "TODO List",
+    	"optionKe": "Korean - Esperanto"
   	},
   	"login": {
     	"title": "Login",
@@ -33,20 +35,53 @@
 		"week5": "Saturday",
 		"week6": "Sunday",
 
-	    "month0": "January",
-    	"month1": "February",
-    	"month2": "March",
-    	"month3": "April",
-    	"month4": "May",
-    	"month5": "June",
-    	"month6": "July",
-    	"month7": "August",
-    	"month8": "September",
-    	"month9": "October",
-    	"month10": "November",
-    	"month11": "December",
+	    "month1": "January",
+    	"month2": "February",
+    	"month3": "March",
+    	"month4": "April",
+    	"month5": "May",
+    	"month6": "June",
+    	"month7": "July",
+    	"month8": "August",
+    	"month9": "September",
+    	"month10": "October",
+    	"month11": "November",
+    	"month12": "December",
 
 		"addDayPlan": "Add plan",
 		"removeDayPlan": "X"
+	},
+	"todo": {
+		"todoTitle": "TODOS",
+    	"newTodoText": "New Task...",
+    	"newTodoDuration": "1",
+    	"newPermanent": "Is Permanent",
+    	"newPermanentTrue": "Yes",
+    	"newPermanentFalse": "No",
+    	"submitTodo": "Add Todo",
+    	"durationTitle": "Duration",
+    	"permanentTitle": "Permanent",
+    	"permanentTrue": "Yes",
+    	"permanentFalse": "No",
+    	"todoDelete": "X"
+	},
+	"ke": {
+		"dirLabel": "Direction",
+        "lenLabel": "Length",
+        "modeLabel": "Game Mode",
+    	
+		"etokOpt": "E-K",
+        "ktoeOpt": "K-E",
+        "lettersOpt": "Letters",
+        "wordsOpt": "Words",
+        "sentencesOpt": "Sentences",
+        "multOpt": "Multiple Choice",
+        "typeOpt": "Typing",
+
+        "startBtn": "Start Game",
+		"score": "Score:",
+        "submitBtn": "Submit",
+        "nextBtn": "Continue",
+		"backBtn": "Back"
 	}
 }

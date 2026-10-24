@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    
+    <link rel = "stylesheet" href = "templates/ke.css">
+    <link rel = "stylesheet" href = "templates/logout.css">
+    <link rel = "stylesheet" href = "templates/general.css">
+</head>
+
+<body data-page = "ke">
+	<div class = "general">
+		<button id = "mainPage"> </button>
+		<button id = "logout"> </button>
+	</div>
+
+	<div id = "game">
+		<div id = "selection">
+    		<label id = "dirLabel"> </label>
+        	<select id = "dirSelect">
+            	<option value = "EK" id = "etokOpt"> </option>
+            	<option value = "KE" id = "ktoeOpt"> </option>
+        	</select>
+
+        	<label id = "lenLabel"> </label>
+        	<select id = "lenSelect">
+            	<option value = "1" id = "lettersOpt"> </option>
+            	<option value = "2" id = "wordsOpt"> </option>
+            	<option value = "3" id = "sentencesOpt"> </option>
+        	</select>
+
+        	<label id = "modeLabel"> </label>
+        	<select id = "modeSelect">
+            	<option value = "C" id = "multOpt"> </option>
+            	<option value = "T" id = "typeOpt"> </option>
+        	</select>
+
+        	<button id = "startBtn"> </button>
+    	</div>
+
+    	<div id = "gameContainer" class = "hide">
+        	<div class = "stats">
+            	<span id = "score"> </span>
+            	<span id = "scoreDisplay"> </span>
+        	</div>
+        
+        	<h2 id = "questionDisplay" class = "question"> </h2>
+        	<div id = "answersContainer" class = "answers"> </div>
+
+        	<div id = "inputContainer" class = "hide">
+            	<input type = "text" id = "textInput">
+            	<button id = "submitBtn"> </button>
+        	</div>
+
+        	<button id = "nextBtn" class = "hide"> </button>
+        	<button id = "backBtn"> </button>
+    	</div>
+	</div>
+
+	<script src = "/templates/ke_wasm.js"> </script>
+    <script src = "/templates/ke.js"> </script>
+    <script src = "/templates/general.js"> </script>
+    <script src = "/templates/i18n.js" type = "module"> </script>
+</body>
+</html>
